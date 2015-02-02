@@ -1,0 +1,58 @@
+out_to_x no
+own_window no
+out_to_console yes
+background no
+max_text_width 0
+
+# Intervalles de secondes pour les mises à jour
+update_interval 2.0
+
+# Pour que conky fonctionne sans arrêt
+total_run_times 0
+
+# Pour utiliser des abréviations dans les unités de mesure
+short_units yes
+
+if_up_strictness address
+
+# Mettre des espaces pour éviter que tout bouge lors des mises à jour
+use_spacer left
+
+# 
+override_utf8_locale no
+
+# Faire des arrondis
+cpu_avg_samples 2
+
+TEXT
+
+# Le texte en format JSON pour i3bar
+[
+
+# Musique jouée en ce moment
+#{ ${if_mpd_playing} "full_text" : "  : ${mpd_artist} - ${mpd_title}" , "color" : "\#0088cc" ${endif}},
+
+# Volume
+{ "full_text" : " : ${exec amixer -c 0 get Master | grep Mono: | cut -d " " -f6}" , "color" : "\#ffffff" },
+
+# Espace restant de la dossier home
+{ "full_text" : "  : ${fs_free /home}" , "color" : "\#0088cc" },
+
+# Mises à jours
+{ "full_text" : " : ${execpi 3600 checkupdates | wc -l}", "color" : "\#0088cc"  },
+
+#Ram
+{ "full_text" : "RAM : ${memperc}%" , "color" :
+    ${if_match ${memperc}<90}"\#ffffff"${else}"\#ff0000"${endif} },
+
+#CPU
+{ "full_text" : "CPU : ${cpu}%" , "color" :
+    ${if_match ${memperc}<90}"\#ffffff"${else}"\#ff0000"${endif} },
+
+# Batterie restante
+{ "full_text" : " : ${battery_short}, ${battery_time} restant" , "color" : "\#0088cc" },
+
+# Heure
+{ "full_text" : "  : ${time}" , "color" : "\#ffffff" }
+
+],

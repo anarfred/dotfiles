@@ -1,0 +1,20 @@
+colors
+
+# $i3-theme-window
+# class                 border  backgr.    text
+client.focused 		#9fbc00 #9fbc00 #111111
+client.unfocused        #444444 #444444  #9fbc00
+client.focused_inactive #444444 #444444  #9fbc00
+client.urgent           #383a3b #383a3b  #ee000
+
+
+# $i3-theme-bar
+colors {
+	statusline      #999999
+	background      #252525
+#	class                 	border 		backgrd 	text
+	focused_workspace  #292929 		#292929 	#cccccc
+	active_workspace   #252525 		#252525 	#696f89
+	inactive_workspace #252525 		#252525     	#6b6b6b 
+	urgent_workspace   #252525 		#252525 	#c7a551
+}

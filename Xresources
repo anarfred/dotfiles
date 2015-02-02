@@ -1,0 +1,68 @@
+!Défiler plus longtemps dans le terminal
+URxvt*saveLines: 4096
+
+URxvt.scrollBar: false
+
+! terminal colours
+ *foreground:#a0a0a0
+ *background:#1b1d1e
+
+! molokai inspired colors
+!black
+!*color0:    #1b1d1e
+!*color8:    #505354
+!red
+!*color1:    #f92672
+!*color9:    #ff5995
+!green
+!*color2:    #82b414
+!*color10:   #b6e354
+!yellow
+!*color3:    #fd971f
+!*color11:   #feed6c
+!blue
+!*color4:    #56c2d6
+!*color12:   #8cedff
+!magenta
+!*color5:    #8c54fe
+!*color13:   #9e6ffe
+!cyan
+!*color6:    #465457
+!*color14:   #899ca1
+!white
+!*color7:    #ccccc6
+!*color15:   #f8f8f2
+
+! Lucius Colors
+*background: #121212
+*foreground: #d7d7d7
+*cursorColor: #87afd7
+*color0: #121212
+*color8: #121212
+*color1: #ff5f5f
+*color9: #ff5f5f
+*color2: #afd787
+*color10: #afd787
+*color3: #d7d7af
+*color11: #d7d7af
+*color4: #87d7ff
+*color12: #87d7ff
+*color5: #d7afd7
+*color13: #d7afd7
+*color6: #87d7af
+*color14: #87d7af
+*color7: #d7d7d7
+*color15: #d7d7d7
+
+!-------------------------------------------
+! Man pages colors
+
+!*VT100.colorBDMode:                  true
+!*VT100.colorBD:                      red
+!*VT100.colorULMode:                  true
+!*VT100.colorUL:                      magenta
+!*VT100.veryBoldColors:               6
+!! URxvt*.transparent: true
+!! URxvt*.shading: 0 to 99 darkens, 101 to 200 lightens
+URxvt*.shading: 20
+URxvt.font: xft:DejaVu Sans Mono for powerline:size=8:antialias=false
