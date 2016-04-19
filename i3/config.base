@@ -29,7 +29,8 @@ for_window [class="Mplayer"] floating enable
 # start a terminal
 # bindsym $mod+Return exec i3-sensible-terminal
 # bindsym $mod+Return exec urxvtc
-bindsym $mod+Return exec urxvt
+#bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec gnome-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -39,7 +40,14 @@ bindsym $mod+Shift+q kill
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-bindsym $mod+d exec --no-startup-id dmenu_run -i -nb '#1b1d1e' -nf '#eeeeff' -sb '#f92672' -fn 'Dejavu Sans Mono -8'
+# bindsym $mod+d exec --no-startup-id dmenu_run -i -nb '#1b1d1e' -nf '#eeeeff' -sb '#0088cc' -fn 'clean -8'
+set $bg-color 	         #2f343f
+set $inactive-bg-color   #2f343f
+set $text-color          #f3f4f5
+set $inactive-text-color #676E7D
+set $urgent-bg-color     #E53935
+bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 70 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "Nimbus Sans L Regular 16"
+
 
 # change focus
 # Commandes par défaut
@@ -59,10 +67,10 @@ bindsym $mod+l focus right
 #bindsym $mod+Right focus right
 
 # Position des fenêtres
-bindsym $mod+Left exec xrandr --output VGA1 --auto --left-of LVDS1 && exec nitrogen --restore'
-bindsym $mod+Down exec xrandr --output VGA1 --auto --below LVDS1 && exec nitrogen --restore'
-bindsym $mod+Up exec xrandr --output VGA1 --auto --above LVDS1 && exec nitrogen --restore'
-bindsym $mod+Right exec xrandr --output VGA1 --auto --right-of LVDS1 && exec nitrogen --restore'
+bindsym $mod+Left exec xrandr --output VGA1 --auto --left-of LVDS1
+bindsym $mod+Down exec xrandr --output VGA1 --off
+bindsym $mod+Up exec xrandr --output VGA1 --auto --above LVDS1
+bindsym $mod+Right exec xrandr --output VGA1 --auto --right-of LVDS1
 
 # move focused window
 # Commandes par défaut
@@ -162,10 +170,9 @@ bindsym $mod+Shift+0 move container to workspace $ws0
 # Envoyer certains logiciels à des espaces de travail spécifiques
 assign [class="^Dwb$"] → $ws1
 assign [class="^luakit"] → $ws1
-assign [class="^Firefox$"] → $ws1
+assign [class="^oogle-chrome-stable$"] → $ws1
 assign [class="^Transmission-gtk$"] → $ws7
 assign [class="^luakit"] → $ws1
-assign [class="^Firefox$"] → $ws1
 assign [class="^Qgis$"] → $ws5
 assign [class="^Grass64$"] → $ws5
 assign [class="^mplayer$"] → $ws6
@@ -178,6 +185,11 @@ assign [class="^Thunderbird$"] → $ws8
 #assign [class="^URxvt$" title="^cortex$"] → $ws2
 #assign [class="^URxvt$" title="^newsbeuter$"] → $ws2
 
+# Contrôle de la musique
+bindsym XF86AudioPrev exec mpc prev
+bindsym XF86AudioNext exec mpc next
+bindsym XF86AudioPlay exec mpc toggle
+
 # Floating par défaut pour certaines fenêtres
 for_window [class="^Gpicview$"] floating enable
 for_window [class="^Mplayer$"] floating enable
@@ -186,14 +198,15 @@ for_window [class="^Fichier en cours de traitement$"] floating enable
 
 # Applications à lancer au départ
 exec_always dropboxd
+exec_always megasync
 exec_always thunar --deamon
 exec_always parcellite
-exec_always nm-applet
+exec nm-applet
 exec_always nitrogen --restore 
 exec_always xfce4-power-manager
-exec_always transmission-gtk -p -m
-exec_always thunderbird
-#exec_always compton
+exec_always transmission-qt -p -m
+#exec_always thunderbird
+exec_always compton
 # exec urxvt -e ncmpcpp
 # exec urxvt -e ncmpcpp -s media-library
 #exec urxvt -e tmux attach -t general
@@ -252,20 +265,32 @@ bindsym $mod+r mode "resize"
 # Raccourcis personnalisés
 bindsym XF86Launch1 exec i3lock-wrapper
 # Raccourcis pour la gestion du volume
-#bindsym XF86AudioRaiseVolume exec amixer set Master 5%+ unmute
-#bindsym XF86AudioLowerVolume exec amixer set Master 5%- unmute
+bindsym XF86AudioRaiseVolume exec amixer set Master 5%+ unmute
+bindsym XF86AudioLowerVolume exec amixer set Master 5%- unmute
 #bindsym XF86AudioMute exec amixer set Master nmute
+#bindsym XF86AudioPlay exec cmus-remote -u
+#bindsym XF86AudioPrev exec cmus-remote -r
+#bindsym XF86AudioNext exec cmus-remote -n
+#bindsym XF86AudioPlay exec gmusicbrowser -cmd PlayPause
+#bindsym XF86AudioPrev exec gmusicbrowser -cmd PrevSong
+#bindsym XF86AudioNext exec gmusicbrowser -cmd NextSong
+
+# Raccourcis pour la gestion de la luminosité de l'écran
+bindsym XF86MonBrightnessUp exec xbacklight -inc 10
+bindsym XF86MonBrightnessDown exec xbacklight -dec 10
 
 # Screenshot
 bindsym Print exec .bin/printscreen_root
 
 # Personnalisation
 #font pango:ohsnap 8
-font pango:DejaVu Sans 8
+#font pango:clean 8
+#font pango:oxygen sans 8
+font pango: Nimbus Sans L Regular 9
 
 # Useless gaps
-gaps inner 8
-gaps outer 10
+# gaps inner 5 #8
+# gaps outer 0 #10
 
 set $mode_gaps Gaps: (o) outer, (i) inner
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
@@ -309,20 +334,23 @@ mode "$mode_gaps_outer" {
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
+exec python /home/nrdrd/.bin/powerline-bar.py --i3
+
 bar {
 #       status_command i3status
-	font pango:DejaVu Sans Mono , Icons 8
+	font pango:Nimbus Sans L Regular 9
+	#font pango:icons 9
 	status_command $HOME/.conky/conki3.sh
 	# Tray on primary monitor
 #	tray_output primary
-	# mode hide
+	#mode hide
 	position top
 # Marqueur pour j4 pour la gestion du thème de la barre
 # $i3-theme-bar
 }
 
 #Enlever les barres de titre
-for_window [class="^.*"] border pixel 1
+#for_window [class="^.*"] border pixel 3
 
 # Marqueur pour j4 pour la gestion du thème des fenêtres
 # $i3-theme-window

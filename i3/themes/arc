@@ -1,0 +1,19 @@
+# arc theme for i3 by alexbooker
+# https://github.com/alexbooker
+
+# $i3-theme-window
+# class                 border	backgr. text    indicator
+client.focused          #676E7D	#2F343F #f3f4f5          #00ff00
+client.unfocused        #2F343F	#2F343F	#f3f4f5	#00ff00
+client.focused_inactive #676E7D #2F343F #676e7D #00ff00
+client.urgent           #E53935 #E53935 #f3f4f5          #00ff00
+# $i3-theme-bar
+colors {
+	background #2F343F
+	#statusline #dddddd
+	separator #757575
+	focused_workspace #2F343F	#2F343F	#f3f4f5
+	active_workspace #393f3f #393f3f #888888
+	inactive_workspace #2F343F	#2F343F	#676e7D
+	urgent_workspace   #E53935	#E53935	#f3f4f5
+}

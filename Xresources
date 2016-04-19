@@ -1,58 +1,167 @@
 !Défiler plus longtemps dans le terminal
 URxvt*saveLines: 4096
+URxvt.perl-ext-common: tabbed
 
 URxvt.scrollBar: false
 
-! terminal colours
- *foreground:#a0a0a0
- *background:#1b1d1e
 
-! molokai inspired colors
-!black
-!*color0:    #1b1d1e
-!*color8:    #505354
-!red
-!*color1:    #f92672
-!*color9:    #ff5995
-!green
-!*color2:    #82b414
-!*color10:   #b6e354
-!yellow
-!*color3:    #fd971f
-!*color11:   #feed6c
-!blue
-!*color4:    #56c2d6
-!*color12:   #8cedff
-!magenta
-!*color5:    #8c54fe
-!*color13:   #9e6ffe
-!cyan
-!*color6:    #465457
-!*color14:   #899ca1
-!white
-!*color7:    #ccccc6
-!*color15:   #f8f8f2
+!! Nyquil
+!*background:    #151515
+!*foreground:    #C7C79D
+!
+!! black
+!*color0:        #222222
+!*color8:        #666666
+!
+!! red
+!*color1:        #ca637c
+!*color9:        #d9799b
+!
+!! green
+!*color2:        #b7ce42
+!*color10:       #cce164
+!
+!! yellow
+!*color3:        #f1ab57
+!*color11:       #dbd162
+!
+!! blue
+!*color4:        #66aabb
+!*color12:       #aaccbb
+!
+!! magenta
+!*color5:        #9f8fbc
+!*color13:       #c2a1ff
+!
+!! cyan
+!*color6:        #7ea79f
+!*color14:       #9bc4bd
+!
+!! white
+!*color7:        #C7C79D
+!*color15:       #e4e4b9
+!
+!!Colored man pages
+!URxvt.colorIT:  #9f8fbc
+!URxvt.colorBD:  #9bc4bd
+!URxvt.colorUL:  #b7ce42
+ 
 
-! Lucius Colors
-*background: #121212
-*foreground: #d7d7d7
-*cursorColor: #87afd7
-*color0: #121212
-*color8: #121212
-*color1: #ff5f5f
-*color9: #ff5f5f
-*color2: #afd787
-*color10: #afd787
-*color3: #d7d7af
-*color11: #d7d7af
-*color4: #87d7ff
-*color12: #87d7ff
-*color5: #d7afd7
-*color13: #d7afd7
-*color6: #87d7af
-*color14: #87d7af
-*color7: #d7d7d7
-*color15: #d7d7d7
+!#!blug3n 
+!
+!*background:#12171d
+!*foreground:#879ebb
+!
+!!S3r0g3n
+!!black
+!*color0:#93908b
+!*color8:#93908b
+!
+!!red
+!*color1:#c6dee0
+!*color9:#c6dee0
+!
+!!green
+!*color2:#528c8a
+!*color10:#528c8a
+!
+!!yellow
+!*color3:#8299df
+!*color11:#8299df
+!
+!!blue
+!*color4:#a8bfcd
+!*color12:#a8bfcd
+!
+!!magenta
+!*color5:#c6dee0
+!*color13:#c6dee0
+!
+!!cyan
+!*color6:#528c8a
+!*color14:#528c8a
+!
+!!white
+!*color7:#8299df
+!*color15:#8299df
+
+! PaperColor Theme
+URxvt.foreground: #4D4D4C
+URxvt.background: #EEEEEE
+! black
+URxvt.color0: #EDEDED
+URxvt.color8: #969694
+! red
+URxvt.color1: #D7005F
+URxvt.color9: #D7005F
+! green
+URxvt.color2: #718C00
+URxvt.color10: #718C00
+! yellow / orange
+URxvt.color3: #D75F00
+URxvt.color11: #D75F00
+! blue
+URxvt.color4: #4271AE
+URxvt.color12: #4271AE
+! magenta
+URxvt.color5: #8959A8
+URxvt.color13: #8959A8
+! cyan
+URxvt.color6: #3E999F
+URxvt.color14: #3E999F
+! white
+URxvt.color7: #4D4D4C
+URxvt.color15: #F5F5F5
+
+! ! molokai inspired colors
+! ! terminal colours
+! *foreground:#a0a0a0
+! *background:#1b1d1e
+! !black
+! *color0:    #1b1d1e
+! *color8:    #505354
+! !red
+! *color1:    #f92672
+! *color9:    #ff5995
+! !green
+! *color2:    #82b414
+! *color10:   #b6e354
+! !yellow
+! *color3:    #fd971f
+! *color11:   #feed6c
+! !blue
+! *color4:    #56c2d6
+! *color12:   #8cedff
+! !magenta
+! *color5:    #8c54fe
+! *color13:   #9e6ffe
+! !cyan
+! *color6:    #465457
+! *color14:   #899ca1
+! !white
+! *color7:    #ccccc6
+! *color15:   #f8f8f2
+
+!! Lucius Colors
+!*background: #121212
+!*foreground: #d7d7d7
+!*cursorColor: #87afd7
+!*color0: #121212
+!*color8: #121212
+!*color1: #ff5f5f
+!*color9: #ff5f5f
+!*color2: #afd787
+!*color10: #afd787
+!*color3: #d7d7af
+!*color11: #d7d7af
+!*color4: #87d7ff
+!*color12: #87d7ff
+!*color5: #d7afd7
+!*color13: #d7afd7
+!*color6: #87d7af
+!*color14: #87d7af
+!*color7: #d7d7d7
+!*color15: #d7d7d7
 
 !-------------------------------------------
 ! Man pages colors
@@ -65,4 +174,9 @@ URxvt.scrollBar: false
 !! URxvt*.transparent: true
 !! URxvt*.shading: 0 to 99 darkens, 101 to 200 lightens
 URxvt*.shading: 20
-URxvt.font: xft:DejaVu Sans Mono for powerline:size=8:antialias=false
+URxvt.font: xft:Monaco for powerline:size=8:antialias=true
+! URxvt.font: xft:Monaco for Powerline:pixelsize=11:antialias=true
+! URxvt*imFont:               xft:Monaco for Powerline:regular:size=8
+! URxvt*boldFont:             xft:Monaco for Powerline:bold:size=8
+! URxvt*italicFont:           xft:Monaco for Powerline:italic:size=8
+! URxvt*boldItalicFont:       xft:Monaco for Powerline:bold:italic:size=8

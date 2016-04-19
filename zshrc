@@ -10,7 +10,9 @@ export ZSH=$HOME/.oh-my-zsh
 #autoload promptinit ; promptinit
 #prompt powerline
 
-source ~/.shell_prompt.sh
+#source ~/.shell_prompt.sh
+. /usr/lib/python3.5/site-packages/powerline/bindings/zsh/powerline.zsh
+
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -53,7 +55,7 @@ HIST_STAMPS="dd/mm/yyyy"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git)
 
-source $ZSH/oh-my-zsh.sh
+# source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
@@ -62,7 +64,7 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
-BROWSER=chromium
+BROWSER=google-chrome-stable
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -96,6 +98,8 @@ alias nano='nano -w'
 alias ping='ping -c 5'
 alias dmesg='dmesg -HL'
 alias tmux='tmux -2'
+alias em='emacsclient'
+alias wttr='curl wttr.in/quebec_city'
 # }}}
 
 ## New commands ## {{{
@@ -193,6 +197,11 @@ alias above='xrandr --output VGA1 --auto --above LVDS1 & nitrogen --restore'
 alias below='xrandr --output VGA1 --auto --below LVDS1 & nitrogen --restore'
 alias nodual='xrandr --output VGA1 --off'
 
+# Transmission-CLI
+alias tsm='transmission-remote --list'
+alias tsm-altspeedenable='transmission-remote --alt-speed'
+alias tsm-altspeeddisable='transmission-remote --no-alt-speed'
+
 # Pacman alias examples
 alias pacupg='sudo pacman -Syu'		# Synchronize with repositories and then upgrade packages that are out of date on the local system.
 alias yupg='yaourt -Syu'		# Synchronize with repositories and then upgrade packages that are out of date on the local system.
@@ -231,9 +240,15 @@ mcd () {
 # archey &
 
 # Débuter une section tmux automatiquement
-tmux
+# tmux
 
 # Sets the Mail Environment Variable
 MAIL=/var/spool/mail/anarfred && export MAIL
 export EDITOR='vim'
 
+today() {
+    echo -n "Aujourd'hui, nous somme le: "
+    date +"%A, %B %-d, %Y"
+}
+
+. /etc/profile.d/vte.sh

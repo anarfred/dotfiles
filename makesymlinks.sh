@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc vimrc vim zshrc oh-my-zsh private scrotwm.conf Xresources"    # list of files/folders to symlink in homedir
+files="bashrc vimrc vim zshrc oh-my-zsh Xresources conky i3 i3-gaps mpdconf ncmpcpp tmuxinator i3status.conf j4-make-config j4-make-config.rc mpdasrc tmux.conf"    # list of files/folders to symlink in homedir
 
 ##########
 

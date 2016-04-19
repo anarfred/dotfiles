@@ -123,3 +123,6 @@ mcd () {
     mkdir -p $1
     cd $1
 }
+
+# Rendre les applications Java concordantes avec le thème GTK
+#export _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel
