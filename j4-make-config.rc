@@ -1,1 +1,1 @@
-/usr/bin/j4-make-config -r arc
+./j4-make-config archlinux

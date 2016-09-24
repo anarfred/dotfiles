@@ -205,6 +205,7 @@ exec nm-applet
 exec_always nitrogen --restore 
 exec_always xfce4-power-manager
 exec_always transmission-qt -p -m
+exec gnome-settings-daemon
 #exec_always thunderbird
 exec_always compton
 # exec urxvt -e ncmpcpp
@@ -285,8 +286,8 @@ bindsym Print exec .bin/printscreen_root
 # Personnalisation
 #font pango:ohsnap 8
 #font pango:clean 8
-#font pango:oxygen sans 8
-font pango: Nimbus Sans L Regular 9
+font pango:Lato 9
+# font pango: Nimbus Sans L Regular 9
 
 # Useless gaps
 # gaps inner 5 #8
@@ -338,7 +339,8 @@ exec python /home/nrdrd/.bin/powerline-bar.py --i3
 
 bar {
 #       status_command i3status
-	font pango:Nimbus Sans L Regular 9
+	# font pango:Nimbus Sans L Regular 9, Font Awesome 8
+	font pango: Lato, Font Awesome 9
 	#font pango:icons 9
 	status_command $HOME/.conky/conki3.sh
 	# Tray on primary monitor

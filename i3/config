@@ -205,6 +205,7 @@ exec nm-applet
 exec_always nitrogen --restore 
 exec_always xfce4-power-manager
 exec_always transmission-qt -p -m
+exec gnome-settings-daemon
 #exec_always thunderbird
 exec_always compton
 # exec urxvt -e ncmpcpp
@@ -285,8 +286,8 @@ bindsym Print exec .bin/printscreen_root
 # Personnalisation
 #font pango:ohsnap 8
 #font pango:clean 8
-#font pango:oxygen sans 8
-font pango: Nimbus Sans L Regular 9
+font pango:Lato 9
+# font pango: Nimbus Sans L Regular 9
 
 # Useless gaps
 # gaps inner 5 #8
@@ -338,7 +339,8 @@ exec python /home/nrdrd/.bin/powerline-bar.py --i3
 
 bar {
 #       status_command i3status
-	font pango:Nimbus Sans L Regular 9
+	# font pango:Nimbus Sans L Regular 9, Font Awesome 8
+	font pango: Lato, Font Awesome 9
 	#font pango:icons 9
 	status_command $HOME/.conky/conki3.sh
 	# Tray on primary monitor
@@ -347,13 +349,13 @@ bar {
 	position top
 # Marqueur pour j4 pour la gestion du thème de la barre
 colors {
-	background #2F343F
-	#statusline #dddddd
-	separator #757575
-	focused_workspace #2F343F	#2F343F	#f3f4f5
-	active_workspace #393f3f #393f3f #888888
-	inactive_workspace #2F343F	#2F343F	#676e7D
-	urgent_workspace   #E53935	#E53935	#f3f4f5
+	background #222222
+	statusline #dddddd
+	separator #666666
+	focused_workspace #0088CC #0088CC #ffffff
+	active_workspace #333333 #333333 #888888
+	inactive_workspace #333333 #333333 #888888
+	urgent_workspace   #2f343a #900000 #ffffff
 }
 }
 
@@ -361,8 +363,9 @@ colors {
 #for_window [class="^.*"] border pixel 3
 
 # Marqueur pour j4 pour la gestion du thème des fenêtres
-# class                 border	backgr. text    indicator
-client.focused          #676E7D	#2F343F #f3f4f5          #00ff00
-client.unfocused        #2F343F	#2F343F	#f3f4f5	#00ff00
-client.focused_inactive #676E7D #2F343F #676e7D #00ff00
-client.urgent           #E53935 #E53935 #f3f4f5          #00ff00
+# class                 border  backgr. text    indicator
+client.focused          #0088CC #0088CC #ffffff #dddddd
+#client.focused_inactive #0C2D3C #0C2D3C #888888 #484e50 # I don't like it that way
+client.focused_inactive #333333 #333333 #888888 #292d2e
+client.unfocused        #333333 #333333 #888888 #292d2e
+client.urgent           #2f343a #900000 #ffffff #900000
