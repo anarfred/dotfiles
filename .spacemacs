@@ -123,7 +123,8 @@ values."
    ;; dotspacemacs-default-font '("Roboto Mono Medium"
    ;; dotspacemacs-default-font '("Ubuntu Mono"
    ;; dotspacemacs-default-font '("Monaco for Powerline"
-   dotspacemacs-default-font '("Menlo"
+   ;; dotspacemacs-default-font '("Menlo"
+   dotspacemacs-default-font '("DejaVu Sans Mono"
    ;; dotspacemacs-default-font '("Inconsolata"
                                :size 13
                                :weight normal
@@ -260,8 +261,15 @@ in `dotspacemacs/user-config'."
   ;; (moe-dark)
 (setq tramp-ssh-controlmaster-options
       "-o ControlMaster=auto -o ControlPath='tramp.%%C' -o ControlPersist=no")
-  (setq-default dotspacemacs-themes '(molokai material solarized-light twilight-anti-bright leuven zenburn))
-  )
+(setq-default dotspacemacs-themes '(molokai material solarized-light twilight-anti-bright leuven zenburn))
+(setq reftex-format-cite-function 
+     '(lambda (key fmt)
+        (let ((cite (replace-regexp-in-string "%l" key fmt)))
+          (if (or (= ?~ (string-to-char fmt))
+                  (member (preceding-char) '(?\ ?\t ?\n ?~)))
+              cite
+            (concat "~" cite)))))
+)
 ;; (eval-after-load 'reftex-vars
 ;;   '(progn
 ;;      ;; (also some other reftex-related customizations)
