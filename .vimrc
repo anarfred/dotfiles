@@ -23,7 +23,8 @@ syntax on                                    " Turn on syntax highlighting
 
 " Whitespace
 set wrap
-set textwidth=79
+set textwidth=0
+set wrapmargin=0
 set formatoptions=tcqrn1
 set tabstop=2
 set shiftwidth=2
@@ -68,8 +69,13 @@ map <leader><space> :let @/=''<cr> " clear search
 :nnoremap <Tab> :bnext<CR>
 :nnoremap <S-Tab> :bprevious<CR>
 
+" Garde les résultats au centre de l'écan
+nnoremap n nzzzv
+nnoremap N Nzzzv
+
 nnoremap <F3> :NumbersToggle<CR> " Switch between relative and absolute line numbers
 "}}}
+" Plugins {{{
 "  VimPlug {{{
 " call plug#begin('~/.vim/plugged') " Pour vim
 call plug#begin('~/.local/share/nvim/plugged') " Pour neovim
@@ -87,7 +93,7 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'edkolev/promptline.vim'
 Plug 'edkolev/tmuxline.vim'
 Plug 'godlygeek/tabular'
-Plug 'https://github.com/junegunn/vim-github-dashboard.git'
+"Plug 'https://github.com/junegunn/vim-github-dashboard.git' " Permet seulement de voir les activité dans github
 Plug 'junegunn/goyo.vim'
 Plug 'sjl/gundo.vim'
 Plug 'scrooloose/syntastic'
@@ -104,6 +110,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'vimwiki/vimwiki'
+Plug 'Lokaltog/vim-easymotion'
 Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
 Plug 'xuhdev/vim-latex-live-preview'
@@ -154,6 +161,13 @@ endif
 xmap ga <Plug>(EasyAlign) " Start interactive EasyAlign in visual mode (e.g. vipga)
 nmap ga <Plug>(EasyAlign) " Start interactive EasyAlign for a motion/text object (e.g. gaip)
 "}}}
+"{{{ EasyMotion
+nmap <leader>f <Plug>(easymotion-f2)
+nmap <leader>F <Plug>(easymotion-F2)
+"}}}
+" Gundo {{{
+nnoremap <leader>g :GundoToggle<CR>
+" }}}
 " NERDTree {{{
 map <C-n> :NERDTreeToggle<CR> " Toggle the left tree
 " }}}
@@ -162,10 +176,12 @@ set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
+nnoremap <leader>s :SyntasticToggleMode<CR>
 let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
+let g:syntastic_tex_chktex_args = "-n10 -n9 -n17"
 " }}}
 " Vim-instant-markdown {{{
 " https://github.com/suan/vim-instant-markdown
@@ -212,7 +228,8 @@ let g:vimtex_view_general_options_latexmk = '--unique'
 let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
 " helppage -> :h vimwiki-syntax 
 " }}}
-" Thème {{{
+" }}}
+" Thème (doit rester à la fin pour le colorscheme){{{
 colorscheme base16-default-dark 
 let base16colorspace=256
 set background=dark
