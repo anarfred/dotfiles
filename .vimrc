@@ -1,12 +1,8 @@
-" General configs {{{
+" Config générale {{{
 filetype off                                 " Helps force plugins to load correctly when it is turned back on below
 filetype plugin indent on                    " For plugins to load correctly
-let g:airline#extensions#tabline#enabled = 1 " Allow usage of plugins using theme
-let g:airline_powerline_fonts = 1            " Allow usage of powerline fonts
-let g:airline_theme='base16_eighties'                 " Select airline theme
 let g:tex_comment_nospell= 1
 let g:tex_flavor = "latex"
-let base16colorspace=256
 let mapleader = "\<Space>"                   " Pick a leader key
 let maplocalleader = ','
 set autochdir
@@ -24,21 +20,6 @@ set visualbell                               " Blink cursor on error instead of 
 set wildmode=full wildmenu
 syntax on                                    " Turn on syntax highlighting
 
-" Vimtex
-let g:vimtex_fold_enabled = 1
-" let g:vimtex_fold_comments = 1
-let g:vimtex_view_general_viewer = 'okular'
-let g:vimtex_view_general_options = '--unique @pdf\#src:@line@tex'
-let g:vimtex_view_general_options_latexmk = '--unique'
-
-" Switching buffer
-:nnoremap <Tab> :bnext<CR>
-:nnoremap <S-Tab> :bprevious<CR>
-
-" open ag.vim
-nnoremap <leader>a :Ack 
-" save session
-nnoremap <leader>s :mksession<CR>
 
 " Whitespace
 set wrap
@@ -70,13 +51,28 @@ set smartcase
 set showmatch
 map <leader><space> :let @/=''<cr> " clear search
 
-" Remap help key.
-inoremap <F1> <ESC>:set invfullscreen<CR>a
-nnoremap <F1> :set invfullscreen<CR>
-vnoremap <F1> :set invfullscreen<CR>
+" Remap help key. NE FONCTIONNE PAS AVEC NVIM
+"inoremap <F1> <ESC>:set invfullscreen<CR>a
+"nnoremap <F1> :set invfullscreen<CR>
+"vnoremap <F1> :set invfullscreen<CR>
 "}}}
-"  Plugins {{{
-call plug#begin('~/.vim/plugged')
+" Raccourcis {{{
+" bind K to grep word under cursor
+" nnoremap K :grep! "\b<C-R><C-W>\b"<CR>:cw<CR>
+
+" bind \ (backward slash) to grep shortcut
+"command -nargs=+ -complete=file -bar Ag silent! grep! <args>|cwindow|redraw!
+"nnoremap \ :Ag<SPACE>
+
+" Switching buffer
+:nnoremap <Tab> :bnext<CR>
+:nnoremap <S-Tab> :bprevious<CR>
+
+nnoremap <F3> :NumbersToggle<CR> " Switch between relative and absolute line numbers
+"}}}
+"  VimPlug {{{
+" call plug#begin('~/.vim/plugged') " Pour vim
+call plug#begin('~/.local/share/nvim/plugged') " Pour neovim
 
 " Plug 'Valloric/YouCompleteMe'
 " Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
@@ -93,6 +89,8 @@ Plug 'edkolev/tmuxline.vim'
 Plug 'godlygeek/tabular'
 Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 Plug 'junegunn/goyo.vim'
+Plug 'sjl/gundo.vim'
+Plug 'scrooloose/syntastic'
 Plug 'junegunn/vim-easy-align'
 Plug 'lervag/vimtex'
 Plug 'mileszs/ack.vim'
@@ -104,7 +102,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-pandoc/vim-pandoc'
-Plug 'vim-pandoc/vim-pandoc-syntax' 
+Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'vimwiki/vimwiki'
 Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
@@ -112,14 +110,12 @@ Plug 'xuhdev/vim-latex-live-preview'
 
 call plug#end() " Add plugins to &runtimepath
 "}}}
-" New shortcuts {{{
-
-map <C-n> :NERDTreeToggle<CR> " Toggle the left tree
-nnoremap <F3> :NumbersToggle<CR> " Switch between relative and absolute line numbers
-xmap ga <Plug>(EasyAlign) " Start interactive EasyAlign in visual mode (e.g. vipga)
-nmap ga <Plug>(EasyAlign) " Start interactive EasyAlign for a motion/text object (e.g. gaip)
-
-"}}}
+" Ack {{{
+nnoremap <leader>a :Ack 
+if executable('ag')
+  let g:ackprg = 'ag --vimgrep'
+endif
+" }}}
 " CTRLP {{{
 " Setup some default ignores
 let g:ctrlp_custom_ignore = {
@@ -140,7 +136,41 @@ nmap <leader>bb :CtrlPBuffer<cr>
 nmap <leader>bm :CtrlPMixed<cr>
 nmap <leader>bs :CtrlPMRU<cr>
 
-let g:ctrlp_user_command = 'ack %s -l --nocolor -g ""'
+" The Silver Searcher
+if executable('ag')
+  " Use ag over grep
+  set grepprg=ag\ --nogroup\ --nocolor
+
+  " Use ag in CtrlP for listing files. Lightning fast and respects .gitignore
+  let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
+
+  " ag is fast enough that CtrlP doesn't need to cache
+  let g:ctrlp_use_caching = 0
+endif
+
+"let g:ctrlp_user_command = 'ack %s -l --nocolor -g ""'
+"}}}
+" EasyAlign {{{
+xmap ga <Plug>(EasyAlign) " Start interactive EasyAlign in visual mode (e.g. vipga)
+nmap ga <Plug>(EasyAlign) " Start interactive EasyAlign for a motion/text object (e.g. gaip)
+"}}}
+" NERDTree {{{
+map <C-n> :NERDTreeToggle<CR> " Toggle the left tree
+" }}}
+" Synctastic {{{
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+" }}}
+" Vim-instant-markdown {{{
+" https://github.com/suan/vim-instant-markdown
+let g:instant_markdown_autostart = 0    " disable autostart
+map <leader>md :InstantMarkdownPreview<CR>
 "}}}
 " Vim-Latex {{{
 " REQUIRED. This makes vim invoke Latex-Suite when you open a tex file.
@@ -153,21 +183,40 @@ set iskeyword+=:
 set grepprg=grep\ -nH\ $*
 let g:Tex_CompileRule_pdf = 'xelatex -interaction=nonstopmode $*'
 "}}}
-" Color scheme (terminal) {{{
-"set t_Co=256
-set background=dark
-" let g:solarized_termcolors=256
-" let g:solarized_termtrans=1
-" put https://raw.github.com/altercation/vim-colors-solarized/master/colors/solarized.vim
-" in ~/.vim/colors/ and uncomment:
-colorscheme base16-eighties
+" Vim-session {{{
+" save session
+"nnoremap <leader>s :mksession<CR>
+" source: https://github.com/Netherdrake/Dotfiles/blob/master/config/nvim/init.vim
+let g:session_directory = "~/.config/nvim/session"
+let g:session_autoload = "no"
+let g:session_autosave = "no"
+let g:session_command_aliases = 1
+nnoremap <leader>so :OpenSession 
+nnoremap <leader>ss :SaveSession 
+nnoremap <leader>sd :DeleteSession<CR>
+nnoremap <leader>sc :CloseSession<CR>
+
+" }}}
+" Vimtex {{{
+let g:vimtex_fold_enabled = 1
+" let g:vimtex_fold_comments = 1
+let g:vimtex_view_general_viewer = 'okular'
+let g:vimtex_view_general_options = '--unique @pdf\#src:@line@tex'
+let g:vimtex_view_general_options_latexmk = '--unique'
+
+ if has('nvim')
+   let g:vimtex_latexmk_progname = 'nvr'
+ endif
 " }}}
 " Vim-wiki {{{
 let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
 " helppage -> :h vimwiki-syntax 
 " }}}
-" vim-instant-markdown - Instant Markdown previews from Vim {{{
-" https://github.com/suan/vim-instant-markdown
-let g:instant_markdown_autostart = 0    " disable autostart
-map <leader>md :InstantMarkdownPreview<CR>
-"}}}
+" Thème {{{
+colorscheme base16-default-dark 
+let base16colorspace=256
+set background=dark
+let g:airline#extensions#tabline#enabled = 1 " Allow usage of plugins using theme
+let g:airline_powerline_fonts = 1            " Allow usage of powerline fonts
+let g:airline_theme='base16_tomorrow'                 " Select airline theme
+" }}}
