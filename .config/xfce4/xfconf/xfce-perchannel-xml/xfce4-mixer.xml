@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-mixer" version="1.0">
+  <property name="active-card" type="string" value="HDAIntelPCHAlsamixer"/>
+  <property name="volume-step-size" type="uint" value="5"/>
+  <property name="sound-card" type="string" value="HDAIntelPCHAlsamixer"/>
+  <property name="sound-cards" type="empty">
+    <property name="HDAIntelPCHAlsamixer" type="array">
+      <value type="string" value="Volume général"/>
+      <value type="string" value="Headphone"/>
+      <value type="string" value="Headphone 1 (1)"/>
+      <value type="string" value="Speaker"/>
+      <value type="string" value="PCM"/>
+      <value type="string" value="Micro"/>
+    </property>
+    <property name="PlaybackAudiointerneStroanalogiquePulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
+    </property>
+    <property name="CaptureMonitorofAudiointerneStroanalogiquePulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
+    </property>
+    <property name="CaptureAudiointerneStroanalogiquePulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
+    </property>
+    <property name="PlaybackSortiefacticePulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
+    </property>
+    <property name="CaptureMonitorofSortiefacticePulseAudioMixer" type="array">
+      <value type="string" value="Master"/>
+    </property>
+  </property>
+  <property name="window-height" type="int" value="713"/>
+  <property name="window-width" type="int" value="1366"/>
+</channel>

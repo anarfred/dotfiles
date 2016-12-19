@@ -1,0 +1,130 @@
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:28:22 2016
+
+Dec 11 12:28:22 *	Connexion à irc.irchighway.net (74.208.123.69 :6697)
+Dec 11 12:28:23 *	* Certification info:
+Dec 11 12:28:23 *	  Subject:
+Dec 11 12:28:23 *	    CN=irc.irchighway.net
+Dec 11 12:28:23 *	    OU=Routing Team
+Dec 11 12:28:23 *	    O=Irchighway
+Dec 11 12:28:23 *	    L=World
+Dec 11 12:28:23 *	    ST=World
+Dec 11 12:28:23 *	    C=World
+Dec 11 12:28:23 *	  Issuer:
+Dec 11 12:28:23 *	    CN=irc.irchighway.net
+Dec 11 12:28:23 *	    OU=Routing Team
+Dec 11 12:28:23 *	    O=Irchighway
+Dec 11 12:28:23 *	    L=World
+Dec 11 12:28:23 *	    ST=World
+Dec 11 12:28:23 *	    C=World
+Dec 11 12:28:23 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 12:28:23 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 12:28:23 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+Dec 11 12:28:23 *	* Cipher info:
+Dec 11 12:28:23 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 12:28:23 *	La connexion a échoué (unable to get local issuer certificate.? (20))
+**** FIN DU JOURNAL À Sun Dec 11 12:29:19 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:29:19 2016
+
+Dec 11 12:59:51 *	Recherche de irc.irchighway.net
+Dec 11 12:59:52 *	Connexion à irc.irchighway.net (149.56.95.9 :6697)
+Dec 11 12:59:52 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 12:59:52 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 12:59:52 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 12:59:52 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 12:59:53 *	* Certification info:
+Dec 11 12:59:53 *	  Subject:
+Dec 11 12:59:53 *	    CN=irc.irchighway.net
+Dec 11 12:59:53 *	    OU=Routing Team
+Dec 11 12:59:53 *	    O=Irchighway
+Dec 11 12:59:53 *	    L=World
+Dec 11 12:59:53 *	    ST=World
+Dec 11 12:59:53 *	    C=World
+Dec 11 12:59:53 *	  Issuer:
+Dec 11 12:59:53 *	    CN=irc.irchighway.net
+Dec 11 12:59:53 *	    OU=Routing Team
+Dec 11 12:59:53 *	    O=Irchighway
+Dec 11 12:59:53 *	    L=World
+Dec 11 12:59:53 *	    ST=World
+Dec 11 12:59:53 *	    C=World
+Dec 11 12:59:53 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 12:59:53 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 12:59:53 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+Dec 11 12:59:53 *	* Cipher info:
+Dec 11 12:59:53 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 12:59:53 *	La connexion a échoué (unable to verify the first certificate.? (21))
+Dec 11 13:01:10 *	Recherche de irc.irchighway.net
+Dec 11 13:01:10 *	Connexion à irc.irchighway.net (149.56.95.9 :6697)
+Dec 11 13:01:10 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:10 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:10 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:10 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:11 *	* Certification info:
+Dec 11 13:01:11 *	  Subject:
+Dec 11 13:01:11 *	    CN=irc.irchighway.net
+Dec 11 13:01:11 *	    OU=Routing Team
+Dec 11 13:01:11 *	    O=Irchighway
+Dec 11 13:01:11 *	    L=World
+Dec 11 13:01:11 *	    ST=World
+Dec 11 13:01:11 *	    C=World
+Dec 11 13:01:11 *	  Issuer:
+Dec 11 13:01:11 *	    CN=irc.irchighway.net
+Dec 11 13:01:11 *	    OU=Routing Team
+Dec 11 13:01:11 *	    O=Irchighway
+Dec 11 13:01:11 *	    L=World
+Dec 11 13:01:11 *	    ST=World
+Dec 11 13:01:11 *	    C=World
+Dec 11 13:01:11 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 13:01:11 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 13:01:11 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+Dec 11 13:01:11 *	* Cipher info:
+Dec 11 13:01:11 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 13:01:11 *	La connexion a échoué (unable to verify the first certificate.? (21))
+Dec 11 13:01:52 *	Recherche de irc.irchighway.net
+Dec 11 13:01:52 *	Connexion à irc.irchighway.net (149.56.95.9 :6697)
+Dec 11 13:01:53 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:53 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:53 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:53 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+Dec 11 13:01:53 *	* Certification info:
+Dec 11 13:01:53 *	  Subject:
+Dec 11 13:01:53 *	    CN=irc.irchighway.net
+Dec 11 13:01:53 *	    OU=Routing Team
+Dec 11 13:01:53 *	    O=Irchighway
+Dec 11 13:01:53 *	    L=World
+Dec 11 13:01:53 *	    ST=World
+Dec 11 13:01:53 *	    C=World
+Dec 11 13:01:53 *	  Issuer:
+Dec 11 13:01:53 *	    CN=irc.irchighway.net
+Dec 11 13:01:53 *	    OU=Routing Team
+Dec 11 13:01:53 *	    O=Irchighway
+Dec 11 13:01:53 *	    L=World
+Dec 11 13:01:53 *	    ST=World
+Dec 11 13:01:53 *	    C=World
+Dec 11 13:01:53 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 13:01:53 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 13:01:53 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+Dec 11 13:01:53 *	* Cipher info:
+Dec 11 13:01:53 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 13:01:53 *	* Verify E: unable to verify the first certificate.? (21) -- Ignored
+Dec 11 13:01:53 *	Connecté. Maintenant entrons...
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:30:18 2016
+
+Dec 11 14:30:18 *	bgdnvst a mis le mode +x sur bgdnvst
+Dec 11 14:30:18 -NickServ-	This nickname is registered and protected.  If it is your
+Dec 11 14:30:18 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Dec 11 14:30:18 -NickServ-	please choose a different nick.
+Dec 11 14:30:18 -NickServ-	Password accepted - you are now recognized.
+Dec 11 14:30:18 *	NickServ a mis le mode +r sur bgdnvst
+**** FIN DU JOURNAL À Sun Dec 11 14:30:23 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:53:17 2016
+
+Dec 11 14:53:17 *	bgdnvst a mis le mode +x sur bgdnvst
+Dec 11 14:53:17 -NickServ-	This nickname is registered and protected.  If it is your
+Dec 11 14:53:17 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Dec 11 14:53:17 -NickServ-	please choose a different nick.
+Dec 11 14:53:17 -NickServ-	Password accepted - you are now recognized.
+Dec 11 14:53:17 *	NickServ a mis le mode +r sur bgdnvst
+**** FIN DU JOURNAL À Sun Dec 11 14:53:22 2016
+

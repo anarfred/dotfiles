@@ -1,0 +1,615 @@
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:24:29 2016
+
+Dec 11 12:24:29 *	*** Looking up your hostname...
+Dec 11 12:24:29 *	*** Checking Ident
+Dec 11 12:24:29 *	*** Couldn't look up your hostname
+Dec 11 12:24:37 *	*** No Ident response
+Dec 11 12:24:37 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+Dec 11 12:24:37 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+Dec 11 12:24:37 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Sun Dec 11 12:24:37 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:24:37 2016
+
+Dec 11 12:24:37 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 12:24:37 *	Your host is leguin.freenode.net[130.239.18.119/6697], running version ircd-seven-1.1.4
+Dec 11 12:24:37 *	This server was created Thu Sep 22 2016 at 20:50:41 UTC
+Dec 11 12:24:37 *	leguin.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 12:24:37 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 12:24:37 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 12:24:37 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 12:24:37 *	There are 139 users and 83155 invisible on 29 servers
+Dec 11 12:24:37 *	33 :IRC Operators online
+Dec 11 12:24:37 *	24 :unknown connection(s)
+Dec 11 12:24:37 *	53539 :channels formed
+Dec 11 12:24:37 *	I have 3035 clients and 1 servers
+Dec 11 12:24:37 *	3035 10229 :Current local users 3035, max 10229
+Dec 11 12:24:37 *	83294 91150 :Current global users 83294, max 91150
+Dec 11 12:24:37 *	Highest connection count: 10230 (10229 clients) (693720 connections received)
+Dec 11 12:24:37 *	- leguin.freenode.net Message of the Day - 
+Dec 11 12:24:37 *	- Welcome to leguin.freenode.net in Umeå, Sweden, EU! Thanks to
+Dec 11 12:24:37 *	- the Academic Computer Club at Umeå University for sponsoring
+Dec 11 12:24:37 *	- this server!
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	- LE GUIN, URSULA K. (1929-) Born in Berkeley, California,
+Dec 11 12:24:37 *	- Ursula Le Guin is an american author primarily known for
+Dec 11 12:24:37 *	- her Science Fiction and Fantasy. She has been awarded the
+Dec 11 12:24:37 *	- Hugo and Nebula awards, and is best known for her Earthsea
+Dec 11 12:24:37 *	- and Hainish series.
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	- Welcome to freenode - supporting the free and open source
+Dec 11 12:24:37 *	- software communities since 1998.
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	- By connecting to freenode you indicate that you have read and
+Dec 11 12:24:37 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 12:24:37 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 12:24:37 *	- any network-related questions or queries, where a number of
+Dec 11 12:24:37 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 12:24:37 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 12:24:37 *	- real-life collaboration.
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	- We would like to thank Private Internet Access
+Dec 11 12:24:37 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 12:24:37 *	- organisations that help keep freenode and our other projects
+Dec 11 12:24:37 *	- running for their sustained support.
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	- In particular we would like to thank the sponsor
+Dec 11 12:24:37 *	- of this server, details of which can be found above.
+Dec 11 12:24:37 *	-  
+Dec 11 12:24:37 *	End of /MOTD command.
+Dec 11 12:24:37 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 12:24:37 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 12:24:38 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 11 12:25:17 >NickServ<	identify ****
+Dec 11 12:25:17 -NickServ-	You are now identified for bgdnvst.
+**** FIN DU JOURNAL À Sun Dec 11 12:27:37 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:27:37 2016
+
+Dec 11 12:28:51 *	Pas de réponse au ping pendant 262 secondes, déconnexion.
+Dec 11 12:28:51 *	Déconnecté ()
+Dec 11 12:29:01 *	Recherche de chat.freenode.net
+Dec 11 12:29:01 *	Connexion à chat.freenode.net (82.96.64.4 :6697)
+Dec 11 12:29:02 *	* Subject: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 12:29:02 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 12:29:02 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 12:29:02 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 12:29:02 *	* Subject: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 12:29:02 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 12:29:02 *	* Subject: /OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net
+Dec 11 12:29:02 *	* Issuer: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 12:29:02 *	* Certification info:
+Dec 11 12:29:02 *	  Subject:
+Dec 11 12:29:02 *	    OU=Domain Control Validated
+Dec 11 12:29:02 *	    OU=Gandi Standard Wildcard SSL
+Dec 11 12:29:02 *	    CN=*.freenode.net
+Dec 11 12:29:02 *	  Issuer:
+Dec 11 12:29:02 *	    C=FR
+Dec 11 12:29:02 *	    ST=Paris
+Dec 11 12:29:02 *	    L=Paris
+Dec 11 12:29:02 *	    O=Gandi
+Dec 11 12:29:02 *	    CN=Gandi Standard SSL CA 2
+Dec 11 12:29:02 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 12:29:02 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 12:29:02 *	  Valid since Dec 14 00:00:00 2015 GM to Feb 16 23:59:59 2017 GM
+Dec 11 12:29:02 *	* Cipher info:
+Dec 11 12:29:02 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-SHA (256 bits)
+Dec 11 12:29:02 *	Connecté. Maintenant entrons...
+Dec 11 12:29:02 *	*** Looking up your hostname...
+Dec 11 12:29:02 *	*** Checking Ident
+Dec 11 12:29:02 *	*** Couldn't look up your hostname
+Dec 11 12:29:11 *	*** No Ident response
+Dec 11 12:29:11 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+Dec 11 12:29:11 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+Dec 11 12:29:11 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Sun Dec 11 12:29:11 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:29:11 2016
+
+Dec 11 12:29:11 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 12:29:11 *	Your host is kornbluth.freenode.net[82.96.64.4/6697], running version ircd-seven-1.1.4
+Dec 11 12:29:11 *	This server was created Tue Sep 20 2016 at 13:39:32 CEST
+Dec 11 12:29:11 *	kornbluth.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 12:29:11 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 12:29:11 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 12:29:11 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 12:29:11 *	There are 139 users and 83141 invisible on 29 servers
+Dec 11 12:29:11 *	30 :IRC Operators online
+Dec 11 12:29:11 *	11 :unknown connection(s)
+Dec 11 12:29:11 *	53526 :channels formed
+Dec 11 12:29:11 *	I have 2200 clients and 1 servers
+Dec 11 12:29:11 *	2200 2206 :Current local users 2200, max 2206
+Dec 11 12:29:11 *	83280 92341 :Current global users 83280, max 92341
+Dec 11 12:29:11 *	Highest connection count: 2207 (2206 clients) (37905 connections received)
+Dec 11 12:29:11 *	- kornbluth.freenode.net Message of the Day - 
+Dec 11 12:29:11 *	- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU. 
+Dec 11 12:29:11 *	- Thanks to Probe Networks (www.probe-networks.de) for
+Dec 11 12:29:11 *	- sponsoring this server!
+Dec 11 12:29:11 *	-  
+Dec 11 12:29:11 *	- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+Dec 11 12:29:11 *	- an active member of the Futurians, Cyril Kornbluth sold his
+Dec 11 12:29:11 *	- first story professionally at age 15.  By the 1940's his
+Dec 11 12:29:11 *	- stories appeared widely under several pennames, including
+Dec 11 12:29:11 *	- S.D. Gottesman and Cecil Corman.  He left his university
+Dec 11 12:29:11 *	- studies in Chicago to serve in the Army in Europe during
+Dec 11 12:29:11 *	- WWII, then returned to school and work in Chicago until he
+Dec 11 12:29:11 *	- began writing full-time in 1951.  The author of The Marching
+Dec 11 12:29:11 *	- Morons and the novels The Space Merchants (with Frederik
+Dec 11 12:29:11 *	- Pohl) and The Syndic, he's best known for his biting social
+Dec 11 12:29:11 *	- satire and his collaborations with Pohl and with Judith
+Dec 11 12:29:11 *	- Merril.
+Dec 11 12:29:11 *	- Welcome to freenode - supporting the free and open source
+Dec 11 12:29:11 *	- software communities since 1998.
+Dec 11 12:29:11 *	-  
+Dec 11 12:29:11 *	- By connecting to freenode you indicate that you have read and
+Dec 11 12:29:11 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 12:29:11 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 12:29:11 *	- any network-related questions or queries, where a number of
+Dec 11 12:29:11 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 12:29:11 *	-  
+Dec 11 12:29:11 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 12:29:11 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 12:29:11 *	- real-life collaboration.
+Dec 11 12:29:11 *	-  
+Dec 11 12:29:11 *	- We would like to thank Private Internet Access
+Dec 11 12:29:11 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 12:29:11 *	- organisations that help keep freenode and our other projects
+Dec 11 12:29:11 *	- running for their sustained support.
+Dec 11 12:29:11 *	-  
+Dec 11 12:29:11 *	- In particular we would like to thank the sponsor
+Dec 11 12:29:11 *	- of this server, details of which can be found above.
+Dec 11 12:29:11 *	-  
+Dec 11 12:29:11 *	End of /MOTD command.
+Dec 11 12:29:11 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 12:29:11 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 12:29:11 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+**** FIN DU JOURNAL À Sun Dec 11 12:29:19 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:29:19 2016
+
+Dec 11 13:02:23 *	Pas de réponse au ping pendant 153 secondes, déconnexion.
+Dec 11 13:02:23 *	Déconnecté ()
+Dec 11 13:02:33 *	Recherche de chat.freenode.net
+Dec 11 13:02:33 *	Connexion à chat.freenode.net (193.10.255.100 :6697)
+Dec 11 13:02:34 *	* Subject: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 13:02:34 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 13:02:34 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 13:02:34 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 13:02:34 *	* Subject: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 13:02:34 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 13:02:34 *	* Subject: /OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net
+Dec 11 13:02:34 *	* Issuer: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 13:02:34 *	* Certification info:
+Dec 11 13:02:34 *	  Subject:
+Dec 11 13:02:34 *	    OU=Domain Control Validated
+Dec 11 13:02:34 *	    OU=Gandi Standard Wildcard SSL
+Dec 11 13:02:34 *	    CN=*.freenode.net
+Dec 11 13:02:34 *	  Issuer:
+Dec 11 13:02:34 *	    C=FR
+Dec 11 13:02:34 *	    ST=Paris
+Dec 11 13:02:34 *	    L=Paris
+Dec 11 13:02:34 *	    O=Gandi
+Dec 11 13:02:34 *	    CN=Gandi Standard SSL CA 2
+Dec 11 13:02:34 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 13:02:34 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 13:02:34 *	  Valid since Dec 14 00:00:00 2015 GM to Feb 16 23:59:59 2017 GM
+Dec 11 13:02:34 *	* Cipher info:
+Dec 11 13:02:34 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 13:02:34 *	Connecté. Maintenant entrons...
+Dec 11 13:02:34 *	*** Looking up your hostname...
+Dec 11 13:02:34 *	*** Checking Ident
+Dec 11 13:02:34 *	*** Couldn't look up your hostname
+Dec 11 13:02:40 *	*** No Ident response
+Dec 11 13:02:40 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+Dec 11 13:02:40 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+Dec 11 13:02:40 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Sun Dec 11 13:02:40 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 13:02:40 2016
+
+Dec 11 13:02:40 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 13:02:40 *	Your host is wolfe.freenode.net[193.10.255.100/6697], running version ircd-seven-1.1.4
+Dec 11 13:02:40 *	This server was created Thu Sep 22 2016 at 20:50:16 UTC
+Dec 11 13:02:40 *	wolfe.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 13:02:40 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 13:02:40 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 13:02:40 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 13:02:40 *	There are 139 users and 83325 invisible on 29 servers
+Dec 11 13:02:40 *	33 :IRC Operators online
+Dec 11 13:02:40 *	5 :unknown connection(s)
+Dec 11 13:02:40 *	53538 :channels formed
+Dec 11 13:02:40 *	I have 8585 clients and 1 servers
+Dec 11 13:02:40 *	8585 10146 :Current local users 8585, max 10146
+Dec 11 13:02:40 *	83464 92341 :Current global users 83464, max 92341
+Dec 11 13:02:40 *	Highest connection count: 10147 (10146 clients) (845982 connections received)
+Dec 11 13:02:40 *	- wolfe.freenode.net Message of the Day - 
+Dec 11 13:02:40 *	- Welcome to wolfe.freenode.net in Stockholm, SE.
+Dec 11 13:02:40 *	- Thanks to http://nordu.net/ for sponsoring
+Dec 11 13:02:40 *	- this server!
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	- WOLFE, GENE [1931-].  Prolific writer of short stories and
+Dec 11 13:02:40 *	- novels. His best-known work is the multi-volume novel The
+Dec 11 13:02:40 *	- Book of the New Sun. He has won multiple awards including
+Dec 11 13:02:40 *	- the Nebula Award, the World Fantasy Award, The Campell
+Dec 11 13:02:40 *	- Memorial Award and the Locus Award. He was awarded the World
+Dec 11 13:02:40 *	- Fantasy Award for lifetime achievement in 1996.
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	- Welcome to freenode - supporting the free and open source
+Dec 11 13:02:40 *	- software communities since 1998.
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	- By connecting to freenode you indicate that you have read and
+Dec 11 13:02:40 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 13:02:40 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 13:02:40 *	- any network-related questions or queries, where a number of
+Dec 11 13:02:40 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 13:02:40 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 13:02:40 *	- real-life collaboration.
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	- We would like to thank Private Internet Access
+Dec 11 13:02:40 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 13:02:40 *	- organisations that help keep freenode and our other projects
+Dec 11 13:02:40 *	- running for their sustained support.
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	- In particular we would like to thank the sponsor
+Dec 11 13:02:40 *	- of this server, details of which can be found above.
+Dec 11 13:02:40 *	-  
+Dec 11 13:02:40 *	End of /MOTD command.
+Dec 11 13:02:40 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 13:02:40 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 13:02:40 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+**** FIN DU JOURNAL À Sun Dec 11 14:15:21 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:15:21 2016
+
+Dec 11 14:23:18 Perl interface unloaded
+Dec 11 14:23:18 Do At plugin unloaded
+Dec 11 14:23:18 Checksum plugin unloaded
+Dec 11 14:23:18 Python interface unloaded
+Dec 11 14:23:18 Greffon Sysinfo déchargé
+**** FIN DU JOURNAL À Sun Dec 11 14:23:18 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:25:42 2016
+
+Dec 11 14:25:42 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 14:25:42 *	Your host is karatkievich.freenode.net[64.86.243.181/6697], running version ircd-seven-1.1.4
+Dec 11 14:25:42 *	This server was created Thu Sep 22 2016 at 20:50:21 UTC
+Dec 11 14:25:42 *	karatkievich.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 14:25:42 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 14:25:42 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 14:25:42 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 14:25:42 *	There are 141 users and 83667 invisible on 29 servers
+Dec 11 14:25:42 *	33 :IRC Operators online
+Dec 11 14:25:42 *	11 :unknown connection(s)
+Dec 11 14:25:42 *	53577 :channels formed
+Dec 11 14:25:42 *	I have 7082 clients and 1 servers
+Dec 11 14:25:42 *	7082 12001 :Current local users 7082, max 12001
+Dec 11 14:25:42 *	83808 92341 :Current global users 83808, max 92341
+Dec 11 14:25:42 *	Highest connection count: 12002 (12001 clients) (673335 connections received)
+Dec 11 14:25:42 *	- karatkievich.freenode.net Message of the Day - 
+Dec 11 14:25:42 *	- Welcome to karatkievich.freenode.net. Thanks to
+Dec 11 14:25:42 *	- http://www.tatacommunications.com/ for sponsoring
+Dec 11 14:25:42 *	- this server!
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	- KARATKIEVICH, ULADZIMIR (1930-1984) was a Belarusian
+Dec 11 14:25:42 *	- romantic writer. After his first published work was a poem
+Dec 11 14:25:42 *	- in 1951, he followed up with novels, short stories, plays,
+Dec 11 14:25:42 *	- essays, articles and screenplays. His probably most popular
+Dec 11 14:25:42 *	- work is the novel 'King Stakh's Wild Hunt' (1964). Most his
+Dec 11 14:25:42 *	- novels are about Belarus's past.  He won many national
+Dec 11 14:25:42 *	- literary awards and influenced the Belarusian literature's
+Dec 11 14:25:42 *	- development of historical themes.
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	- Welcome to freenode - supporting the free and open source
+Dec 11 14:25:42 *	- software communities since 1998.
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	- By connecting to freenode you indicate that you have read and
+Dec 11 14:25:42 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 14:25:42 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 14:25:42 *	- any network-related questions or queries, where a number of
+Dec 11 14:25:42 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 14:25:42 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 14:25:42 *	- real-life collaboration.
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	- We would like to thank Private Internet Access
+Dec 11 14:25:42 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 14:25:42 *	- organisations that help keep freenode and our other projects
+Dec 11 14:25:42 *	- running for their sustained support.
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	- In particular we would like to thank the sponsor
+Dec 11 14:25:42 *	- of this server, details of which can be found above.
+Dec 11 14:25:42 *	-  
+Dec 11 14:25:42 *	End of /MOTD command.
+Dec 11 14:25:42 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 14:25:42 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 14:25:44 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 11 14:25:48 -NickServ-	You are now identified for bgdnvst.
+Dec 11 14:30:06 *	Pas de réponse au ping pendant 62 secondes, déconnexion.
+Dec 11 14:30:06 *	Déconnecté ()
+Dec 11 14:30:16 *	Recherche de chat.freenode.net
+Dec 11 14:30:16 *	Connexion à chat.freenode.net (195.148.124.79 :6697)
+Dec 11 14:30:17 *	* Subject: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:30:17 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:30:17 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 14:30:17 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:30:17 *	* Subject: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 14:30:17 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 14:30:17 *	* Subject: /OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net
+Dec 11 14:30:17 *	* Issuer: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 14:30:17 *	* Certification info:
+Dec 11 14:30:17 *	  Subject:
+Dec 11 14:30:17 *	    OU=Domain Control Validated
+Dec 11 14:30:17 *	    OU=Gandi Standard Wildcard SSL
+Dec 11 14:30:17 *	    CN=*.freenode.net
+Dec 11 14:30:17 *	  Issuer:
+Dec 11 14:30:17 *	    C=FR
+Dec 11 14:30:17 *	    ST=Paris
+Dec 11 14:30:17 *	    L=Paris
+Dec 11 14:30:17 *	    O=Gandi
+Dec 11 14:30:17 *	    CN=Gandi Standard SSL CA 2
+Dec 11 14:30:17 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:30:17 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 14:30:17 *	  Valid since Dec 14 00:00:00 2015 GM to Feb 16 23:59:59 2017 GM
+Dec 11 14:30:17 *	* Cipher info:
+Dec 11 14:30:17 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 14:30:17 *	Connecté. Maintenant entrons...
+Dec 11 14:30:17 *	*** Looking up your hostname...
+Dec 11 14:30:17 *	*** Checking Ident
+Dec 11 14:30:17 *	*** Couldn't look up your hostname
+Dec 11 14:30:26 *	*** No Ident response
+Dec 11 14:30:26 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+Dec 11 14:30:26 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+Dec 11 14:30:26 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Sun Dec 11 14:30:26 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:30:26 2016
+
+Dec 11 14:30:26 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 14:30:26 *	Your host is rajaniemi.freenode.net[195.148.124.79/6697], running version ircd-seven-1.1.4
+Dec 11 14:30:26 *	This server was created Thu Sep 22 2016 at 20:51:02 UTC
+Dec 11 14:30:26 *	rajaniemi.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 14:30:26 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 14:30:26 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 14:30:26 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 14:30:26 *	There are 141 users and 83720 invisible on 29 servers
+Dec 11 14:30:26 *	30 :IRC Operators online
+Dec 11 14:30:26 *	8 :unknown connection(s)
+Dec 11 14:30:26 *	53581 :channels formed
+Dec 11 14:30:26 *	I have 3065 clients and 1 servers
+Dec 11 14:30:26 *	3065 3077 :Current local users 3065, max 3077
+Dec 11 14:30:26 *	83861 92341 :Current global users 83861, max 92341
+Dec 11 14:30:26 *	Highest connection count: 3078 (3077 clients) (33524 connections received)
+Dec 11 14:30:26 *	- rajaniemi.freenode.net Message of the Day - 
+Dec 11 14:30:26 *	- Welcome to rajaniemi.freenode.net in Helsinki, Finland.  Our thanks to
+Dec 11 14:30:26 *	- Aalto University for sponsoring this server!
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	- RAJANIEMI, Hannu  (1978-). Born in Ylivieska, Finland, Rajaniemi is the
+Dec 11 14:30:26 *	- author of two novels and several short stories, and his debut novel 'The
+Dec 11 14:30:26 *	- Quantum Thief' was nominated for the 2011 Locus Award for Best First
+Dec 11 14:30:26 *	- Novel.  Rajaniemi lives in Edinburgh, Scotland where he is founding
+Dec 11 14:30:26 *	- director of ThinkTank Maths, a commercial research organisation.
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	- Welcome to freenode - supporting the free and open source
+Dec 11 14:30:26 *	- software communities since 1998.
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	- By connecting to freenode you indicate that you have read and
+Dec 11 14:30:26 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 14:30:26 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 14:30:26 *	- any network-related questions or queries, where a number of
+Dec 11 14:30:26 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 14:30:26 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 14:30:26 *	- real-life collaboration.
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	- We would like to thank Private Internet Access
+Dec 11 14:30:26 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 14:30:26 *	- organisations that help keep freenode and our other projects
+Dec 11 14:30:26 *	- running for their sustained support.
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	- In particular we would like to thank the sponsor
+Dec 11 14:30:26 *	- of this server, details of which can be found above.
+Dec 11 14:30:26 *	-  
+Dec 11 14:30:26 *	End of /MOTD command.
+Dec 11 14:30:26 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 14:30:26 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 14:30:26 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 11 14:30:32 -NickServ-	You are now identified for bgdnvst.
+Dec 11 14:46:16 *	Pas de réponse au ping pendant 820 secondes, déconnexion.
+Dec 11 14:46:16 *	Déconnecté ()
+Dec 11 14:46:26 *	Recherche de chat.freenode.net
+Dec 11 14:46:26 *	Connexion à chat.freenode.net (185.30.166.38 :6697)
+Dec 11 14:46:27 *	* Subject: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:46:27 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:46:27 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 14:46:27 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:46:27 *	* Subject: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 14:46:27 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 14:46:27 *	* Subject: /OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net
+Dec 11 14:46:27 *	* Issuer: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 14:46:27 *	* Certification info:
+Dec 11 14:46:27 *	  Subject:
+Dec 11 14:46:27 *	    OU=Domain Control Validated
+Dec 11 14:46:27 *	    OU=Gandi Standard Wildcard SSL
+Dec 11 14:46:27 *	    CN=*.freenode.net
+Dec 11 14:46:27 *	  Issuer:
+Dec 11 14:46:27 *	    C=FR
+Dec 11 14:46:27 *	    ST=Paris
+Dec 11 14:46:27 *	    L=Paris
+Dec 11 14:46:27 *	    O=Gandi
+Dec 11 14:46:27 *	    CN=Gandi Standard SSL CA 2
+Dec 11 14:46:27 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:46:27 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 14:46:27 *	  Valid since Dec 14 00:00:00 2015 GM to Feb 16 23:59:59 2017 GM
+Dec 11 14:46:27 *	* Cipher info:
+Dec 11 14:46:27 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 14:46:27 *	Connecté. Maintenant entrons...
+Dec 11 14:46:27 *	*** Looking up your hostname...
+Dec 11 14:46:27 *	*** Checking Ident
+Dec 11 14:46:27 *	*** Couldn't look up your hostname
+Dec 11 14:46:33 *	*** No Ident response
+Dec 11 14:46:33 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+Dec 11 14:46:33 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+Dec 11 14:46:33 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Sun Dec 11 14:46:33 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:46:33 2016
+
+Dec 11 14:46:33 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 14:46:33 *	Your host is orwell.freenode.net[185.30.166.38/6697], running version ircd-seven-1.1.4
+Dec 11 14:46:33 *	This server was created Thu Sep 22 2016 at 20:50:46 UTC
+Dec 11 14:46:33 *	orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 14:46:33 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 14:46:33 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 14:46:33 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 14:46:33 *	There are 141 users and 83791 invisible on 29 servers
+Dec 11 14:46:33 *	33 :IRC Operators online
+Dec 11 14:46:33 *	6 :unknown connection(s)
+Dec 11 14:46:33 *	53565 :channels formed
+Dec 11 14:46:33 *	I have 3547 clients and 1 servers
+Dec 11 14:46:33 *	3547 5976 :Current local users 3547, max 5976
+Dec 11 14:46:33 *	83932 92341 :Current global users 83932, max 92341
+Dec 11 14:46:33 *	Highest connection count: 5977 (5976 clients) (541967 connections received)
+Dec 11 14:46:33 *	- orwell.freenode.net Message of the Day - 
+Dec 11 14:46:33 *	- Welcome to orwell.freenode.net in Amsterdam, NL.
+Dec 11 14:46:33 *	- Thanks to http://www.hyperfilter.com/ for sponsoring
+Dec 11 14:46:33 *	- this server!
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+Dec 11 14:46:33 *	- moved him to England when he was one year old, and it
+Dec 11 14:46:33 *	- was in England where he was educated and spent most of
+Dec 11 14:46:33 *	- his life.  Orwell is perhaps best known for his novels
+Dec 11 14:46:33 *	- Nineteen Eighty-Four and Animal Farm.
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	- Welcome to freenode - supporting the free and open source
+Dec 11 14:46:33 *	- software communities since 1998.
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	- By connecting to freenode you indicate that you have read and
+Dec 11 14:46:33 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 14:46:33 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 14:46:33 *	- any network-related questions or queries, where a number of
+Dec 11 14:46:33 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 14:46:33 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 14:46:33 *	- real-life collaboration.
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	- We would like to thank Private Internet Access
+Dec 11 14:46:33 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 14:46:33 *	- organisations that help keep freenode and our other projects
+Dec 11 14:46:33 *	- running for their sustained support.
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	- In particular we would like to thank the sponsor
+Dec 11 14:46:33 *	- of this server, details of which can be found above.
+Dec 11 14:46:33 *	-  
+Dec 11 14:46:33 *	End of /MOTD command.
+Dec 11 14:46:33 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 14:46:33 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 14:46:33 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 11 14:46:39 -NickServ-	You are now identified for bgdnvst.
+Dec 11 14:53:05 *	Pas de réponse au ping pendant 398 secondes, déconnexion.
+Dec 11 14:53:05 *	Déconnecté ()
+Dec 11 14:53:15 *	Recherche de chat.freenode.net
+Dec 11 14:53:15 *	Connexion à chat.freenode.net (193.10.255.100 :6697)
+Dec 11 14:53:16 *	* Subject: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:53:16 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:53:16 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 14:53:16 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+Dec 11 14:53:16 *	* Subject: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 14:53:16 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Dec 11 14:53:16 *	* Subject: /OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net
+Dec 11 14:53:16 *	* Issuer: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+Dec 11 14:53:16 *	* Certification info:
+Dec 11 14:53:16 *	  Subject:
+Dec 11 14:53:16 *	    OU=Domain Control Validated
+Dec 11 14:53:16 *	    OU=Gandi Standard Wildcard SSL
+Dec 11 14:53:16 *	    CN=*.freenode.net
+Dec 11 14:53:16 *	  Issuer:
+Dec 11 14:53:16 *	    C=FR
+Dec 11 14:53:16 *	    ST=Paris
+Dec 11 14:53:16 *	    L=Paris
+Dec 11 14:53:16 *	    O=Gandi
+Dec 11 14:53:16 *	    CN=Gandi Standard SSL CA 2
+Dec 11 14:53:16 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:53:16 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 14:53:16 *	  Valid since Dec 14 00:00:00 2015 GM to Feb 16 23:59:59 2017 GM
+Dec 11 14:53:16 *	* Cipher info:
+Dec 11 14:53:16 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 14:53:16 *	Connecté. Maintenant entrons...
+Dec 11 14:53:16 *	*** Looking up your hostname...
+Dec 11 14:53:16 *	*** Checking Ident
+Dec 11 14:53:16 *	*** Couldn't look up your hostname
+Dec 11 14:53:25 *	*** No Ident response
+Dec 11 14:53:25 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+Dec 11 14:53:25 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+Dec 11 14:53:25 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Sun Dec 11 14:53:25 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:53:25 2016
+
+Dec 11 14:53:25 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+Dec 11 14:53:25 *	Your host is wolfe.freenode.net[193.10.255.100/6697], running version ircd-seven-1.1.4
+Dec 11 14:53:25 *	This server was created Thu Sep 22 2016 at 20:50:16 UTC
+Dec 11 14:53:25 *	wolfe.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 11 14:53:25 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Dec 11 14:53:25 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Dec 11 14:53:25 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+Dec 11 14:53:25 *	There are 141 users and 83814 invisible on 29 servers
+Dec 11 14:53:25 *	33 :IRC Operators online
+Dec 11 14:53:25 *	9 :unknown connection(s)
+Dec 11 14:53:25 *	53587 :channels formed
+Dec 11 14:53:25 *	I have 8618 clients and 1 servers
+Dec 11 14:53:25 *	8618 10146 :Current local users 8618, max 10146
+Dec 11 14:53:25 *	83955 92341 :Current global users 83955, max 92341
+Dec 11 14:53:25 *	Highest connection count: 10147 (10146 clients) (847062 connections received)
+Dec 11 14:53:25 *	- wolfe.freenode.net Message of the Day - 
+Dec 11 14:53:25 *	- Welcome to wolfe.freenode.net in Stockholm, SE.
+Dec 11 14:53:25 *	- Thanks to http://nordu.net/ for sponsoring
+Dec 11 14:53:25 *	- this server!
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	- WOLFE, GENE [1931-].  Prolific writer of short stories and
+Dec 11 14:53:25 *	- novels. His best-known work is the multi-volume novel The
+Dec 11 14:53:25 *	- Book of the New Sun. He has won multiple awards including
+Dec 11 14:53:25 *	- the Nebula Award, the World Fantasy Award, The Campell
+Dec 11 14:53:25 *	- Memorial Award and the Locus Award. He was awarded the World
+Dec 11 14:53:25 *	- Fantasy Award for lifetime achievement in 1996.
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	- Welcome to freenode - supporting the free and open source
+Dec 11 14:53:25 *	- software communities since 1998.
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	- By connecting to freenode you indicate that you have read and
+Dec 11 14:53:25 *	- accept our policies as set out on http://www.freenode.net
+Dec 11 14:53:25 *	- freenode runs an open proxy scanner. Please join #freenode for
+Dec 11 14:53:25 *	- any network-related questions or queries, where a number of
+Dec 11 14:53:25 *	- volunteer staff and helpful users will be happy to assist you.
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+Dec 11 14:53:25 *	- together with like-minded FOSS enthusiasts for talks and
+Dec 11 14:53:25 *	- real-life collaboration.
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	- We would like to thank Private Internet Access
+Dec 11 14:53:25 *	- (https://www.privateinternetaccess.com/) and the other
+Dec 11 14:53:25 *	- organisations that help keep freenode and our other projects
+Dec 11 14:53:25 *	- running for their sustained support.
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	- In particular we would like to thank the sponsor
+Dec 11 14:53:25 *	- of this server, details of which can be found above.
+Dec 11 14:53:25 *	-  
+Dec 11 14:53:25 *	End of /MOTD command.
+Dec 11 14:53:25 *	bgdnvst a mis le mode +Z sur bgdnvst
+Dec 11 14:53:25 *	bgdnvst a mis le mode +i sur bgdnvst
+Dec 11 14:53:25 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 11 14:53:31 -NickServ-	You are now identified for bgdnvst.
+Dec 11 14:53:42 Do At plugin unloaded
+Dec 11 14:53:42 Checksum plugin unloaded
+Dec 11 14:53:42 Greffon Sysinfo déchargé
+**** FIN DU JOURNAL À Sun Dec 11 14:53:42 2016
+

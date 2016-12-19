@@ -1,0 +1,29 @@
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:29:12 2016
+
+Dec 11 14:29:12 *	Recherche de irc.furnet.org
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:29:35 2016
+
+Dec 11 14:29:35 *	Recherche de irc.furnet.org
+Dec 11 14:29:35 *	Connexion à irc.furnet.org (46.4.89.187 :6697)
+Dec 11 14:29:36 *	* Certification info:
+Dec 11 14:29:36 *	  Subject:
+Dec 11 14:29:36 *	    C=DE
+Dec 11 14:29:36 *	    ST=Bavaria
+Dec 11 14:29:36 *	    O=Furnet IRC Network
+Dec 11 14:29:36 *	    OU=IRC Servers
+Dec 11 14:29:36 *	    CN=lynx.furnet.org
+Dec 11 14:29:36 *	    emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:29:36 *	  Issuer:
+Dec 11 14:29:36 *	    C=AU
+Dec 11 14:29:36 *	    ST=Victoria
+Dec 11 14:29:36 *	    O=Furnet IRC Network
+Dec 11 14:29:36 *	    OU=Certificate Authority
+Dec 11 14:29:36 *	    CN=Furnet IRC Network Certificate Issuer
+Dec 11 14:29:36 *	    emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:29:36 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:29:36 *	  Sign algorithm sha1WithRSAEncryption
+Dec 11 14:29:36 *	  Valid since Nov 24 07:29:08 2015 GM to Nov 24 07:29:08 2018 GM
+Dec 11 14:29:36 *	* Cipher info:
+Dec 11 14:29:36 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Dec 11 14:29:36 *	* Verify E: self signed certificate in certificate chain.? (19) -- Ignored
+Dec 11 14:29:36 *	Connecté. Maintenant entrons...

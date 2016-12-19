@@ -1,0 +1,28 @@
+open_with 
+search .vim
+cd .config/i3
+cd .config
+cd nvim
+find serveim
+find  pi
+find dow
+find Eleg
+cd Pictures/
+find Pi
+filter 218
+find wa
+.wallpaper
+find .wa
+delete
+find wal
+rename .wallpaper
+find Dow
+find porno
+find bin
+find jab
+
+shell ./jabref-latest.sh
+find sé
+find tmul
+mkdir .bin
+open_with libreoffice

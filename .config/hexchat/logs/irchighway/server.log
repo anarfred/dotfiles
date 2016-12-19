@@ -1,0 +1,106 @@
+**** DÉBUT DU JOURNAL À Sun Dec 11 12:28:21 2016
+
+Dec 11 12:28:21 *	Recherche de irc.irchighway.net
+**** DÉBUT DU JOURNAL À Sun Dec 11 13:09:31 2016
+
+Dec 11 13:09:31 *	Recherche de irc.irchighway.net
+Dec 11 13:09:31 *	Connexion à irc.irchighway.net (149.56.95.9 :6697)
+Dec 11 13:09:32 *	* Certification info:
+Dec 11 13:09:32 *	  Subject:
+Dec 11 13:09:32 *	    CN=irc.irchighway.net
+Dec 11 13:09:32 *	    OU=Routing Team
+Dec 11 13:09:32 *	    O=Irchighway
+Dec 11 13:09:32 *	    L=World
+Dec 11 13:09:32 *	    ST=World
+Dec 11 13:09:32 *	    C=World
+Dec 11 13:09:32 *	  Issuer:
+Dec 11 13:09:32 *	    CN=irc.irchighway.net
+Dec 11 13:09:32 *	    OU=Routing Team
+Dec 11 13:09:32 *	    O=Irchighway
+Dec 11 13:09:32 *	    L=World
+Dec 11 13:09:32 *	    ST=World
+Dec 11 13:09:32 *	    C=World
+Dec 11 13:09:32 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 13:09:32 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 13:09:32 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+Dec 11 13:09:32 *	* Cipher info:
+Dec 11 13:09:32 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 13:09:32 *	* Verify E: unable to get local issuer certificate.? (20) -- Ignored
+Dec 11 13:09:32 *	Connecté. Maintenant entrons...
+Dec 11 13:09:32 *	*** Looking up your hostname...
+Dec 11 13:09:32 *	*** Could not resolve your hostname: Domain name not found; using your IP address (24.48.32.238) instead.
+Dec 11 13:09:32 *	Autorisations disponibles :multi-prefix sasl tls userhost-in-names away-notify extended-join account-notify
+Dec 11 13:09:32 *	Autorisations demandées :multi-prefix userhost-in-names away-notify extended-join account-notify 
+Dec 11 13:09:32 *	bgdnvst est déjà utilisé. Tentative avec bgdnvst0…
+Dec 11 13:09:32 *	Autorisations bien reçues : multi-prefix userhost-in-names away-notify extended-join account-notify
+Dec 11 13:09:33 *	Welcome to irchighway!
+**** FIN DU JOURNAL À Sun Dec 11 13:09:33 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 13:09:52 2016
+
+Dec 11 13:09:52 *	Recherche de irc.irchighway.net
+Dec 11 13:09:52 *	Connexion à irc.irchighway.net (209.126.101.164 :6697)
+Dec 11 13:09:53 *	* Certification info:
+Dec 11 13:09:53 *	  Subject:
+Dec 11 13:09:53 *	    C=US
+Dec 11 13:09:53 *	    O=irchighway
+Dec 11 13:09:53 *	    OU=Server Admins
+Dec 11 13:09:53 *	    L=St Louis
+Dec 11 13:09:53 *	    ST=MO
+Dec 11 13:09:53 *	    CN=zathras.mo.us.irchighway.net
+Dec 11 13:09:53 *	  Issuer:
+Dec 11 13:09:53 *	    C=US
+Dec 11 13:09:53 *	    O=irchighway
+Dec 11 13:09:53 *	    OU=Server Admins
+Dec 11 13:09:53 *	    L=St Louis
+Dec 11 13:09:53 *	    ST=MO
+Dec 11 13:09:53 *	    CN=zathras.mo.us.irchighway.net
+Dec 11 13:09:53 *	  Public key algorithm: rsaEncryption (2432 bits)
+Dec 11 13:09:53 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 13:09:53 *	  Valid since Feb 27 17:33:42 2016 GM to Feb 26 17:33:42 2017 GM
+Dec 11 13:09:53 *	* Cipher info:
+Dec 11 13:09:53 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 13:09:53 *	* Verify E: unable to get local issuer certificate.? (20) -- Ignored
+Dec 11 13:09:53 *	Connecté. Maintenant entrons...
+Dec 11 13:09:53 *	*** Looking up your hostname...
+Dec 11 13:09:53 *	*** Could not resolve your hostname: Domain name not found; using your IP address (24.48.32.238) instead.
+Dec 11 13:09:53 *	Autorisations disponibles :multi-prefix sasl tls userhost-in-names away-notify extended-join account-notify
+Dec 11 13:09:53 *	Autorisations demandées :multi-prefix userhost-in-names away-notify extended-join account-notify 
+Dec 11 13:09:53 *	Autorisations bien reçues : multi-prefix userhost-in-names away-notify extended-join account-notify
+Dec 11 13:09:54 *	Welcome to irchighway!
+**** FIN DU JOURNAL À Sun Dec 11 13:09:54 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:25:34 2016
+
+Dec 11 14:25:34 *	Recherche de irc.irchighway.net
+Dec 11 14:25:35 *	Connexion à irc.irchighway.net (76.72.161.35 :6697)
+Dec 11 14:25:36 *	* Certification info:
+Dec 11 14:25:36 *	  Subject:
+Dec 11 14:25:36 *	    CN=irc.irchighway.net
+Dec 11 14:25:36 *	    OU=Routing Team
+Dec 11 14:25:36 *	    O=Irchighway
+Dec 11 14:25:36 *	    L=World
+Dec 11 14:25:36 *	    ST=World
+Dec 11 14:25:36 *	    C=World
+Dec 11 14:25:36 *	  Issuer:
+Dec 11 14:25:36 *	    CN=irc.irchighway.net
+Dec 11 14:25:36 *	    OU=Routing Team
+Dec 11 14:25:36 *	    O=Irchighway
+Dec 11 14:25:36 *	    L=World
+Dec 11 14:25:36 *	    ST=World
+Dec 11 14:25:36 *	    C=World
+Dec 11 14:25:36 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:25:36 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 14:25:36 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+Dec 11 14:25:36 *	* Cipher info:
+Dec 11 14:25:36 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Dec 11 14:25:36 *	* Verify E: unable to get local issuer certificate.? (20) -- Ignored
+Dec 11 14:25:36 *	Connecté. Maintenant entrons...
+Dec 11 14:25:36 *	*** Looking up your hostname...
+Dec 11 14:25:36 *	*** Could not resolve your hostname: Domain name not found; using your IP address (24.48.32.238) instead.
+Dec 11 14:25:36 *	Autorisations disponibles :multi-prefix tls userhost-in-names sasl away-notify extended-join account-notify
+Dec 11 14:25:36 *	Autorisations demandées :multi-prefix userhost-in-names away-notify extended-join account-notify 
+Dec 11 14:25:36 *	Autorisations bien reçues : multi-prefix userhost-in-names away-notify extended-join account-notify
+Dec 11 14:25:37 *	Welcome to irchighway!
+**** FIN DU JOURNAL À Sun Dec 11 14:25:37 2016
+

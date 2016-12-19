@@ -290,6 +290,7 @@ in `dotspacemacs/user-config'."
   "Configuration function for user code.
 This function is called at the very end of Spacemacs initialization after
 layers configuration. You are free to put any user code."
+  (require 'iso-transl)
   (setq org-reveal-root "file:///home/nrfrd/.bin/reveal.js-master/js/reveal.js")
   (setq powerline-default-separator 'arrow-fade)
   (add-hook 'doc-view-mode-hook 'auto-revert-mode)

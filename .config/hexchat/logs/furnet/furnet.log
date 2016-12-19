@@ -1,0 +1,398 @@
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:29:36 2016
+
+Dec 11 14:29:36 *	*** Looking up your hostname...
+Dec 11 14:29:36 *	*** Checking ident...
+Dec 11 14:29:37 *	*** Couldn't resolve your hostname; using your IP address instead
+Dec 11 14:29:46 *	*** No ident response; username prefixed with ~
+Dec 11 14:29:46 *	Autorisations disponibles :account-notify away-notify multi-prefix tls userhost-in-names
+Dec 11 14:29:46 *	Autorisations demandées :account-notify away-notify multi-prefix userhost-in-names 
+Dec 11 14:29:46 *	Autorisations bien reçues : account-notify away-notify multi-prefix userhost-in-names 
+**** FIN DU JOURNAL À Sun Dec 11 14:29:46 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:29:46 2016
+
+Dec 11 14:29:46 *	Welcome to the FurNet IRC Network alako!~bgdnvst@24.48.32.238
+Dec 11 14:29:46 *	Your host is lynx.furnet.org, running version Unreal3.2.10.2
+Dec 11 14:29:46 *	This server was created Di 10. Dez 2013 at 12:50:49 CET
+Dec 11 14:29:46 *	lynx.furnet.org Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+Dec 11 14:29:46 *	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+Dec 11 14:29:46 *	WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=FurNet CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+Dec 11 14:29:46 *	EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+Dec 11 14:29:46 *	*** You are connected to lynx.furnet.org with TLSv1.2-AES256-GCM-SHA384-256bits
+Dec 11 14:29:46 *	There are 628 users and 1247 invisible on 9 servers
+Dec 11 14:29:46 *	15 :operator(s) online
+Dec 11 14:29:46 *	1095 :channels formed
+Dec 11 14:29:46 *	I have 316 clients and 1 servers
+Dec 11 14:29:46 *	316 1000 :Current local users 316, max 1000
+Dec 11 14:29:46 *	1875 6083 :Current global users 1875, max 6083
+Dec 11 14:29:46 *	- lynx.furnet.org Message of the Day - 
+Dec 11 14:29:46 *	- 5/4/2011 4:19
+Dec 11 14:29:46 *	- � � � �, � � � � � � � � � �, �Welcome to � �  � � � � � � � �};{
+Dec 11 14:29:46 *	- � � � `\\ � � � � � � � � �//'
+Dec 11 14:29:46 *	- � � � � \| � � � � � � � �|/ � � � _
+Dec 11 14:29:46 *	- � � � � |\ � � � � � � � �/| � � �// _ _ __ _ �_
+Dec 11 14:29:46 *	- � � � � [ `. � � � � � �.' ] � � // ((////))>><<
+Dec 11 14:29:46 *	- � � � � [ � `.--==--==:'' �] � � ��� )) � � � �� �
+Dec 11 14:29:46 *	- � � � � |_ -'.` :: : ' `- �| � � �__�� � � �_ _ � �_ � __
+Dec 11 14:29:46 *	- � � � � ]' �'_ : �: : _ �` [ � � // _ _ __ /|//__-//- //))__ ___
+Dec 11 14:29:46 *	- � � � � / � __ � � � __ � �| � �//�((//// //|/((-// �((//// ((//
+Dec 11 14:29:46 *	- � � � �| .:`.1`, � .'1,':. �\ � � � �� � �� � �� � � ��� � � ))
+Dec 11 14:29:46 *	- � � � �/ �. � �| � |� � �`' | � � � � � � � � � � � � � � � ��
+Dec 11 14:29:46 *	- � � �_/ .;___/ /___\ \___, �\ � Server: � � lynx.furnet.org
+Dec 11 14:29:46 *	- � �_// � ----: 'o o' :---- : | �Ports: � � �6667, 7000, 6697 (SSL)
+Dec 11 14:29:46 *	-  _// � . '��� '--^--' ���` ; | �Location: � Falkenstein, Germany
+Dec 11 14:29:46 *	- // �. �:: � � `.___,' � � �:/ � Admin: � � �Eisfuchs
+Dec 11 14:29:46 *	- 7 �:: � �:. \ � � � � / � ::| � Contact:    eisfuchs@tigress.com
+Dec 11 14:29:46 *	-                                 User limit: 1000
+Dec 11 14:29:46 *	- _________________________________________________________________
+Dec 11 14:29:46 *	- 
+Dec 11 14:29:46 *	- �Other FurNet-servers: (Ports 6667 and 6697) 
+Dec 11 14:29:46 *	- �   �panther.furnet.org � Frankfurt, Germany
+Dec 11 14:29:46 *	- � �  alicorn.furnet.org � Fort Lauderdale, FL, USA 
+Dec 11 14:29:46 *	- � � � � wolf.furnet.org � Redwood City, CA, USA 
+Dec 11 14:29:46 *	- � � greylion.furnet.org � Vienna, Austria 
+Dec 11 14:29:46 *	- 
+Dec 11 14:29:46 *	- IRC Operator responsible for this server:
+Dec 11 14:29:46 *	- Eisfuchs
+Dec 11 14:29:46 *	- 
+Dec 11 14:29:46 *	- General Contact: http://mailform.furnet.org/mailform5.html
+Dec 11 14:29:46 *	- Bot policy: http://www.furnet.org/index.php?page=Furnet%20Bot%20Policy
+Dec 11 14:29:46 *	- Channel Registration: http://www.furnet.org/channel_request.html
+Dec 11 14:29:46 *	- 
+Dec 11 14:29:46 *	- Web IRC interfaces: Please do not provide them specifically for 
+Dec 11 14:29:46 *	- connecting to FurNet. It has been found that they tend to attract 
+Dec 11 14:29:46 *	- annoying individuals. A password-protected (for tracking abuse 
+Dec 11 14:29:46 *	- issues) web IRC client is avaliable - ask the admin. 
+Dec 11 14:29:46 *	End of /MOTD command.
+Dec 11 14:29:46 *	alako a mis le mode +z sur alako
+Dec 11 14:29:47 -Global-	[Logon News - Oct 29 2014] Have you read the Code of Conduct for Users? Go to http://www.furnet.org/wiki/index.php/Code_Of_Conduct_Users - this applies to ALL users!
+Dec 11 14:29:47 -Global-	[Random News - Mar 08 2005] Having problems connecting to irc.furnet.org? Use irc.furnet.info instead (this is a backup dns name - irc.furnet.org always is the most current)
+Dec 11 14:31:29 -NickServ-	A passcode has been sent to frdrcv@protonmail.com, please type /msg NickServ confirm <passcode> to complete registration
+Dec 11 14:32:09 >NickServ<	confirm GyFekCAZp
+Dec 11 14:32:09 -NickServ-	Nickname alako registered under your account: *bgdnvst@24.48.32.*
+Dec 11 14:46:16 *	Pas de réponse au ping pendant 820 secondes, déconnexion.
+Dec 11 14:46:16 *	Déconnecté ()
+Dec 11 14:46:26 *	Recherche de irc.furnet.org
+Dec 11 14:46:26 *	Connexion à irc.furnet.org (65.49.60.64 :6697)
+Dec 11 14:46:27 *	* Subject: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Root Certificate Authority/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Issuer: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Root Certificate Authority/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Subject: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Root Certificate Authority/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Issuer: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Root Certificate Authority/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Subject: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Certificate Issuer/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Issuer: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Root Certificate Authority/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Subject: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Certificate Issuer/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Issuer: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Root Certificate Authority/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Subject: /C=US/ST=California/O=Furnet IRC Network/OU=IRC Servers/CN=wolf.furnet.org/emailAddress=wolf@foxxz.net
+Dec 11 14:46:27 *	* Issuer: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Certificate Issuer/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Subject: /C=US/ST=California/O=Furnet IRC Network/OU=IRC Servers/CN=wolf.furnet.org/emailAddress=wolf@foxxz.net
+Dec 11 14:46:27 *	* Issuer: /C=AU/ST=Victoria/O=Furnet IRC Network/OU=Certificate Authority/CN=Furnet IRC Network Certificate Issuer/emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	* Certification info:
+Dec 11 14:46:27 *	  Subject:
+Dec 11 14:46:27 *	    C=US
+Dec 11 14:46:27 *	    ST=California
+Dec 11 14:46:27 *	    O=Furnet IRC Network
+Dec 11 14:46:27 *	    OU=IRC Servers
+Dec 11 14:46:27 *	    CN=wolf.furnet.org
+Dec 11 14:46:27 *	    emailAddress=wolf@foxxz.net
+Dec 11 14:46:27 *	  Issuer:
+Dec 11 14:46:27 *	    C=AU
+Dec 11 14:46:27 *	    ST=Victoria
+Dec 11 14:46:27 *	    O=Furnet IRC Network
+Dec 11 14:46:27 *	    OU=Certificate Authority
+Dec 11 14:46:27 *	    CN=Furnet IRC Network Certificate Issuer
+Dec 11 14:46:27 *	    emailAddress=tursiae@coyote.furnet.org
+Dec 11 14:46:27 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:46:27 *	  Sign algorithm sha1WithRSAEncryption
+Dec 11 14:46:27 *	  Valid since Nov  7 17:35:23 2009 GM to Nov  7 17:35:23 2012 GM
+Dec 11 14:46:27 *	* Cipher info:
+Dec 11 14:46:27 *	  Version: TLSv1/SSLv3, cipher AES256-SHA (256 bits)
+Dec 11 14:46:27 *	* Verify E: certificate has expired.? (10) -- Ignored
+Dec 11 14:46:27 *	Connecté. Maintenant entrons...
+Dec 11 14:46:27 *	*** Looking up your hostname...
+Dec 11 14:46:27 *	*** Couldn't resolve your hostname; using your IP address instead
+Dec 11 14:46:27 *	*** Checking ident...
+Dec 11 14:46:38 *	*** No ident response; username prefixed with ~
+Dec 11 14:46:58 *	*** Couldn't resolve your hostname; using your IP address instead
+Dec 11 14:46:58 *	Autorisations disponibles :account-notify away-notify multi-prefix tls userhost-in-names
+Dec 11 14:46:58 *	Autorisations demandées :account-notify away-notify multi-prefix userhost-in-names 
+Dec 11 14:46:59 *	Autorisations bien reçues : account-notify away-notify multi-prefix userhost-in-names 
+**** FIN DU JOURNAL À Sun Dec 11 14:47:00 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:47:00 2016
+
+Dec 11 14:47:00 *	Welcome to the FurNet IRC Network alako!~bgdnvst@24.48.32.238
+Dec 11 14:47:00 *	Your host is wolf.furnet.org, running version Unreal3.2.10.2
+Dec 11 14:47:00 *	This server was created Mon Dec 2 2013 at 19:55:07 EST
+Dec 11 14:47:00 *	wolf.furnet.org Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+Dec 11 14:47:00 *	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+Dec 11 14:47:00 *	WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=FurNet CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+Dec 11 14:47:00 *	EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+Dec 11 14:47:00 *	*** You are connected to wolf.furnet.org with TLSv1-AES256-SHA-256bits
+Dec 11 14:47:00 *	There are 626 users and 1257 invisible on 9 servers
+Dec 11 14:47:00 *	15 :operator(s) online
+Dec 11 14:47:00 *	2 :unknown connection(s)
+Dec 11 14:47:00 *	1099 :channels formed
+Dec 11 14:47:00 *	I have 286 clients and 1 servers
+Dec 11 14:47:00 *	286 1013 :Current local users 286, max 1013
+Dec 11 14:47:00 *	1883 6083 :Current global users 1883, max 6083
+Dec 11 14:47:00 *	- wolf.furnet.org Message of the Day - 
+Dec 11 14:47:00 *	- 24/8/2008 19:50
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	-    .           .          *          :      |/
+Dec 11 14:47:00 *	-  ###### ##  ##  #####   ##  ##  ###### ######-
+Dec 11 14:47:00 *	-  ##   * ##  ##  ##  ##  ### ##  ##    .  ##
+Dec 11 14:47:00 *	-  ####   ##  ## *#####   ######  ####     ##
+Dec 11 14:47:00 *	-  ##  .  ##  ##  ## ## + ## ###  ##   *  .##
+Dec 11 14:47:00 *	-  ##      #### : ##  ##  ##  ##  ######   ##
+Dec 11 14:47:00 *	-        *                    .    *
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Server:     wolf.furnet.org (65.49.60.64)
+Dec 11 14:47:00 *	- Ports:      6667
+Dec 11 14:47:00 *	- SSL Ports:  6697
+Dec 11 14:47:00 *	- Location:   Fremont,CA USA
+Dec 11 14:47:00 *	- Admin:      ZetaWolf
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Other FurNet-servers:
+Dec 11 14:47:00 *	-   alicorn.furnet.org      Australia
+Dec 11 14:47:00 *	-   panther.furnet.org      Frankfurt, Germany
+Dec 11 14:47:00 *	-   kinglion.furnet.org     Vienna, Austria
+Dec 11 14:47:00 *	-   lynx.furnet.org         Nuernberg, Germany
+Dec 11 14:47:00 *	-   foxtaur.furnet.org      Baltimore, Maryland USA
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Regional DNS rotated servers:
+Dec 11 14:47:00 *	-   irc.furnet.org    World     all servers
+Dec 11 14:47:00 *	-   eu.furnet.org     Europe    panther, kinglion, and lynx
+Dec 11 14:47:00 *	-   us.irc.furnet.org USA       foxtaur and wolf
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Server Name      Operator's nick:
+Dec 11 14:47:00 *	-   Panther          Hurga
+Dec 11 14:47:00 *	-   Alicorn          Snowpony
+Dec 11 14:47:00 *	-   Wolf             ZetaWolf
+Dec 11 14:47:00 *	-   Kinglion         Taibu
+Dec 11 14:47:00 *	-   Lynx             Eisfuchs
+Dec 11 14:47:00 *	-   Foxtaur          Foxxz
+Dec 11 14:47:00 *	-   Wolf             ZetaWolf
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Furnet channel registration, mailing list, and more can be
+Dec 11 14:47:00 *	- found by visiting:
+Dec 11 14:47:00 *	- http://www.furnet.org/
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- This server checks if you're using an insecure proxy. If you see any
+Dec 11 14:47:00 *	- connections on various ports from opm.furnet.org (120.88.64.56)
+Dec 11 14:47:00 *	- please disregard it, as it is the detector in action.  See
+Dec 11 14:47:00 *	- http://www.furnet.org for information about our proxy policy.
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- If you are having server problems please contact the Furnet admins
+Dec 11 14:47:00 *	- (ATTN: ZetaWolf) via the mail form located at:
+Dec 11 14:47:00 *	- http://www.furnet.org/
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Web IRC interfaces: Please do not provide them specifically for
+Dec 11 14:47:00 *	- connecting to FurNet. If a web interface is required see #FurNet
+Dec 11 14:47:00 *	- and inquire there for one.
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- This Server provides Hostmasking /mode nick (+x -x) to toggle this
+Dec 11 14:47:00 *	- This hostmask is only available on wolf.furnet.org but will still
+Dec 11 14:47:00 *	- be masked on ALL furnet servers and channels. If you choose NOT
+Dec 11 14:47:00 *	- to use a hostmask type /mode <nickname> -x or use one of the other
+Dec 11 14:47:00 *	- Servers listed above.
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- Rules:
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- * NO Excessive Connections (Commonly known as cloning)
+Dec 11 14:47:00 *	- * NO War Bots or War Scripts (Ask before running ANY bot)
+Dec 11 14:47:00 *	- * NO Mass Advertising
+Dec 11 14:47:00 *	- * NO Nuking or DoS (Denial of Services) attacks
+Dec 11 14:47:00 *	- * NO Harrassment of fellow users
+Dec 11 14:47:00 *	- * NO Illegal Activity
+Dec 11 14:47:00 *	- * NO Flooding
+Dec 11 14:47:00 *	- * Please USE common sense.
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- See http://www.furnet.org/index.php?page=Documentation for a full list 
+Dec 11 14:47:00 *	- of Furnet
+Dec 11 14:47:00 *	- Policy.  By connecting to this network you agree to be bound to these
+Dec 11 14:47:00 *	- Rules of Conduct. FurNet administration or their agents reserve the 
+Dec 11 14:47:00 *	- right
+Dec 11 14:47:00 *	- to refuse access to any user on any FurNet server. 
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- *** IMPORTANT NOTICE***
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- By connecting to FurNet IRC and or any of its services you agree That
+Dec 11 14:47:00 *	- you are connecting to FurNet IRC at your own free will with no 
+Dec 11 14:47:00 *	- guarentee
+Dec 11 14:47:00 *	- or promise of service. FurNet IRC is NOT responsible for any damages 
+Dec 11 14:47:00 *	- incured
+Dec 11 14:47:00 *	- while visting FurNet IRC and you do so at your own risk. Though we try 
+Dec 11 14:47:00 *	- to
+Dec 11 14:47:00 *	- keep users up to day with known security issues, it is the users 
+Dec 11 14:47:00 *	- responsibility
+Dec 11 14:47:00 *	- to make sure his/her Machine is secure.
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- FurNet can contain mature material.  Users under 18 should only
+Dec 11 14:47:00 *	- use this service under the supervision of an adult.  Some channels may
+Dec 11 14:47:00 *	- contain offensive material.  There are many channels that may be
+Dec 11 14:47:00 *	- offensive or illegal in your country/state.  Do not enter channels
+Dec 11 14:47:00 *	- that are illegal in your home town.  All TOPICS should be kept clean
+Dec 11 14:47:00 *	- and PG-13 rated.
+Dec 11 14:47:00 *	- 
+Dec 11 14:47:00 *	- If you have IRC-related problems, you can get help on #FurNet.
+Dec 11 14:47:00 *	- Please do not idle on #FurNet if no one is available at that moment
+Dec 11 14:47:00 *	- please leave your message on the channel and someone will get back 
+Dec 11 14:47:00 *	- to you as soon as possible.
+Dec 11 14:47:00 *	End of /MOTD command.
+Dec 11 14:47:00 *	alako a mis le mode +i sur alako
+Dec 11 14:47:00 *	alako a mis le mode +w sur alako
+Dec 11 14:47:00 *	alako a mis le mode +x sur alako
+Dec 11 14:47:00 *	alako a mis le mode +z sur alako
+Dec 11 14:47:00 -Global-	[Logon News - Oct 29 2014] Have you read the Code of Conduct for Users? Go to http://www.furnet.org/wiki/index.php/Code_Of_Conduct_Users - this applies to ALL users!
+Dec 11 14:47:00 -Global-	[Random News - Mar 08 2005] Having problems connecting to irc.furnet.org? Use irc.furnet.info instead (this is a backup dns name - irc.furnet.org always is the most current)
+Dec 11 14:47:00 -NickServ-	This nickname is registered and protected.  If it is your
+Dec 11 14:47:00 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Dec 11 14:47:00 -NickServ-	please choose a different nick.
+Dec 11 14:53:05 *	Pas de réponse au ping pendant 398 secondes, déconnexion.
+Dec 11 14:53:05 *	Déconnecté ()
+Dec 11 14:53:15 *	Recherche de irc.furnet.org
+Dec 11 14:53:15 *	Connexion à irc.furnet.org (119.9.41.53 :6697)
+Dec 11 14:53:16 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 11 14:53:16 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 11 14:53:16 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 11 14:53:16 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 11 14:53:16 *	* Subject: /CN=alicorn.furnet.org
+Dec 11 14:53:16 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 11 14:53:16 *	* Certification info:
+Dec 11 14:53:16 *	  Subject:
+Dec 11 14:53:16 *	    CN=alicorn.furnet.org
+Dec 11 14:53:16 *	  Issuer:
+Dec 11 14:53:16 *	    C=US
+Dec 11 14:53:16 *	    O=Let's Encrypt
+Dec 11 14:53:16 *	    CN=Let's Encrypt Authority X3
+Dec 11 14:53:16 *	  Public key algorithm: rsaEncryption (2048 bits)
+Dec 11 14:53:16 *	  Sign algorithm sha256WithRSAEncryption
+Dec 11 14:53:16 *	  Valid since Sep 30 15:03:00 2016 GM to Dec 29 15:03:00 2016 GM
+Dec 11 14:53:16 *	* Cipher info:
+Dec 11 14:53:16 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Dec 11 14:53:16 *	* Verify E: Failed to validate hostname? (-1) -- Ignored
+Dec 11 14:53:16 *	Connecté. Maintenant entrons...
+Dec 11 14:53:16 *	*** Looking up your hostname...
+Dec 11 14:53:16 *	*** Checking ident...
+Dec 11 14:53:17 *	*** Couldn't resolve your hostname; using your IP address instead
+Dec 11 14:53:26 *	*** No ident response; username prefixed with ~
+Dec 11 14:53:26 *	Autorisations disponibles :account-notify away-notify multi-prefix tls userhost-in-names
+Dec 11 14:53:26 *	Autorisations demandées :account-notify away-notify multi-prefix userhost-in-names 
+Dec 11 14:53:27 *	Autorisations bien reçues : account-notify away-notify multi-prefix userhost-in-names 
+Dec 11 14:53:27 *	Réception d'un CTCP VERSION de IRC
+**** FIN DU JOURNAL À Sun Dec 11 14:53:27 2016
+
+**** DÉBUT DU JOURNAL À Sun Dec 11 14:53:27 2016
+
+Dec 11 14:53:27 *	Welcome to the FurNet IRC Network alako!~bgdnvst@24.48.32.238
+Dec 11 14:53:27 *	Your host is alicorn.furnet.org, running version Unreal3.2.10.6
+Dec 11 14:53:27 *	This server was created Sat Dec 12 2015 at 16:13:29 AEST
+Dec 11 14:53:27 *	alicorn.furnet.org Unreal3.2.10.6 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+Dec 11 14:53:27 *	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+Dec 11 14:53:27 *	WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=FurNet CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+Dec 11 14:53:27 *	EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+Dec 11 14:53:27 *	*** You are connected to alicorn.furnet.org with TLSv1.2-AES256-GCM-SHA384-256bits
+Dec 11 14:53:27 *	There are 631 users and 1261 invisible on 9 servers
+Dec 11 14:53:27 *	15 :operator(s) online
+Dec 11 14:53:27 *	1102 :channels formed
+Dec 11 14:53:27 *	I have 204 clients and 0 servers
+Dec 11 14:53:27 *	204 500 :Current local users 204, max 500
+Dec 11 14:53:27 *	1892 6083 :Current global users 1892, max 6083
+Dec 11 14:53:27 *	- alicorn.furnet.org Message of the Day - 
+Dec 11 14:53:27 *	- 26/12/2014 11:56
+Dec 11 14:53:27 *	- Welcome to...
+Dec 11 14:53:27 *	-   ______,_,
+Dec 11 14:53:27 *	-  =_=_=_= \ \      ,%%%,
+Dec 11 14:53:27 *	-   = = = \ \ \    ,%%%` %==-- Alicorn.FurNet.Org
+Dec 11 14:53:27 *	-    = = = = \ \  ,%%`( '|     Ports:      6666-6669,7000 & SSL on 6697
+Dec 11 14:53:27 *	-     =_=_=_\ \ \,%%@ /\_/     Location:   Sydney, NSW AU
+Dec 11 14:53:27 *	-      ,%.-"""-\%%% "@@__      Admins:     Snowpony
+Dec 11 14:53:27 *	-     %%/             |__`\                Stephen
+Dec 11 14:53:27 *	-   ,%%'\     |   \   /  //                admin@alicorn.furnet.org
+Dec 11 14:53:27 *	-  ,%%%'_>   .'----\ /  [/     User limit: 1000
+Dec 11 14:53:27 *	-  %,%'__\  /`[.____/
+Dec 11 14:53:27 *	-   [,__.__/
+Dec 11 14:53:27 *	-  [/
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- Other FurNet Servers: (Ports 6667 and 7000 + SSL port 6697)
+Dec 11 14:53:27 *	-  coyote.furnet.org    Singapore City, Singapore
+Dec 11 14:53:27 *	-  foxtaur.furnet.org   Baltimore, MD USA
+Dec 11 14:53:27 *	-  greylion.furnet.org  Vienna, Austria
+Dec 11 14:53:27 *	-  lynx.furnet.org      Nuernberg, Germany
+Dec 11 14:53:27 *	-  panther.furnet.org   Frankfurt, Germany
+Dec 11 14:53:27 *	-  wolf.furnet.org      Fremont, CA USA
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- FurNet User's mailing list now available.  Go to
+Dec 11 14:53:27 *	- http://greylion.furnet.org/mailman/listinfo/furnet-users
+Dec 11 14:53:27 *	- to subscribe.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- For more information about FurNet, refer to
+Dec 11 14:53:27 *	- http://www.furnet.org/
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- NOTE: Alicorn does not accept any connection from CHINA due to 
+Dec 11 14:53:27 *	- the amount of hack attempts that come from this region - apologies!
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- This server checks if you're using an insecure proxy. If you see any
+Dec 11 14:53:27 *	- connections on various ports (including 23, 1080, 3128 or 8080) from 
+Dec 11 14:53:27 *	- opm.furnet.org (203.55.174.174) please disregard it, as it is the
+Dec 11 14:53:27 *	- detector in action.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- Please USE common sense.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- See http://www.furnet.org/wiki/index.php/Code_Of_Conduct_Users for
+Dec 11 14:53:27 *	- the User Code of Conduct.  By connecting to this network you agree to
+Dec 11 14:53:27 *	- be bound to this and all other polices listed on the website.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- If you have IRC-related problems, you can get help on #furnet.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- IMPORTANT NOTICE
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- By connecting to FurNet IRC or any of its services you agree that you
+Dec 11 14:53:27 *	- are connecting to FurNet IRC at your own free will with no guarentee
+Dec 11 14:53:27 *	- f delivery of service.  FurNet IRC is NOT responsible for any damages
+Dec 11 14:53:27 *	- incured while visting FurNet IRC and you do so at your own risk.
+Dec 11 14:53:27 *	- Though we try to keep users up to day with known security and privacy
+Dec 11 14:53:27 *	- issues, it is the users responsibility to make sure their machine and
+Dec 11 14:53:27 *	- privacy is secure.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- FurNet can contain mature material.  Users under 18 should only
+Dec 11 14:53:27 *	- use this service under the supervision of an adult.  Some channels may
+Dec 11 14:53:27 *	- contain offensive material.  There are many channels that may be
+Dec 11 14:53:27 *	- offensive or illegal in your country/state.  Do not enter channels
+Dec 11 14:53:27 *	- that are illegal in your home town.  All TOPICS should be kept clean
+Dec 11 14:53:27 *	- and PG-13 rated.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- Limitation of Liablity
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- FurNet total aggregate liablity for any claim in negligence or
+Dec 11 14:53:27 *	- otherwise arising out of or in connection to the FurNet network
+Dec 11 14:53:27 *	- shall be limited to the charges paid for utilising FurNet (currently
+Dec 11 14:53:27 *	- ZERO US dollars).
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- In any event no claim shall be brought unless you have notified Furnet
+Dec 11 14:53:27 *	- of the claim within 6 months of it arising.
+Dec 11 14:53:27 *	- 
+Dec 11 14:53:27 *	- In no event shall FurNet ever be liable to you for any loss of business,
+Dec 11 14:53:27 *	- contracts, profits or anticipated savings or for any other indirect or
+Dec 11 14:53:27 *	- consequential or economic loss whatsoever.
+Dec 11 14:53:27 *	End of /MOTD command.
+Dec 11 14:53:27 *	alako a mis le mode +i sur alako
+Dec 11 14:53:27 *	alako a mis le mode +w sur alako
+Dec 11 14:53:27 *	alako a mis le mode +x sur alako
+Dec 11 14:53:27 *	alako a mis le mode +z sur alako
+Dec 11 14:53:27 -Global-	[Logon News - Oct 29 2014] Have you read the Code of Conduct for Users? Go to http://www.furnet.org/wiki/index.php/Code_Of_Conduct_Users - this applies to ALL users!
+Dec 11 14:53:27 -Global-	[Random News - Oct 25 2004] Services Tip #3: Have services msg you rather than notice.. /msg nickserv set msg on
+Dec 11 14:53:28 -NickServ-	This nickname is registered and protected.  If it is your
+Dec 11 14:53:28 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Dec 11 14:53:28 -NickServ-	please choose a different nick.
+**** FIN DU JOURNAL À Sun Dec 11 14:53:32 2016
+

@@ -1,0 +1,12 @@
+T 1479161833 18<sly007>	allo
+T 1479161844 31<nrfrd>30	Hey
+T 1479161846 31<nrfrd>30	ça va?
+T 1479161851 18<sly007>	oui toi
+T 1479161875 31<nrfrd>30	Yep, pas mal
+T 1479161881 31<nrfrd>30	Tu cherches quoi?
+T 1479161890 18<sly007>	plaisir toi
+T 1479161915 18<sly007>	toi
+T 1479161943 31<nrfrd>30	Je venais voir si c'était mort IRC et ce channel, je ne pourrais pas vraiment t'aider niveau plaisir :P
+T 1479162006 31<nrfrd>30	Je vais te laisser là-dessus, bonne soirée et bonne chance dans ta recherche :)
+T 1479162049 Python interface unloaded
+T 1479162049 Tcl interface unloaded

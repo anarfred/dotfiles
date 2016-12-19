@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/anarfred/Dropbox/universite/automne2014/methodologie_en_geographie/critique'
-let g:netrw_dirhist_2='/home/anarfred/Dropbox/universite/automne2014/methodologie_en_geographie/critique/b'
-let g:netrw_dirhist_3='/home/nrfrd/.mpdconf'
-let g:netrw_dirhist_4='/home/nrfrd/.oh-my-zsh'
-let g:netrw_dirhist_5='/home/nrfrd/.mpdconf'
-let g:netrw_dirhist_6='/home/nrfrd/.mpd'

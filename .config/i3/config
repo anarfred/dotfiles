@@ -1,0 +1,333 @@
+# i3 config file (v4)
+#
+# Please see http://i3wm.org/docs/userguide.html for a complete reference!
+
+set $mod Mod4
+#set $mod Control
+set $alt Mod1
+
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+#font pango: Nimbus Sans regular 8
+# font pango:cantarell 8
+#font pango:Source Code Pro for Powerline Regular 8
+font pango:PragmataPro for Powerline Regular 8
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# start a terminal
+# bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec gnome-terminal
+
+# kill focused window
+bindsym $mod+Shift+q kill
+
+# start dmenu (a program launcher)# {{{
+# bindsym $mod+d exec dmenu_run
+# There also is the (new) i3-dmenu-desktop which only displays applications
+# shipping a .desktop file. It is a wrapper around dmenu, so you need that
+# installed.
+# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+
+# bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 70 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "Nimbus Sans L Regular 16"
+bindsym $mod+d exec rofi -show combi
+bindsym $mod+o exec /home/nrfrd/.config/i3/monitor_layout.sh
+# bindsym $mod+Shift+o exec /home/nrfrd/.config/i3/rofi_scripts/cht.sh
+bindsym $mod+m exec /home/nrfrd/bin/rofi-scripts/rofi-surfraw/rofi-surfraw #-run-command qutebrowser
+bindsym $mod+Shift+m exec /home/nrfrd/bin/buku_run/buku_run #-run-command qutebrowser
+bindsym $mod+Tab exec --no-startup-id rofi -show window
+
+# }}}
+
+# change focus {{{
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
+
+# Change focus with tmux
+#bindsym $alt+h exec --no-startup-id i3-focus left
+#bindsym $alt+j exec --no-startup-id i3-focus down
+#bindsym $alt+k exec --no-startup-id i3-focus up
+#bindsym $alt+l exec --no-startup-id i3-focus right
+
+#set $focus exec --no-startup-id ~/bin/i3-focus.py
+#bindsym $mod+h $focus left
+#bindsym $mod+j $focus down
+#bindsym $mod+k $focus up
+#bindsym $mod+l $focus right
+
+# alternatively, you can use the cursor keys:
+# bindsym $mod+Left focus left
+# bindsym $mod+Down focus down
+# bindsym $mod+Up focus up
+# bindsym $mod+Right focus right
+# }}}
+
+# Position des fenêtres
+bindsym $mod+Left exec xrandr --output VGA1 --auto --left-of LVDS1
+bindsym $mod+Down exec xrandr --output VGA1 --off
+bindsym $mod+Up exec xrandr --output VGA1 --auto --above LVDS1
+bindsym $mod+Right exec xrandr --output VGA1 --auto --right-of LVDS1
+
+# move focused window {{{
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+l move right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+# }}}
+
+# splitting {{{
+# split in horizontal orientation
+bindsym $mod+b split h
+
+# split in vertical orientation
+bindsym $mod+v split v
+# }}}
+
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+
+# focus the parent container
+bindsym $mod+a focus parent
+
+# focus the child container
+bindsym $mod+c focus child
+
+## setting variables {{{
+set $ws1 1 · 
+set $ws2 2 · 
+set $ws3 3 · 
+set $ws4 4 · 
+set $ws5 5 · 
+set $ws6 6 · 
+set $ws7 7 · 
+set $ws8 8 · 
+set $ws9 9 · 
+set $ws0 10 · 
+# }}}
+
+# switch to workspace {{{
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+bindsym $mod+0 workspace $ws0
+# }}}
+
+# # Multi-monitor {{{
+# workspace "$ws1" output VGA1
+# workspace "$ws2" output LVDS1
+# workspace "$ws3" output VGA1
+# workspace "$ws4" output VGA1
+# workspace "$ws5" output VGA1
+# workspace "$ws6" output VGA1
+# workspace "$ws7" output LVDS1
+# workspace "$ws8" output LVDS1
+# workspace "$ws9" output LVDS1
+# workspace "$ws0" output VGA1
+# }}}
+
+# move focused container to workspace {{{
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9
+bindsym $mod+Shift+0 move container to workspace $ws0
+# }}}
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+
+# resize window (you can also use the mouse for that) {{{
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym h resize shrink width 10 px or 10 ppt
+        bindsym j resize grow height 10 px or 10 ppt
+        bindsym k resize shrink height 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+} #}}}
+
+bindsym $mod+r mode "resize"
+
+### Handy Menu Mode ### {{{
+set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
+mode "mode_system" {
+	bindsym l exec --no-startup-id $Locker, mode "default"
+	bindsym e exec --no-startup-id pkill lemonbar && i3-msg exit, mode "default"
+	bindsym s exec --no-startup-id $Locker && systemctl suspend, mode "default"
+	bindsym h exec --no-startup-id $Locker && systemctl hibernate, mode "default"
+	bindsym r exec --no-startup-id systemctl reboot, mode "default"
+	bindsym Shift+s exec --no-startup-id systemctl poweroff -i, mode "default"
+
+	## back to normal: Enter or Escape
+	bindsym Return mode "default"
+	bindsym Escape mode "default"
+}
+
+bindsym $mod+Shift+p mode "mode_system"
+bindsym $mod+End mode "mode_system"
+bindsym XF86Tools mode "$mode_system"
+### End Handy Menu Mode ### }}}
+
+# Personnalisation supplémentaire
+bindsym $mod+t exec /home/nrfrd/bin/j4-themer -i
+
+# scratchpad
+bindsym $mod+Shift+minus move scratchpad
+bindsym $mod+minus scratchpad show
+
+# Toggle movement
+bindsym $mod+z workspace back_and_forth
+bindsym $mod+Shift+z move container to workspace back_and_forth
+
+# Navigate between workspaces
+bindsym $mod+n workspace next
+bindsym $mod+p workspace prev
+
+# Change Desktops to other monitor
+bindsym $mod+x move workspace to output right
+
+# Raccourcis pour la gestion de la luminosité de l'écran bindsym XF86MonBrightnessUp exec xbacklight -inc 10
+bindsym XF86MonBrightnessDown exec xbacklight -dec 10
+bindsym XF86MonBrightnessUp exec xbacklight -inc 10
+
+# Raccourcis pour la gestion du volume
+bindsym XF86AudioRaiseVolume exec amixer set Master 5%+ unmute
+bindsym XF86AudioLowerVolume exec amixer set Master 5%- unmute
+
+# MPD controls
+bindsym XF86AudioPlay exec mpc toggle
+bindsym XF86AudioNext exec mpc next
+bindsym XF86AudioPrev exec mpc prev
+
+# Verrouille avec i3lock
+#bindsym XF86ScreenSaver exec i3lock
+bindsym XF86ScreenSaver exec i3lock-extra -s -p -P 4 -o /home/nrfrd/.lock.png 
+#exec xautolock -time 10 -locker 'i3lock-extra -s -p -P 4 -o /home/nfrd/.lock.png' &  
+
+# Gestion des espaces# {{{
+# for_window [class="^.*"] border pixel 2 # Enlève les titres
+# for_window [class="^.*"] border pixel 2 # Enlève les titres
+# gaps inner 5 # Espaces par défaut
+# 
+# set $mode_gaps Gaps: (o) outer, (i) inner
+# set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
+# set $mode_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)
+# bindsym $mod+Shift+g mode "$mode_gaps"
+# 
+# mode "$mode_gaps" {
+#         bindsym o      mode "$mode_gaps_outer"
+#         bindsym i      mode "$mode_gaps_inner"
+#         bindsym Return mode "default"
+#         bindsym Escape mode "default"
+# }
+# 
+# mode "$mode_gaps_inner" {
+#         bindsym plus  gaps inner current plus 5
+#         bindsym minus gaps inner current minus 5
+#         bindsym 0     gaps inner current set 0
+# 
+#         bindsym Shift+plus  gaps inner all plus 5
+#         bindsym Shift+minus gaps inner all minus 5
+#         bindsym Shift+0     gaps inner all set 0
+# 
+#         bindsym Return mode "default"
+#         bindsym Escape mode "default"
+# }
+# mode "$mode_gaps_outer" {
+#         bindsym plus  gaps outer current plus 5
+#         bindsym minus gaps outer current minus 5
+#         bindsym 0     gaps outer current set 0
+# 
+#         bindsym Shift+plus  gaps outer all plus 5
+#         bindsym Shift+minus gaps outer all minus 5
+#         bindsym Shift+0     gaps outer all set 0
+# 
+#         bindsym Return mode "default"
+#         bindsym Escape mode "default"
+# }# }}}
+
+# Start i3bar to display a workspace bar (plus the system information i3status# {{{
+# finds out, if available)
+#
+new_window pixel 2
+new_float pixel 2
+
+# Hybrid colors
+set $back               #1d1F21
+set $black              #282A2E
+set $grey               #373B41
+set $lightgrey          #707880
+set $white              #C5C8C6
+set $yellow             #F0C674
+set $red                #CC6666
+set $darkred            #A54242
+set $green              #B5BD56
+
+#class                  border      backgr.     text        split
+client.focused          $green     $green       $black      $red
+client.focused_inactive $grey       $grey       $lightgrey  $grey
+client.unfocused        $grey       $grey       $lightgrey  $grey
+client.urgent           $red        $red        $black      $red
+client.background       $back
+
+bar {
+    i3bar_command ~/.config/i3/lemonbar/i3_lemonbar.sh
+}
+# }}}
+
+# Assignations
+for_window [class="Keepassx2"] move scratchpad
+
+# Autostart# {{{
+exec_always feh --bg-scale /home/nrfrd/.wallpaper
+exec_always /home/nrfrd/.config/i3/i3start.sh
+# }}}
