@@ -613,3 +613,158 @@ Dec 11 14:53:42 Checksum plugin unloaded
 Dec 11 14:53:42 Greffon Sysinfo déchargé
 **** FIN DU JOURNAL À Sun Dec 11 14:53:42 2016
 
+**** DÉBUT DU JOURNAL À Tue Dec 20 16:21:32 2016
+
+déc 20 16:21:32 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+déc 20 16:21:32 *	Your host is tepper.freenode.net[192.186.157.43/6697], running version ircd-seven-1.1.4
+déc 20 16:21:32 *	This server was created Thu Sep 22 2016 at 20:50:06 UTC
+déc 20 16:21:32 *	tepper.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+déc 20 16:21:32 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+déc 20 16:21:32 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+déc 20 16:21:32 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+déc 20 16:21:32 *	There are 138 users and 87181 invisible on 29 servers
+déc 20 16:21:32 *	33 :IRC Operators online
+déc 20 16:21:32 *	10 :unknown connection(s)
+déc 20 16:21:32 *	54490 :channels formed
+déc 20 16:21:32 *	I have 5346 clients and 1 servers
+déc 20 16:21:32 *	5346 11539 :Current local users 5346, max 11539
+déc 20 16:21:32 *	87319 92341 :Current global users 87319, max 92341
+déc 20 16:21:32 *	Highest connection count: 11540 (11539 clients) (958198 connections received)
+déc 20 16:21:32 *	- tepper.freenode.net Message of the Day - 
+déc 20 16:21:32 *	- Welcome to tepper.freenode.net in Buffalo, NY.
+déc 20 16:21:32 *	- Thanks to http://www.servermania.com/ for sponsoring
+déc 20 16:21:32 *	- this server!
+déc 20 16:21:32 *	-  
+déc 20 16:21:32 *	-  
+déc 20 16:21:32 *	- TEPPER, SHERI S. (1929-), an American science fiction,
+déc 20 16:21:32 *	- horror and mystery novel author, behind more than thirty
+déc 20 16:21:32 *	- books, many themed unapologetically eco-feminist. Her
+déc 20 16:21:33 *	- writing career started composing children's stories, but
+déc 20 16:21:33 *	- moved to adult fiction in 1982. With the 1991 novel
+déc 20 16:21:33 *	- 'Beauty' she won the Locus award for Best Fantasy Novel.
+déc 20 16:21:33 *	- Her other well-known works include 'Grass' (1989, nominated
+déc 20 16:21:33 *	- for Hugo and Locus Awards in 1990) and 'Gate to Women's
+déc 20 16:21:33 *	- Country' (1988).
+déc 20 16:21:33 *	-  
+déc 20 16:21:33 *	- Welcome to freenode - supporting the free and open source
+déc 20 16:21:33 *	- software communities since 1998.
+déc 20 16:21:33 *	-  
+déc 20 16:21:33 *	- By connecting to freenode you indicate that you have read and
+déc 20 16:21:33 *	- accept our policies as set out on http://www.freenode.net
+déc 20 16:21:33 *	- freenode runs an open proxy scanner. Please join #freenode for
+déc 20 16:21:33 *	- any network-related questions or queries, where a number of
+déc 20 16:21:33 *	- volunteer staff and helpful users will be happy to assist you.
+déc 20 16:21:33 *	-  
+déc 20 16:21:33 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+déc 20 16:21:33 *	- together with like-minded FOSS enthusiasts for talks and
+déc 20 16:21:33 *	- real-life collaboration.
+déc 20 16:21:33 *	-  
+déc 20 16:21:33 *	- We would like to thank Private Internet Access
+déc 20 16:21:33 *	- (https://www.privateinternetaccess.com/) and the other
+déc 20 16:21:33 *	- organisations that help keep freenode and our other projects
+déc 20 16:21:33 *	- running for their sustained support.
+déc 20 16:21:33 *	-  
+déc 20 16:21:33 *	- In particular we would like to thank the sponsor
+déc 20 16:21:33 *	- of this server, details of which can be found above.
+déc 20 16:21:33 *	-  
+déc 20 16:21:33 *	End of /MOTD command.
+déc 20 16:21:33 *	bgdnvst a mis le mode +Z sur bgdnvst
+déc 20 16:21:33 *	bgdnvst a mis le mode +i sur bgdnvst
+déc 20 16:21:33 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+déc 20 16:21:38 -NickServ-	You are now identified for bgdnvst.
+déc 20 18:38:24 *	Pas de réponse au ping pendant 3778 secondes, déconnexion.
+déc 20 18:38:24 *	Déconnecté ()
+déc 20 18:38:34 *	Recherche de chat.freenode.net
+déc 20 18:38:34 *	Connexion à chat.freenode.net (94.125.182.252 :6697)
+déc 20 18:38:35 *	* Subject: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+déc 20 18:38:35 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+déc 20 18:38:35 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+déc 20 18:38:35 *	* Issuer: /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+déc 20 18:38:35 *	* Subject: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+déc 20 18:38:35 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+déc 20 18:38:35 *	* Subject: /OU=Domain Control Validated/OU=Gandi Standard Wildcard SSL/CN=*.freenode.net
+déc 20 18:38:35 *	* Issuer: /C=FR/ST=Paris/L=Paris/O=Gandi/CN=Gandi Standard SSL CA 2
+déc 20 18:38:35 *	* Certification info:
+déc 20 18:38:35 *	  Subject:
+déc 20 18:38:35 *	    OU=Domain Control Validated
+déc 20 18:38:35 *	    OU=Gandi Standard Wildcard SSL
+déc 20 18:38:35 *	    CN=*.freenode.net
+déc 20 18:38:35 *	  Issuer:
+déc 20 18:38:35 *	    C=FR
+déc 20 18:38:35 *	    ST=Paris
+déc 20 18:38:35 *	    L=Paris
+déc 20 18:38:35 *	    O=Gandi
+déc 20 18:38:35 *	    CN=Gandi Standard SSL CA 2
+déc 20 18:38:35 *	  Public key algorithm: rsaEncryption (2048 bits)
+déc 20 18:38:35 *	  Sign algorithm sha256WithRSAEncryption
+déc 20 18:38:35 *	  Valid since Dec 14 00:00:00 2015 GM to Feb 16 23:59:59 2017 GM
+déc 20 18:38:35 *	* Cipher info:
+déc 20 18:38:35 *	  Version: TLSv1/SSLv3, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+déc 20 18:38:35 *	Connecté. Maintenant entrons...
+déc 20 18:38:35 *	*** Looking up your hostname...
+déc 20 18:38:35 *	*** Checking Ident
+déc 20 18:38:35 *	*** Couldn't look up your hostname
+déc 20 18:38:40 *	*** No Ident response
+déc 20 18:38:40 *	Autorisations disponibles :account-notify extended-join identify-msg multi-prefix sasl
+déc 20 18:38:40 *	Autorisations demandées :account-notify extended-join identify-msg multi-prefix 
+déc 20 18:38:40 *	Autorisations bien reçues : account-notify extended-join identify-msg multi-prefix 
+**** FIN DU JOURNAL À Tue Dec 20 18:38:41 2016
+
+**** DÉBUT DU JOURNAL À Tue Dec 20 18:38:41 2016
+
+déc 20 18:38:41 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+déc 20 18:38:41 *	Your host is adams.freenode.net[94.125.182.252/6697], running version ircd-seven-1.1.4
+déc 20 18:38:41 *	This server was created Thu Sep 22 2016 at 20:50:44 UTC
+déc 20 18:38:41 *	adams.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+déc 20 18:38:41 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+déc 20 18:38:41 *	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+déc 20 18:38:41 *	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+déc 20 18:38:41 *	There are 136 users and 83904 invisible on 29 servers
+déc 20 18:38:41 *	32 :IRC Operators online
+déc 20 18:38:41 *	9 :unknown connection(s)
+déc 20 18:38:41 *	54263 :channels formed
+déc 20 18:38:41 *	I have 7144 clients and 1 servers
+déc 20 18:38:41 *	7144 11421 :Current local users 7144, max 11421
+déc 20 18:38:41 *	84040 92341 :Current global users 84040, max 92341
+déc 20 18:38:41 *	Highest connection count: 11422 (11421 clients) (1185439 connections received)
+déc 20 18:38:41 *	- adams.freenode.net Message of the Day - 
+déc 20 18:38:41 *	- Welcome to adams.freenode.net. Thanks to ATW Internet Kft 
+déc 20 18:38:41 *	- (http://www.atw.hu) for sponsoring this server!
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	- ADAMS, DOUGLAS (1952-2001).  Author of The Hitch Hikers Guide
+déc 20 18:38:41 *	- to the Galaxy and many other witty and humourous books,
+déc 20 18:38:41 *	- portrayed in his uniquely British irony. He is sorely missed
+déc 20 18:38:41 *	- by many millions of devoted fans. "So long and thanks for all
+déc 20 18:38:41 *	- the books!"
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	- Welcome to freenode - supporting the free and open source
+déc 20 18:38:41 *	- software communities since 1998.
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	- By connecting to freenode you indicate that you have read and
+déc 20 18:38:41 *	- accept our policies as set out on http://www.freenode.net
+déc 20 18:38:41 *	- freenode runs an open proxy scanner. Please join #freenode for
+déc 20 18:38:41 *	- any network-related questions or queries, where a number of
+déc 20 18:38:41 *	- volunteer staff and helpful users will be happy to assist you.
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+déc 20 18:38:41 *	- together with like-minded FOSS enthusiasts for talks and
+déc 20 18:38:41 *	- real-life collaboration.
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	- We would like to thank Private Internet Access
+déc 20 18:38:41 *	- (https://www.privateinternetaccess.com/) and the other
+déc 20 18:38:41 *	- organisations that help keep freenode and our other projects
+déc 20 18:38:41 *	- running for their sustained support.
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	- In particular we would like to thank the sponsor
+déc 20 18:38:41 *	- of this server, details of which can be found above.
+déc 20 18:38:41 *	-  
+déc 20 18:38:41 *	End of /MOTD command.
+déc 20 18:38:41 *	bgdnvst a mis le mode +Z sur bgdnvst
+déc 20 18:38:41 *	bgdnvst a mis le mode +i sur bgdnvst
+déc 20 18:38:41 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+déc 20 18:38:46 -NickServ-	You are now identified for bgdnvst.
+déc 20 20:23:10 Checksum plugin unloaded
+déc 20 20:23:10 Python interface unloaded
+déc 20 20:23:10 Greffon Sysinfo déchargé
+**** FIN DU JOURNAL À Tue Dec 20 20:23:10 2016
+

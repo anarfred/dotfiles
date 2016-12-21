@@ -739,3 +739,171 @@ Dec 11 14:53:17 *	You are now logged in as bgdnvst
 Dec 11 14:53:42 Perl interface unloaded
 **** FIN DU JOURNAL À Sun Dec 11 14:53:42 2016
 
+**** DÉBUT DU JOURNAL À Tue Dec 20 16:21:28 2016
+
+déc 20 16:21:28 *	Welcome to the irchighway IRC Network bgdnvst!bgdnvst@modemcable025.170-22-96.mc.videotron.ca
+déc 20 16:21:28 *	Your host is perverted.ca.na.irchighway.net, running version InspIRCd-2.0
+déc 20 16:21:28 *	This server was created 01:27:41 Oct 16 2016
+déc 20 16:21:28 *	perverted.ca.na.irchighway.net InspIRCd-2.0 BIRSWiorswx ACIMNORSTabcehiklmnopqrstvz Iabehkloqv
+déc 20 16:21:28 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,l,ACMNORSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ACNORSTUcjmz FNC INVEX=I KICKLEN=255 :are supported by this server
+déc 20 16:21:28 *	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=irchighway NICKLEN=31 PREFIX=(qaohv)~&@%+ SILENCE=32 SSL=192.95.24.18:6697 STARTTLS :are supported by this server
+déc 20 16:21:28 *	STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+déc 20 16:21:28 *	564AAG6AS :your unique ID
+déc 20 16:21:28 *	perverted.ca.na.irchighway.net message of the day
+déc 20 16:21:28 *	- no bottler clients please
+déc 20 16:21:28 *	- -
+déc 20 16:21:28 *	- The staff welcomes you at perverted.ca.na.irchighway.net - The Red Light District
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- This server is part of the the IRCHighWay network. If you do not disconnect
+déc 20 16:21:28 *	- right now, you agree with this network's Acceptable Use Policy (AUP)
+déc 20 16:21:28 *	- which can be found at the following URL:
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- http://www.irchighway.net/rules
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- By connecting to this network you agree to have your host scanned
+déc 20 16:21:28 *	- for open proxies.
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- For more information about the IRCHighWay network, such as our Privacy Policy,
+déc 20 16:21:28 *	- you are welcome to visit our main website at http://www.irchighway.net/
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- Server Admin:       OO7      
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- Location : Beauharnois, QC, Canada
+déc 20 16:21:28 *	- Ports : 6660 to 6669 and 7000, as well as 6697 & 9999 for SSL.
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- We do not, and never will hire IRCops. So don't bother asking.
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- Bottler bots, Flood bots, Irc-Ork bots, Spam bots
+déc 20 16:21:28 *	- and all other abusive Bots will be Banned.
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- Non-abusive bots are tolerated, *NOT* supported.
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- We reserve the right to disconnect/ban any user from this server at any time
+déc 20 16:21:28 *	- for any reason. If you were banned (akilled) and you think that it was
+déc 20 16:21:28 *	- unjustified, feel free to email banned [at] irchighway.net. The ban will be
+déc 20 16:21:28 *	- reviewed, and may (or may not) be removed.
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- You might want to have a look at these channels:
+déc 20 16:21:28 *	-     #irchighway   - for general chat
+déc 20 16:21:28 *	-     #help         - official help Channel
+déc 20 16:21:28 *	-     #abuse        - for reporting abusive users
+déc 20 16:21:28 *	-     #vhost        - for vHost registration
+déc 20 16:21:28 *	-     #script       - for mIRC scripting help
+déc 20 16:21:28 *	- 
+déc 20 16:21:28 *	- Enjoy your stay!
+déc 20 16:21:28 *	End of message of the day.
+déc 20 16:21:28 *	There are 1442 users and 1134 invisible on 21 servers
+déc 20 16:21:28 *	36 :operator(s) online
+déc 20 16:21:28 *	1196 :channels formed
+déc 20 16:21:28 *	I have 214 clients and 1 servers
+déc 20 16:21:28 *	Current Local Users: 214  Max: 319
+déc 20 16:21:28 *	Current Global Users: 2576  Max: 2720
+déc 20 16:21:28 *	ihw-50v003.mc.videotron.ca :is now your displayed host
+déc 20 16:21:28 *	bgdnvst a mis le mode +x sur bgdnvst
+déc 20 16:21:28 *	*** You are connected using SSL cipher "ECDHE-RSA-AES-256-GCM-AEAD"
+déc 20 16:21:28 -NickServ-	This nickname is registered and protected.  If it is your
+déc 20 16:21:28 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+déc 20 16:21:28 -NickServ-	please choose a different nick.
+déc 20 16:21:28 -NickServ-	Password accepted - you are now recognized.
+déc 20 16:21:28 *	You are now logged in as bgdnvst
+déc 20 16:21:28 *	NickServ a mis le mode +r sur bgdnvst
+déc 20 18:38:24 *	Pas de réponse au ping pendant 3778 secondes, déconnexion.
+déc 20 18:38:24 *	Déconnecté ()
+déc 20 18:38:34 *	Recherche de irc.irchighway.net
+déc 20 18:38:34 *	Connexion à irc.irchighway.net (149.56.95.9 :6697)
+déc 20 18:38:35 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+déc 20 18:38:35 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+déc 20 18:38:35 *	* Subject: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+déc 20 18:38:35 *	* Issuer: /CN=irc.irchighway.net/OU=Routing Team/O=Irchighway/L=World/ST=World/C=World
+déc 20 18:38:35 *	* Certification info:
+déc 20 18:38:35 *	  Subject:
+déc 20 18:38:35 *	    CN=irc.irchighway.net
+déc 20 18:38:35 *	    OU=Routing Team
+déc 20 18:38:35 *	    O=Irchighway
+déc 20 18:38:35 *	    L=World
+déc 20 18:38:35 *	    ST=World
+déc 20 18:38:35 *	    C=World
+déc 20 18:38:35 *	  Issuer:
+déc 20 18:38:35 *	    CN=irc.irchighway.net
+déc 20 18:38:35 *	    OU=Routing Team
+déc 20 18:38:35 *	    O=Irchighway
+déc 20 18:38:35 *	    L=World
+déc 20 18:38:35 *	    ST=World
+déc 20 18:38:35 *	    C=World
+déc 20 18:38:35 *	  Public key algorithm: rsaEncryption (2048 bits)
+déc 20 18:38:35 *	  Sign algorithm sha256WithRSAEncryption
+déc 20 18:38:35 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+déc 20 18:38:35 *	* Cipher info:
+déc 20 18:38:35 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+déc 20 18:38:35 *	* Verify E: unable to verify the first certificate.? (21) -- Ignored
+déc 20 18:38:35 *	Connecté. Maintenant entrons...
+déc 20 18:38:35 *	*** Looking up your hostname...
+déc 20 18:38:35 *	*** Could not resolve your hostname: Domain name not found; using your IP address (24.48.32.238) instead.
+déc 20 18:38:35 *	Autorisations disponibles :multi-prefix sasl tls userhost-in-names away-notify extended-join account-notify
+déc 20 18:38:35 *	Autorisations demandées :multi-prefix userhost-in-names away-notify extended-join account-notify 
+déc 20 18:38:35 *	Autorisations bien reçues : multi-prefix userhost-in-names away-notify extended-join account-notify
+déc 20 18:38:36 *	Welcome to irchighway!
+déc 20 18:38:36 *	Welcome to the irchighway IRC Network bgdnvst!bgdnvst@24.48.32.238
+déc 20 18:38:36 *	Your host is eggbert.ca.na.irchighway.net, running version InspIRCd-2.0
+déc 20 18:38:36 *	This server was created 19:42:32 Nov  3 2016
+déc 20 18:38:36 *	eggbert.ca.na.irchighway.net InspIRCd-2.0 BIRSWiorswx ACIMNORSTabcehiklmnopqrstvz Iabehkloqv
+déc 20 18:38:36 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,l,ACMNORSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ACNORSTUcjmz FNC INVEX=I KICKLEN=255 :are supported by this server
+déc 20 18:38:36 *	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=irchighway NICKLEN=31 PREFIX=(qaohv)~&@%+ SILENCE=32 SSL=149.56.95.9:6697 STARTTLS :are supported by this server
+déc 20 18:38:36 *	STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+déc 20 18:38:36 *	98KAAC7GD :your unique ID
+déc 20 18:38:36 *	eggbert.ca.na.irchighway.net message of the day
+déc 20 18:38:36 *	- no bottler clients please
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- The staff welcomes you to eggbert.ca.na.irchighway.net
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- This server is part of the the IRCHighWay network. If you do not disconnect
+déc 20 18:38:36 *	- right now, you agree with this network's Acceptable Use Policy (AUP)
+déc 20 18:38:36 *	- which can be found at the following URL:
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- http://www.irchighway.net/rules                               
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- By connecting to this network you agree to have your host scanned
+déc 20 18:38:36 *	- for open proxies.                                                          
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- ~~ { Server Staff } ~~ 
+déc 20 18:38:36 *	- Server Admin:       eggy    <email: eggy [at] irchighway.net>
+déc 20 18:38:36 *	- Server-Co Admin:    RPG_Gamer  
+déc 20 18:38:36 *	- Global Operators:   Random, poiklers
+déc 20 18:38:36 *	- Local Operators:    Zilla
+déc 20 18:38:36 *	- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- We reserve the right to disconnect/ban any user from this server at any time
+déc 20 18:38:36 *	- for any reason. If you were banned (akilled) and you think that it was
+déc 20 18:38:36 *	- unjustified, feel free to email banned [at] irchighway.net. The ban will be
+déc 20 18:38:36 *	- reviewed, and may (or may not) be removed.
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- Location : Canada
+déc 20 18:38:36 *	- Ports : 6660 to 6669 and 7000, as well as 9999 and 6697 for SSL.
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- We do not, and never will hire IRCcops. So don't bother asking.
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- Bottler bots, Flood bots, Irc-Ork bots, Spam bots
+déc 20 18:38:36 *	- and all other abusive Bots will be Banned.
+déc 20 18:38:36 *	- Non-abusive bots are tolerated, *NOT* supported.
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- You might want to have a look at these channels:
+déc 20 18:38:36 *	- #irchighway   - for general chat
+déc 20 18:38:36 *	- #help         - official help Channel
+déc 20 18:38:36 *	- #abuse        - for reporting abusive users
+déc 20 18:38:36 *	- #vhost        - for vHost registration
+déc 20 18:38:36 *	- #idle-rpg     - Idle RPG
+déc 20 18:38:36 *	- 
+déc 20 18:38:36 *	- Enjoy your stay!
+déc 20 18:38:36 *	End of message of the day.
+déc 20 18:38:36 *	There are 1404 users and 1124 invisible on 21 servers
+déc 20 18:38:36 *	37 :operator(s) online
+déc 20 18:38:36 *	1196 :channels formed
+déc 20 18:38:36 *	I have 214 clients and 1 servers
+déc 20 18:38:36 *	Current Local Users: 214  Max: 238
+déc 20 18:38:36 *	Current Global Users: 2528  Max: 2720
+déc 20 18:38:36 *	ihw-eca.cna.48.24.IP :is now your displayed host
+déc 20 18:38:36 *	*** You are connected using SSL cipher "ECDHE-RSA-AES-256-GCM-AEAD"
+déc 20 18:38:36 *	You are now logged in as bgdnvst
+déc 20 20:23:10 Perl interface unloaded
+**** FIN DU JOURNAL À Tue Dec 20 20:23:10 2016
+

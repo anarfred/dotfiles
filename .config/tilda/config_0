@@ -1,6 +1,6 @@
 tilda_config_version="1.2.4"
 # command=""
-font="Inconsolata-g for Powerline Medium 9"
+font="PragmataPro for Powerline 9"
 key="<Super>numbersign"
 addtab_key="<Shift><Control>t"
 fullscreen_key="F11"

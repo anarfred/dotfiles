@@ -104,3 +104,37 @@ Dec 11 14:25:36 *	Autorisations bien reçues : multi-prefix userhost-in-names aw
 Dec 11 14:25:37 *	Welcome to irchighway!
 **** FIN DU JOURNAL À Sun Dec 11 14:25:37 2016
 
+**** DÉBUT DU JOURNAL À Tue Dec 20 16:21:25 2016
+
+déc 20 16:21:25 *	Recherche de irc.irchighway.net
+déc 20 16:21:26 *	Connexion à irc.irchighway.net (192.95.24.18 :6697)
+déc 20 16:21:27 *	* Certification info:
+déc 20 16:21:27 *	  Subject:
+déc 20 16:21:27 *	    CN=irc.irchighway.net
+déc 20 16:21:27 *	    OU=Routing Team
+déc 20 16:21:27 *	    O=Irchighway
+déc 20 16:21:27 *	    L=World
+déc 20 16:21:27 *	    ST=World
+déc 20 16:21:27 *	    C=World
+déc 20 16:21:27 *	  Issuer:
+déc 20 16:21:27 *	    CN=irc.irchighway.net
+déc 20 16:21:27 *	    OU=Routing Team
+déc 20 16:21:27 *	    O=Irchighway
+déc 20 16:21:27 *	    L=World
+déc 20 16:21:27 *	    ST=World
+déc 20 16:21:27 *	    C=World
+déc 20 16:21:27 *	  Public key algorithm: rsaEncryption (2048 bits)
+déc 20 16:21:27 *	  Sign algorithm sha256WithRSAEncryption
+déc 20 16:21:27 *	  Valid since Apr 10 01:30:48 2016 GM to Apr 10 01:30:48 2019 GM
+déc 20 16:21:27 *	* Cipher info:
+déc 20 16:21:27 *	  Version: TLSv1/SSLv3, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+déc 20 16:21:27 *	* Verify E: unable to get local issuer certificate.? (20) -- Ignored
+déc 20 16:21:27 *	Connecté. Maintenant entrons...
+déc 20 16:21:27 *	*** Looking up your hostname...
+déc 20 16:21:27 *	*** Found your hostname (modemcable025.170-22-96.mc.videotron.ca)
+déc 20 16:21:27 *	Autorisations disponibles :multi-prefix sasl tls userhost-in-names away-notify extended-join account-notify
+déc 20 16:21:27 *	Autorisations demandées :multi-prefix userhost-in-names away-notify extended-join account-notify 
+déc 20 16:21:27 *	Autorisations bien reçues : multi-prefix userhost-in-names away-notify extended-join account-notify
+déc 20 16:21:28 *	Welcome to irchighway!
+**** FIN DU JOURNAL À Tue Dec 20 16:21:28 2016
+

@@ -1,586 +1,547 @@
-T 1481483814 24*	elfunk a quitté (Quit: Leaving)
-T 1481483834 23*	elfunk (elfunk@ihw-u2m.n6m.186.1.IP23) vient de rentrer
-T 1481483835 18<26hskf18>	!Pondering42 Viet Thanh Nguyen - The Sympathizer (retail) (epub).rar
-T 1481483839 18<27elfunk18>	@search Charlie Hayes
-T 1481483840 18<24Xon18>	5[BWI] 10Type @Xon10 to get the list of 517,88310 files (6433.17 GB10). 10Updated on 612-12-2016 00:07:24. 10Total Sent(channel): 790,706 10(61127.21 GB10)
-T 1481483843 18<29NeedBooks18>	!Ook Chris Wooding - Silver (retail) (epub).rar
-T 1481483846 18<29hueylene18>	!Ook Lucy Keating - Dreamology (retail) (epub).rar
-T 1481483851 23*	ceefood (ceefood@ihw-dl8kkc.lv.cox.net23) vient de rentrer
-T 1481483862 18<25mjones66618>	!Pondering42 Joan Holub & Suzanne Williams - [Grimmtastic Girls 07] - Snowflake Freezes Up (retail) (epub).rar
-T 1481483863 23*	Joz (Joz@ihw-f63.uqa.242.69.IP23) vient de rentrer
-T 1481483868 18<20maximd18>	@Xon
-T 1481483870 24*	Réception d'un CTCP 24SLOTS 2 0 10m 17 999 113103 250755 356278809190 1 1481471845 16779 OmenServe v2.73 de 18Ook (à 22#ebooks)
-T 1481483870 18<26BigD5318>	!Xon Jo Nesbo - [Blood on Snow 01] - Blood on Snow (retail) (epub).rar 
-T 1481483871 24*	bbppxx a quitté (Quit: )
-T 1481483882 18<29NeedBooks18>	!Pondering42 Chris Wooding - Silver (retail) (epub).rar
-T 1481483891 18<25Mach218>	!Xon Tom Clancy - [NF 01] - Submarine- A Guided Tour Inside a Nuclear Warship - John Gresham (v5.0) (epub).rar
-T 1481483895 18<20maximd18>	@Search Active Directory
-T 1481483900 18<26BigD5318>	!Xon Jo Nesbo - [Blood on Snow 01] - Blood on Snow (retail) (epub).rar 
-T 1481483902 23*	lakeanon (user8398@ihw-u3q4q2.sub-70-208-66.myvzw.com23) vient de rentrer
-T 1481483907 18<25lakeanon18>	!Xon Terry Pratchett - [Discworld 11] - Reaper Man (UK) (retail) (epub).rar
-T 1481483907 18<25Mach218>	!Xon Tom Clancy - [NF 02] - Armored Cav- A Guided Tour of an Armored Cavalry Regiment (v5.0) (epub).rar
-T 1481483907 23*	Haven (textual@ihw-o41.2df.206.49.IP23) vient de rentrer
-T 1481483908 18<20dsfsd18>	!Resistance Annie England Noblin - [Cold River 01] - Just Fine with Caroline (retail) (epub).rar
-T 1481483912 18<26BigD5318>	!Ook Jo Nesbo - [Blood on Snow 01] - Blood on Snow (retail) (epub).rar 
-T 1481483915 18<24Vriska18>	@search Welcome to Night Vale
-T 1481483920 24*	zonekerd a quitté (Ping timeout: 121 seconds)
-T 1481483923 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1481483923 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1481483929 18<29NeedBooks18>	@search Neal Shusterman Scythe
-T 1481483930 18<24chrisandfore18>	@search the house at the bottom of a lake 
-T 1481483931 18<25Mach218>	!Xon Tom Clancy - [NF 03] - Fighter Wing- A Guided Tour of an Air Force Combat Wing (v5.0) (epub).rar
-T 1481483936 24*	sorack a quitté (Connection closed)
-T 1481483939 18<29hueylene18>	@search Renee Ahdieh
-T 1481483943 18<20maximd18>	@sbClient
-T 1481483945 18<28Vine_Land18>	@search thomas pynchon
-T 1481483947 18<25Tuppe18>	!Pondering42 Garth Risk Hallberg - City on Fire (retail) (epub).rar
-T 1481483948 23*	spootie (mdusing@ihw-bghs3o.tn.comcast.net23) vient de rentrer
-T 1481483949 18<25Mach218>	!Xon Tom Clancy - [NF 04] - Marine- A Guided Tour of a Marine Expeditionary Unit - John Gresham (v5.0) (epub).rar
-T 1481483951 18<24Vriska18>	!Xon Joseph Fink & Jeffrey Cranor - Welcome to Night Vale (retail) (epub).rar
-T 1481483961 18<20dsfsd18>	!Pondering42 Annie England Noblin - [Cold River 01] - Just Fine with Caroline (retail) (epub).rar
-T 1481483973 18<27spootie18>	@search marie wiese
-T 1481483976 18<29hueylene18>	!Ook Renee Ahdieh - [Wrath and the Dawn 01] - The Wrath and the Dawn (epub).rar
-T 1481483980 18<24Vriska18>	@search Aziz Ansari
-T 1481483980 23*	nachos2 (nachos@ihw-1f5frt.sd.cox.net23) vient de rentrer
-T 1481483985 23*	meonlyme (bob@ihw-kt33up.cable.virginm.net23) vient de rentrer
-T 1481483985 18<27spootie18>	@search ryan holiday
-T 1481483998 18<25Tuppe18>	@find Kind Worth Killing swanson
-T 1481483999 18<29iiwii18>	!Xon Amy Andrews - The Colonel's Daughter [Men of the Zodiac 08] (epub).rar
-T 1481484015 18<25Tuppe18>	!phoomphy Swanson, Peter - The Kind Worth Killing (2015).epub
-T 1481484020 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 540,738 12,00Files 14,00 12,00Slots:04,00 16/17 14,00 12,00Queued:04,00 67 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 48,408 14,00 12,00List: 04,00Dec 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
-T 1481484020 18<24Vriska18>	@search modern romance
-T 1481484025 23*	Foortd (Foort@ihw-7uh.309.121.86.IP23) vient de rentrer
-T 1481484026 18<28discomcobublator18>	!Pondering42 James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar
-T 1481484030 18<28Vine_Land18>	PCplague Philip K. Dick - Radio Free Albemuth.epub 
-T 1481484034 24*	ChronoVore a quitté (Connection closed)
-T 1481484039 18<20maximd18>	@Search Machiavelly the prince
-T 1481484050 18<25Tuppe18>	@find Everything I Never Told You celeste
-T 1481484051 23*	marcelanascimento (marcelanasc@ihw-55g0v6.ma.comcast.net23) vient de rentrer
-T 1481484052 24*	maximd a quitté (Quit: )
-T 1481484053 18<29hueylene18>	@search The Princess Bride
-T 1481484070 18<25Tuppe18>	!patiencel Celeste Ng - Everything I Never Told You (epub).rar
-T 1481484092 18<29iiwii18>	!Xon Marisa Cleveland - Blurring the Lines [Men of the Zodiac 11] (epub).rar
-T 1481484094 18<24Vriska18>	@search Bright Dead Things
-T 1481484098 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,717 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
-T 1481484101 24*	blunders a quitté (Connection closed)
-T 1481484103 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 250443 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481484111 18<20Foortd18>	@search hobbes
-T 1481484119 23*	mizie123 (mizie123@ihw-iu1rse.ar.comcast.net23) vient de rentrer
-T 1481484125 18<29hueylene18>	!PCplague William Goldman - The Princess Bride.epub 
-T 1481484135 18<25Tuppe18>	@find Shock of the Fall filer
-T 1481484135 18<24Vriska18>	@search Brandon Sanderson
-T 1481484136 18<29mizie12318>	@search spinward fringe
-T 1481484136 18<28sabrina18>	@search the loser list
-T 1481484141 18<29iiwii18>	!Xon Theresa Meyers - Her Sworn Enemy [Men of the Zodiac 12] (epub).rar 
-T 1481484146 18<29hueylene18>	!Xon William Goldman - The Princess Bride (UK) (retail) (epub).rar
-T 1481484154 18<25Tuppe18>	!patiencel Nathan Filer - The Shock of the Fall (Special edition) (epub).rar
-T 1481484164 18<27meonlyme18>	@search black virus
-T 1481484167 18<20dsfsd18>	@search promise not to tell
-T 1481484168 18<26Dev`18>	!Ook Mary Burton - [Texas Rangers 03] - You're Not Safe (epub).rar
-T 1481484170 18<27meonlyme18>	@search mogworld
-T 1481484175 23*	Gazr88 (Gazr88@ihw-7l9.32r.148.49.IP23) vient de rentrer
-T 1481484175 24*	mjones666 a quitté (Quit: )
-T 1481484180 24*	Foortd a quitté (Quit: Leaving)
-T 1481484181 18<24Gazr8818>	@search hunger games
-T 1481484183 18<25lakeanon18>	!Xon Terry Pratchett - [Discworld 11] - Reaper Man (UK) (retail) (epub).rar
-T 1481484190 18<28sabrina18>	!Ook H N Kowitt - [Loser List 01] - The Loser List (retail) (epub).rar
-T 1481484196 18<29mizie12318>	@search spinward fringe brodcast 10
-T 1481484198 FiSHLiM plugin unloaded
-T 1481484342 19*	Vous parlez maintenant sur 22#ebooks
-T 1481484342 22*	Le sujet de 22#ebooks est : NO TEXTBOOKS here - New books: !trainpacks or mediafire.com/NewArchive - @search @searchook @find - FAQ at http://ebooks.byethost6.com/ - If you are serving, Register your nick to be added to voice - Send new books to sniffn
-T 1481484342 22*	Sujet de 22#ebooks choisi par 26yall2!yall2@ihw-95d.cp0.28.72.IP (24Tue Oct  4 11:43:50 2016)
-T 1481484342 -18ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
-T 1481484343 24*	lakeanon a quitté (Quit: TurboIRC for Android. Available @ Google Play.)
-T 1481484345 18<19tooswang18>	@search don't call me boss
-T 1481484346 18<24pbelly11118>	@search happiness advantage
-T 1481484351 24*	diego a quitté (Client exited)
-T 1481484357 18<24Gazr8818>	!Ook Suzanne Collins - [Hunger Games 01-03] - The Hunger Games Trilogy (The Hunger Games; Catching Fire, Mockingjay) (retail) (epub).rar
-T 1481484364 24*	Censored (BlaineyDays@ihw-27m.abv.237.73.IP24) est parti
-T 1481484364 18<29iiwii18>	!Pondering42 Rosemary Rogers - Scoundrel's Honor (mobi).rar
-T 1481484367 23*	straykittie (straykittie@ihw-fhumgv.res.rr.com23) vient de rentrer
-T 1481484375 24*	Mach2 a quitté (Quit: )
-T 1481484381 23*	Zapper101 (Kendman@ihw-h5gkqd.sc.atlanticbb.net23) vient de rentrer
-T 1481484384 18<24Vriska18>	!Xon Neal Stephenson - Seveneves (retail) (azw3).rar
-T 1481484387 18<28straykittie18>	@search Megan March
-T 1481484389 23*	tedfinkle (tedfinkle@ihw-596.n9f.239.173.IP23) vient de rentrer
-T 1481484392 23*	arknestone (arknestone@ihw-g7j.1ar.223.117.IP23) vient de rentrer
-T 1481484393 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,717 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
-T 1481484395 18<29NeedBooks18>	@search Rachel Searles Chase Garrety
-T 1481484398 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 250743 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481484399 18<22arknestone18>	@Search Rene Girard
-T 1481484400 23*	Mach2 (FastEddie@ihw-af1.c8v.152.204.IP23) vient de rentrer
-T 1481484400 18<27AndroUser18>	!Pondering42 Delilah Devlin - [Dark Realm] - After Dark (mobi).rar
-T 1481484400 23*	yeltz (syft@ihw-obe.qnb.146.47.IP23) vient de rentrer
-T 1481484406 18<27rushsteve118>	!Xon Ron Chernow - Alexander Hamilton (epub).rar  
-T 1481484411 18<29NeedBooks18>	@search Rachel Searles The Lost Planet
-T 1481484416 24*	tooswang a quitté (Quit: )
-T 1481484417 18<19boing-ding18>	@search loren jones
-T 1481484417 18<20BookyMcBookface18>	@searcg Jay Winik
-T 1481484418 18<28mel_t18>	@search costa rica
-T 1481484418 18<22arknestone18>	@Search Things Hidden since the Foundation 
-T 1481484420 18<20BookyMcBookface18>	@searcg Jay Winik
-T 1481484424 18<20BookyMcBookface18>	@search Jay Winik
-T 1481484428 18<29hueylene18>	!Ook Jane Austen - The Annotated Persuasion - David M Shapard (retail) (epub).rar 
-T 1481484431 18<25Mach218>	!Pondering42 Tom Clancy - [NF 04] - Marine- A Guided Tour of a Marine Expeditionary Unit - John Gresham (v5.0) (epub).rar
-T 1481484431 18<26tedfinkle18>	@search burn baby burn
-T 1481484433 18<27meonlyme18>	!Ook Brandon Sanderson - [Elantris 01] - Elantris (epub).rar 
-T 1481484435 18<25Mach218>	!Pondering42 Tom Clancy - [NF 03] - Fighter Wing- A Guided Tour of an Air Force Combat Wing (v5.0) (epub).rar
-T 1481484440 18<28Zapper10118>	@SEARCH Doug Richardson 
-T 1481484442 18<28Vine_Land18>	!Xon Philip K Dick - Radio Free Albemuth (epub).rar
-T 1481484443 18<29NeedBooks18>	!Pondering42 Rachel Searles - [Lost Planet 01] - The Lost Planet (epub).rar
-T 1481484443 23*	Spike32 (Spike32@ihw-m4lbnl.res.rr.com23) vient de rentrer
-T 1481484444 18<27rushsteve118>	!Pondering42 Ron Chernow - Alexander Hamilton (epub).rar
-T 1481484451 23*	consuelo (kvirc@ihw-9sfhfd.lsvlky.sbcglobal.net23) vient de rentrer
-T 1481484452 24*	arknestone a quitté (Quit: )
-T 1481484456 18<27meonlyme18>	@search warden of the blade
-T 1481484457 18<27Spike3218>	@search broken souls
-T 1481484458 18<19outrlimits18>	@search mountain men Prechtel
-T 1481484463 18<27elfunk18>	@search Braided Creek by Jim Harrison and Ted Kooser
-T 1481484468 18<27elfunk18>	@search Braided Creek Jim
-T 1481484470 18<19boing-ding18>	!Pondering42 Loren K Jones - [Stavin DragonBlessed 01] - All that Glitters (epub).rar
-T 1481484473 18<27rushsteve118>	!PCplague Chernow, Ron - Alexander Hamilton.mobi
-T 1481484485 18<29hueylene18>	@ook-queue
-T 1481484486 24*	Mach2 a quitté (Quit: )
-T 1481484494 18<29hueylene18>	@ook-que
-T 1481484494 18<28Zapper10118>	!Xon Doug Richardson - Blood Money (epub).rar
-T 1481484498 18<28Vine_Land18>	!patiencel Philip K Dick - Radio Free Albemuth (epub).rar 
-T 1481484506 23*	Mach2 (FastEddie@ihw-af1.c8v.152.204.IP23) vient de rentrer
-T 1481484506 24*	NeedBooks a quitté (Quit: ~ Trillian - www.trillian.im ~)
-T 1481484508 18<28Zapper10118>	@search Grant McKenzie 
-T 1481484512 18<25Mach218>	!Pondering42 Tom Clancy - [NF 03] - Fighter Wing- A Guided Tour of an Air Force Combat Wing (v5.0) (epub).rar
-T 1481484522 18<19boing-ding18>	!Xon Loren K Jones - [Stavin DragonBlessed 01] - All that Glitters (epub).rar
-T 1481484523 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1481484523 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1481484525 18<26tedfinkle18>	!Ook Meg Medina - Burn Baby Burn (retail) (epub).rar
-T 1481484525 18<27Spike3218>	!Ook Stephen Blackmoore - [Eric Carter 02] - Broken Souls (epub).rar
-T 1481484527 18<19CoffeeCat18>	@search elizabeth peters kirby
-T 1481484528 18<29hueylene18>	@xon-que
-T 1481484532 18<24Gazr8818>	!Xon Suzanne Collins - Hunger Games 01-The Hunger Games (epub).epub  
-T 1481484532 18<24Gazr8818>	!Xon Suzanne Collins - Hunger Games 02 - Catching Fire (v5.0) (epub).epub  
-T 1481484532 18<24Gazr8818>	!Xon Suzanne Collins - Hunger Games 03 - Mockingjay (v5.0) (epub).epub  
-T 1481484533 18<28Zapper10118>	!Xon Grant McKenzie - Switch (v5.0) (epub).rar
-T 1481484538 18<27meonlyme18>	@search blood vow
-T 1481484548 18<24Vriska18>	@search Salman Rushdie
-T 1481484559 23*	Gummybear (Gummybear3@ihw-i2p.t7l.68.70.IP23) vient de rentrer
-T 1481484562 18<26giral18>	@search penguin
-T 1481484574 18<28Zapper10118>	!Xon Grant McKenzie - Switch (v5.0) (epub).rar
-T 1481484577 18<27AndroUser18>	!Xon Delilah Devlin - [Dark Realm] - After Dark (epub).rar
-T 1481484582 18<20BookyMcBookface18>	@search Rusty Bradley
-T 1481484584 18<24Gazr8818>	@search space marine
-T 1481484586 18<26tedfinkle18>	@search here comes the sun
-T 1481484588 18<27elfunk18>	@search Murder in Mariposa Bay
-T 1481484588 23*	ailleras (taurec@ihw-0pkvss.dyn.telefonica.de23) vient de rentrer
-T 1481484589 18<19CoffeeCat18>	@search lindsay dexter
-T 1481484590 18<27meonlyme18>	!Ook J R Ward - [Black Dagger Legacy 02] - Blood Vow (retail) (epub).rar
-T 1481484598 18<25Mach218>	!Xon Tom Clancy - [NF 05] - Airborne- A Guided Tour of an Airborne Task Force (v5.0) (epub).rar  
-T 1481484598 18<25Mach218>	- 2.95 MB
-T 1481484599 18<24Gazr8818>	@search warhammer
-T 1481484603 18<28straykittie18>	@search Meghan March
-T 1481484606 20*	Déconnecté (20)
-T 1481484618 22*	26bgdnvst a mis le mode 24+x sur 22bgdnvst
-T 1481484618 -18NickServ-	This nickname is registered and protected.  If it is your
-T 1481484618 -18NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
-T 1481484618 -18NickServ-	please choose a different nick.
-T 1481484618 -18NickServ-	Password accepted - you are now recognized.
-T 1481484618 22*	26NickServ a mis le mode 24+r sur 22bgdnvst
-T 1481484623 19*	Vous parlez maintenant sur 22#ebooks
-T 1481484623 22*	Le sujet de 22#ebooks est : NO TEXTBOOKS here - New books: !trainpacks or mediafire.com/NewArchive - @search @searchook @find - FAQ at http://ebooks.byethost6.com/ - If you are serving, Register your nick to be added to voice - Send new books to sniffn
-T 1481484623 22*	Sujet de 22#ebooks choisi par 26yall2!yall2@ihw-95d.cp0.28.72.IP (24Tue Oct  4 11:43:50 2016)
-T 1481484623 -18ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
-T 1481484630 18<20BookyMcBookface18>	@Pondering42-que
-T 1481484631 18<24Vriska18>	!Xon Salman Rushdie - Two Years Eight Months and Twenty-Eight Nights (mobi).rar
-T 1481484640 18<20BookyMcBookface18>	@Xon-que
-T 1481484646 18<26pizda18>	04,0014,00• 12,00Type:04,00 @pizda 12,00For My List Of:04,00 155,437 12,00Files 14,00• 12,00Slots:04,00 20/20 14,00• 12,00Queued:04,00 0 14,00• 12,00Speed:04,00 0cps 14,00• 12,00Next: 04,00NOW 14,00• 12,00Served:04,00 11,514 14,00• 12,00List: 04,00Dec 5th 14,00• 12,00Search: 04,00ON 14,00• 12,00Mode: 04,00Servers Priority 14,00•
-T 1481484646 18<25Search18>	@pizda
-T 1481484648 18<26tedfinkle18>	!Resistance Nicole Dennis-Benn - Here Comes the Sun (retail) (epub).rar
-T 1481484651 24*	Réception d'un CTCP 24SLOTS 20 20 NOW 0 999 0 155437 160522278474 1 1480997546 360037 OmenServe v2.71 de 18pizda (à 22#ebooks)
-T 1481484658 23*	TIGERPAW (TIGERPAW@ihw-hsqkhs.austtx.swbell.net23) vient de rentrer
-T 1481484662 18<27meonlyme18>	@search in the blood
-T 1481484669 18<24Gazr8818>	!Pondering42 Warhammer 40,000 - [Anthology] Victories of the Space Marines - Christian Dunn (ed) (v1.0) (pdf).rar
-T 1481484673 18<19joybook18>	@search the daily show
-T 1481484674 18<24MJ218>	@search playing beatie bow
-T 1481484678 24*	Anuday007 a quitté (Ping timeout: 121 seconds)
-T 1481484679 18<26tedfinkle18>	!Xon Nicole Dennis-Benn - Here Comes the Sun (retail) (epub).rar
-T 1481484680 18<29hueylene18>	!Xon Mark Helprin - Winter's Tale (epub).rar
-T 1481484682 18<22sbump18>	!Ook Andy Griffiths - [Treehouse 03] - The 39-Storey Treehouse (retail) (epub).rar
-T 1481484689 24*	katara0318 a quitté (Quit: )
-T 1481484691 23*	folltrace (Miranda@ihw-46q1o5.dynamic.kabel-deutschland.de23) vient de rentrer
-T 1481484692 18<29TIGERPAW18>	@search odessa sea
-T 1481484693 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,717 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
-T 1481484698 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 251043 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481484700 18<22folltrace18>	@search babylon ashes
-T 1481484700 18<29ailleras18>	!Xon George R R Martin & Gardner Dozois (ed) - Warriors (v5.0) (epub).rar
-T 1481484712 18<22sbump18>	!Ook Andy Griffiths - [Treehouse 04] - The 52-Storey Treehouse (retail) (epub).rar
-T 1481484714 23*	crystalcat (crystalcat@ihw-sm4.3s2.24.176.IP23) vient de rentrer
-T 1481484716 18<24MJ218>	@search playing beatie bow
-T 1481484733 18<24Vriska18>	@search house of leaves
-T 1481484738 18<29TIGERPAW18>	!Pondering42 Clive Cussler - [Dirk Pitt 24] - Odessa Sea - Dirk Cussler (retail) (epub).rar
-T 1481484739 18<29hueylene18>	@search  Sarah Dessen
-T 1481484741 18<26tedfinkle18>	@search if i was your girl
-T 1481484748 18<29haleybunker18>	@search whispers and the roars
-T 1481484752 18<22folltrace18>	!Ook James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar
-T 1481484753 18<26iolarfs18>	15(11,12FServe Online15) Note:(11,1211,12Type @iolarfs for filelist1515) Trigger:(11,12/ctcp iolarfs !iolarfs15) On FServe:(11,1211,12*** 15k+ ebook collection, including a complete collection of BookPusher's Archive (11,123.5k+15), 26k+ digital comics, 6k+ games, and various audiobooks, radio plays, and other miscellanea : Use @search to search archive, or CTCP to browse ***1515) Sends:(11,120/215) Queues:(11,120/2015) Min CPS:(1
-T 1481484753 24*	ersten a quitté (Connection closed)
-T 1481484753 18<29haleybunker18>	@search merry ravenell
-T 1481484757 18<24MJ218>	!Xon Ruth Park - Playing Beatie Bow (epub).rar
-T 1481484760 23*	jeeter (jeeter@ihw-88uvlp.cpe.pppoe.ca23) vient de rentrer
-T 1481484761 23*	logen (logen@ihw-vnp.m69.222.209.IP23) vient de rentrer
-T 1481484768 18<29stargem18>	@search michael sullivan
-T 1481484768 18<29hueylene18>	!pizda This Lullaby - Sarah Dessen.mobi 
-T 1481484769 23*	ersten (ersten@ihw-uu5.abd.47.84.IP23) vient de rentrer
-T 1481484769 18<24Vriska18>	!Pondering42 Mark Z Danielewski - House of Leaves (html).rar
-T 1481484772 18<24MJ218>	@search charlotte sometimes
-T 1481484782 18<27Spike3218>	!Pondering42 Stephen Blackmoore - [Eric Carter 02] - Broken Souls (epub).rar
-T 1481484782 23*	Aliased (Aliased@ihw-ku70gb.res.rr.com23) vient de rentrer
-T 1481484783 18<29TIGERPAW18>	!Xon Clive Cussler - [Dirk Pitt 24] - Odessa Sea - Dirk Cussler (retail) (epub).rar
-T 1481484786 18<22folltrace18>	!Xon James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar
-T 1481484789 18<20dsfsd18>	@search jennifer mcmahon
-T 1481484791 18<27meonlyme18>	@search supernova
-T 1481484792 18<28Aliased18>	@search shield of winter
-T 1481484796 18<29iiwii18>	!Pondering42 Rosemary Rogers - [Morgan-Challenger 01] - Sweet Savage Love (retail) (epub).rar
-T 1481484798 18<27meonlyme18>	@ook-que
-T 1481484802 18<29stargem18>	!Ook Michael Sullivan - [The Legends of the First Empire 01] - Age of Myth (epub).rar 
-T 1481484803 18<28Zapper10118>	@search downfall
-T 1481484806 18<24Gazr8818>	!Xon Suzanne Collins - Hunger Games 01-The Hunger Games (epub).epub 
-T 1481484814 18<29iiwii18>	!Pondering42 Rosemary Rogers - A Reckless Encounter (retail) (epub).rar
-T 1481484819 18<29TIGERPAW18>	!Ook Clive Cussler - [Dirk Pitt 24] - Odessa Sea - Dirk Cussler (retail) (epub).rar
-T 1481484819 18<24MJ218>	!Ook Penelope Farmer - [Aviary Hall 03] - Charlotte Sometimes (retail) (epub).rar
-T 1481484823 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1481484823 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1481484826 18<29hueylene18>	!pizda This Lullaby - Sarah Dessen.mobi 
-T 1481484830 23*	Siofra (Siofra@ihw-ql0.ks1.5.154.IP23) vient de rentrer
-T 1481484834 24*	Kokonotsudesu a quitté (Ping timeout: 121 seconds)
-T 1481484838 18<20dsfsd18>	!Ook Jennifer McMahon - Promise Not to Tell; Island of Lost Girls; Dismantled; Don't Breathe a Word; The One I Left Behind (epub).rar
-T 1481484840 18<24Vriska18>	@search mary roach
-T 1481484844 18<29TIGERPAW18>	@search no mans land
-T 1481484846 18<19Siofra18>	!Pondering42 LIS-2015-07-B1 - Valerie Hansen - Detecting Danger; Sandra Orchard - Emergency Reunion; Carol J Post - Hidden Identity (epub).rar
-T 1481484846 18<28Aliased18>	!Xon Nalini Singh - [Psy-Changeling 13] - Shield of Winter (epub).rar  
-T 1481484846 18<28Aliased18>	- 585.17 KB
-T 1481484850 18<29stargem18>	!Pondering42 Michael J Sullivan - [The Riyria Revelations 01-02] - Theft of Swords (The Crown Conspiracy; Avempartha) (mobi).rar
-T 1481484850 18<25Mach218>	!Pondering42 Tom Clancy - [NF 05] - Airborne- A Guided Tour of an Airborne Task Force (v5.0) (epub).rar
-T 1481484855 18<28Zapper10118>	!Pondering42 Travis I Sivart - [Harbinger 01] - The Downfall (epub).rar
-T 1481484860 18<20dsfsd18>	!Pondering42 Jennifer McMahon - Promise Not to Tell; Island of Lost Girls; Dismantled; Don't Breathe a Word; The One I Left Behind (epub).rar
-T 1481484864 18<29hueylene18>	@ook-que
-T 1481484869 18<24Gazr8818>	!Xon Suzanne Collins - Hunger Games 02 - Catching Fire (v5.0) (epub).epub 
-T 1481484869 18<25Mach218>	!Pondering42 Tom Clancy - [NF 06] - Carrier- A Guided Tour of an Aircraft Carrier (v5.0) (epub).rar
-T 1481484870 18<28Zapper10118>	!Pondering42 J A Jance - [Joanna Brady 16] - Downfall (epub).rar
-T 1481484873 18<24Vriska18>	!Xon Mary Roach - Stiff- The Curious Lives of Human Cadavers (epub).rar
-T 1481484879 18<28straykittie18>	!Ook Meghan March - [Dirty Girl 02] - Dirty Love (epub).rar 
-T 1481484881 18<27meonlyme18>	!Ook C A Higgins - [Lightless 02] - Supernova (retail) (epub).rar 
-T 1481484888 18<25Mach218>	!Pondering42 Tom Clancy - [NF] - Special Forces- A Guided Tour of the U.S. Army Special Forces - John Gresham (v5.0) (epub).rar
-T 1481484897 18<29TIGERPAW18>	@search david baldacci
-T 1481484897 18<19CoffeeCat18>	@search Peters, Elizabeth Guardian of the Horizon
-T 1481484907 18<25Mach218>	!Pondering42 Tom Clancy - [NF 02] - Armored Cav- A Guided Tour of an Armored Cavalry Regiment (v5.0) (epub).rar
-T 1481484908 18<19CoffeeCat18>	@search Peters, Elizabeth The Night of 400 Rabbits
-T 1481484910 18<24MJ218>	!Xon Mary Roach - Stiff- The Curious Lives of Human Cadavers (epub).rar
-T 1481484920 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 540,738 12,00Files 14,00 12,00Slots:04,00 16/17 14,00 12,00Queued:04,00 67 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 48,432 14,00 12,00List: 04,00Dec 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
-T 1481484926 18<19CoffeeCat18>	!Pondering42 Elizabeth Peters - [Amelia Peabody 16] - Guardian of the Horizon (retail) (epub).rar
-T 1481484929 18<26tedfinkle18>	@search infomomocracy
-T 1481484938 18<27meonlyme18>	@search greg keyes
-T 1481484941 18<29stargem18>	!Xon Michael J Sullivan - [The Riyria Revelations 01-02] - Theft of Swords (The Crown Conspiracy; Avempartha) (mobi).rar
-T 1481484944 18<28straykittie18>	!Resistance Meghan March - [Dirty Girl 01] - Dirty Girl (epub).rar
-T 1481484955 24*	GangNam9 a quitté (Ping timeout: 121 seconds)
-T 1481484965 24*	rushsteve1 a quitté (Quit: Konversation terminated!)
-T 1481484977 18<28Aliased18>	!Pondering42 Nalini Singh - [Psy-Changeling 13] - Shield of Winter (epub).rar
-T 1481484982 18<19CoffeeCat18>	@search Peters, Elizabeth Rabbits
-T 1481484982 18<29stargem18>	!Xon Michael J Sullivan - [The Riyria Revelations 03-04] - Rise of Empire (Nyphron Rising; The Emerald Storm) (mobi).rar 
-T 1481484988 23*	jorgensn (chatzilla@ihw-eavp0t.tukrga.sbcglobal.net23) vient de rentrer
-T 1481484995 18<29stargem18>	!Xon Michael J Sullivan - [The Riyria Revelations 05-06] - Heir of Novron (Wintertide; Percepliquis) (mobi).rar
-T 1481484996 24*	Spike32 a quitté (Quit: )
-T 1481484998 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,717 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
-T 1481484998 18<22Frozt18>	@search monster hunter sinners
-T 1481484998 18<25patienceltd18>	11,1Science Fiction, general literature, etc. 1,11Type @patiencel to get my list of 31155 files. Created on Sat Nov 19 07:06:16 2016. Average speed: 261.666 KiB/s
-T 1481485003 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 251343 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481485021 18<27jorgensn18>	@search dan brown origin
-T 1481485030 18<24Gazr8818>	!Ook Warhammer 40,000 - [Legends of the Dark Millennium] - Sons of Corax - George Mann (v5.0) (epub).rar
-T 1481485039 18<24Vriska18>	@search dirk gently
-T 1481485042 18<29TIGERPAW18>	@search total control
-T 1481485054 18<24MJ218>	anne tyler
-T 1481485054 18<27meonlyme18>	@search timothy zahn
-T 1481485054 18<19Siofra18>	!Pondering42 LIS-2014-06-B2 - Lenora Worth - Forced Alliance; Carol J Post - Out for Justice; Marion Faith Laird - No Place to Run (epub).rar
-T 1481485056 18<26tedfinkle18>	@search THE ASSOCIATION OF SMALL BOMBS
-T 1481485069 24*	Réception d'un CTCP 24SLOTS 2 0 0m 35 999 96946 250755 356278809190 1 1481471845 17979 OmenServe v2.73 de 18Ook (à 22#ebooks)
-T 1481485073 18<24Vriska18>	!Xon Douglas Adams - [Dirk Gently 01] - Dirk Gently's Holistic Detective Agency (epub).rar 
-T 1481485079 18<24simkin18>	!Ook Kelley Armstrong - [Casey Duncan 01-6] - City of the Lost, Part Six (v5.0) (epub).rar
-T 1481485082 18<27jorgensn18>	@search estep nice guys bite
-T 1481485085 18<24Gazr8818>	!Ook Warhammer 40,000 - [Horus Heresy 31] - Legacies of Betrayal (v5.0) (epub).rar
-T 1481485092 18<22crystalcat18>	@search pavone
-T 1481485096 18<29hueylene18>	@search Maggie Stiefvater 
-T 1481485099 18<24MJ218>	!Xon Anne Tyler - Breathing Lessons (retail) (epub).rar
-T 1481485102 18<24Gazr8818>	!Ook Warhammer 40,000 - [Horus Heresy] - Grey Angel - John French (epub).rar
-T 1481485102 18<29TIGERPAW18>	!Pondering42 David Baldacci - Total Control (v4.0) (epub, pdf, prc).rar
-T 1481485104 18<26tedfinkle18>	!Resistance Karan Mahajan - The Association of Small Bombs (retail) (epub).rar
-T 1481485109 24*	Momz a quitté (Ping timeout: 121 seconds)
-T 1481485109 18<24Gazr8818>	!Ook Warhammer 40,000 - [Horus Heresy] - The Sigillite - Chris Wraight (epub).rar
-T 1481485111 18<19CoffeeCat18>	!Pondering42 Jeff Lindsay - [Dexter 08] - Dexter Is Dead (epub).rar
-T 1481485119 23*	ElasticMorals (elasticmora@ihw-rr79l7.res.rr.com23) vient de rentrer
-T 1481485120 18<24MJ218>	!Xon Anne Tyler - The Beginner's Goodbye (v5.0) (epub).ra
-T 1481485121 18<22crystalcat18>	!Pondering42 Claudio Pavone - A Civil War- A History of the Italian Resistance (retail) (epub).rar
-T 1481485121 18<29consuelo18>	@search perdido street
-T 1481485123 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1481485123 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1481485126 18<24Gazr8818>	!Ook Warhammer 40,000 - Curse of the Wulfen - David Annandale (epub).rar
-T 1481485126 24*	fruitloops a quitté (Connection reset by peer)
-T 1481485130 18<20trixala18>	@search liane moriarty
-T 1481485131 23*	james (chatzilla@ihw-421.bj7.62.204.IP23) vient de rentrer
-T 1481485132 18<27jorgensn18>	@search flanagan Battle of Hackham Heath
-T 1481485132 18<24MJ218>	!Xon Anne Tyler - Dinner at the Homesick Restaurant (v5.0) (epub).rar
-T 1481485132 18<19CoffeeCat18>	!Pondering42 Jeff Lindsay - [Dexter 06] - Double Dexter (v4.0) (epub).rar
-T 1481485134 18<28Zapper10118>	@search No Man’s Land 
-T 1481485143 18<26tedfinkle18>	!Xon Karan Mahajan - The Association of Small Bombs (retail) (epub).rar
-T 1481485144 23*	Odren (Odren@ihw-dm3.q6n.45.95.IP23) vient de rentrer
-T 1481485146 18<24Gazr8818>	!Ook Warhammer 40,000 - [Horus Heresy] - Inheritor - Gav Thorpe (epub).rar
-T 1481485150 18<19Odren18>	@search freedom and necessity
-T 1481485151 18<29hueylene18>	!Xon Maggie Stiefvater - [Raven 01] - The Raven Boys (epub).rar 
-T 1481485152 18<19CoffeeCat18>	!Pondering42 Jeff Lindsay - [Dexter 04] - Dexter by Design (epub).rar
-T 1481485154 18<29Poopie18>	!Pondering42 Nicola Yoon - Everything, Everything (retail) (epub).rar
-T 1481485158 23*	Sohee (so@ihw-cs3.22v.67.202.IP23) vient de rentrer
-T 1481485163 18<27james18>	@search victoria aveyard
-T 1481485168 18<20trixala18>	!Xon Liane Moriarty - The Husband's Secret (epub).rar 
-T 1481485174 18<26Sohee18>	!list
-T 1481485178 18<24Gazr8818>	!Resistance Warhammer 40,000 - [Horus Heresy 38] - Angels of Caliban- Emperors and Slaves - Gav Thorpe (v5.0) (epub).rar
-T 1481485181 18<29consuelo18>	!pizda Perdido Street Station - China Mieville.mobi
-T 1481485182 18<26tedfinkle18>	!Pondering42 Karan Mahajan - The Association of Small Bombs (retail) (epub).rar
-T 1481485184 18<28discomcobublator18>	@search Mukherjee
-T 1481485185 18<28Zapper10118>	!Pondering42 J A Jance - [Joanna Brady 16] - Downfall (epub).rar
-T 1481485185 18<27jorgensn18>	@search flanagan Battle of Hackham Heath
-T 1481485188 18<20trixala18>	!Xon Liane Moriarty - Truly Madly Guilty (retail) (epub).rar
-T 1481485196 18<29TIGERPAW18>	@search the whistler
-T 1481485207 18<24Gazr8818>	!Resistance Warhammer 40,000 - [Horus Heresy 35] - Eye of Terra- I Am the Emperor's Vigilance (v5.0) (epub).rar
-T 1481485208 18<29Poopie18>	@search meredith wild
-T 1481485208 23*	fruitloops (bunnylips55@ihw-d64ruu.cg.shawcable.net23) vient de rentrer
-T 1481485216 18<28Aliased18>	!Ook Nalini Singh - [Psy-Changeling 13] - Shield of Winter (epub).rar
-T 1481485229 18<24Gazr8818>	!Xon Warhammer 40,000 - [Horus Heresy 40] - Corax- Nevermore (Soulforge; Ravenlord; The Shadowmasters; The Value of Fear; Raptor; Weregeld) - Gav Thorpe (epub).rar
-T 1481485231 18<29ElasticMorals18>	@search Babylon's Ashes Expanse
-T 1481485234 18<29TIGERPAW18>	!Xon John Grisham - [Whistler 01] - The Whistler (retail) (epub).rar 
-T 1481485235 18<27jorgensn18>	!Xon John Flanagan - [Ranger's Apprentice - The Early Years 02] - The Battle of Hackham Heath (retail) (epub).rar
-T 1481485237 23*	John (John@ihw-nn9.okh.128.37.IP23) vient de rentrer
-T 1481485249 18<28Zapper10118>	@search Jack Patterson 
-T 1481485257 18<26tedfinkle18>	@search the mothers
-T 1481485258 18<27james18>	!Resistance Victoria Aveyard - [Red Queen 02] - Glass Sword (retail) (epub).ra
-T 1481485259 18<29ElasticMorals18>	!Xon James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar 
-T 1481485260 18<28discomcobublator18>	@search BLACK HOLE BLUES
-T 1481485263 18<26Sohee18>	!Ook Diana Palmer - Eye of the Tiger [SD-271] (epub).rar
-T 1481485265 18<24Xon18>	5[BWI] 10Type @Xon-new10 to get the list of 2,29310 files (62.89 GB). 10Updated on 612-12-2016 00:08:43 10Total Sent(channel): 790,731 10(61127.22 GB10)
-T 1481485267 18<29TIGERPAW18>	!Ook John Grisham - [Whistler 01] - The Whistler (retail) (epub).rar
-T 1481485273 18<24Gazr8818>	!Xon Warhammer 40,000 - [Adeptus Mechanicus] - Clade - Rob Sanders (epub).rar  
-T 1481485273 18<24Gazr8818>	!Xon Warhammer 40,000 - [Horus Heresy] - Inheritor - Gav Thorpe (epub).rar 
-T 1481485278 18<28discomcobublator18>	@search gleick time travel
-T 1481485285 18<27meonlyme18>	@ook-que
-T 1481485286 18<29hueylene18>	@search Morgan Matson
-T 1481485288 18<29Poopie18>	!Xon Meredith Wild - [Bridge 03] - Over The Edge (epub).rar
-T 1481485292 18<29TIGERPAW18>	!Pondering42 John Grisham - [Whistler 01] - The Whistler (retail) (epub).rar
-T 1481485293 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,717 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
-T 1481485298 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 251643 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481485299 18<22crystalcat18>	!Ook Claudio Pavone - A Civil War- A History of the Italian Resistance (retail) (epub).rar
-T 1481485299 18<28discomcobublator18>	@search janna levin
-T 1481485304 18<24Gazr8818>	!Xon Warhammer 40,000 - [Horus Heresy] - The Sigillite - Chris Wraight (epub).rar
-T 1481485306 18<27jorgensn18>	@search karin slaughter kept woman
-T 1481485307 18<24John18>	@search immaculee ilibagiza
-T 1481485316 18<29hueylene18>	!pizda Morgan Matson - The Unexpected Everything (retail) (epub).epub
-T 1481485319 18<26aleja18>	!Resistance Stephen King - [Bill Hodges 03] - End of Watch (retail) (azw3).rar  
-T 1481485320 18<29consuelo18>	@search if on a winter's night
-T 1481485322 18<26tedfinkle18>	!Xon Brit Bennett - The Mothers (retail) (epub).rar
-T 1481485323 24*	straykittie a quitté (Quit: AndroidIrc Disconnecting)
-T 1481485325 18<28Zapper10118>	@search Dead to Rights
-T 1481485331 18<29ElasticMorals18>	!Ook James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar
-T 1481485332 23*	madcatter (madcatter@ihw-343esc.fios.verizon.net23) vient de rentrer
-T 1481485333 18<27meonlyme18>	@search bone wires
-T 1481485333 18<29TIGERPAW18>	!pizda John Grisham - [Whistler 01] - The Whistler (retail) (epub).epub
-T 1481485334 18<19Odren18>	@search swastika night
-T 1481485335 18<24John18>	@search The White Masai
-T 1481485340 18<24Xon18>	5[BWI] 10Type @Xon10 to get the list of 517,88310 files (6433.17 GB10). 10Updated on 612-12-2016 00:07:24. 10Total Sent(channel): 790,733 10(61127.23 GB10)
-T 1481485340 18<25Mach218>	!Pondering42 Tom Clancy - [NF 01] - Submarine- A Guided Tour Inside a Nuclear Warship - John Gresham (v5.0) (epub).rar
-T 1481485341 24*	jeeter a quitté (Connection closed)
-T 1481485347 18<25dny238818>	04,0014,00� 12,00Type:04,00 @dny2388 12,00For My List Of:04,00 1,980 12,00Files 14,00� 12,00Slots:04,00 4/4 14,00� 12,00Queued:04,00 0 14,00� 12,00Speed:04,00 0cps 14,00� 12,00Next: 04,00NOW 14,00� 12,00Served:04,00 8,290 14,00� 12,00List: 04,00Apr 9th 14,00� 12,00Search: 04,00OFF 14,00� 12,00Mode: 04,00Servers Priority 14,00�
-T 1481485348 24*	Zapper101 a quitté (Quit: )
-T 1481485351 18<26Sohee18>	!Xon Diana Palmer - Eye of the Tiger [SD-271] (epub).rar
-T 1481485351 18<29stargem18>	!Pondering42 Michael J Sullivan - [The Riyria Revelations 03-04] - Rise of Empire (Nyphron Rising; The Emerald Storm) (mobi).rar
-T 1481485352 24*	Réception d'un CTCP 24SLOTS 4 4 NOW 0 999 0 1980 26468845139 1 1460261405 162059 OmenServe v2.72 de 18dny2388 (à 22#ebooks)
-T 1481485352 23*	Reptar (ashiflett@ihw-sn4ds9.ga.comcast.net23) vient de rentrer
-T 1481485353 18<27jorgensn18>	!pizda Karin Slaughter - [Will Trent 08] - The Kept Woman (US) (retail) (epub).epub
-T 1481485356 18<25dmac118>	!Xon James Taylor - Your Country Needs You- The Secret History of the Propaganda Poster (epub).rar
-T 1481485357 18<29consuelo18>	!PCplague If on a Winters Night a Traveller - Italo Calvino.mobi
-T 1481485360 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 540,738 12,00Files 14,00 12,00Slots:04,00 15/17 14,00 12,00Queued:04,00 59 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 48,445 14,00 12,00List: 04,00Dec 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
-T 1481485362 18<26aleja18>	!Resistance Stephen King - [Bill Hodges 03] - End of Watch (retail) (epub).rar
-T 1481485365 23*	Erisian (Erisian@ihw-d1s756.ok.cox.net23) vient de rentrer
-T 1481485365 18<28discomcobublator18>	@search THE HIDDEN LIFE OF TREES
-T 1481485366 18<29TIGERPAW18>	@search into the fire
-T 1481485373 24*	Zilanthius a quitté (Connection closed)
-T 1481485375 18<19CoffeeCat18>	!Pondering42 Elizabeth Peters - The Night Of Four Hundred Rabbits (v4.0)(html).rar
-T 1481485381 23*	GrandpaGibson (textual@ihw-o47un5.cable.virginm.net23) vient de rentrer
-T 1481485389 23*	haborym (fake@ihw-0h4mdo.in.comcast.net23) vient de rentrer
-T 1481485390 18<29stargem18>	!Pondering42 Michael J Sullivan - [The Riyria Revelations 05-06] - Heir of Novron (Wintertide; Percepliquis) (mobi).rar
-T 1481485393 18<29hueylene18>	@search Judy Blume
-T 1481485394 18<29ElasticMorals18>	!Pondering42 James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar
-T 1481485397 18<29consuelo18>	@search eyre affair
-T 1481485398 23*	The_Fake_Bob_Marly (The_Nostalg@ihw-g4b9jf.vodacom.co.za23) vient de rentrer
-T 1481485399 18<25Mach218>	!Pondering42 Tom Clancy - [NF 06] - Carrier- A Guided Tour of an Aircraft Carrier (v5.0) (epub).rar
-T 1481485400 23*	jeeter (jeeter@ihw-88uvlp.cpe.pppoe.ca23) vient de rentrer
-T 1481485401 18<28haborym18>	@search childbirth fear
-T 1481485405 18<22deeks18>	@search Lynn Flewelling Nightrunners
-T 1481485406 18<22bucky18>	!Xon Ben Coes - [Dewey Andreas 06] - First Strike (retail) (epub).rar 
-T 1481485408 18<19Odren18>	@search swastiak night
-T 1481485408 18<27GrandpaGibson18>	@search Korea's Syngman Rhee: An Unauthorized Portrait
-T 1481485410 18<29stargem18>	!Pondering42 Michael J Sullivan - [The Riyria Chronicles 01] - The Crown Tower (v5.0) (azw3).rar
-T 1481485413 24*	fcongy a quitté (Operation timed out)
-T 1481485414 18<20Witt18>	@search wallace breem
-T 1481485414 18<19Odren18>	@search swastika night
-T 1481485422 18<29hueylene18>	!Xon Judy Blume - Forever (retail) (epub).rar
-T 1481485423 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1481485423 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1481485424 18<28haborym18>	@search childbirth
-T 1481485424 18<20Reptar18>	!PCplague Jim Butcher - The Dresden Files 04 - Summer Knight.epub
-T 1481485430 18<22bucky18>	!Xon Ben Coes - [Dewey Andreas 05] - Independence Day (epub).rar 
-T 1481485435 18<27jorgensn18>	@search kim harrison operator
-T 1481485436 18<29TIGERPAW18>	@search into the fire tom clancy
-T 1481485438 18<24Gazr8818>	@search Book 37: The Silent War
-T 1481485444 18<29stargem18>	!Pondering42 Michael J Sullivan - [The Riyria Chronicles 02] - The Rose and the Thorn (epub).rar
-T 1481485446 18<29consuelo18>	!PCplague Fforde, Jasper - Thursday Next 01 - The Eyre Affair.mobi
-T 1481485446 23*	Andy (Andy@ihw-skl.nlt.253.206.IP23) vient de rentrer
-T 1481485452 18<19CoffeeCat18>	@search Peters, Elizabeth - The Love Talker
-T 1481485455 18<24Gazr8818>	@search Silent war
-T 1481485464 18<29stargem18>	!Pondering42 Michael J Sullivan - [The Riyria Chronicles 02] - The Rose and the Thorn (mobi).rar
-T 1481485464 18<25Mach218>	!Pondering42 Tom Clancy - [NF 05] - Airborne- A Guided Tour of an Airborne Task Force (v5.0) (epub).rar
-T 1481485471 18<28haborym18>	@search breastfeeding
-T 1481485473 18<22Frozt18>	@afaiktoit
-T 1481485481 18<22deeks18>	!PCplague Lynn Flewelling - Nightrunners 02 - Stalking Darkness.epub  ::INFO:: 555.6KB
-T 1481485483 18<20BookyMcBookface18>	@search Justin Halpern
-T 1481485483 18<24John18>	!Pondering42 Corinne Hofmann - The White Masai- My Exotic Tale of Love and Adventure (epub).rar
-T 1481485486 18<27GrandpaGibson18>	@search Korea's Syngman Rhee: An Unauthorized Portrait
-T 1481485500 18<29consuelo18>	@search st. lucy's home
-T 1481485500 18<27jorgensn18>	!Ook Kim Harrison - [Peri Reed Chronicles 02] - The Operator (retail) (epub).rar
-T 1481485507 23*	_de_nuit (user@ihw-s16ffb.isadsl.co.za23) vient de rentrer
-T 1481485507 18<26aleja18>	!Xon Stephen King - [Bill Hodges 03] - End of Watch (retail) (epub).rar
-T 1481485508 18<29TIGERPAW18>	!Xon Tom Clancy, Steve Pieczenik - [Op-Center] - Into the Fire - Dick Couch, George Galdorisi (retail) (epub).rar
-T 1481485519 18<27GrandpaGibson18>	@search the hunger games
-T 1481485524 18<25creadak18>	@search Rogue One
-T 1481485527 18<29hueylene18>	@search Madeline Miller
-T 1481485530 24*	aleja (aleja@ihw-t06.1ej.28.89.IP24) est parti
-T 1481485531 18<29stargem18>	!Pondering42 Michael J Sullivan - Hollow World (mobi).rar
-T 1481485537 18<29TIGERPAW18>	!Ook Tom Clancy, Steve Pieczenik - [Op-Center] - Into the Fire - Dick Couch, George Galdorisi (retail) (epub).rar
-T 1481485538 18<27jorgensn18>	@search james patterson cross the line
-T 1481485540 18<20BookyMcBookface18>	!PCplague Halpern, Justin - Shit My Dad Says.mobi
-T 1481485541 23*	aleja (aleja@ihw-t06.1ej.28.89.IP23) vient de rentrer
-T 1481485546 18<25madcatter18>	!Pondering42 Michael J Sullivan - Hollow World (mobi).rar
-T 1481485551 18<26aleja18>	!Xon Stephen King - [Bill Hodges 03] - End of Watch (retail) (epub).rar
-T 1481485552 18<22_de_nuit18>	@search susan grant
-T 1481485557 18<20Reptar18>	!pizda Jim Butcher - Dresden Files 04 - Summer Knight.epub
-T 1481485558 18<24Gazr8818>	!Ook Warhammer 40,000 - [Horus Heresy 37] - The Silent War- Chosen of the Sigillite (v5.0) (epub).rar 
-T 1481485564 18<28Aliased18>	@search shards of hope
-T 1481485565 18<29stargem18>	!Ook Michael J Sullivan - [When Time Forgets 01] - Necessary Heartbreak (v5.0) (epub).rar 
-T 1481485565 18<27GrandpaGibson18>	@search Korea's Syngman Rhee: An Unauthorized Portrait
-T 1481485568 18<29consuelo18>	!Xon Karen Russell - St. Lucy's Home for Girls - Raised by Wolves (mobi).rar
-T 1481485573 18<28discomcobublator18>	!Pondering42 James Gleick - Time Travel- A History (retail) (epub).rar
-T 1481485576 20*	Déconnecté (20)
-T 1481485593 19*	Vous parlez maintenant sur 22#ebooks
-T 1481485593 22*	Le sujet de 22#ebooks est : NO TEXTBOOKS here - New books: !trainpacks or mediafire.com/NewArchive - @search @searchook @find - FAQ at http://ebooks.byethost6.com/ - If you are serving, Register your nick to be added to voice - Send new books to sniffn
-T 1481485593 22*	Sujet de 22#ebooks choisi par 26yall2!yall2@ihw-95d.cp0.28.72.IP (24Tue Oct  4 11:43:50 2016)
-T 1481485593 -18ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
-T 1481485595 18<28discomcobublator18>	!Resistance Siddhartha Mukherjee - The Gene- An Intimate History (epub).rar
-T 1481485596 23*	GrandpaGibson (textual@ihw-o47un5.cable.virginm.net23) vient de rentrer
-T 1481485598 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 251943 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481485603 18<24Gazr8818>	@search The Last Phoenix
-T 1481485604 18<20Witt18>	!Pondering42 Wallace Breem - The Legate's Daughter (pdf).rar
-T 1481485604 18<29TIGERPAW18>	@search  code name camelo vince flynn
-T 1481485606 18<29consuelo18>	@searh charles yu
-T 1481485610 24*	angelus a quitté (Quit: Pull the pin and count to what?)
-T 1481485611 18<28discomcobublator18>	!Ook Siddhartha Mukherjee - The Gene- An Intimate History (epub).rar
-T 1481485619 18<27jorgensn18>	!pizda James Patterson - [Alex Cross 24] - Cross the Line (US) (retail) (epub).epub
-T 1481485623 18<29consuelo18>	@search yu safely
-T 1481485624 18<28Aliased18>	!Pondering42 Nalini Singh - [Psy-Changeling 14] - Shards of Hope (retail) (epub).rar
-T 1481485632 18<29TIGERPAW18>	@search vince flynn
-T 1481485636 24*	Joz a quitté (Ping timeout: 121 seconds)
-T 1481485638 18<29hueylene18>	@search Kazuo Ishiguro
-T 1481485640 24*	The_Fake_Bob_Marly a quitté (Ping timeout: 121 seconds)
-T 1481485643 24*	Sohee a quitté (Quit: )
-T 1481485646 18<19Odren18>	@search red padawan
-T 1481485651 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 540,738 12,00Files 14,00 12,00Slots:04,00 16/17 14,00 12,00Queued:04,00 67 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 48,455 14,00 12,00List: 04,00Dec 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
-T 1481485651 24*	Andy a quitté (Client exited)
-T 1481485654 23*	Joz (Joz@ihw-8s7gkv.mo.comcast.net23) vient de rentrer
-T 1481485657 18<24Gazr8818>	@search The Phoenician
-T 1481485662 18<20gasbag18>	@search Dirk Gently
-T 1481485664 18<29TIGERPAW18>	!Ook Vince Flynn - [Mitch Rapp 15] - Order to Kill - Kyle Mills (retail) (epub).rar
-T 1481485669 18<29consuelo18>	!pizda How to Live Safely in a Science Fictiona - Charles Yu.mobi
-T 1481485683 18<29ElasticMorals18>	!Ook James S A Corey - [The Expanse 06] - Babylon's Ashes (epub).rar
-T 1481485702 18<27jorgensn18>	@search patricia cornwell chaos
-T 1481485710 18<29consuelo18>	@search what is not yours is not yours
-T 1481485711 18<29hueylene18>	!pizda Never Let Me Go - Kazuo Ishiguro.mobi
-T 1481485714 18<26aleja18>	!Xon Stephen King - [Bill Hodges 03] - End of Watch (retail) (epub).rar
-T 1481485717 18<29iiwii18>	!Xon Rosemary Rogers - Scandalous Deception (html).rar  
-T 1481485722 23*	rwar (rwar@ihw-hkp211.cpe.pppoe.ca23) vient de rentrer
-T 1481485723 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1481485723 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1481485725 18<27james18>	!Resistance Victoria Aveyard - [Red Queen 02] - Glass Sword (retail) (epub).ra
-T 1481485726 18<20gasbag18>	!QuietSilence Adams, Douglas - Dirk Gently 01 - Dirk Gently's Holistic Detective Agency [rtf].rar
-T 1481485738 18<27jorgensn18>	!pizda Patricia Cornwell - [Kay Scarpetta 24] - Chaos (retail) (epub).epub
-T 1481485740 18<26giral18>	!Xon Romila Thapar - The Penguin History of Early India- From the Origins to AD 1300 (retail) (epub).rar
-T 1481485741 24*	BookyMcBookface a quitté (Quit: Leaving)
-T 1481485744 18<27james18>	!Resistance Victoria Aveyard - [Red Queen 02] - Glass Sword (retail) (epub).rar
-T 1481485746 18<29consuelo18>	!Ook Helen Oyeyemi - What Is Not Yours Is Not Yours- Stories (retail) (epub).rar
-T 1481485748 24*	simok25 a quitté (Ping timeout: 121 seconds)
-T 1481485754 18<20gasbag18>	!pizda Dirk Gently's Holistic Detective Agency - Douglas Adams.mobi
-T 1481485765 18<24rwar18>	@search Laakmann
-T 1481485773 18<20Reptar18>	@search charles weems
-T 1481485773 18<26aleja18>	!Ook Stephen King - Full Dark, No Stars (retail) (epub).rar
-T 1481485775 18<20gasbag18>	!PCplague Douglas Adams - Dirk Gently 02 - The Long Dark Tea-Time of the Soul.mobi
-T 1481485777 18<27jorgensn18>	@search terry goodkind nest
-T 1481485781 23*	ne0nAsh (ne0nAsh@ihw-t46446.hsi13.kabel-badenwuerttemberg.de23) vient de rentrer
-T 1481485781 18<24rwar18>	@search crack
-T 1481485786 18<26giral18>	!PCplague Daniel Abraham - Dagger & Coin 01 - The Dragon's Path # plus James S. A. Covey - Expanse 01 - Leviathan Wakes (ARC).epub
-T 1481485790 18<27james18>	!Xon Victoria Aveyard - [Red Queen 02] - Glass Sword (retail) (epub).rar
-T 1481485793 18<20Reptar18>	@search a breed apart
-T 1481485799 18<24John18>	@search Left to Tell: Discovering God Amidst the Rwandan Holocaust
-T 1481485802 24*	Mach2 a quitté (Quit: )
-T 1481485811 18<20gasbag18>	!PCplague Dirk Gently's Holistic Detective Agency - Douglas Adams.mobi
-T 1481485817 18<27jorgensn18>	!pizda Terry Goodkind - Nest (retail) (epub).epub
-T 1481485820 24*	chrisandfore a quitté (Connection closed)
-T 1481485822 18<26aleja18>	!Ook Stephen King - [Bill Hodges 03] - End of Watch (retail) (epub).rar
-T 1481485830 23*	realweaver (realweaver@ihw-k65.3ap.97.88.IP23) vient de rentrer
-T 1481485831 24*	keffcat a quitté (Connection closed)
-T 1481485837 24*	GrandpaGibson a quitté (Quit: Textual IRC Client: www.textualapp.com)
-T 1481485850 18<27james18>	!Ook Victoria Aveyard - [Red Queen 00.5] - Queen Song (retail) (epub).rar 
-T 1481485859 18<29hueylene18>	@search Anna Karenina
-T 1481485860 23*	Randor (Randor@ihw-g4487v.or.comcast.net23) vient de rentrer
-T 1481485861 23*	keffcat (keffcat@ihw-kum3hu.ca.comcast.net23) vient de rentrer
-T 1481485861 18<24rwar18>	@search cracking the pm interview
-T 1481485862 24*	Joz a quitté (Connection closed)
-T 1481485863 24*	SearchOok a quitté (Connection closed)
-T 1481485866 23*	Smoke (Ssmoke@ihw-vul.8td.216.162.IP23) vient de rentrer
-T 1481485871 18<29iiwii18>	@search Roxanne St Claire
-T 1481485872 18<29Poopie18>	!Pondering42 Meredith Wild - [Bridge 03] - Over The Edge (epub).rar
-T 1481485877 24*	Reptar a quitté (Quit: leaving)
-T 1481485878 18<22Randor18>	@search Saga
-T 1481485880 23*	Captainho0k (Captainho0@ihw-4ir.b3t.217.90.IP23) vient de rentrer
-T 1481485880 18<27james18>	!Pondering42 Victoria Aveyard - [Red Queen 00.6] - Steel Scars (retail) (epub).rar
-T 1481485881 24*	rwar a quitté (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
-T 1481485890 18<19CoffeeCat18>	@search Peters, Elizabeth The Copenhagen Connection
-T 1481485893 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,718 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
-T 1481485898 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 252243 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
-T 1481485902 18<27jorgensn18>	@search estep unraveled
-T 1481485910 23*	Carol (Carol@ihw-i89do9.cable.rogers.com23) vient de rentrer
-T 1481485912 23*	GangNam9 (gangnam@ihw-k53.b2i.137.118.IP23) vient de rentrer
-T 1481485915 23*	adsofajwoefa2 (adsofajwoef@ihw-qnqglc.bchsia.telus.net23) vient de rentrer
-T 1481485924 18<29hueylene18>	!pizda Leo Nikoleyevich Tolstoy - Anna Karenina.epub 
-T 1481485939 23*	Joz (Joz@ihw-8s7gkv.mo.comcast.net23) vient de rentrer
-T 1481485940 18<27jorgensn18>	!pizda Jennifer Estep - [Elemental Assassin 15] - Unraveled (retail) (epub).epub
-T 1481485945 18<20gasbag18>	!pizda Douglas Adams - Dirk Gently 02 - The Long Dark Tea-Time of the Soul.epub
-T 1481485949 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 540,738 12,00Files 14,00 12,00Slots:04,00 16/17 14,00 12,00Queued:04,00 59 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 48,464 14,00 12,00List: 04,00Dec 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
-T 1481485962 24*	Therms a quitté (Quit: )
-T 1481485969 18<29hueylene18>	@search  Benjamin Alire Sáenz
-T 1481485978 18<27misadelph18>	@search jessica steele
-T 1481485985 20*	Déconnecté (20)
-T 1481485997 22*	26bgdnvst a mis le mode 24+x sur 22bgdnvst
-T 1481485997 -18NickServ-	This nickname is registered and protected.  If it is your
-T 1481485997 -18NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
-T 1481485997 -18NickServ-	please choose a different nick.
-T 1481485997 -18NickServ-	Password accepted - you are now recognized.
-T 1481485997 22*	26NickServ a mis le mode 24+r sur 22bgdnvst
-T 1481486002 19*	Vous parlez maintenant sur 22#ebooks
-T 1481486002 22*	Le sujet de 22#ebooks est : NO TEXTBOOKS here - New books: !trainpacks or mediafire.com/NewArchive - @search @searchook @find - FAQ at http://ebooks.byethost6.com/ - If you are serving, Register your nick to be added to voice - Send new books to sniffn
-T 1481486002 22*	Sujet de 22#ebooks choisi par 26yall2!yall2@ihw-95d.cp0.28.72.IP (24Tue Oct  4 11:43:50 2016)
-T 1481486002 -18ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
-T 1481486020 18<29hueylene18>	!Xon Benjamin Alire Saenz - Aristotle and Dante Discover the Secrets of the Universe (epub).rar
-T 1481486021 18<27jorgensn18>	!pizda John Flanagan - [Ranger's Apprentice - The Early Years 02] - The Battle of Hackham Heath (retail) (epub).epub
-T 1481486022 FiSHLiM plugin unloaded
-T 1481486022 Python interface unloaded
+T 1482280785 18<25elizacolt18>	@search  Joe McGinniss miracle
+T 1482280785 23*	Gail (Gail@ihw-f5dcvj.ga.comcast.net23) vient de rentrer
+T 1482280787 18<28Zorus18>	!Xon-new Gea Haff - [Bronte Blood Chronicle 01] - Anne Bronte Nightwalker (epub).rar
+T 1482280791 18<25patiencel18>	11,1Science Fiction, general literature, etc. 1,11Type @patiencel to get my list of 31155 files. Created on Sat Nov 19 07:06:16 2016. Average speed: 266.901 KiB/s
+T 1482280801 18<22jumeaux18>	!Pondering42 S K Een - [Port Carmila 01] - Death is Only a Theoretical Concept [MM] (epub).rar
+T 1482280803 18<24Gail18>	@search jane smiley
+T 1482280805 18<27AndroUser18>	@search beatiful testing
+T 1482280807 18<25elizacolt18>	@search  Desiree Cooper 
+T 1482280808 18<22aetx18>	@search annihilation vandermeer
+T 1482280815 18<25elizacolt18>	@search paula whyman
+T 1482280827 23*	SWAGKYUN9000 (Sakamoto@ihw-ht3n73.al.comcast.net23) vient de rentrer
+T 1482280829 18<27Caeneus18>	!Mysfyt Brent Weeks - [Lightbringer 04] - The Blood Mirror (retail) (epub).rar  ::INFO:: 6.0MB
+T 1482280830 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 07] - One Under (epub).rar
+T 1482280832 18<22jumeaux18>	!Pondering42 Natasha Ryder - Rockstar Rivals [MM] (epub).rar
+T 1482280832 18<28Zorus18>	!Xon-new J Cameron Boyd - Spirit of the Dragon- A Story of Magic, a Witch, and the Third Reich (epub).rar
+T 1482280833 18<27AndroUser18>	@search beautiful testing
+T 1482280841 18<27SWAGKYUN900018>	@search How I Raised Myself
+T 1482280849 18<22aetx18>	!Ook Jeff VanderMeer - [Southern Reach 01] - Annihilation (retail) (epub).rar
+T 1482280852 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,490 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482280852 18<25elizacolt18>	@search ana spagna
+T 1482280855 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 31861 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482280857 24*	Sithicus a quitté (Quit: )
+T 1482280857 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 08] - The Price of Darkness (epub).rar
+T 1482280859 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482280859 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482280860 18<24anakinsdad18>	!Resistance Cherise Sinclair - [Masters of the Shadowlands 11] - Protecting His Own (epub).rar  ::INFO:: 837.5KB
+T 1482280865 18<25elizacolt18>	@search  Erik Fassnacht 
+T 1482280867 18<22aetx18>	@search ancillary justice
+T 1482280878 18<27Caeneus18>	!Mysfyt Brent Weeks - [Lightbringer 04] - The Blood Mirror (retail) (epub).rar  ::INFO:: 6.0MB
+T 1482280878 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 09] - No Lovelier Death (epub).rar
+T 1482280881 24*	drip a quitté (Ping timeout: 121 seconds)
+T 1482280885 18<27AndroUser18>	@search Lessons Learned In Software Testing
+T 1482280888 18<28Zorus18>	!Xon-new J P Silverado - [The Last of the Guardians 01] - Insurrection (epub).rar
+T 1482280890 18<22aetx18>	!Ook Ann Leckie - [Imperial Radch 01] - Ancillary Justice (epub).rar
+T 1482280891 18<25elizacolt18>	@search  Frances Dinkelspiel 
+T 1482280899 24*	AndroUser a quitté (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+T 1482280899 18<25lkh18>	!Xon Cornelia Funke - [Inkworld 02] - Inkspell (retail) (epub).rar 
+T 1482280901 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 10] - Beyond Reach (epub).rar
+T 1482280915 18<24Gail18>	!Pondering42 Jane Smiley - [Last Hundred Years 01] - Some Luck (retail) (epub).rar
+T 1482280916 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 11] - Borrowed Light (epub).rar
+T 1482280920 18<25lkh18>	!Xon Cornelia Funke - [Inkworld 03] - Inkdeath (retail) (epub).rar
+T 1482280923 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 3/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 103,355cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,807 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482280928 18<29ecctoaffluu18>	@search Words From The Myths
+T 1482280928 18<25elizacolt18>	@search  Kate Colquhoun kill
+T 1482280928 24*	Réception d'un CTCP 24SLOTS 5 3 NOW 0 999 103355 572659 613453789693 1 1480895686 396960 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482280931 18<22aetx18>	@search blackout willis
+T 1482280934 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 12] - Happy Days (epub).rar
+T 1482280937 18<22jumeaux18>	!Pondering42 Russell J Sanders - Colors [MM] (epub).rar
+T 1482280938 23*	Pruwcin (Pruwcin@ihw-jifgnj.cpe.teksavvy.com23) vient de rentrer
+T 1482280942 18<25elizacolt18>	@search sashi kaufman wired
+T 1482280951 18<25lilybug18>	@search Hillbilly Elegy
+T 1482280955 18<27MoneyStax42018>	!patiencel Edward Gibbon, Francis Parkman, William H Prescott, Theodore Roosevelt - The Modern Library Essential - World History 4-Book Bundle (epub).rar
+T 1482280957 18<22jumeaux18>	!Pondering42 Cambria Hebert - [GearShark 01] - #Junkie [MM] (epub).rar
+T 1482280959 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter] - Backstory (epub).rar
+T 1482280961 18<25elizacolt18>	@search Nadine Darling beyond
+T 1482280967 18<22aetx18>	!Mysfyt Connie Willis - Blackout (epub).rar
+T 1482280974 18<28Zorus18>	b).rar
+T 1482280974 18<28Zorus18>	<jumeaux> !Pondering42 Cambria Hebert - [GearSh
+T 1482280976 18<25elizacolt18>	@search  Emily Hourican 
+T 1482280977 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 56 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,614 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482280983 18<28Zorus18>	!Xon-new Jerry Pournelle (ed) - [There Will Be War 02] - There Will Be War Volume II (epub).rar 
+T 1482280988 24*	Sapheron a quitté (Quit: )
+T 1482280989 18<24lennyn18>	!Xon Henning Mankell - [Wallander 06] - The Fifth Woman (v5.0) (epub).rar
+T 1482280990 18<28Zorus18>	!Xon-new Jerry Pournelle (ed) - [There Will Be War 01] - There Will Be War Volume I (epub).rar
+T 1482280991 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482280994 18<27Pruwcin18>	@search sanderson warbreaker
+T 1482280994 18<25lilybug18>	!Xon J D Vance - Hillbilly Elegy- A Memoir of a Family and Culture in Crisis (epub).rar
+T 1482280996 18<25elizacolt18>	@search  Mimi Schippers 
+T 1482280996 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1047336 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482280999 18<27Pruwcin18>	@Xon-new
+T 1482281021 18<27Pruwcin18>	!Ook Brandon Sanderson - Warbreaker (retail) (epub).rar
+T 1482281022 18<25elizacolt18>	@search  Victoria Laurie forever
+T 1482281030 23*	ihw_2989292 (iwh_9291920@ihw-dmk.i0a.172.188.IP23) vient de rentrer
+T 1482281032 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281032 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 5/5 14,03 04,03Queued:12,03 0 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,461 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482281035 18<29ihw_298929218>	!Xon Neil Gaiman - American Gods (Tenth Anniversary Edition) (v5.0) (mobi).rar
+T 1482281037 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 21444 14127103847 1 1482275295 283332 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482281041 18<24Gail18>	@search Alyson Richman
+T 1482281045 18<25elizacolt18>	@search Amy Cheung
+T 1482281045 23*	Chez_au (cheryl_os@ihw-0sf.okg.180.101.IP23) vient de rentrer
+T 1482281050 23*	DraymondGreen (DraymondGr@ihw-hbh.dbg.13.87.IP23) vient de rentrer
+T 1482281051 18<22jumeaux18>	!Pondering42 Howard Lauther - Creating Characters- A Writer's Reference to the Personality Traits That Bring Fictional People to Life (epub).rar
+T 1482281054 18<20Chez_au18>	@search bonnie parker
+T 1482281057 18<20FourEye18>	!Pondering42 Graham Hurley - Permissible Limits (epub).rar
+T 1482281063 18<25elizacolt18>	@search mike farris death
+T 1482281066 24*	ChronoVore a quitté (Ping timeout: 121 seconds)
+T 1482281078 18<20FourEye18>	!Pondering42 Graham Hurley - Heaven's Light (epub).rar
+T 1482281079 24*	Caeneus a quitté (Quit: )
+T 1482281080 18<20Chez_au18>	@search her dominant saviors
+T 1482281082 18<25elizacolt18>	@search steve bloom stand
+T 1482281097 23*	hockeymom (hockeymom@ihw-aoiaom.dyn.optonline.net23) vient de rentrer
+T 1482281104 18<25elizacolt18>	@search  Ryan Berg home
+T 1482281107 18<24Gail18>	!Xon Jane Smiley - [Last Hundred Years 01] - Some Luck (retail) (epub).rar 
+T 1482281111 18<24lennyn18>	!Xon Henning Mankell - One Step Behind (epub).rar 
+T 1482281113 18<20Chez_au18>	!Xon Bonnie Parker - Her Dominant Saviors [Siren Menage Everlasting] (epub).rar
+T 1482281115 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 253206 358828595649 1 1482170670 164896 OmenServe v2.73 de 18Ook (à 22#ebooks)
+T 1482281119 18<25elizacolt18>	@search  Michael Lenehan 
+T 1482281123 18<24anakinsdad18>	@search greener pastures
+T 1482281131 18<25elizacolt18>	@search  Natasha Stagg 
+T 1482281135 18<27Pruwcin18>	!Xon-new Steven Gould - Wildside (v4.0) (mobi).rar
+T 1482281138 18<20Chez_au18>	!Mysfyt Bonnie Parker - Her Dominant Saviors [Siren Menage Everlasting] (mobi).rar
+T 1482281150 18<25elizacolt18>	@search  Allegra Hyde 
+T 1482281152 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482281155 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 32161 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482281159 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482281159 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482281165 18<25elizacolt18>	@search janyce cole garden
+T 1482281173 23*	notaspacerancor277 (androirc@ihw-4qm93h.pools.spcsdns.net23) vient de rentrer
+T 1482281173 18<24anakinsdad18>	@search tymber dalton
+T 1482281174 18<22Mak18>	!Pondering42 Anthony Burgess - Earthly Powers (epub).rar
+T 1482281185 18<25elizacolt18>	@search  Christine Sneed men
+T 1482281192 23*	goodreader (Sabri-star@ihw-75jlp1.ideay.net.ni23) vient de rentrer
+T 1482281195 18<25elizacolt18>	@search arlie strangers
+T 1482281204 18<29ecctoaffluu18>	@search words from the myths
+T 1482281210 18<25elizacolt18>	@search emily street races
+T 1482281210 24*	notaspacerancor277 a quitté (Connection reset by peer)
+T 1482281220 18<24Gail18>	!Pondering42 Alyson Richman - The Velvet Hours (retail) (epub).rar
+T 1482281223 23*	notaspacerancor277 (androirc@ihw-fs4ubq.rcsntx.sbcglobal.net23) vient de rentrer
+T 1482281223 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,813 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482281226 18<28Zorus18>	!Xon-new Jerry Pournelle (ed) - [There Will Be War 03] - There Will Be War Volume III (epub).rar
+T 1482281228 18<25elizacolt18>	@search  Patrick Dacey 
+T 1482281228 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 397260 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482281229 18<28Zorus18>	!Xon-new Jerry Pournelle (ed) - [There Will Be War 04] - There Will Be War Volume IV (epub).rar
+T 1482281230 23*	pete6747635425432451243 (pete@ihw-40mncr.iprimus.net.au23) vient de rentrer
+T 1482281231 23*	levikus321 (levikus321@ihw-ek486n.east.verizon.net23) vient de rentrer
+T 1482281234 23*	SonicYouth44 (SonicYouth@ihw-6rh.fav.200.104.IP23) vient de rentrer
+T 1482281237 18<28Zorus18>	!Xon-new Jeremy Cunkle - [MechaVerse 01] - Starkindler (epub).rar  
+T 1482281239 18<27pete674763542543245124318>	@search drochon
+T 1482281244 18<27SonicYouth4418>	@Search sakey
+T 1482281247 18<25elizacolt18>	@search Suzana Tratnik
+T 1482281251 18<27SWAGKYUN900018>	!FlipMoran How I Raised Myself from Failure to Success in Selling (1986)-Frank Bettger.pdf::INFO:: 4.0MB
+T 1482281258 18<27SWAGKYUN900018>	!FlipMoran How I Raised Myself from Failure to Success in Selling (1986) - Frank Bettger.pdf  ::INFO:: 4.0MB
+T 1482281261 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 25] - Vicious Carousel [Siren Sensations] (epub).rar
+T 1482281263 18<27pete674763542543245124318>	@search nietzsche
+T 1482281264 18<25elizacolt18>	@search  Leif Whittaker 
+T 1482281272 18<27SWAGKYUN900018>	@seach Zig Ziglar
+T 1482281277 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 63 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,624 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281280 18<25elizacolt18>	@search  Carys Davies galen
+T 1482281281 18<24lennyn18>	!patiencel Henning Mankell - [Wallander 08] - Firewall (epub).epub
+T 1482281284 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 26] - Hot Sauce [Siren Sensations] (epub).rar
+T 1482281287 24*	Pruwcin a quitté (Connection closed)
+T 1482281290 18<27SonicYouth4418>	!Xon Marcus Sakey - [Brilliance 03] - Written in Fire (epub).rar
+T 1482281291 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482281291 24*	DraymondGreen a quitté (Ping timeout: 121 seconds)
+T 1482281292 24*	MoneyStax420 (MoneyStax4@ihw-7jbt2f.ca.comcast.net24) est parti
+T 1482281296 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1047636 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482281302 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 27] - Open Doors [Siren Sensations] (epub).rar
+T 1482281310 18<25elizacolt18>	@search  Elise Levine 
+T 1482281312 18<24lennyn18>	!Ook Henning Mankell - The Return of the Dancing Master (retail) (epub).rar
+T 1482281314 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 28] - One Ring [Siren Sensations] (epub).rar
+T 1482281328 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 29] - Vulnerable [Siren Sensations ManLove] (epub).rar
+T 1482281332 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281332 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 5/5 14,03 04,03Queued:12,03 0 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,461 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482281336 18<24lennyn18>	!Mysfyt Henning Mankell - [Linda Wallander 01] - Before the Frost (retail) (epub).rar
+T 1482281337 18<25elizacolt18>	!Mysfyt Carys Davies - The Travellers and Other Stories (Some New Ambush; The Redemption of Galen Pike) (retail) (epub).rar  ::INFO:: 2.2MB
+T 1482281337 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 21444 14127103847 1 1482275295 283632 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482281341 18<27SonicYouth4418>	!Ook Marcus Sakey - [Brilliance 03] - Written in Fire (epub).rar
+T 1482281345 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 30] - The Strength of the Pack [Siren Sensations] (epub).rar
+T 1482281359 18<25elizacolt18>	@search  Alice Petersen goods
+T 1482281374 24*	Chez_au a quitté (Quit: )
+T 1482281374 18<25elizacolt18>	@search Meredith Quartermain girl
+T 1482281376 18<24lennyn18>	!Pondering42 Henning Mankell - [Wallander 11] - The Troubled Man (v5.0) (epub).rar
+T 1482281384 18<20FourEye18>	!Pondering42 Graham Hurley - [Faraday and Winter 01] - Turnstone (epub).rar
+T 1482281411 18<25elizacolt18>	@search  Ayisha Malik 
+T 1482281414 18<20FourEye18>	!Pondering42 Graham Hurley - [Faraday and Winter 02] - The Take (epub).rar
+T 1482281430 18<25elizacolt18>	@search  Kait Heacock 
+T 1482281434 24*	vashtanerada (vashtanera@ihw-53u.mt7.68.109.IP24) est parti
+T 1482281436 18<20FourEye18>	!Pondering42 Graham Hurley - [Faraday and Winter 03] - Angels Passing (epub).rar
+T 1482281445 18<25elizacolt18>	@search Caschetta friend
+T 1482281449 23*	Myrddhin (Myrddhin@ihw-2ao.adk.211.95.IP23) vient de rentrer
+T 1482281452 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482281455 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 32461 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482281458 18<25elizacolt18>	@search  Cyn Vargas 
+T 1482281459 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482281459 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482281461 18<24Myrddhin18>	@search harry potter
+T 1482281468 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 07] - One Under (epub).rar
+T 1482281471 18<25elizacolt18>	@search Chelsea Martin mickey
+T 1482281501 24*	supagarza a quitté (Ping timeout: 121 seconds)
+T 1482281507 23*	Cbailey (Cbailey@ihw-vu8282.vs.shawcable.net23) vient de rentrer
+T 1482281517 24*	elizacolt a quitté (Quit: Leaving)
+T 1482281520 18<24Myrddhin18>	!Pondering42 J K Rowling - [Harry Potter 01] - Harry Potter and the Philosopher's Stone (retail) (epub).rar
+T 1482281523 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,816 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482281528 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 397560 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482281534 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 01] - Turnstone (epub).rar
+T 1482281541 23*	questionsleep (questionsle@ihw-99t.89e.87.71.IP23) vient de rentrer
+T 1482281542 18<25neppynyc18>	@search hindenburg
+T 1482281551 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 02] - The Take (epub).rar
+T 1482281555 18<24questionsleep18>	@search David Benatar
+T 1482281555 18<28Zorus18>	!Xon-new Jeremy Cunkle - [MechaVerse 02] - Nemesis (retail) (azw3).rar 
+T 1482281560 18<28Zorus18>	!Xon-new Kathleen Bryan - [War of the Rose 02] - The Golden Rose (v5.0) (epub).rar 
+T 1482281567 23*	mards (mards@ihw-a5r96v.dyn.optonline.net23) vient de rentrer
+T 1482281570 18<28Zorus18>	!Xon-new Paul Hazel - [Finnbranch 01] - Yearwood (v1.0) (epub).rar 
+T 1482281578 18<24Myrddhin18>	!nukie J K Rowling - [Harry Potter 01] - Harry Potter and the Philosopher's Stone (retail) (epub).rar
+T 1482281578 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 68 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,634 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281580 18<25mards18>	@search my lady jane cynthia hand
+T 1482281588 23*	bradyundt232 (bradyundt2@ihw-2de.5h9.178.122.IP23) vient de rentrer
+T 1482281591 24*	Luke a quitté (Client exited)
+T 1482281596 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482281600 18<25mards18>	@search burning bright melissa mcshane.
+T 1482281601 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1047936 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482281613 23*	PERSIAN (PERSIAN@ihw-7o74le.dsl.bell.ca23) vient de rentrer
+T 1482281617 18<25mards18>	@search burning bright melissa mcshane
+T 1482281625 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 02] - Harry Potter and the Chamber of Secrets (UK) (retail) (epub).rar
+T 1482281627 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281628 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 03] - Angels Passing (epub).rar
+T 1482281630 18<24anakinsdad18>	@search david wong
+T 1482281632 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 5/5 14,03 04,03Queued:12,03 0 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,461 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482281637 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 21444 14127103847 1 1482275295 283932 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482281642 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 04] - Deadlight (epub).rar
+T 1482281643 18<25mards18>	!Mysfyt Melissa McShane - Burning Bright (epub).rar
+T 1482281648 24*	triados a quitté (Ping timeout: 121 seconds)
+T 1482281652 18<29ecctoaffluu18>	@search A Little History of the World
+T 1482281654 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 03] - Harry Potter and the Prisoner of Azkaban (UK) (retail) (epub).rar
+T 1482281663 18<24lennyn18>	!Xon Henning Mankell - [Wallander 05] - Sidetracked (v5.0) (epub).rar 
+T 1482281666 18<25mards18>	!Ook My Lady Jane - Cynthia Hand, Brodi Ashton, Jodi Meadows (retail) (epub).rar
+T 1482281676 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 04] - Harry Potter and the Goblet of Fire (UK) (retail) (epub).rar
+T 1482281681 18<24anakinsdad18>	!Xon David Wong - Futuristic Violence and Fancy Suits (retail) (epub).rar  
+T 1482281681 18<24anakinsdad18>	- 939.28 KB
+T 1482281684 18<29ecctoaffluu18>	!Ook E H Gombrich - A Little History of the World - Illustrated Edition (epub).rar
+T 1482281690 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 05] - Harry Potter and the Order of the Phoenix (UK) (retail) (epub).rar
+T 1482281693 24*	aetx a quitté (Ping timeout: 121 seconds)
+T 1482281709 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 06] - Harry Potter and the Half-Blood Prince (UK) (retail) (epub).rar
+T 1482281710 18<24Xon18>	5[BWI] 10Type @Xon-new10 to get the list of 3,68910 files (64.05 GB). 10Updated on 612-21-2016 01:12:24 10Total Sent(channel): 800,507 10(61137.23 GB10)
+T 1482281719 18<24stolengraces18>	@search breakdown kellerman
+T 1482281731 23*	fgbsd (fgbsd@ihw-ihhrlk.res.rr.com23) vient de rentrer
+T 1482281736 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 07] - Harry Potter and the Deathly Hallows (UK) (retail) (epub).rar
+T 1482281746 18<24stolengraces18>	!Mysfyt Jonathan Kellerman - [Alex Delaware 31] - Breakdown (retail) (epub).rar
+T 1482281752 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482281755 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 32761 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482281758 18<24Myrddhin18>	!Mysfyt J K Rowling - [Harry Potter 01] - Harry Potter and the Philosopher's Stone (retail) (epub).rar
+T 1482281759 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482281759 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482281761 18<25neppynyc18>	@search Bismarck
+T 1482281768 23*	sodelicate (sodelicate@ihw-4j2n0m.snantx.sbcglobal.net23) vient de rentrer
+T 1482281770 18<26fgbsd18>	@search martian weir
+T 1482281776 18<24Myrddhin18>	@search tolkien lord retail
+T 1482281785 18<24Xon18>	5[BWI] 10Type @Xon10 to get the list of 520,41410 files (6435.69 GB10). 10Updated on 612-21-2016 01:36:59. 10Total Sent(channel): 800,510 10(61137.23 GB10)
+T 1482281786 18<20FourEye18>	@search ian rankin
+T 1482281796 18<25neppynyc18>	!Pondering42 Jonathan Steinberg - Bismarck- A Life (epub).rar
+T 1482281800 18<19sodelicate18>	@search Jemisin Broken
+T 1482281801 23*	Guts23 (Guts23@ihw-gktoet.mc.videotron.ca23) vient de rentrer
+T 1482281804 18<24lennyn18>	!Mysfyt Henning Mankell - [Wallander 05] - Sidetracked (v5.0) (epub).rar
+T 1482281809 18<26fgbsd18>	!Pondering42 Andy Weir - The Martian (epub).rar
+T 1482281814 18<28Guts2318>	@search aragon
+T 1482281826 18<24Myrddhin18>	!Mysfyt J R R Tolkien - [Lord of the Rings 00] - The Hobbit (retail) (epub).rar
+T 1482281826 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,830 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482281831 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 397860 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482281838 23*	triados (triados@ihw-5e30sk.dynamic.ziggo.nl23) vient de rentrer
+T 1482281840 18<22bucky18>	@search thin crust killers
+T 1482281841 18<19sodelicate18>	!Pondering42 N K Jemisin - [Broken Earth 01] - The Fifth Season (epub).rar
+T 1482281843 18<24Myrddhin18>	@search lord of the rings tolkien
+T 1482281859 18<24stolengraces18>	@search kellerman theory
+T 1482281876 18<19sodelicate18>	!Xon N K Jemisin - [Broken Earth 02] - The Obelisk Gate (retail) (epub).rar
+T 1482281878 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 66 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,644 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281879 18<20Hippieporn18>	@search The Art of Charlie Chan Hock Chye
+T 1482281881 18<28Zorus18>	!Xon-new Toby Neighbors - [Five Kingdoms 10] - Chaos Reigning (retail) (mobi).rar
+T 1482281886 18<24stolengraces18>	!darthv622 The Theory of Death - Faye Kellerman(mobi).rar 
+T 1482281891 18<28Zorus18>	!Ook Venessa Kimball as V Angelika - [Copula Chronicles 01-04] - Origin; Descend; Ascend; Legacy (epub).rar 
+T 1482281891 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482281896 23*	AyeReady (AyeReady@ihw-adnuv2.range86-172.btcentralplus.com23) vient de rentrer
+T 1482281896 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1048236 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482281897 23*	Aseril (AserilLOL@ihw-92b18c.elpstx.sbcglobal.net23) vient de rentrer
+T 1482281901 23*	whyyyyyyyyyy (androirc@ihw-sa4.t74.125.114.IP23) vient de rentrer
+T 1482281908 24*	yCe a quitté (Quit: )
+T 1482281908 18<28Zorus18>	!Xon-new Toby Neighbors - [Five Kingdoms 11] - Chaos Raging (retail) (mobi).rar
+T 1482281909 18<24lennyn18>	!Mysfyt Henning Mankell - One Step Behind (epub).rar
+T 1482281909 18<22whyyyyyyyyyy18>	@search fujino omori
+T 1482281911 18<22bucky18>	!darthv622 Thin Crust Killers - Chris Cavender(epub).rar 
+T 1482281914 18<29ecctoaffluu18>	!Mysfyt E H Gombrich - A Little History of the World - Illustrated Edition (epub).rar
+T 1482281915 18<28Zorus18>	!Xon-new Toby Neighbors - [Five Kingdoms 12] - Controlling Chaos (epub).rar  
+T 1482281918 24*	Rixte a quitté (Ping timeout: 121 seconds)
+T 1482281920 18<26fgbsd18>	@search stinnett fallen hero
+T 1482281921 18<24Myrddhin18>	!Mysfyt Tolkien, J.R.R. - The Lord of the Rings (Omnibus) (v5.0) [epub].rar
+T 1482281924 24*	motorbike a quitté (Quit: Leaving)
+T 1482281926 18<26Aseril18>	@search Sons of Destiny
+T 1482281927 18<26AyeReady18>	@search Joshua Dalzelle
+T 1482281932 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482281932 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 4/5 14,03 04,03Queued:12,03 0 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,462 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482281937 24*	Réception d'un CTCP 24SLOTS 5 4 NOW 0 999 0 21444 14127103847 1 1482275295 284232 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482281946 18<24Myrddhin18>	!Mysfyt J R R Tolkien - [Lord of the Rings 00] - The Hobbit (Enhanced Edition) (retail) (mobi).rar
+T 1482281949 24*	ecctoaffluu a quitté (Quit: )
+T 1482281954 18<27mokaz18>	@search E J Fisch
+T 1482281957 18<26fgbsd18>	@search matt rogers
+T 1482281966 24*	Gail a quitté (Client exited)
+T 1482281973 18<24lennyn18>	!Mysfyt Henning Mankell - The Pyramid (epub).rar
+T 1482281983 18<28Guts2318>	@search duras
+T 1482281983 18<24stolengraces18>	@search kellerman daughter
+T 1482281986 18<26Aseril18>	!darthv622 Sons of Destiny - Darren Shan(epub).rar  ::INFO:: 386.2KB
+T 1482281986 18<20FourEye18>	!darthv622 Even Dogs in the Wild - Ian Rankin(epub).rar
+T 1482281990 18<25patiencel18>	11,1Science Fiction, general literature, etc. 1,11Type @patiencel to get my list of 31155 files. Created on Sat Nov 19 07:06:16 2016. Average speed: 266.924 KiB/s
+T 1482281998 18<26AyeReady18>	!Xon Joshua Dalzelle - [Omega Force 06] - Secret of the Phoenix (epub).rar
+T 1482282007 23*	Noma450 (wotttina@ihw-so1us3.skymesh.net.au23) vient de rentrer
+T 1482282007 18<20FourEye18>	!darthv622 Saints of the Shadow Bible - Ian Rankin(epub).rar
+T 1482282012 23*	Euth (Euthoniel@ihw-uf0.1ub.156.185.IP23) vient de rentrer
+T 1482282015 18<20Euth18>	!Xon Franklin Kendrick - [Aberrant 01] - Super Charged (epub).rar  
+T 1482282016 18<24stolengraces18>	!darthv622 The Murderer's Daughter - Jonathan Kellerman(mobi).rar 
+T 1482282021 24*	whyyyyyyyyyy a quitté (Connection closed)
+T 1482282022 18<26iolarfs18>	15(11,12FServe Online15) Note:(11,1211,12Type @iolarfs for filelist1515) Trigger:(11,12/ctcp iolarfs !iolarfs15) On FServe:(11,1211,12*** 15k+ ebook collection, including a complete collection of BookPusher's Archive (11,123.5k+15), 26k+ digital comics, 6k+ games, and various audiobooks, radio plays, and other miscellanea : Use @search to search archive, or CTCP to browse ***1515) Sends:(11,120/215) Queues:(11,120/2015) Min CPS:(11
+T 1482282025 18<28Guts2318>	!Pondering42 Marguerite Duras - The Malady of Death (epub).rar
+T 1482282043 18<19sodelicate18>	!Mysfyt N K Jemisin - [Broken Earth 01] - The Fifth Season (epub).rar 
+T 1482282051 18<24stolengraces18>	@kellerman motive
+T 1482282052 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482282055 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 33061 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482282059 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482282059 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482282063 18<19sodelicate18>	!Mysfyt N K Jemisin - [Broken Earth 02] - The Obelisk Gate (retail) (epub).rar 
+T 1482282074 18<26AyeReady18>	!Pondering42 Joshua Dalzelle - Omega Rising (epub).rar
+T 1482282097 18<26fgbsd18>	!Pondering42 Matt Rogers - [Jason King 01] - Isolated (retail) (azw3).rar
+T 1482282104 18<26Aseril18>	@search Fear Street
+T 1482282109 18<26fgbsd18>	!Pondering42 Matt Rogers - [Jason King 02] - Imprisoned (retail) (azw3).rar
+T 1482282113 18<20Euth18>	!Pondering42 Peter Grant - [Maxwell Saga 01] - Take the Star Road (epub).rar
+T 1482282118 23*	nextek (nextek@ihw-bmt.7cd.255.103.IP23) vient de rentrer
+T 1482282121 18<28nextek18>	!trainpacks
+T 1482282123 18<27mokaz18>	!Xon E J Fisch - [Ziva Payvan 01] - Dakiti (retail) (azw3).rar
+T 1482282126 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,838 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482282131 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 398160 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482282135 18<20Euth18>	!Pondering42 Peter Grant - [Maxwell Saga 02] - Ride the Rising Tide (epub).rar
+T 1482282145 23*	change (cstan8670@ihw-j5d4gt.tukrga.sbcglobal.net23) vient de rentrer
+T 1482282146 24*	nextek a quitté (Quit: )
+T 1482282146 24*	cstan8670 a quitté (Connection closed)
+T 1482282148 24*	mards a quitté (Quit: )
+T 1482282153 18<20FourEye18>	!darthv622 Standing in Another Man's Grave - Ian Rankin(epub).rar
+T 1482282172 18<20FourEye18>	!darthv622 Exit Music - Ian Rankin(epub).rar
+T 1482282173 18<19patagucci18>	@search anthony bourdain
+T 1482282176 18<26fgbsd18>	@search judge powell
+T 1482282177 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 65 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,654 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482282191 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482282194 18<20FourEye18>	!darthv622 The Naming Of The Dead - Ian Rankin(epub).rar
+T 1482282196 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1048536 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482282197 18<25HumbleSoother18>	!Mysfyt Michio Kaku - Physics of the Impossible, A Scientific Exploration (epub).rar
+T 1482282202 18<28docx18>	!Mysfyt Brandon Sanderson - [Mistborn 04] - The Alloy of Law (v5.0) (mobi).rar
+T 1482282202 24*	sodelicate a quitté (Quit: )
+T 1482282208 18<24stolengraces18>	@search kellerman motive
+T 1482282209 18<20FourEye18>	!darthv622 Fleshmarket Alley - Ian Rankin(epub).rar
+T 1482282217 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street 01] - The New Girl (epub).rar
+T 1482282221 18<22Herb_Tarlek18>	@search wake president
+T 1482282225 18<20FourEye18>	!darthv622 A Question of Blood - Ian Rankin(epub).rar
+T 1482282227 18<28Zorus18>	!Xon-new William Sumrall - Metal Storm- Weird Custer (epub).rar
+T 1482282232 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482282232 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 4/5 14,03 04,03Queued:12,03 1 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,468 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482282233 18<24stolengraces18>	!Mysfyt Jonathan Kellerman - [Alex Delaware 30] - Motive (retail) (epub).rar
+T 1482282237 24*	Réception d'un CTCP 24SLOTS 5 4 NOW 1 999 0 21444 14127103847 1 1482275295 284532 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482282238 18<28Zorus18>	!Xon-new Kata Mlek - [One God 01] - The Will to Power (epub).rar   
+T 1482282241 23*	MrPjax (MrPjax@ihw-p1j82l.res.rr.com23) vient de rentrer
+T 1482282244 18<28Zorus18>	!Xon-new Kata Mlek - [One God 02] - The Last Man (epub).rar
+T 1482282247 18<24stolengraces18>	!Mysfyt Jonathan Kellerman - [Dr Grace Blades 01] - The Murderer's Daughter (retail) (epub).rar
+T 1482282248 18<19MrPjax18>	@search Georgia Beers
+T 1482282253 18<28Zorus18>	!Xon-new William Dexter - [World 01] - World in Eclipse (v1.0) (epub).rar  
+T 1482282253 18<19patagucci18>	!Pondering42 Anthony Bourdain - Kitchen Confidential- Adventures in the Culinary Underbelly (v5.0) (epub).rar
+T 1482282257 18<20FourEye18>	!darthv622 Resurrection Men - Ian Rankin(epub).rar
+T 1482282259 18<28Zorus18>	!Xon-new William Dexter - [World 02] - Children of the Void (v1.0) (epub).rar
+T 1482282262 18<28docx18>	!Mysfyt Brandon Sanderson - [Mistborn 05] - Shadows of Self (retail) (epub).rar
+T 1482282274 18<20FourEye18>	!darthv622 The Falls - Ian Rankin(epub).rar
+T 1482282276 18<28Zorus18>	!Xon-new A Gustafson - Habilitation (epub).rar  
+T 1482282287 18<28docx18>	@search brandon sanderson
+T 1482282293 18<24stolengraces18>	@search kellerman killer
+T 1482282295 18<20FourEye18>	!darthv622 Set in Darkness - Ian Rankin(epub).rar
+T 1482282313 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street Saga 01] - The Betrayal (retail) (epub).rar
+T 1482282313 18<20FourEye18>	!darthv622 Dead Souls - Ian Rankin(epub).rar
+T 1482282315 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 253206 358828595649 1 1482170670 166096 OmenServe v2.73 de 18Ook (à 22#ebooks)
+T 1482282322 18<28docx18>	!Mysfyt Brandon Sanderson - [Mistborn 06] - The Bands of Mourning (retail) (epub).rar
+T 1482282334 18<24stolengraces18>	!Mysfyt Jonathan Kellerman - [Alex Delaware 29] - Killer (v5.0) (epub).rar
+T 1482282334 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street Saga 02] - The Secret (retail) (epub).rar
+T 1482282335 18<20FourEye18>	!darthv622 The Hanging Garden - Ian Rankin(epub).rar
+T 1482282342 18<25neppynyc18>	@search Hohenzollern
+T 1482282348 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street Saga 03] - The Burning (retail) (epub).rar
+T 1482282349 18<25neppynyc18>	@search wilhem
+T 1482282350 24*	Viers a quitté (Ping timeout: 121 seconds)
+T 1482282352 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482282354 18<20FourEye18>	!darthv622 Black And Blue - Ian Rankin(epub).rar
+T 1482282355 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 33361 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482282359 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482282359 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482282378 18<20FourEye18>	!darthv622 Let It Bleed - Ian Rankin(epub).rar
+T 1482282379 18<26fgbsd18>	!Pondering42 Matt Rogers - [Jason King 02] - Imprisoned (retail) (azw3).rar
+T 1482282384 18<25neppynyc18>	!Xon Jonathan Steinberg - Bismarck- A Life (epub).rar
+T 1482282386 24*	SWAGKYUN9000 a quitté (Quit: Leaving)
+T 1482282388 24*	docx a quitté (Quit: )
+T 1482282392 18<20FourEye18>	!darthv622 Mortal Causes - Ian Rankin(epub).rar
+T 1482282408 18<20FourEye18>	!darthv622 The Black Book - Ian Rankin(epub).rar
+T 1482282413 18<28Zorus18>	!Xon-new D J Morand - [Legends of Vandor 01-10] - Anthology Volume 1 (epub).rar 
+T 1482282414 18<28Zorus18>	!Ook R M Burgess - [New Eartha Chronicles 01] - The Eclipse of the Zon (epub).rar 
+T 1482282424 18<28Zorus18>	!Ook R M Burgess - [New Eartha Chronicles 02] - The Eclipse of the Zon- First Tremors (epub).rar 
+T 1482282426 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,845 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482282428 18<20FourEye18>	!darthv622 Strip Jack - Ian Rankin(epub).rar
+T 1482282431 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 398460 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482282433 18<28Zorus18>	!Xon-new Daniel Mark Harrison - [Millennial 01] - The Millennial Reincarnations (epub).rar 
+T 1482282439 18<28Zorus18>	!Xon-new Gray Lanter - [Logan Ryvenbark's Saga 01] - Deadly Voyage (epub).rar
+T 1482282445 24*	lkh a quitté (Client exited)
+T 1482282446 18<20FourEye18>	!darthv622 Tooth And Nail - Ian Rankin(epub).rar
+T 1482282462 18<24JigaWatt18>	@search daisy meadows
+T 1482282464 18<20FourEye18>	!darthv622 Hide And Seek - Ian Rankin(epub).rar
+T 1482282476 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 66 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,663 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482282479 18<20FourEye18>	!darthv622 Knots And Crosses - Ian Rankin(epub).rar
+T 1482282483 24*	28Jean-Clau est maintenant connu sous le nom 18Jean-Claude
+T 1482282496 18<20FourEye18>	!darthv622 Blood Hunt - Ian Rankin(epub).rar
+T 1482282496 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482282501 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1048836 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482282502 18<28Zorus18>	!Xon-new Gray Lanter - [Logan Ryvenbark's Saga 02] - Deadly Planet (epub).rar  
+T 1482282510 18<28Zorus18>	!Xon-new Gray Lanter - [Logan Ryvenbark's Saga 03] - Deadly Squad (epub).rar
+T 1482282515 18<20FourEye18>	!darthv622 Bleeding Hearts - Ian Rankin(epub).rar
+T 1482282519 18<20Windharp18>	@search lee martinez
+T 1482282527 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482282530 18<20FourEye18>	!darthv622 Witch Hunt - Ian Rankin(epub).rar
+T 1482282532 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 4/5 14,03 04,03Queued:12,03 8 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,477 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482282537 24*	Réception d'un CTCP 24SLOTS 5 4 NOW 8 999 0 21444 14127103847 1 1482275295 284832 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482282547 18<28Zorus18>	!Xon-new Hana Starr - [Galactic Survival 03] - Sorlo's Mission (epub).rar 
+T 1482282549 18<28Zorus18>	!Ook Ellis Logan - [Inner Origins 01-03.5] - Shades of Valhalla; Fates of Midgard; Gifts of Elysielle; Heart Ward (epub).rar 
+T 1482282554 18<28Zorus18>	!Ook M L Bullock - [The Desert Queen 01] - The Tale of Nefret (epub).rar 
+T 1482282558 18<20FourEye18>	!darthv622 Beggars Banquet - Ian Rankin(epub).rar
+T 1482282562 18<28Zorus18>	!Ook Tessa Elwood - [Inherit the Stars 02] - Split the Sun (retail) (epub).rar  
+T 1482282569 18<19patagucci18>	!Pondering42 Anthony Bourdain - Kitchen Confidential- Adventures in the Culinary Underbelly (v5.0) (epub).rar
+T 1482282571 18<28Zorus18>	!Ook Ian Ross - [Twilight of Empire 04] - The Mask of Command (retail) (epub).rar 
+T 1482282577 18<22bucky18>	@search the redeemers
+T 1482282598 18<22bucky18>	@search the innocents
+T 1482282600 23*	mtc (Michael@ihw-1rn.9b4.168.141.IP23) vient de rentrer
+T 1482282633 18<26fgbsd18>	@search the chemist
+T 1482282636 18<22bucky18>	!darthv622 The Redeemers - Ace Atkins(epub).rar
+T 1482282652 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482282655 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 33661 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482282655 23*	Swathi (Swathi@ihw-0pagrq.bigpond.net.au23) vient de rentrer
+T 1482282657 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street Saga 03] - The Burning (retail) (epub).rar
+T 1482282658 23*	rain22 (chatzilla@ihw-h5r.35g.236.23.IP23) vient de rentrer
+T 1482282659 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482282659 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482282674 18<26fgbsd18>	!darthv622 The Chemist - Stephenie Meyer(epub).rar
+T 1482282682 18<28Zorus18>	!Xon-new Hana Starr - [Galactic Survival 04] - Ordar's Mission (epub).rar 
+T 1482282682 18<22bucky18>	!darthv622 The Innocents - Ace Atkins(epub).rar 
+T 1482282689 18<28Zorus18>	!Xon-new Gene Lazuta - Vyrmin (epub).rar 
+T 1482282696 18<28Zorus18>	!Xon-new J L Murray - [Blood of Cain 01] - Monstrous (epub).rar 
+T 1482282703 18<28Zorus18>	!Xon-new Joe Crouch - [Terranus 02] - Terranus- Renaissance (retail) (azw3).rar  
+T 1482282711 18<28Zorus18>	!Xon-new Michael Shean - Bone Wires (epub).rar
+T 1482282719 18<28Zorus18>	!Xon-new Wildside - [Time Travel 03] - The Third Time Travel Megapack (v5.0) (epub).rar 
+T 1482282726 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,845 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482282731 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 398760 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482282734 24*	Michelle a quitté (Ping timeout: 121 seconds)
+T 1482282748 18<26Aseril18>	@Aseril
+T 1482282749 18<20Windharp18>	!Xon A Lee Martinez - [Constance Verity 01] - The Last Adventure of Constance Verity (retail) (epub).rar   
+T 1482282761 18<28ps218>	02•·04File Server Online02·• Trigger..::04/ctcp ps2 !ps02::.. On server..::04Books of all subjects, comics, wargames & RPGs (mostly pdf)02::.. Note..::04On Undernet & IRCHighWay: @ps2 for instructions or /ctcp ps2 !ps to enter. Elsewhere: @ps for instructions or /ctcp ps !ps to enter.02::.. 02.•04«02UPP04»02•.
+T 1482282778 23*	t4ckevint (t4ckevint@ihw-njfcf8.res.rr.com23) vient de rentrer
+T 1482282791 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 16/17 14,00 12,00Queued:04,00 59 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,670 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482282791 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482282796 18<27t4ckevint18>	@search executive orders
+T 1482282796 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1049136 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482282808 18<28Zorus18>	!Xon-new Wildside - [Time Travel 04] - The Fourth Time Travel Megapack (azw3).rar  
+T 1482282818 18<20FourEye18>	@search louise penny
+T 1482282820 18<26Aseril18>	@Aseril
+T 1482282825 23*	finnbarath (aturing@ihw-ns9pmi.hstntx.sbcglobal.net23) vient de rentrer
+T 1482282832 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482282832 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 5/5 14,03 04,03Queued:12,03 0 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,483 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482282837 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 21444 14127103847 1 1482275295 285132 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482282855 18<27t4ckevint18>	!Pondering42 Tom Clancy - [Jack Ryan 08] - Executive Orders (v5.0) (mobi).rar
+T 1482282872 18<28Zorus18>	!Xon-new Wildside - [Time Travel 04] - The Fourth Time Travel Megapack (epub).rar
+T 1482282875 18<20FourEye18>	!Pondering42 Louise Penny - [Chief Inspector Gamache 12] - A Great Reckoning (retail) (epub).rar
+T 1482282895 23*	nextek (nextek@ihw-bmt.7cd.255.103.IP23) vient de rentrer
+T 1482282896 18<22bucky18>	!Xon Ace Atkins - [Quinn Colson 06] - The Innocents (retail) (epub).rar  
+T 1482282899 18<28nextek18>	!trainpacks
+T 1482282902 18<19finnbarath18>	@Search catalyst
+T 1482282906 18<20Windharp18>	!Mysfyt A Lee Martinez - [Constance Verity 01] - The Last Adventure of Constance Verity (retail) (epub).rar  
+T 1482282909 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 25] - Vicious Carousel [Siren Sensations] (epub).rar
+T 1482282916 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street Saga 03] - The Burning (retail) (epub).rar
+T 1482282921 24*	nextek a quitté (Quit: )
+T 1482282927 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 31] - Initiative [Siren Sensations] (epub).rar
+T 1482282930 18<22bucky18>	!Xon Ace Atkins - [Quinn Colson 05] - The Redeemers (epub).rar 
+T 1482282941 24*	mtc a quitté (Client exited)
+T 1482282947 18<26fgbsd18>	!darthv622 The Chemist - Stephenie Meyer(epub).rar
+T 1482282951 18<27t4ckevint18>	!Mysfyt Tom Clancy - [Jack Ryan 08] - Executive Orders (v5.0) (mobi).rar
+T 1482282952 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482282955 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 33961 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482282955 18<19finnbarath18>	!Pondering42 Star Wars - [Rogue One] - Catalyst - James Luceno (retail) (epub).rar
+T 1482282959 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482282959 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482282966 18<26Aseril18>	!Pondering42 R L Stine - [Fear Street Saga 01] - The Betrayal (retail) (epub).rar
+T 1482282984 18<19patagucci18>	!Pondering42 Anthony Bourdain - Kitchen Confidential- Adventures in the Culinary Underbelly (v5.0) (epub).rar
+T 1482283005 23*	R (R@ihw-oms14t.dyn.suddenlink.net23) vient de rentrer
+T 1482283026 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,847 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482283026 24*	MrPjax a quitté (Quit: )
+T 1482283027 18<20R18>	@search shibari
+T 1482283031 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 399060 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482283046 18<22bucky18>	!Xon Ace Atkins - [Quinn Colson 06] - The Innocents (retail) (epub).rar  
+T 1482283047 24*	R a quitté (Quit: Leaving)
+T 1482283061 18<24stolengraces18>	@search kellerman clinic
+T 1482283065 23*	Springbokwhite (Springbokw@ihw-h25.5ai.153.222.IP23) vient de rentrer
+T 1482283070 18<24Springbokwhite18>	@search the art of top
+T 1482283079 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 60 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,680 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482283090 18<20FourEye18>	!Mysfyt Louise Penny - [Chief Inspector Gamache 07] - A Trick of the Light (epub).rar
+T 1482283091 18<24QuietSilence18>	04,0014,00 12,00Type:04,00 @QuietSilence 12,00For My List Of:04,00 3,711 12,00Files 14,00 12,00Slots:04,00 2/2 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 2,748 14,00 12,00List: 04,00Apr 27th 14,00 12,00Search: 04,00OFF 14,00 12,00Mode: 04,00Servers Priority 14,00
+T 1482283094 18<24stolengraces18>	!Mysfyt Jonathan Kellerman - Alex 11 - The Clinic(Lit).rar
+T 1482283095 18<29dtfan5318>	!Xon Agatha Christie - Endless Night (retail) (epub).rar
+T 1482283096 24*	Réception d'un CTCP 24SLOTS 2 2 NOW 0 999 0 3711 719717177 1 1461813065 1049436 OmeNServE v2.60 de 18QuietSilence (à 22#ebooks)
+T 1482283105 18<24stolengraces18>	@search woods behavior
+T 1482283125 24*	Euth a quitté (Quit: )
+T 1482283126 18<20FourEye18>	!darthv622 The Hangman - Louise Penny(epub).rar
+T 1482283132 18<22AlternaServ18>	04,00New: The Ted Gunderson CD in its entirety & more14,00 12,00Type:04,00 @AlternaServ 12,00For My List Of:04,00 1,258 12,00Files 14,00 12,00Slots:04,00 5/5 14,00 12,00Queued:04,00 0 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 9,358 14,00 12,00List: 04,00Nov 11th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482283132 18<22darthv62218>	12,0314,03 04,03Type:12,03 @darthv622 04,03For My List Of:12,03 21,444 04,03Files 14,03 04,03Slots:12,03 5/5 14,03 04,03Queued:12,03 0 14,03 04,03Speed:12,03 0cps 14,03 04,03Next: 12,03NOW 14,03 04,03Served:12,03 13,485 14,03 04,03List: 12,03Dec 20th 14,03 04,03Search: 12,03ON 14,03 04,03Mode: 12,03Servers Priority 14,03
+T 1482283137 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 21444 14127103847 1 1482275295 285432 OmenServe v2.72 de 18darthv622 (à 22#ebooks)
+T 1482283140 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 08] - Man-Kzin Wars VIII - Choosing Names - Larry Niven, Hal Colebatch, Jean Lamb, Paul Chafe, Warren W James (v5.5) (epub).rar
+T 1482283146 18<24Cheech5118>	!Xon David Berardelli - A Ripple in Time (epub).rar 
+T 1482283148 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 09] - Man-Kzin Wars IX - Poul Anderson, Hal Colebatch, Paul Chafe (v5.5) (epub).rar 
+T 1482283156 24*	Xunie a quitté (Ping timeout: 121 seconds)
+T 1482283157 18<20FourEye18>	!darthv622 The Long Way Home - Louise Penny(epub).rar
+T 1482283160 18<24stolengraces18>	!Mysfyt Stuart Woods - [Stone Barrington 36] - Scandalous Behavior (epub).rar 
+T 1482283166 18<24Cheech5118>	!Xon David Leadbeater - [Matt Drake 15] - Inca Kings (epub).rar 
+T 1482283169 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 10] - Man-Kzin Wars X - The Wunder War - Hal Colebatch (v5.5) (epub).rar 
+T 1482283175 18<24stolengraces18>	@search cornwell dust
+T 1482283182 18<20FourEye18>	!darthv622 The Nature of the Beast - Louise Penny(epub).rar
+T 1482283185 18<29dtfan5318>	!Xon Agatha Christie - [Tommy and Tuppence 04] - By the Pricking of My Thumbs (lit).rar
+T 1482283191 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 11] - Man-Kzin Wars XI - Hal Colebatch, Matthew Joseph Harrington (v5.5) (epub).rar
+T 1482283196 18<24stolengraces18>	!Mysfyt Patricia Cornwell - [Kay Scarpetta 21] - Dust (mobi).rar
+T 1482283198 18<25patiencel18>	11,1Science Fiction, general literature, etc. 1,11Type @patiencel to get my list of 31155 files. Created on Sat Nov 19 07:06:16 2016. Average speed: 266.924 KiB/s
+T 1482283198 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 12] - Man-Kzin Wars XII - Hal Colebatch, Paul Chafe, Matthew Joseph Harrington (v5.5) (epub).rar
+T 1482283211 18<24Xon18>	5[BWI] 10Type @Xon-new10 to get the list of 3,68910 files (64.05 GB). 10Updated on 612-21-2016 01:12:24 10Total Sent(channel): 800,551 10(61137.27 GB10)
+T 1482283211 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 32] - Impact [Siren Sensations] (epub).rar
+T 1482283220 18<29dtfan5318>	!Xon Agatha Christie - [Poirot 36] - Hallowe'en Party (v5.0) (epub).rar
+T 1482283230 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 13] - Man-Kzin Wars XIII - Hal Colebatch, Jessica Q Fox, Jane Lindskold, Charles E Gannon, Alex Hernandez, David Bartell (v5.5) (epub).rar
+T 1482283238 18<24anakinsdad18>	!Pondering42 Tymber Dalton - [Suncoast Society 25] - Vicious Carousel [Siren Sensations] (epub).rar
+T 1482283238 23*	Deeks (Deeks@ihw-6rh.fav.200.104.IP23) vient de rentrer
+T 1482283240 24*	dw a quitté (Ping timeout: 121 seconds)
+T 1482283246 18<24Cheech5118>	!Xon E J Robinson - [Robinson Crusoe 03] - Robinson Crusoe 2246 (epub).rar
+T 1482283248 23*	tuprogenitora (tuprogenit@ihw-h8tvoo.telecom.net.ar23) vient de rentrer
+T 1482283251 18<26tuprogenitora18>	@search Mindset: The New Psychology of Success
+T 1482283252 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,491 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
+T 1482283255 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 34261 OmenServe v2.71 de 18Resistance (à 22#ebooks)
+T 1482283259 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
+T 1482283259 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
+T 1482283262 18<26tuprogenitora18>	@search mindset
+T 1482283264 23*	robo (robo@ihw-gecu32.wa.comcast.net23) vient de rentrer
+T 1482283268 18<29bradyundt23218>	@find Epilepsy
+T 1482283279 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars 14] - Man-Kzin Wars XIV - Hal Colebatch, Jessica Q Fox, Matthew Joseph Harrington, Alex Hernandez (v5.5) (epub).rar 
+T 1482283286 18<24Xon18>	5[BWI] 10Type @Xon10 to get the list of 520,41410 files (6435.69 GB10). 10Updated on 612-21-2016 01:36:59. 10Total Sent(channel): 800,554 10(61137.27 GB10)
+T 1482283287 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars] - Destiny's Forge - Paul Chafe (v5.5) (epub).rar 
+T 1482283294 18<28Zorus18>	!Ook Larry Niven - [Man-Kzin Wars] - Treasure Planet - Hal Colebatch, Jessica Q Fox (v5.5) (epub).rar 
+T 1482283309 18<22robo18>	@search truly madly 
+T 1482283312 18<29dtfan5318>	!Xon Agatha Christie - [Novels 16] - Passenger to Frankfurt (rtf).rar
+T 1482283326 24*	bradyundt232 a quitté (Quit: )
+T 1482283326 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 5/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 0cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,851 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
+T 1482283331 24*	Réception d'un CTCP 24SLOTS 5 5 NOW 0 999 0 572659 613453789693 1 1480895686 399360 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
+T 1482283339 18<26Aseril18>	@Myzfyt
+T 1482283341 18<29dtfan5318>	!Xon Agatha Christie - [Miss Marple 11] - Nemesis (v5.0) (epub).rar
+T 1482283343 18<24Cheech5118>	!Xon Finn Mack - Qubit (epub).rar 
+T 1482283360 18<22robo18>	!Resistance Liane Moriarty - Truly Madly Guilty (retail) (epub).rar 
+T 1482283362 18<20FourEye18>	!Resistance Louise Penny - [Chief Inspector Gamache 12] - A Great Reckoning (retail) (epub).rar
+T 1482283376 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Pondering42 12,00For My List Of:04,00 543,554 12,00Files 14,00 12,00Slots:04,00 17/17 14,00 12,00Queued:04,00 59 14,00 12,00Speed:04,00 0cps 14,00 12,00Next: 04,00NOW 14,00 12,00Served:04,00 62,687 14,00 12,00List: 04,00Dec 20th 14,00 12,00Search: 04,00ON 14,00 12,00Mode: 04,00Normal 14,00
+T 1482283387 18<26tuprogenitora18>	@search How to Have a Good Day
+T 1482283388 24*	crow985 a quitté (Ping timeout: 121 seconds)
+T 1482283390 FiSHLiM plugin unloaded

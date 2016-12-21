@@ -1,3 +1,11 @@
+"  oo          oo   dP               oo
+"                   88
+"  dP 88d888b. dP d8888P    dP   .dP dP 88d8b.d8b.
+"  88 88'  `88 88   88      88   d8' 88 88'`88'`88
+"  88 88    88 88   88   dP 88 .88'  88 88  88  88
+"  dP dP    dP dP   dP   88 8888P'   dP dP  dP  dP
+"  oooooooooooooooooooooooooooooooooooooooooooooooo
+
 " Config générale {{{
 filetype off                                 " Helps force plugins to load correctly when it is turned back on below
 filetype plugin indent on                    " For plugins to load correctly
@@ -9,7 +17,7 @@ set autochdir
 set encoding=utf-8                           " Encoding
 set foldmethod=marker                        " How to fold
 set hidden                                   " Allow hidden buffers
-set laststatus=2                             " Status bar 
+set laststatus=2                             " Status bar
 set modelines=0                              " Security
 set nocompatible                             " Don't try to be vi compatible
 set number                                   " Show line numbers
@@ -19,7 +27,12 @@ set ttyfast                                  " Rendering
 set visualbell                               " Blink cursor on error instead of beeping (grr)
 set wildmode=full wildmenu
 syntax on                                    " Turn on syntax highlighting
+autocmd! BufWritePost * Neomake
+" Shortcut to rapidly toggle `set list`
+nmap <leader>l :set list!<CR>
 
+" Use the same symbols as TextMate for tabstops and EOLs
+set listchars=tab:▸\ ,eol:¬
 
 " Whitespace
 set wrap
@@ -50,7 +63,9 @@ set incsearch
 set ignorecase
 set smartcase
 set showmatch
-map <leader><space> :let @/=''<cr> " clear search
+
+" Clear search
+map <leader><space> :let @/=''<cr>
 
 " Remap help key. NE FONCTIONNE PAS AVEC NVIM
 "inoremap <F1> <ESC>:set invfullscreen<CR>a
@@ -65,6 +80,8 @@ map <leader><space> :let @/=''<cr> " clear search
 "command -nargs=+ -complete=file -bar Ag silent! grep! <args>|cwindow|redraw!
 "nnoremap \ :Ag<SPACE>
 
+nnoremap <silent> <F5> :call <SID>StripTrailingWhitespaces()<CR>
+
 " Switching buffer
 :nnoremap <Tab> :bnext<CR>
 :nnoremap <S-Tab> :bprevious<CR>
@@ -73,18 +90,36 @@ map <leader><space> :let @/=''<cr> " clear search
 nnoremap n nzzzv
 nnoremap N Nzzzv
 
+" Can be typed even faster than jj.
+:imap jk <Esc>
 nnoremap <F3> :NumbersToggle<CR> " Switch between relative and absolute line numbers
 "}}}
+" Scripts {{{
+function! <SID>StripTrailingWhitespaces()
+    " Preparation: save last search, and cursor position.
+    let _s=@/
+    let l = line(".")
+    let c = col(".")
+    " Do the business:
+    %s/\s\+$//e
+    " Clean up: restore previous search history, and cursor position
+    let @/=_s
+    call cursor(l, c)
+endfunction
+" }}}
 " Plugins {{{
 "  VimPlug {{{
 " call plug#begin('~/.vim/plugged') " Pour vim
 call plug#begin('~/.local/share/nvim/plugged') " Pour neovim
 
-" Plug 'Valloric/YouCompleteMe'
-" Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-" Plug 'vim-latex/vim-latex'
-" Plug 'vim-scripts/ShowMarks'
+"Plug 'https://github.com/junegunn/vim-github-dashboard.git' " Permet seulement de voir les activité dans github
+"Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+"Plug 'junegunn/rainbow_parentheses.vim'
+"Plug 'scrooloose/syntastic'
+"Plug 'vim-latex/vim-latex'
+"Plug 'vim-scripts/ShowMarks'
 Plug '907th/vim-auto-save'
+Plug 'Lokaltog/vim-easymotion'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'blindFS/vim-taskwarrior'
 Plug 'chriskempson/base16-vim'
@@ -93,24 +128,28 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'edkolev/promptline.vim'
 Plug 'edkolev/tmuxline.vim'
 Plug 'godlygeek/tabular'
-"Plug 'https://github.com/junegunn/vim-github-dashboard.git' " Permet seulement de voir les activité dans github
 Plug 'junegunn/goyo.vim'
-Plug 'sjl/gundo.vim'
-Plug 'scrooloose/syntastic'
 Plug 'junegunn/vim-easy-align'
+Plug 'junegunn/vim-peekaboo'
+Plug 'junegunn/limelight.vim'
 Plug 'lervag/vimtex'
+Plug 'mhinz/vim-halo'
 Plug 'mileszs/ack.vim'
+Plug 'beloglazov/vim-online-thesaurus'
 Plug 'myusuf3/numbers.vim'
+Plug 'neomake/neomake'
 Plug 'plasticboy/vim-markdown'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+Plug 'sjl/gundo.vim'
 Plug 'tommcdo/vim-exchange'
+Plug 'tpope/vim-abolish'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'vimwiki/vimwiki'
-Plug 'Lokaltog/vim-easymotion'
+Plug 'wikitopian/hardmode'
 Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
 Plug 'xuhdev/vim-latex-live-preview'
@@ -118,7 +157,7 @@ Plug 'xuhdev/vim-latex-live-preview'
 call plug#end() " Add plugins to &runtimepath
 "}}}
 " Ack {{{
-nnoremap <leader>a :Ack 
+nnoremap <leader>a :Ack
 if executable('ag')
   let g:ackprg = 'ag --vimgrep'
 endif
@@ -166,7 +205,38 @@ nmap <leader>f <Plug>(easymotion-f2)
 nmap <leader>F <Plug>(easymotion-F2)
 "}}}
 " Gundo {{{
-nnoremap <leader>g :GundoToggle<CR>
+nnoremap <leader>G :GundoToggle<CR>
+" }}}
+" Goyo + Limelight {{{
+nnoremap <leader>g :Goyo<CR>
+"autocmd! User GoyoEnter Limelight
+"autocmd! User GoyoLeave Limelight!
+
+function! s:goyo_enter()
+  silent !tmux set status off
+  silent !tmux list-panes -F '\#F' | grep -q Z || tmux resize-pane -Z
+  set norelativenumber
+  set linebreak
+  set noshowmode
+  set noshowcmd
+  set scrolloff=999
+  Limelight
+  " ...
+endfunction
+
+function! s:goyo_leave()
+  silent !tmux set status on
+  silent !tmux list-panes -F '\#F' | grep -q Z && tmux resize-pane -Z
+  set relativenumber
+  set showmode
+  set showcmd
+  set scrolloff=5
+  Limelight!
+  " ...
+endfunction
+
+autocmd! User GoyoEnter nested call <SID>goyo_enter()
+autocmd! User GoyoLeave nested call <SID>goyo_leave()
 " }}}
 " NERDTree {{{
 map <C-n> :NERDTreeToggle<CR> " Toggle the left tree
@@ -182,6 +252,15 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_tex_chktex_args = "-n10 -n9 -n17"
+" }}}
+" {{{ Neomake
+let g:neomake_open_list = 2
+let g:neomake_tex_chktex_maker = {
+      \ 'args': ['-n10 -n9 -n17'],
+      \ }
+" }}}
+" Numbers {{{
+let g:numbers_exclude = ['goyo', 'tagbarr search"c', 'gundo', 'minibufexpl', 'nerdtree']
 " }}}
 " Vim-instant-markdown {{{
 " https://github.com/suan/vim-instant-markdown
@@ -207,8 +286,8 @@ let g:session_directory = "~/.config/nvim/session"
 let g:session_autoload = "no"
 let g:session_autosave = "no"
 let g:session_command_aliases = 1
-nnoremap <leader>so :OpenSession 
-nnoremap <leader>ss :SaveSession 
+nnoremap <leader>so :OpenSession
+nnoremap <leader>ss :SaveSession
 nnoremap <leader>sd :DeleteSession<CR>
 nnoremap <leader>sc :CloseSession<CR>
 
@@ -226,11 +305,11 @@ let g:vimtex_view_general_options_latexmk = '--unique'
 " }}}
 " Vim-wiki {{{
 let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
-" helppage -> :h vimwiki-syntax 
+" helppage -> :h vimwiki-syntax
 " }}}
 " }}}
 " Thème (doit rester à la fin pour le colorscheme){{{
-colorscheme base16-default-dark 
+colorscheme base16-default-dark
 let base16colorspace=256
 set background=dark
 let g:airline#extensions#tabline#enabled = 1 " Allow usage of plugins using theme
