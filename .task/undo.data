@@ -1067,3 +1067,27 @@ time 1482250273
 old [description:"Installer mes lumières sur mon vélo" entry:"1480341619" modified:"1480616992" project:"personnel" status:"pending" tags:"urgent" uuid:"9c54fbcb-dad3-4116-8439-8f263e0daa0f"]
 new [description:"Installer mes lumières sur mon vélo" end:"1482250273" entry:"1480341619" modified:"1482250273" project:"personnel" status:"completed" tags:"urgent" uuid:"9c54fbcb-dad3-4116-8439-8f263e0daa0f"]
 ---
+time 1482966544
+old [description:"Trouver un cadeau pour P'pa" due:"1482469200" entry:"1480111017" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"85125da7-3a2b-433b-bdfb-5f2c39cfc044"]
+new [description:"Trouver un cadeau pour P'pa" due:"1482469200" end:"1482966541" entry:"1480111017" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"85125da7-3a2b-433b-bdfb-5f2c39cfc044"]
+---
+time 1482966544
+old [description:"Trouver un cadeau pour M'man" due:"1482469200" entry:"1480111024" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"e1065383-4e38-4a3a-a613-1f278290273f"]
+new [description:"Trouver un cadeau pour M'man" due:"1482469200" end:"1482966544" entry:"1480111024" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"e1065383-4e38-4a3a-a613-1f278290273f"]
+---
+time 1482966544
+old [description:"Trouver un cadeau pour Patrick" due:"1482469200" entry:"1480111029" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"09af9874-a8bc-4c94-93d8-62d3f4b009e5"]
+new [description:"Trouver un cadeau pour Patrick" due:"1482469200" end:"1482966544" entry:"1480111029" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"09af9874-a8bc-4c94-93d8-62d3f4b009e5"]
+---
+time 1482966544
+old [description:"Trouver un cadeau pour Raph" due:"1482469200" entry:"1480111034" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"2f8738dc-0fef-4009-8de8-21bd115b2885"]
+new [description:"Trouver un cadeau pour Raph" due:"1482469200" end:"1482966544" entry:"1480111034" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"2f8738dc-0fef-4009-8de8-21bd115b2885"]
+---
+time 1482966544
+old [description:"Trouver un cadeau pour La blonde à Pat" due:"1482469200" entry:"1480111065" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"5284af4c-d7c0-449d-86a1-029492d2af08"]
+new [description:"Trouver un cadeau pour La blonde à Pat" due:"1482469200" end:"1482966544" entry:"1480111065" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"5284af4c-d7c0-449d-86a1-029492d2af08"]
+---
+time 1482966544
+old [description:"Trouver un cadeau pour les parent à Oli" due:"1482469200" entry:"1480111077" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"b85f3b0b-cf12-4c07-b1c0-a2ef107bffef"]
+new [description:"Trouver un cadeau pour les parent à Oli" due:"1482469200" end:"1482966544" entry:"1480111077" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"b85f3b0b-cf12-4c07-b1c0-a2ef107bffef"]
+---

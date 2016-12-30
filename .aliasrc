@@ -290,6 +290,7 @@ alias sr='sr -browser=$BROWSERCLI'			# open in cli browser
 alias surfraw='surfraw -browser=$BROWSER'		# open in gui browser
 alias wget='wget -N -c'					# continues/resumes
 alias youtube-viewer='youtube-viewer -C -f -4 --results=6'	# color, fullscreen, 480p, number of results
+alias vim='nvim'
 alias visudo='sudo EDITOR="$EDITOR" visudo'
 
 # color for common commands

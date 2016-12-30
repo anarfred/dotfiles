@@ -1,4 +1,4 @@
-! {{{
+! {{{ Rofi
 ! ------------------------------------------------------------------------------
 ! ROFI Color theme
 ! ------------------------------------------------------------------------------
@@ -15,6 +15,7 @@ rofi.padding: 7
 rofi.font: PragmataPro for Powerline Regular 8
 rofi.separator-style: solid
 !rofi.opacity: 75
+rofi.monitor: 0
 ! }}}
 !
 ! {{{ Urxvt

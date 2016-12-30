@@ -11,11 +11,11 @@
       <property name="Primary" type="bool" value="false"/>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="256"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="VGA1" type="string" value="2. Goldstar Company Ltd 19&quot;">
-      <property name="Active" type="bool" value="true"/>
+      <property name="Active" type="bool" value="false"/>
       <property name="Resolution" type="string" value="1280x1024"/>
       <property name="RefreshRate" type="double" value="60.019740"/>
       <property name="Rotation" type="int" value="0"/>

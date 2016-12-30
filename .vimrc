@@ -64,6 +64,25 @@ set ignorecase
 set smartcase
 set showmatch
 
+" Markdown
+"augroup markdown
+"    au!
+"    au BufNewFile,BufRead *.md,*.markdown,*.mmd setlocal filetype=ghmarkdown
+"augroup END
+
+
+let g:pandoc#after#modules#enabled = ["supertab", "ultisnips"]
+
+" make YCM compatible with UltiSnips (using supertab)
+let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
+let g:ycm_key_list_previous_completion = ['<C-p>', '<Up>']
+let g:SuperTabDefaultCompletionType = '<C-n>'
+
+" better key bindings for UltiSnipsExpandTrigger
+let g:UltiSnipsExpandTrigger = "<tab>"
+let g:UltiSnipsJumpForwardTrigger = "<tab>"
+let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
+
 " Clear search
 map <leader><space> :let @/=''<cr>
 
@@ -112,31 +131,35 @@ endfunction
 " call plug#begin('~/.vim/plugged') " Pour vim
 call plug#begin('~/.local/share/nvim/plugged') " Pour neovim
 
+"Plug 'ctrlpvim/ctrlp.vim'
 "Plug 'https://github.com/junegunn/vim-github-dashboard.git' " Permet seulement de voir les activité dans github
-"Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 "Plug 'junegunn/rainbow_parentheses.vim'
+"Plug 'myusuf3/numbers.vim'
 "Plug 'scrooloose/syntastic'
 "Plug 'vim-latex/vim-latex'
 "Plug 'vim-scripts/ShowMarks'
+"Plug 'vimwiki/vimwiki'
 Plug '907th/vim-auto-save'
 Plug 'Lokaltog/vim-easymotion'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+Plug 'Valloric/YouCompleteMe' "À chaque maj, recompiler avec ~/.local/share/nvim/plugged/YouCompleteMe/install.py
+Plug 'beloglazov/vim-online-thesaurus'
 Plug 'blindFS/vim-taskwarrior'
 Plug 'chriskempson/base16-vim'
 Plug 'christoomey/vim-tmux-navigator'
-Plug 'ctrlpvim/ctrlp.vim'
 Plug 'edkolev/promptline.vim'
 Plug 'edkolev/tmuxline.vim'
+Plug 'ervandew/supertab'
 Plug 'godlygeek/tabular'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
 Plug 'junegunn/goyo.vim'
+Plug 'junegunn/limelight.vim'
 Plug 'junegunn/vim-easy-align'
 Plug 'junegunn/vim-peekaboo'
-Plug 'junegunn/limelight.vim'
 Plug 'lervag/vimtex'
 Plug 'mhinz/vim-halo'
 Plug 'mileszs/ack.vim'
-Plug 'beloglazov/vim-online-thesaurus'
-Plug 'myusuf3/numbers.vim'
 Plug 'neomake/neomake'
 Plug 'plasticboy/vim-markdown'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
@@ -147,8 +170,8 @@ Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-pandoc/vim-pandoc'
+Plug 'vim-pandoc/vim-pandoc-after'
 Plug 'vim-pandoc/vim-pandoc-syntax'
-Plug 'vimwiki/vimwiki'
 Plug 'wikitopian/hardmode'
 Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
@@ -162,40 +185,40 @@ if executable('ag')
   let g:ackprg = 'ag --vimgrep'
 endif
 " }}}
-" CTRLP {{{
-" Setup some default ignores
-let g:ctrlp_custom_ignore = {
-      \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
-      \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
-      \}
-
-" Use the nearest .git directory as the cwd
-" This makes a lot of sense if you are working on a project that is in version
-" control. It also supports works with .svn, .hg, .bzr.
-let g:ctrlp_working_path_mode = 'r'
-
-" Use a leader instead of the actual named binding
-nmap <leader>p :CtrlP<cr>
-
-" Easy bindings for its various modes
-nmap <leader>bb :CtrlPBuffer<cr>
-nmap <leader>bm :CtrlPMixed<cr>
-nmap <leader>bs :CtrlPMRU<cr>
-
-" The Silver Searcher
-if executable('ag')
-  " Use ag over grep
-  set grepprg=ag\ --nogroup\ --nocolor
-
-  " Use ag in CtrlP for listing files. Lightning fast and respects .gitignore
-  let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
-
-  " ag is fast enough that CtrlP doesn't need to cache
-  let g:ctrlp_use_caching = 0
-endif
-
-"let g:ctrlp_user_command = 'ack %s -l --nocolor -g ""'
-"}}}
+"" CTRLP {{{
+"" Setup some default ignores
+"let g:ctrlp_custom_ignore = {
+"      \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
+"      \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
+"      \}
+"
+"" Use the nearest .git directory as the cwd
+"" This makes a lot of sense if you are working on a project that is in version
+"" control. It also supports works with .svn, .hg, .bzr.
+"let g:ctrlp_working_path_mode = 'r'
+"
+"" Use a leader instead of the actual named binding
+"nmap <leader>p :CtrlP<cr>
+"
+"" Easy bindings for its various modes
+"nmap <leader>bb :CtrlPBuffer<cr>
+"nmap <leader>bm :CtrlPMixed<cr>
+"nmap <leader>bs :CtrlPMRU<cr>
+"
+"" The Silver Searcher
+"if executable('ag')
+"  " Use ag over grep
+"  set grepprg=ag\ --nogroup\ --nocolor
+"
+"  " Use ag in CtrlP for listing files. Lightning fast and respects .gitignore
+"  let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
+"
+"  " ag is fast enough that CtrlP doesn't need to cache
+"  let g:ctrlp_use_caching = 0
+"endif
+"
+""let g:ctrlp_user_command = 'ack %s -l --nocolor -g ""'
+""}}}
 " EasyAlign {{{
 xmap ga <Plug>(EasyAlign) " Start interactive EasyAlign in visual mode (e.g. vipga)
 nmap ga <Plug>(EasyAlign) " Start interactive EasyAlign for a motion/text object (e.g. gaip)
@@ -204,6 +227,80 @@ nmap ga <Plug>(EasyAlign) " Start interactive EasyAlign for a motion/text object
 nmap <leader>f <Plug>(easymotion-f2)
 nmap <leader>F <Plug>(easymotion-F2)
 "}}}
+" FZF {{{
+
+" Easy bindings for its various modes
+nmap <leader>bb :Buffer<cr>
+nmap <leader>bm :Marks<cr>
+nmap <leader>bf :Files<cr>
+nmap <leader>bF :Files ~<cr>
+nmap <leader>bh :History<cr>
+
+" This is the default extra key bindings
+let g:fzf_action = {
+  \ 'ctrl-t': 'tab split',
+  \ 'ctrl-x': 'split',
+  \ 'ctrl-v': 'vsplit' }
+
+" Default fzf layout
+" - down / up / left / right
+let g:fzf_layout = { 'down': '~40%' }
+
+" In Neovim, you can set up fzf window using a Vim command
+"let g:fzf_layout = { 'window': 'enew' }
+"let g:fzf_layout = { 'window': '-tabnew' }
+
+" Customize fzf colors to match your color scheme
+let g:fzf_colors =
+\ { 'fg':      ['fg', 'Normal'],
+  \ 'bg':      ['bg', 'Normal'],
+  \ 'hl':      ['fg', 'Comment'],
+  \ 'fg+':     ['fg', 'CursorLine', 'CursorColumn', 'Normal'],
+  \ 'bg+':     ['bg', 'CursorLine', 'CursorColumn'],
+  \ 'hl+':     ['fg', 'Statement'],
+  \ 'info':    ['fg', 'PreProc'],
+  \ 'prompt':  ['fg', 'Conditional'],
+  \ 'pointer': ['fg', 'Exception'],
+  \ 'marker':  ['fg', 'Keyword'],
+  \ 'spinner': ['fg', 'Label'],
+  \ 'header':  ['fg', 'Comment'] }
+
+" Enable per-command history.
+" CTRL-N and CTRL-P will be automatically bound to next-history and
+" previous-history instead of down and up. If you don't like the change,
+" explicitly bind the keys to down and up in your $FZF_DEFAULT_OPTS.
+let g:fzf_history_dir = '~/.local/share/fzf-history'
+" [Files] Extra options for fzf
+"   e.g. File preview using Highlight
+"        (http://www.andre-simon.de/doku/highlight/en/highlight.html)
+let g:fzf_files_options =
+  \ '--preview "(highlight -O ansi {} || cat {}) 2> /dev/null | head -'.&lines.'"'
+
+" [Buffers] Jump to the existing window if possible
+let g:fzf_buffers_jump = 1
+
+" [[B]Commits] Customize the options used by 'git log':
+let g:fzf_commits_log_options = '--graph --color=always --format="%C(auto)%h%d %s %C(black)%C(bold)%cr"'
+
+" [Tags] Command to generate tags file
+let g:fzf_tags_command = 'ctags -R'
+
+" [Commands] --expect expression for directly executing the command
+let g:fzf_commands_expect = 'alt-enter,ctrl-x'
+" Mapping selecting mappings
+nmap <leader><tab> <plug>(fzf-maps-n)
+xmap <leader><tab> <plug>(fzf-maps-x)
+omap <leader><tab> <plug>(fzf-maps-o)
+
+" Insert mode completion
+imap <c-x><c-k> <plug>(fzf-complete-word)
+imap <c-x><c-f> <plug>(fzf-complete-path)
+imap <c-x><c-j> <plug>(fzf-complete-file-ag)
+imap <c-x><c-l> <plug>(fzf-complete-line)
+
+" Advanced customization using autoload functions
+inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+" }}}
 " Gundo {{{
 nnoremap <leader>G :GundoToggle<CR>
 " }}}
@@ -267,6 +364,9 @@ let g:numbers_exclude = ['goyo', 'tagbarr search"c', 'gundo', 'minibufexpl', 'ne
 let g:instant_markdown_autostart = 0    " disable autostart
 map <leader>md :InstantMarkdownPreview<CR>
 "}}}
+" Vim-markdown {{{
+let g:vim_markdown_toc_autofit = 1
+" }}}
 " Vim-Latex {{{
 " REQUIRED. This makes vim invoke Latex-Suite when you open a tex file.
 filetype plugin on
@@ -309,10 +409,10 @@ let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown'
 " }}}
 " }}}
 " Thème (doit rester à la fin pour le colorscheme){{{
-colorscheme base16-default-dark
+colorscheme base16-eighties
 let base16colorspace=256
 set background=dark
 let g:airline#extensions#tabline#enabled = 1 " Allow usage of plugins using theme
 let g:airline_powerline_fonts = 1            " Allow usage of powerline fonts
-let g:airline_theme='base16_tomorrow'                 " Select airline theme
+let g:airline_theme='base16'                 " Select airline theme
 " }}}

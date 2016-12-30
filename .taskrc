@@ -32,3 +32,10 @@ data.location=~/.task
 urgency.user.tag.later.coefficient=-6.0
 urgency.user.project.Memoire.coefficient=+5.0
 urgency.user.tag.shallow.coefficient=-3.0
+
+taskd.certificate=/home/nrfrd/.intheam/private.certificate.pem
+taskd.key=/home/nrfrd/.intheam/private.key.pem
+taskd.ca=/home/nrfrd/.intheam/ca.cert.pem
+taskd.server=taskwarrior.inthe.am:53589
+taskd.credentials=inthe_am/lifestain/f57da299-068f-4631-9933-03248289eb67
+taskd.trust=ignore hostname

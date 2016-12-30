@@ -17,7 +17,6 @@
       <property name="&lt;Super&gt;p" type="empty"/>
       <property name="&lt;Primary&gt;Escape" type="empty"/>
       <property name="XF86LogOff" type="empty"/>
-      <property name="&lt;Control&gt;&lt;Alt&gt;L" type="empty"/>
       <property name="Print" type="empty"/>
       <property name="&lt;Alt&gt;Print" type="empty"/>
       <property name="XF86WWW" type="empty"/>
@@ -31,6 +30,7 @@
       <property name="XF86AudioPrev" type="empty"/>
       <property name="XF86AudioNext" type="empty"/>
       <property name="XF86Calculator" type="empty"/>
+      <property name="&lt;Control&gt;&lt;Alt&gt;L" type="empty"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Escape" type="empty"/>
       <property name="XF86HomePage" type="empty"/>
       <property name="&lt;Super&gt;w" type="empty"/>
@@ -86,13 +86,16 @@
       <property name="XF86AudioNext" type="string" value="mpc next"/>
       <property name="XF86AudioPlay" type="string" value="mpc toggle"/>
       <property name="XF86AudioPrev" type="string" value="mpc prev"/>
-      <property name="&lt;Super&gt;m" type="string" value="/home/nrfrd/bin/rofi-scripts/rofi-surfraw/rofi-surfraw"/>
       <property name="&lt;Super&gt;s" type="string" value="xfce4-popup-whiskermenu"/>
-      <property name="&lt;Super&gt;d" type="string" value="rofi -show combi -m -3"/>
-      <property name="&lt;Super&gt;b" type="string" value="/home/nrfrd/bin/buku_run/buku_run -m -3"/>
       <property name="XF86AudioRaiseVolume" type="string" value="amixer set Master 5%+ unmute"/>
       <property name="XF86AudioLowerVolume" type="string" value="amixer set Master 5%- unmute"/>
       <property name="XF86AudioMute" type="string" value="amixer set Master toggle"/>
+      <property name="&lt;Super&gt;m" type="string" value="/home/nrfrd/bin/rofi-scripts/rofi-surfraw/rofi-surfraw -m -1"/>
+      <property name="&lt;Super&gt;b" type="string" value="/home/nrfrd/bin/buku_run/buku_run -m 2"/>
+      <property name="&lt;Super&gt;numbersign" type="string" value="xfce4-terminal --drop-down"/>
+      <property name="&lt;Super&gt;d" type="string" value="rofi -show combi"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;b" type="string" value="/home/nrfrd/bin/bukuadd"/>
+      <property name="&lt;Super&gt;k" type="string" value="keepassx2 --show-hide"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

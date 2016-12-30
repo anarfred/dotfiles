@@ -1,13 +1,13 @@
 [Configuration]
-FontName=DejaVu Sans Mono for Powerline 12
+FontName=PragmataPro for Powerline 10
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
-MiscBordersDefault=TRUE
+MiscBordersDefault=FALSE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
 MiscDefaultGeometry=80x24
 MiscInheritGeometry=FALSE
-MiscMenubarDefault=TRUE
+MiscMenubarDefault=FALSE
 MiscMouseAutohide=FALSE
 MiscToolbarDefault=FALSE
 MiscConfirmClose=TRUE
@@ -17,7 +17,7 @@ MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-BackgroundDarkness=1,000000
+BackgroundDarkness=0,980000
 MiscScrollAlternateScreen=TRUE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscBellUrgent=FALSE
@@ -31,4 +31,6 @@ MiscMouseWheelZoom=TRUE
 MiscRewrapOnResize=TRUE
 DropdownWidth=100
 DropdownHeight=96
+MiscUseShiftArrowsToScroll=FALSE
+DropdownAlwaysShowTabs=FALSE
 
