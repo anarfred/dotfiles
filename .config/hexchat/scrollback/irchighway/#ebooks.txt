@@ -1,51 +1,3 @@
-T 1482280785 18<25elizacolt18>	@search  Joe McGinniss miracle
-T 1482280785 23*	Gail (Gail@ihw-f5dcvj.ga.comcast.net23) vient de rentrer
-T 1482280787 18<28Zorus18>	!Xon-new Gea Haff - [Bronte Blood Chronicle 01] - Anne Bronte Nightwalker (epub).rar
-T 1482280791 18<25patiencel18>	11,1Science Fiction, general literature, etc. 1,11Type @patiencel to get my list of 31155 files. Created on Sat Nov 19 07:06:16 2016. Average speed: 266.901 KiB/s
-T 1482280801 18<22jumeaux18>	!Pondering42 S K Een - [Port Carmila 01] - Death is Only a Theoretical Concept [MM] (epub).rar
-T 1482280803 18<24Gail18>	@search jane smiley
-T 1482280805 18<27AndroUser18>	@search beatiful testing
-T 1482280807 18<25elizacolt18>	@search  Desiree Cooper 
-T 1482280808 18<22aetx18>	@search annihilation vandermeer
-T 1482280815 18<25elizacolt18>	@search paula whyman
-T 1482280827 23*	SWAGKYUN9000 (Sakamoto@ihw-ht3n73.al.comcast.net23) vient de rentrer
-T 1482280829 18<27Caeneus18>	!Mysfyt Brent Weeks - [Lightbringer 04] - The Blood Mirror (retail) (epub).rar  ::INFO:: 6.0MB
-T 1482280830 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 07] - One Under (epub).rar
-T 1482280832 18<22jumeaux18>	!Pondering42 Natasha Ryder - Rockstar Rivals [MM] (epub).rar
-T 1482280832 18<28Zorus18>	!Xon-new J Cameron Boyd - Spirit of the Dragon- A Story of Magic, a Witch, and the Third Reich (epub).rar
-T 1482280833 18<27AndroUser18>	@search beautiful testing
-T 1482280841 18<27SWAGKYUN900018>	@search How I Raised Myself
-T 1482280849 18<22aetx18>	!Ook Jeff VanderMeer - [Southern Reach 01] - Annihilation (retail) (epub).rar
-T 1482280852 18<27Resistance18>	08,0700,07 01,07Type:08,07 @Resistance 01,07For My List Of:08,07 62,747 01,07Files 00,07 01,07Slots:08,07 10/10 00,07 01,07Queued:08,07 0 00,07 01,07Speed:08,07 0cps 00,07 01,07Next: 08,07NOW 00,07 01,07Served:08,07 23,490 00,07 01,07List: 08,07Nov 25th 00,07 01,07Search: 08,07OFF 00,07 01,07Mode: 08,07Normal 00,07
-T 1482280852 18<25elizacolt18>	@search ana spagna
-T 1482280855 24*	Réception d'un CTCP 24SLOTS 10 10 NOW 0 999 0 62747 86028904107 0 1480088334 31861 OmenServe v2.71 de 18Resistance (à 22#ebooks)
-T 1482280857 24*	Sithicus a quitté (Quit: )
-T 1482280857 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 08] - The Price of Darkness (epub).rar
-T 1482280859 18<26Oatmeal18>	@ --Bookstuff is now open via ftp @ ftp://book:stuffing@173.80.26.71/
-T 1482280859 18<26Oatmeal18>	@ Use @request to request a missing book(include author and title!). @request-file to receive a text file with all the requests. Requests without author or title will be sent to Bookaloo
-T 1482280860 18<24anakinsdad18>	!Resistance Cherise Sinclair - [Masters of the Shadowlands 11] - Protecting His Own (epub).rar  ::INFO:: 837.5KB
-T 1482280865 18<25elizacolt18>	@search  Erik Fassnacht 
-T 1482280867 18<22aetx18>	@search ancillary justice
-T 1482280878 18<27Caeneus18>	!Mysfyt Brent Weeks - [Lightbringer 04] - The Blood Mirror (retail) (epub).rar  ::INFO:: 6.0MB
-T 1482280878 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 09] - No Lovelier Death (epub).rar
-T 1482280881 24*	drip a quitté (Ping timeout: 121 seconds)
-T 1482280885 18<27AndroUser18>	@search Lessons Learned In Software Testing
-T 1482280888 18<28Zorus18>	!Xon-new J P Silverado - [The Last of the Guardians 01] - Insurrection (epub).rar
-T 1482280890 18<22aetx18>	!Ook Ann Leckie - [Imperial Radch 01] - Ancillary Justice (epub).rar
-T 1482280891 18<25elizacolt18>	@search  Frances Dinkelspiel 
-T 1482280899 24*	AndroUser a quitté (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
-T 1482280899 18<25lkh18>	!Xon Cornelia Funke - [Inkworld 02] - Inkspell (retail) (epub).rar 
-T 1482280901 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 10] - Beyond Reach (epub).rar
-T 1482280915 18<24Gail18>	!Pondering42 Jane Smiley - [Last Hundred Years 01] - Some Luck (retail) (epub).rar
-T 1482280916 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 11] - Borrowed Light (epub).rar
-T 1482280920 18<25lkh18>	!Xon Cornelia Funke - [Inkworld 03] - Inkdeath (retail) (epub).rar
-T 1482280923 18<22Myzfyt18>	08,1014,10 00,10Type:08,10 @Myzfyt 00,10For My List Of:08,10 572,659 00,10Files 14,10 00,10Slots:08,10 3/5 14,10 00,10Queued:08,10 0 14,10 00,10Speed:08,10 103,355cps 14,10 00,10Next: 08,10NOW 14,10 00,10Served:08,10 697,807 14,10 00,10List: 08,10Dec 4th 14,10 00,10Search: 08,10ON 14,10 00,10Mode: 08,10Servers Priority 14,10
-T 1482280928 18<29ecctoaffluu18>	@search Words From The Myths
-T 1482280928 18<25elizacolt18>	@search  Kate Colquhoun kill
-T 1482280928 24*	Réception d'un CTCP 24SLOTS 5 3 NOW 0 999 103355 572659 613453789693 1 1480895686 396960 OmeNServE v2.60 de 18Myzfyt (à 22#ebooks)
-T 1482280931 18<22aetx18>	@search blackout willis
-T 1482280934 18<20FourEye18>	!Mysfyt Graham Hurley - [Faraday and Winter 12] - Happy Days (epub).rar
-T 1482280937 18<22jumeaux18>	!Pondering42 Russell J Sanders - Colors [MM] (epub).rar
 T 1482280938 23*	Pruwcin (Pruwcin@ihw-jifgnj.cpe.teksavvy.com23) vient de rentrer
 T 1482280942 18<25elizacolt18>	@search sashi kaufman wired
 T 1482280951 18<25lilybug18>	@search Hillbilly Elegy
@@ -545,3 +497,15 @@ T 1482283376 18<20Pondering4218>	04,0014,00 12,00Type:04,00 @Ponde
 T 1482283387 18<26tuprogenitora18>	@search How to Have a Good Day
 T 1482283388 24*	crow985 a quitté (Ping timeout: 121 seconds)
 T 1482283390 FiSHLiM plugin unloaded
+T 1485921977 19*	Vous parlez maintenant sur 22#ebooks
+T 1485921977 22*	Le sujet de 22#ebooks est : NO TEXTBOOKS here - New books: !trainpacks or mediafire.com/NewArchive - @search @searchook @find - FAQ at http://ebooks.byethost6.com/ - If you are serving, Register your nick to be added to voice - Send new books to sniffn
+T 1485921977 22*	Sujet de 22#ebooks choisi par 26yall2!yall2@ihw-95d.cp0.28.72.IP (24Tue Oct  4 11:43:50 2016)
+T 1485921977 -18ChanServ-	[#ebooks] [#ebooks] Welcome to #ebooks. Read the channel topic for current information!
+T 1485921981 18<26alrickz18>	@search Ryk Spoor Polychrome
+T 1485921982 22*	26yall2 supprime l'état de bannissement de 18Guest40020!*stewie@ihw-i9b4ip.dyn.optonline.net
+T 1485921982 23*	bakaorochiIIDX (bakaorochi@ihw-culku8.il.comcast.net23) vient de rentrer
+T 1485921985 18<19LannisterMD18>	@search unscripted
+T 1485921996 18<26alrickz18>	@search corrigan lust helen harper
+T 1485921997 18<29Maxwelledis18>	!Mysfyt Kristine Barnett - The Spark- A Mother's Story of Nurturing Genius (epub).rar
+T 1485922000 FiSHLiM plugin unloaded
+T 1485922000 Python interface unloaded

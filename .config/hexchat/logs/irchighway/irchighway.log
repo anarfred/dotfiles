@@ -907,3 +907,75 @@ déc 20 18:38:36 *	You are now logged in as bgdnvst
 déc 20 20:23:10 Perl interface unloaded
 **** FIN DU JOURNAL À Tue Dec 20 20:23:10 2016
 
+**** DÉBUT DU JOURNAL À Tue Jan 31 23:06:12 2017
+
+jan 31 23:06:12 *	Welcome to the irchighway IRC Network bgdnvst!bgdnvst@24.48.32.238
+jan 31 23:06:12 *	Your host is eggbert.ca.na.irchighway.net, running version InspIRCd-2.0
+jan 31 23:06:12 *	This server was created 19:42:32 Nov  3 2016
+jan 31 23:06:12 *	eggbert.ca.na.irchighway.net InspIRCd-2.0 BIRSWgiorswx ACIMNORSTabcehiklmnopqrstvz Iabehkloqv
+jan 31 23:06:12 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=Ibe,k,l,ACMNORSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ACNORSTUcjmz FNC INVEX=I :are supported by this server
+jan 31 23:06:12 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=irchighway NICKLEN=31 PREFIX=(qaohv)~&@%+ SILENCE=32 SSL=149.56.95.9:6697 :are supported by this server
+jan 31 23:06:12 *	STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+jan 31 23:06:12 *	98KAAGR1O :your unique ID
+jan 31 23:06:12 *	eggbert.ca.na.irchighway.net message of the day
+jan 31 23:06:12 *	- no bottler clients please
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- The staff welcomes you to eggbert.ca.na.irchighway.net
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- This server is part of the the IRCHighWay network. If you do not disconnect
+jan 31 23:06:12 *	- right now, you agree with this network's Acceptable Use Policy (AUP)
+jan 31 23:06:12 *	- which can be found at the following URL:
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- http://www.irchighway.net/rules                               
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- By connecting to this network you agree to have your host scanned
+jan 31 23:06:12 *	- for open proxies.                                                          
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- ~~ { Server Staff } ~~ 
+jan 31 23:06:12 *	- Server Admin:       eggy    <email: eggy [at] irchighway.net>
+jan 31 23:06:12 *	- Server-Co Admin:    RPG_Gamer  
+jan 31 23:06:12 *	- Global Operators:   Random, poiklers
+jan 31 23:06:12 *	- Local Operators:    Zilla
+jan 31 23:06:12 *	- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- We reserve the right to disconnect/ban any user from this server at any time
+jan 31 23:06:12 *	- for any reason. If you were banned (akilled) and you think that it was
+jan 31 23:06:12 *	- unjustified, feel free to email banned [at] irchighway.net. The ban will be
+jan 31 23:06:12 *	- reviewed, and may (or may not) be removed.
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- Location : Canada
+jan 31 23:06:12 *	- Ports : 6660 to 6669 and 7000, as well as 9999 and 6697 for SSL.
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- We do not, and never will hire IRCcops. So don't bother asking.
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- Bottler bots, Flood bots, Irc-Ork bots, Spam bots
+jan 31 23:06:12 *	- and all other abusive Bots will be Banned.
+jan 31 23:06:12 *	- Non-abusive bots are tolerated, *NOT* supported.
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- You might want to have a look at these channels:
+jan 31 23:06:12 *	- #irchighway   - for general chat
+jan 31 23:06:12 *	- #help         - official help Channel
+jan 31 23:06:12 *	- #abuse        - for reporting abusive users
+jan 31 23:06:12 *	- #vhost        - for vHost registration
+jan 31 23:06:12 *	- #idle-rpg     - Idle RPG
+jan 31 23:06:12 *	- 
+jan 31 23:06:12 *	- Enjoy your stay!
+jan 31 23:06:12 *	End of message of the day.
+jan 31 23:06:12 *	There are 1380 users and 1136 invisible on 21 servers
+jan 31 23:06:12 *	38 :operator(s) online
+jan 31 23:06:12 *	1163 :channels formed
+jan 31 23:06:12 *	I have 116 clients and 1 servers
+jan 31 23:06:12 *	Current Local Users: 116  Max: 284
+jan 31 23:06:12 *	Current Global Users: 2516  Max: 2843
+jan 31 23:06:12 *	ihw-eca.cna.48.24.IP :is now your displayed host
+jan 31 23:06:12 *	bgdnvst a mis le mode +x sur bgdnvst
+jan 31 23:06:12 *	*** You are connected using SSL cipher "ECDHE-RSA-AES-256-GCM-AEAD"
+jan 31 23:06:12 -NickServ-	This nickname is registered and protected.  If it is your
+jan 31 23:06:12 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+jan 31 23:06:12 -NickServ-	please choose a different nick.
+jan 31 23:06:12 -NickServ-	Password accepted - you are now recognized.
+jan 31 23:06:12 *	You are now logged in as bgdnvst
+jan 31 23:06:12 *	NickServ a mis le mode +r sur bgdnvst
+jan 31 23:06:40 Perl interface unloaded
+**** FIN DU JOURNAL À Tue Jan 31 23:06:40 2017
+

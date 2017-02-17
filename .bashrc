@@ -17,3 +17,9 @@ export PATH="/home/nrfrd/bin:$PATH"
 BROWSER=/usr/bin/qutebrowser
 EDITOR=/usr/bin/vim
 # >>>>>END ADDED BY CNCHI INSTALLER<<<<< #
+
+source /etc/bash_completion.d/climate_completion
+chmod +x ~/.vocab
+~/.vocab
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"

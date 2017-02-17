@@ -1,8 +1,8 @@
 [Configuration]
-FontName=PragmataPro for Powerline 10
+FontName=Inconsolata-g for Powerline Medium 10
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
-MiscBordersDefault=FALSE
+MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
 MiscDefaultGeometry=80x24
@@ -17,9 +17,8 @@ MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-BackgroundDarkness=0,980000
+BackgroundDarkness=0,000000
 MiscScrollAlternateScreen=TRUE
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscBellUrgent=FALSE
 MiscMiddleClickOpensUri=FALSE
 MiscDefaultWorkingDir=
@@ -30,7 +29,11 @@ ColorCursor=#dcdcdc
 MiscMouseWheelZoom=TRUE
 MiscRewrapOnResize=TRUE
 DropdownWidth=100
-DropdownHeight=96
+DropdownHeight=94
 MiscUseShiftArrowsToScroll=FALSE
 DropdownAlwaysShowTabs=FALSE
+MiscCopyOnSelect=FALSE
+MiscSlimTabs=FALSE
+DropdownKeepOpenDefault=TRUE
+Encoding=UTF-8
 

@@ -101,16 +101,18 @@ map <leader><space> :let @/=''<cr>
 
 nnoremap <silent> <F5> :call <SID>StripTrailingWhitespaces()<CR>
 
+nnoremap K i<CR><Esc>
+
 " Switching buffer
-:nnoremap <Tab> :bnext<CR>
-:nnoremap <S-Tab> :bprevious<CR>
+nnoremap <Tab> :bnext<CR>
+nnoremap <S-Tab> :bprevious<CR>
 
 " Garde les résultats au centre de l'écan
 nnoremap n nzzzv
 nnoremap N Nzzzv
 
 " Can be typed even faster than jj.
-:imap jk <Esc>
+imap jk <Esc>
 nnoremap <F3> :NumbersToggle<CR> " Switch between relative and absolute line numbers
 "}}}
 " Scripts {{{
@@ -144,7 +146,7 @@ Plug 'Lokaltog/vim-easymotion'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'Valloric/YouCompleteMe' "À chaque maj, recompiler avec ~/.local/share/nvim/plugged/YouCompleteMe/install.py
 Plug 'beloglazov/vim-online-thesaurus'
-Plug 'blindFS/vim-taskwarrior'
+"Plug 'blindFS/vim-taskwarrior'
 Plug 'chriskempson/base16-vim'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'edkolev/promptline.vim'
@@ -395,13 +397,13 @@ nnoremap <leader>sc :CloseSession<CR>
 " Vimtex {{{
 let g:vimtex_fold_enabled = 1
 " let g:vimtex_fold_comments = 1
-let g:vimtex_view_general_viewer = 'okular'
-let g:vimtex_view_general_options = '--unique @pdf\#src:@line@tex'
-let g:vimtex_view_general_options_latexmk = '--unique'
-
- if has('nvim')
-   let g:vimtex_latexmk_progname = 'nvr'
- endif
+"let g:vimtex_view_general_viewer = 'okular'
+"let g:vimtex_view_general_options = '--unique @pdf\#src:@line@tex'
+"let g:vimtex_view_general_options_latexmk = '--unique'
+"
+" if has('nvim')
+"   let g:vimtex_latexmk_progname = 'nvr'
+" endif
 " }}}
 " Vim-wiki {{{
 let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}

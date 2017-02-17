@@ -1,4 +1,4 @@
-#             _   _     _      _             
+#             _   _     _      _
 #  __ _  ___ | |_| |__ | | ___| |_ _   _     
 # / _` |/ _ \| __| '_ \| |/ _ \ __| | | |    
 #| (_| | (_) | |_| |_) | |  __/ |_| |_| |    
@@ -15,12 +15,12 @@
 #------------------------------------------------------
 
 # If you come from bash you might have to change your $PATH.
-  export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Ajout Personnel
-  export PATH="/usr/sbin:/sbin:/bin:/usr/games:/usr/local/texlive/2016/bin/x86_64-linux:$PATH"
+export PATH="/usr/sbin:/sbin:/bin:/usr/games:/usr/local/texlive/2016/bin/x86_64-linux:$PATH"
 
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/nrfrd/.oh-my-zsh
+export ZSH=/home/nrfrd/.oh-my-zsh
 
 # Tmuxinator autocompletion
 #source ~/bin/tmuxinator.zsh
@@ -86,11 +86,11 @@ source $ZSH/oh-my-zsh.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+#if [[ -n $SSH_CONNECTION ]]; then
+#export EDITOR=/usr/bin/nvim
+#else
+#  export EDITOR='nvim'
+#fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -217,7 +217,7 @@ zstyle ':completion:*' rehash true
 
 # https://unix.stackexchange.com/questions/39961/zsh-alias-s-with-parameter
 background() {
-	  "$@" &
+  "$@" &
 }
 
 alias -s {avi,flv,mkv,mp4,mpeg,mpg,ogv,wmv}=$PLAYER
@@ -242,8 +242,8 @@ alias -s zip="unzip -l"
 
 # load alias/functions that works with both zsh/bash
 if [[ -f ~/.aliasrc ]]; then
-    source ~/.aliasrc
-    fi
+  source ~/.aliasrc
+fi
 
 #}}}
 #-------- Keybinding {{{
@@ -280,18 +280,23 @@ autoload zmv
 # function bind to a hotkey
 fzf_history() { zle -I; eval $(history | fzf +s | sed 's/ *[0-9]* *//') ; }; zle -N fzf_history; bindkey '^F' fzf_history
 
-fzf_killps() { zle -I; ps -ef | sed 1d | fzf -m | awk '{print $2}' | xargs kill -${1:-9} ; }; zle -N fzf_killps; bindkey '^Q' fzf_killps
+  fzf_killps() { zle -I; ps -ef | sed 1d | fzf -m | awk '{print $2}' | xargs kill -${1:-9} ; }; zle -N fzf_killps; bindkey '^Q' fzf_killps
 
-fzf_cd() { zle -I; DIR=$(find ${1:-*} -path '*/\.*' -prune -o -type d -print 2> /dev/null | fzf) && cd "$DIR" ; }; zle -N fzf_cd; bindkey '^E' fzf_cd
-# }}}
+    fzf_cd() { zle -I; DIR=$(find ${1:-*} -path '*/\.*' -prune -o -type d -print 2> /dev/null | fzf) && cd "$DIR" ; }; zle -N fzf_cd; bindkey '^E' fzf_cd
+      # }}}
 
-export NVM_DIR="/home/nrfrd/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+      export NVM_DIR="/home/nrfrd/.nvm"
+      [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
-#-------- Thème base16
-BASE16_SHELL=$HOME/.config/base16-shell/
-[ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
-#-------- ZSH Syntax Highlightning (DOIT RESTER EN BAS) {{{
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-source /home/nrfrd/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-# }}}
+      #-------- Thème base16
+      BASE16_SHELL=$HOME/.config/base16-shell/
+      [ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
+      #-------- ZSH Syntax Highlightning (DOIT RESTER EN BAS) {{{
+      [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+      source /home/nrfrd/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+      # }}}
+
+      #source /etc/bash_completion.d/climate_completion
+
+      chmod +x ~/.vocab
+      ~/.vocab

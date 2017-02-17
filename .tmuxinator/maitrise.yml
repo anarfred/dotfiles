@@ -34,7 +34,7 @@ windows:
   - Todos:
       layout: main-vertical
       panes:
-        - task ls +memoire
+        - task ls +mémoire
 
   - Vim: gvim -v
   - Compilation:

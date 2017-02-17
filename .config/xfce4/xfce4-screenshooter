@@ -1,8 +1,8 @@
-delay=1
-region=3
-action=5
+delay=0
+region=2
+action=1
 show_mouse=0
-screenshot_dir=file:/home/nrfrd/Images
-app=gthumb
+screenshot_dir=file:/home/nrfrd/Pictures/screenshots
+app=eog
 last_user=
 

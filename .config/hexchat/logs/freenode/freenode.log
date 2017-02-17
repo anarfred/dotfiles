@@ -768,3 +768,65 @@ déc 20 20:23:10 Python interface unloaded
 déc 20 20:23:10 Greffon Sysinfo déchargé
 **** FIN DU JOURNAL À Tue Dec 20 20:23:10 2016
 
+**** DÉBUT DU JOURNAL À Tue Jan 31 23:06:20 2017
+
+jan 31 23:06:20 *	Welcome to the freenode Internet Relay Chat Network bgdnvst
+jan 31 23:06:20 *	Your host is sinisalo.freenode.net[91.217.189.42/6697], running version ircd-seven-1.1.4
+jan 31 23:06:20 *	This server was created Wed Jan 18 2017 at 02:26:19 CET
+jan 31 23:06:20 *	sinisalo.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+jan 31 23:06:20 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+jan 31 23:06:20 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 WHOX KNOCK ETRACE :are supported by this server
+jan 31 23:06:20 *	SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+jan 31 23:06:20 *	There are 122 users and 81704 invisible on 31 servers
+jan 31 23:06:20 *	25 :IRC Operators online
+jan 31 23:06:20 *	12 :unknown connection(s)
+jan 31 23:06:20 *	55975 :channels formed
+jan 31 23:06:20 *	I have 4058 clients and 1 servers
+jan 31 23:06:20 *	4058 4608 :Current local users 4058, max 4608
+jan 31 23:06:20 *	81826 91095 :Current global users 81826, max 91095
+jan 31 23:06:20 *	Highest connection count: 4609 (4608 clients) (140217 connections received)
+jan 31 23:06:20 *	- sinisalo.freenode.net Message of the Day - 
+jan 31 23:06:20 *	- Welcome to sinisalo.freenode.net in Stockholm, SE.
+jan 31 23:06:20 *	- Thanks to http://www.portlane.com/ for sponsoring
+jan 31 23:06:20 *	- this server!
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	- SINISALO, (ANNA) JOHANNA (1958-), a Finnish science fiction
+jan 31 23:06:20 *	- and fantasy novelist and a script writer. Her novel 'Not
+jan 31 23:06:20 *	- Before Sundown' (orig. 'Ennen päivänlaskua ei voi'
+jan 31 23:06:20 *	- published in Finnish in 2000, when it also won the biggest
+jan 31 23:06:20 *	- literature award of Finland) was awarded The James Tiptree
+jan 31 23:06:20 *	- Jr. award in 2004.  She was nominated for a Nebula award in
+jan 31 23:06:20 *	- 2009 for her short story Baby Doll.  Their most recent work
+jan 31 23:06:20 *	- includes screenwriting for the film 'Iron Sky'.
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	- Welcome to freenode - supporting the free and open source
+jan 31 23:06:20 *	- software communities since 1998.
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	- By connecting to freenode you indicate that you have read and
+jan 31 23:06:20 *	- accept our policies as set out on http://www.freenode.net
+jan 31 23:06:20 *	- freenode runs an open proxy scanner. Please join #freenode for
+jan 31 23:06:20 *	- any network-related questions or queries, where a number of
+jan 31 23:06:20 *	- volunteer staff and helpful users will be happy to assist you.
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+jan 31 23:06:20 *	- together with like-minded FOSS enthusiasts for talks and
+jan 31 23:06:20 *	- real-life collaboration.
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	- We would like to thank Private Internet Access
+jan 31 23:06:20 *	- (https://www.privateinternetaccess.com/) and the other
+jan 31 23:06:20 *	- organisations that help keep freenode and our other projects
+jan 31 23:06:20 *	- running for their sustained support.
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	- In particular we would like to thank the sponsor
+jan 31 23:06:20 *	- of this server, details of which can be found above.
+jan 31 23:06:20 *	-  
+jan 31 23:06:20 *	End of /MOTD command.
+jan 31 23:06:20 *	bgdnvst a mis le mode +Z sur bgdnvst
+jan 31 23:06:20 *	bgdnvst a mis le mode +i sur bgdnvst
+jan 31 23:06:20 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+jan 31 23:06:26 -NickServ-	You are now identified for bgdnvst.
+jan 31 23:06:40 Checksum plugin unloaded
+jan 31 23:06:40 Greffon Sysinfo déchargé
+**** FIN DU JOURNAL À Tue Jan 31 23:06:40 2017
+

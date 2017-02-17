@@ -14,7 +14,7 @@ fi
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 
 # MPD daemon start (if no other user instance exists)
-[ ! -s ~/.config/mpd/pid ] && mpd
+#[ ! -s ~/.config/mpd/pid ] && mpd
 
 #export DE=xfce
 #nitrogen --restore &
@@ -26,8 +26,8 @@ setxkbmap ca fr
 #exec herbstluftwm --locked
 #exec i3
 #exec i3 -c .config/themer/current/i3.conf
-#exec startkde
-exec startxfce4
+exec startkde
+#exec startxfce4
 #exec startlxqt
 # ...or the Window Manager of your choice
 

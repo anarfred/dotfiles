@@ -853,19 +853,6 @@
 		</attributs>
 		<definition>◊ Définition de « place Émilie-Gamelin ».</definition>
 	</entree>
-	<entree langue="FR" forme="Amherst" categ="NP">
-		<flexions>
-			<ms>Amherst</ms>
-			<mp>Amherst</mp>
-			<fs>Amherst</fs>
-			<fp>Amherst</fp>
-		</flexions>
-		<attributs>
-			<famille/>
-		</attributs>
-		<definition>◊ Définition de « Amherst ».</definition>
-		<!-- DOUBLON-DICT-GRIMOIRE -->
-	</entree>
 	<entree langue="FR" forme="hétéronormativité" categ="Nom">
 		<flexions>
 			<fs>hétéronormativité</fs>
@@ -1395,16 +1382,6 @@
 			<chose/>
 		</attributs>
 		<definition>◊ Définition de « acteur-réseau ».</definition>
-	</entree>
-	<entree langue="FR" forme="logiciel propriétaire" categ="Nom">
-		<flexions>
-			<ms>logiciel propriétaire</ms>
-			<mp>logiciels propriétaires</mp>
-		</flexions>
-		<attributs>
-			<chose/>
-		</attributs>
-		<definition>◊ Définition de « logiciel propriétaire ».</definition>
 	</entree>
 	<entree langue="FR" forme="géosymbolique" categ="Nom">
 		<flexions>
@@ -2251,5 +2228,948 @@
 			<company/>
 		</attributs>
 		<definition>◊ definition of “BDSM”.</definition>
+	</entree>
+	<entree langue="FR" forme="Charlebois" categ="NP">
+		<flexions>
+			<ms>Charlebois</ms>
+			<mp>Charlebois</mp>
+			<fs>Charlebois</fs>
+			<fp>Charlebois</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Charlebois ».</definition>
+	</entree>
+	<entree langue="FR" forme="Kitzinger" categ="NP">
+		<flexions>
+			<ms>Kitzinger</ms>
+			<mp>Kitzinger</mp>
+			<fs>Kitzinger</fs>
+			<fp>Kitzinger</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Kitzinger ».</definition>
+	</entree>
+	<entree langue="FR" forme="Levi Martin" categ="NP">
+		<flexions>
+			<ms>Levi Martin</ms>
+			<mp>Levi Martin</mp>
+			<fs>Levi Martin</fs>
+			<fp>Levi Martin</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Levi Martin ».</definition>
+	</entree>
+	<entree langue="FR" forme="objectifié" categ="Adj">
+		<flexions>
+			<ms>objectifié</ms>
+			<mp>objectifiés</mp>
+			<fs>objectifiée</fs>
+			<fp>objectifiées</fp>
+		</flexions>
+		<definition>◊ Définition de « objectifiée ».</definition>
+	</entree>
+	<entree langue="FR" forme="Weinberg" categ="NP">
+		<flexions>
+			<ms>Weinberg</ms>
+			<mp>Weinberg</mp>
+			<fs>Weinberg</fs>
+			<fp>Weinberg</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Weinberg ».</definition>
+	</entree>
+	<entree langue="FR" forme="Gros et Détail" categ="NP">
+		<flexions>
+			<ms>Gros et Détail</ms>
+			<mp>Gros et Détail</mp>
+			<fs>Gros et Détail</fs>
+			<fp>Gros et Détail</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Gros et Détail ».</definition>
+	</entree>
+	<entree langue="FR" forme="Premier Acte" categ="NP">
+		<flexions>
+			<ms>Premier Acte</ms>
+			<mp>Premier Acte</mp>
+			<fs>Premier Acte</fs>
+			<fp>Premier Acte</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Premier Acte ».</definition>
+	</entree>
+	<entree langue="FR" forme="La neige était belle ce soir-là" categ="NP">
+		<flexions>
+			<ms>La neige était belle ce soir-là</ms>
+			<mp>La neige était belle ce soir-là</mp>
+			<fs>La neige était belle ce soir-là</fs>
+			<fp>La neige était belle ce soir-là</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « La neige était belle ce soir-là ».</definition>
+	</entree>
+	<entree langue="FR" forme="Conservatoire d’art dramatique de Québec" categ="NP">
+		<flexions>
+			<ms>Conservatoire d’art dramatique de Québec</ms>
+			<mp>Conservatoire d’art dramatique de Québec</mp>
+			<fs>Conservatoire d’art dramatique de Québec</fs>
+			<fp>Conservatoire d’art dramatique de Québec</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Conservatoire d’art dramatique de Québec ».</definition>
+	</entree>
+	<entree langue="FR" forme="désirant" categ="Adj">
+		<flexions>
+			<ms>désirant</ms>
+			<mp>désirants</mp>
+			<fs>désirante</fs>
+			<fp>désirantes</fp>
+		</flexions>
+		<definition>◊ Définition de « désirante ».</definition>
+	</entree>
+	<entree langue="FR" forme="twink" categ="Nom">
+		<flexions>
+			<ms>twink</ms>
+			<mp>twinks</mp>
+		</flexions>
+		<attributs>
+			<personne/>
+		</attributs>
+		<definition>◊ Définition de « twink ».</definition>
+	</entree>
+	<entree langue="FR" forme="Hennen" categ="NP">
+		<flexions>
+			<ms>Hennen</ms>
+			<mp>Hennen</mp>
+			<fs>Hennen</fs>
+			<fp>Hennen</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Hennen ».</definition>
+	</entree>
+	<entree langue="FR" forme="homosociabilité" categ="Nom">
+		<flexions>
+			<fs>homosociabilité</fs>
+			<fp>homosociabilités</fp>
+		</flexions>
+		<attributs>
+			<chose/>
+		</attributs>
+		<definition>◊ Définition de « homosociabilité ».</definition>
+	</entree>
+	<entree langue="FR" forme="faerie" categ="Nom">
+		<flexions>
+			<fs>faerie</fs>
+			<fp>faeries</fp>
+		</flexions>
+		<attributs>
+			<personne/>
+		</attributs>
+		<definition>◊ Définition de « faeries ».</definition>
+	</entree>
+	<entree langue="FR" forme="Giraud2014" categ="NP">
+		<flexions>
+			<ms>Giraud2014</ms>
+			<mp>Giraud2014</mp>
+			<fs>Giraud2014</fs>
+			<fp>Giraud2014</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Giraud2014 ».</definition>
+	</entree>
+	<entree langue="FR" forme="Bettani2014" categ="NP">
+		<flexions>
+			<ms>Bettani2014</ms>
+			<mp>Bettani2014</mp>
+			<fs>Bettani2014</fs>
+			<fp>Bettani2014</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Bettani2014 ».</definition>
+	</entree>
+	<entree langue="FR" forme="Bell1995a" categ="NP">
+		<flexions>
+			<ms>Bell1995a</ms>
+			<mp>Bell1995a</mp>
+			<fs>Bell1995a</fs>
+			<fp>Bell1995a</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Bell1995a ».</definition>
+	</entree>
+	<entree langue="FR" forme="Podmore2006" categ="NP">
+		<flexions>
+			<ms>Podmore2006</ms>
+			<mp>Podmore2006</mp>
+			<fs>Podmore2006</fs>
+			<fp>Podmore2006</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Podmore2006 ».</definition>
+	</entree>
+	<entree langue="FR" forme="Backboy's" categ="NP">
+		<flexions>
+			<ms>Backboy's</ms>
+			<mp>Backboy's</mp>
+			<fs>Backboy's</fs>
+			<fp>Backboy's</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Backboy's ».</definition>
+	</entree>
+	<entree langue="FR" forme="Aire Libre" categ="NP">
+		<flexions>
+			<ms>Aire Libre</ms>
+			<mp>Aire Libre</mp>
+			<fs>Aire Libre</fs>
+			<fp>Aire Libre</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Aire Libre, ».</definition>
+	</entree>
+	<entree langue="FR" forme="Dollarama" categ="NP">
+		<flexions>
+			<ms>Dollarama</ms>
+			<mp>Dollarama</mp>
+			<fs>Dollarama</fs>
+			<fp>Dollarama</fp>
+		</flexions>
+		<attributs>
+			<marque/>
+		</attributs>
+		<definition>◊ Définition de « Dollarama ».</definition>
+	</entree>
+	<entree langue="FR" forme="Lips" categ="NP">
+		<flexions>
+			<ms>Lips</ms>
+			<mp>Lips</mp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Lips ».</definition>
+	</entree>
+	<entree langue="FR" forme="Ste-Emilie Skillshare" categ="NP">
+		<flexions>
+			<ms>Ste-Emilie Skillshare</ms>
+			<mp>Ste-Emilie Skillshare</mp>
+			<fs>Ste-Emilie Skillshare</fs>
+			<fp>Ste-Emilie Skillshare</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Ste-Emilie Skillshare ».</definition>
+	</entree>
+	<entree langue="FR" forme="Il Motore" categ="NP">
+		<flexions>
+			<ms>Il Motore</ms>
+			<mp>Il Motore</mp>
+			<fs>Il Motore</fs>
+			<fp>Il Motore</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Il Motore ».</definition>
+	</entree>
+	<entree langue="FR" forme="Ritz P.D.B." categ="NP">
+		<flexions>
+			<ms>Ritz P.D.B.</ms>
+			<mp>Ritz P.D.B.</mp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Ritz P.D.B. ».</definition>
+	</entree>
+	<entree langue="FR" forme="Salla Rossa" categ="NP">
+		<flexions>
+			<ms>Salla Rossa</ms>
+			<mp>Salla Rossa</mp>
+			<fs>Salla Rossa</fs>
+			<fp>Salla Rossa</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Salla Rossa ».</definition>
+	</entree>
+	<entree langue="FR" forme="Capture the fag" categ="NP">
+		<flexions>
+			<ms>Capture the fag</ms>
+			<mp>Capture the fag</mp>
+			<fs>Capture the fag</fs>
+			<fp>Capture the fag</fp>
+		</flexions>
+		<attributs>
+			<autre/>
+		</attributs>
+		<definition>◊ Définition de « Capture the fag ».</definition>
+	</entree>
+	<entree langue="FR" forme="Bain Colonial" categ="NP">
+		<flexions>
+			<ms>Bain Colonial</ms>
+			<mp>Bain Colonial</mp>
+			<fs>Bain Colonial</fs>
+			<fp>Bain Colonial</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Bain Colonial ».</definition>
+	</entree>
+	<entree langue="FR" forme="West Side" categ="NP">
+		<flexions>
+			<ms>West Side</ms>
+			<mp>West Side</mp>
+			<fs>West Side</fs>
+			<fp>West Side</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « West Side ».</definition>
+	</entree>
+	<entree langue="FR" forme="Ancient Future" categ="NP">
+		<flexions>
+			<ms>Ancient Future</ms>
+			<mp>Ancient Future</mp>
+			<fs>Ancient Future</fs>
+			<fp>Ancient Future</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Ancient Future ».</definition>
+	</entree>
+	<entree langue="FR" forme="anarcha-féministe" categ="Nom">
+		<flexions>
+			<ms>anarcha-féministe</ms>
+			<mp>anarcha-féministes</mp>
+			<fs>anarcha-féministe</fs>
+			<fp>anarcha-féministes</fp>
+		</flexions>
+		<attributs>
+			<personne/>
+		</attributs>
+		<definition>◊ Définition de « anarcha-féministes ».</definition>
+	</entree>
+	<entree langue="FR" forme="anarcha-féministe" categ="Adj">
+		<flexions>
+			<ms>anarcha-féministe</ms>
+			<mp>anarcha-féministes</mp>
+			<fs>anarcha-féministe</fs>
+			<fp>anarcha-féministes</fp>
+		</flexions>
+		<definition>◊ Définition de « anarcha-féministes ».</definition>
+	</entree>
+	<entree langue="FR" forme="Club Forhom" categ="NP">
+		<flexions>
+			<ms>Club Forhom</ms>
+			<mp>Club Forhom</mp>
+			<fs>Club Forhom</fs>
+			<fp>Club Forhom</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Club Forhom ».</definition>
+	</entree>
+	<entree langue="FR" forme="for" categ="Pref">
+		<attributs>
+			<erreur_t_d_u/><erreur_t_d_u_reforme/>
+		</attributs>
+		<definition>◊ Définition de « for ».</definition>
+	</entree>
+	<entree langue="FR" forme="bareback" categ="Nom">
+		<flexions>
+			<ms>bareback</ms>
+			<mp>barebacks</mp>
+			<fs>barebacke</fs>
+			<fp>barebackes</fp>
+		</flexions>
+		<attributs>
+			<chose/>
+		</attributs>
+		<definition>◊ Définition de « bareback ».</definition>
+	</entree>
+	<entree langue="FR" forme="Parti Libéral du Canada" categ="NP">
+		<flexions>
+			<ms>Parti Libéral du Canada</ms>
+			<mp>Parti Libéral du Canada</mp>
+			<fs>Parti Libéral du Canada</fs>
+			<fp>Parti Libéral du Canada</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Parti Libéral du Canada ».</definition>
+	</entree>
+	<entree langue="FR" forme="Silence = Death" categ="NP">
+		<flexions>
+			<ms>Silence = Death</ms>
+			<mp>Silence = Death</mp>
+			<fs>Silence = Death</fs>
+			<fp>Silence = Death</fp>
+		</flexions>
+		<attributs>
+			<autre/>
+		</attributs>
+		<definition>◊ Définition de « Silence = Death ».</definition>
+	</entree>
+	<entree langue="FR" forme="Homesense" categ="NP">
+		<flexions>
+			<ms>Homesense</ms>
+			<mp>Homesense</mp>
+			<fs>Homesense</fs>
+			<fp>Homesense</fp>
+		</flexions>
+		<attributs>
+			<marque/>
+		</attributs>
+		<definition>◊ Définition de « Homesense ».</definition>
+	</entree>
+	<entree langue="FR" forme="Triste été malade" categ="NP">
+		<flexions>
+			<ms>Triste été malade</ms>
+			<mp>Triste été malade</mp>
+			<fs>Triste été malade</fs>
+			<fp>Triste été malade</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Triste été malade ».</definition>
+	</entree>
+	<entree langue="FR" forme="Blocage des putes" categ="NP">
+		<flexions>
+			<ms>Blocage des putes</ms>
+			<mp>Blocage des putes</mp>
+			<fs>Blocage des putes</fs>
+			<fp>Blocage des putes</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Blocage des putes ».</definition>
+	</entree>
+	<entree langue="FR" forme="lac aux Castors" categ="NP">
+		<flexions>
+			<ms>lac aux Castors</ms>
+			<mp>lac aux Castors</mp>
+			<fs>lac aux Castors</fs>
+			<fp>lac aux Castors</fp>
+		</flexions>
+		<attributs>
+			<lieu/><cours_deau/>
+		</attributs>
+		<definition>◊ Définition de « lac aux Castors ».</definition>
+	</entree>
+	<entree langue="FR" forme="Projet Jeunesse Idem" categ="NP">
+		<flexions>
+			<ms>Projet Jeunesse Idem</ms>
+			<mp>Projet Jeunesse Idem</mp>
+			<fs>Projet Jeunesse Idem</fs>
+			<fp>Projet Jeunesse Idem</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Projet Jeunesse Idem ».</definition>
+	</entree>
+	<entree langue="FR" forme="Association-Gais-Lesbiennes-Laval-Laurentides-Lanaudière" categ="NP">
+		<flexions>
+			<ms>Association-Gais-Lesbiennes-Laval-Laurentides-Lanaudière</ms>
+			<mp>Association-Gais-Lesbiennes-Laval-Laurentides-Lanaudière</mp>
+			<fs>Association-Gais-Lesbiennes-Laval-Laurentides-Lanaudière</fs>
+			<fp>Association-Gais-Lesbiennes-Laval-Laurentides-Lanaudière</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Association-Gais-Lesbiennes-Laval-Laurentides-Lanaudière ».</definition>
+	</entree>
+	<entree langue="FR" forme="Carrefour gaies Saint-Jean-sur-Richelieu" categ="NP">
+		<flexions>
+			<ms>Carrefour gaies Saint-Jean-sur-Richelieu</ms>
+			<mp>Carrefour gaies Saint-Jean-sur-Richelieu</mp>
+			<fs>Carrefour gaies Saint-Jean-sur-Richelieu</fs>
+			<fp>Carrefour gaies Saint-Jean-sur-Richelieu</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Carrefour gaies Saint-Jean-sur-Richelieu ».</definition>
+	</entree>
+	<entree langue="FR" forme="Haut-Richelieu" categ="NP">
+		<flexions>
+			<ms>Haut-Richelieu</ms>
+			<mp>Haut-Richelieu</mp>
+			<fs>Haut-Richelieu</fs>
+			<fp>Haut-Richelieu</fp>
+		</flexions>
+		<attributs>
+			<lieu/><region/>
+		</attributs>
+		<definition>◊ Définition de « Haut-Richelieu ».</definition>
+	</entree>
+	<entree langue="FR" forme="Gai-Côte-Sud" categ="NP">
+		<flexions>
+			<ms>Gai-Côte-Sud</ms>
+			<mp>Gai-Côte-Sud</mp>
+			<fs>Gai-Côte-Sud</fs>
+			<fp>Gai-Côte-Sud</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Gai-Côte-Sud ».</definition>
+	</entree>
+	<entree langue="FR" forme="Regroupement des Lesbiennes et des gais de l'Est du Québec" categ="NP">
+		<flexions>
+			<ms>Regroupement des Lesbiennes et des gais de l'Est du Québec</ms>
+			<mp>Regroupement des Lesbiennes et des gais de l'Est du Québec</mp>
+			<fs>Regroupement des Lesbiennes et des gais de l'Est du Québec</fs>
+			<fp>Regroupement des Lesbiennes et des gais de l'Est du Québec</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Regroupement des Lesbiennes et des gais de l'Est du Québec ».</definition>
+	</entree>
+	<entree langue="FR" forme="Association des hommes gais de Manicouagan" categ="NP">
+		<flexions>
+			<ms>Association des hommes gais de Manicouagan</ms>
+			<mp>Association des hommes gais de Manicouagan</mp>
+			<fs>Association des hommes gais de Manicouagan</fs>
+			<fp>Association des hommes gais de Manicouagan</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Association des hommes gais de Manicouagan ».</definition>
+	</entree>
+	<entree langue="FR" forme="Action Gaie de l'Abitibi-Témiscamingue à Rouyn-Noranda" categ="NP">
+		<flexions>
+			<ms>Action Gaie de l'Abitibi-Témiscamingue à Rouyn-Noranda</ms>
+			<mp>Action Gaie de l'Abitibi-Témiscamingue à Rouyn-Noranda</mp>
+			<fs>Action Gaie de l'Abitibi-Témiscamingue à Rouyn-Noranda</fs>
+			<fp>Action Gaie de l'Abitibi-Témiscamingue à Rouyn-Noranda</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Action Gaie de l'Abitibi-Témiscamingue à Rouyn-Noranda ».</definition>
+	</entree>
+	<entree langue="FR" forme="Groupe d'Amis Gais de Valleyfield et du Suroît" categ="NP">
+		<flexions>
+			<ms>Groupe d'Amis Gais de Valleyfield et du Suroît</ms>
+			<mp>Groupe d'Amis Gais de Valleyfield et du Suroît</mp>
+			<fs>Groupe d'Amis Gais de Valleyfield et du Suroît</fs>
+			<fp>Groupe d'Amis Gais de Valleyfield et du Suroît</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Groupe d'Amis Gais de Valleyfield et du Suroît ».</definition>
+	</entree>
+	<entree langue="FR" forme="Association des gais, lesbiennes, et bisexuel (les) du Centre du Québec" categ="NP">
+		<flexions>
+			<ms>Association des gais, lesbiennes, et bisexuel (les) du Centre du Québec</ms>
+			<mp>Association des gais, lesbiennes, et bisexuel (les) du Centre du Québec</mp>
+			<fs>Association des gais, lesbiennes, et bisexuel (les) du Centre du Québec</fs>
+			<fp>Association des gais, lesbiennes, et bisexuel (les) du Centre du Québec</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Association des gais, lesbiennes, et bisexuel (les) du Centre du Québec ».</definition>
+	</entree>
+	<entree langue="FR" forme="Domahom" categ="NP">
+		<flexions>
+			<ms>Domahom</ms>
+			<mp>Domahom</mp>
+			<fs>Domahom</fs>
+			<fp>Domahom</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Domahom ».</definition>
+	</entree>
+	<entree langue="FR" forme="Gaynor" categ="NP">
+		<flexions>
+			<ms>Gaynor</ms>
+			<mp>Gaynor</mp>
+			<fs>Gaynor</fs>
+			<fp>Gaynor</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Gaynor ».</definition>
+	</entree>
+	<entree langue="FR" forme="Rézo" categ="NP">
+		<flexions>
+			<ms>Rézo</ms>
+			<mp>Rézo</mp>
+			<fs>Rézo</fs>
+			<fp>Rézo</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Rézo ».</definition>
+	</entree>
+	<entree langue="FR" forme="Gay411" categ="NP">
+		<flexions>
+			<ms>Gay411</ms>
+			<mp>Gay411</mp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Gay411 ».</definition>
+	</entree>
+	<entree langue="FR" forme="Soirées 100% testostérone" categ="NP">
+		<flexions>
+			<ms>Soirées 100% testostérone</ms>
+			<mp>Soirées 100% testostérone</mp>
+			<fs>Soirées 100% testostérone</fs>
+			<fp>Soirées 100% testostérone</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Soirées 100% testostérone ».</definition>
+	</entree>
+	<entree langue="FR" forme="Soirées des barbu" categ="NP">
+		<flexions>
+			<ms>Soirées des barbu</ms>
+			<mp>Soirées des barbu</mp>
+			<fs>Soirées des barbu</fs>
+			<fp>Soirées des barbu</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Soirées des barbus ».</definition>
+	</entree>
+	<entree langue="FR" forme="Fétiche Armada" categ="NP">
+		<flexions>
+			<ms>Fétiche Armada</ms>
+			<mp>Fétiche Armada</mp>
+			<fs>Fétiche Armada</fs>
+			<fp>Fétiche Armada</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Fétiche Armada ».</definition>
+	</entree>
+	<entree langue="FR" forme="bear" categ="Adj">
+		<flexions>
+			<ms>bear</ms>
+			<mp>bears</mp>
+			<fs>bear</fs>
+			<fp>bears</fp>
+		</flexions>
+		<definition>La communauté bear (aussi dénommée communauté de l'ours) est une subdivision de la communauté gay. On entend par « Bears » - prononcer : [bairz] et non [birz] - (ours en français), les hommes homosexuels porteurs de pilosité faciale et corporelle plus ou moins fournie et visible. Les bears sont également enveloppés ou gros, ce n’est généralement pas une caractéristique de différenciation. Le point commun entre toutes ces variantes est l'affichage d’une « masculinité » plus ou moins exacerbée excluant la plupart du temps les codes des autres groupes gay.</definition>
+	</entree>
+	<entree langue="FR" forme="agenre" categ="Adj">
+		<flexions>
+			<ms>agenre</ms>
+			<mp>agenres</mp>
+			<fs>agenre</fs>
+			<fp>agenres</fp>
+		</flexions>
+		<definition>◊ Définition de « agenre ».</definition>
+	</entree>
+	<entree langue="FR" forme="LGBTQIA" categ="Adj">
+		<flexions>
+			<ms>LGBTQIA</ms>
+			<mp>LGBTQIA</mp>
+			<fs>LGBTQIA</fs>
+			<fp>LGBTQIA</fp>
+		</flexions>
+		<definition>Lesbiennes, Gays, Bisexuel(le)s, Trans, Queer, Intersexes, Asexuels.</definition>
+	</entree>
+	<entree langue="FR" forme="Qu’est-ce que la littérature?" categ="NP">
+		<flexions>
+			<ms>Qu’est-ce que la littérature?</ms>
+			<mp>Qu’est-ce que la littérature?</mp>
+			<fs>Qu’est-ce que la littérature?</fs>
+			<fp>Qu’est-ce que la littérature?</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Qu’est-ce que la littérature? ».</definition>
+	</entree>
+	<entree langue="FR" forme="intitulée Pour qui écrit-on?" categ="Adj">
+		<flexions>
+			<ms>intitulée Pour qui écrit-on?</ms>
+			<mp>intitulée Pour qui écrit-on?</mp>
+			<fs>intitulée Pour qui écrit-on?</fs>
+			<fp>intitulée Pour qui écrit-on?</fp>
+		</flexions>
+		<definition>◊ Définition de « intitulée Pour qui écrit-on? ».</definition>
+	</entree>
+	<entree langue="FR" forme="Tiers état" categ="NP">
+		<flexions>
+			<ms>Tiers état</ms>
+			<mp>Tiers état</mp>
+			<fs>Tiers état</fs>
+			<fp>Tiers état</fp>
+		</flexions>
+		<attributs>
+			<autre/>
+		</attributs>
+		<definition>◊ Définition de « Tiers état ».</definition>
+	</entree>
+	<entree langue="FR" forme="Pour qui écrit-on?" categ="NP">
+		<flexions>
+			<ms>Pour qui écrit-on?</ms>
+			<mp>Pour qui écrit-on?</mp>
+			<fs>Pour qui écrit-on?</fs>
+			<fp>Pour qui écrit-on?</fp>
+		</flexions>
+		<attributs>
+			<titre_oeuvre/>
+		</attributs>
+		<definition>◊ Définition de « Pour qui écrit-on? ».</definition>
+	</entree>
+	<entree langue="FR" forme="Littérature" categ="NP">
+		<flexions>
+			<ms>Littérature</ms>
+			<mp>Littérature</mp>
+			<fs>Littérature</fs>
+			<fp>Littérature</fp>
+		</flexions>
+		<attributs>
+			<autre/>
+		</attributs>
+		<definition>◊ Définition de « Littérature ».</definition>
+	</entree>
+	<entree langue="FR" forme="Ohio State University" categ="NP">
+		<flexions>
+			<ms>Ohio State University</ms>
+			<mp>Ohio State University</mp>
+			<fs>Ohio State University</fs>
+			<fp>Ohio State University</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Ohio State University ».</definition>
+	</entree>
+	<entree langue="FR" forme="micro" categ="Adj">
+		<flexions>
+			<ms>micro</ms>
+			<mp>micros</mp>
+			<fs>micro</fs>
+			<fp>micros</fp>
+		</flexions>
+		<definition>◊ Définition de « micro ».</definition>
+	</entree>
+	<entree langue="FR" forme="naturalisant" categ="Adj">
+		<flexions>
+			<ms>naturalisant</ms>
+			<mp>naturalisants</mp>
+			<fs>naturalisante</fs>
+			<fp>naturalisantes</fp>
+		</flexions>
+		<definition>◊ Définition de « naturalisant ».</definition>
+	</entree>
+	<entree langue="FR" forme="objectifiant" categ="Adj">
+		<flexions>
+			<ms>objectifiant</ms>
+			<mp>objectifiants</mp>
+			<fs>objectifiante</fs>
+			<fp>objectifiantes</fp>
+		</flexions>
+		<definition>◊ Définition de « objectifiante ».</definition>
+	</entree>
+	<entree langue="FR" forme="Amari" categ="NP">
+		<flexions>
+			<ms>Amari</ms>
+			<mp>Amari</mp>
+			<fs>Amari</fs>
+			<fp>Amari</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Amari ».</definition>
+	</entree>
+	<entree langue="FR" forme="_coming-out_" categ="Nom">
+		<flexions>
+			<ms>_coming-out_</ms>
+			<mp>_coming-out_</mp>
+			<fs>_coming-out_</fs>
+			<fp>_coming-out_</fp>
+		</flexions>
+		<attributs>
+			<chose/>
+		</attributs>
+		<definition>◊ Définition de « _coming out_ ».</definition>
+	</entree>
+	<entree langue="FR" forme="Georg" categ="NP">
+		<flexions>
+			<ms>Georg</ms>
+			<mp>Georg</mp>
+			<fs>Georg</fs>
+			<fp>Georg</fp>
+		</flexions>
+		<attributs>
+			<prenom/>
+		</attributs>
+		<definition>◊ Définition de « Georg ».</definition>
+	</entree>
+	<entree langue="FR" forme="Nouvelle Gauche" categ="NP">
+		<flexions>
+			<fs>Nouvelle Gauche</fs>
+			<fp>Nouvelle Gauche</fp>
+		</flexions>
+		<attributs>
+			<autre/>
+		</attributs>
+		<definition>◊ Définition de « Nouvelle Gauche ».</definition>
+	</entree>
+	<entree langue="FR" forme="Simmel" categ="NP">
+		<flexions>
+			<ms>Simmel</ms>
+			<mp>Simmel</mp>
+			<fs>Simmel</fs>
+			<fp>Simmel</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Simmel ».</definition>
+	</entree>
+	<entree langue="FR" forme="Jeffrey" categ="NP">
+		<flexions>
+			<ms>Jeffrey</ms>
+			<mp>Jeffrey</mp>
+			<fs>Jeffrey</fs>
+			<fp>Jeffrey</fp>
+		</flexions>
+		<attributs>
+			<prenom/>
+		</attributs>
+		<definition>◊ Définition de « Jeffrey ».</definition>
+	</entree>
+	<entree langue="FR" forme="Longman" categ="NP">
+		<flexions>
+			<ms>Longman</ms>
+			<mp>Longman</mp>
+			<fs>Longman</fs>
+			<fp>Longman</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Longman ».</definition>
+	</entree>
+	<entree langue="FR" forme="polyamoureux" categ="Adj">
+		<flexions>
+			<ms>polyamoureux</ms>
+			<mp>polyamoureux</mp>
+			<fs>polyamoureuse</fs>
+			<fp>polyamoureuses</fp>
+		</flexions>
+		<definition>◊ Définition de « polyamoureux ».</definition>
+	</entree>
+	<entree langue="FR" forme="London Southbank University" categ="NP">
+		<flexions>
+			<ms>London Southbank University</ms>
+			<mp>London Southbank University</mp>
+			<fs>London Southbank University</fs>
+			<fp>London Southbank University</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « London Southbank University ».</definition>
+	</entree>
+	<entree langue="FR" forme="Gay Liberation Front" categ="NP">
+		<flexions>
+			<ms>Gay Liberation Front</ms>
+			<mp>Gay Liberation Front</mp>
+			<fs>Gay Liberation Front</fs>
+			<fp>Gay Liberation Front</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Gay Liberation Front ».</definition>
+	</entree>
+	<entree langue="FR" forme="Gay Left" categ="NP">
+		<flexions>
+			<ms>Gay Left</ms>
+			<mp>Gay Left</mp>
+			<fs>Gay Left</fs>
+			<fp>Gay Left</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Gay Left ».</definition>
+	</entree>
+	<entree langue="FR" forme="Routledge" categ="NP">
+		<flexions>
+			<ms>Routledge</ms>
+			<mp>Routledge</mp>
+			<fs>Routledge</fs>
+			<fp>Routledge</fp>
+		</flexions>
+		<attributs>
+			<marque/>
+		</attributs>
+		<definition>◊ Définition de « Routledge ».</definition>
+	</entree>
+	<entree langue="FR" forme="Hakim" categ="NP">
+		<flexions>
+			<ms>Hakim</ms>
+			<mp>Hakim</mp>
+			<fs>Hakim</fs>
+			<fp>Hakim</fp>
+		</flexions>
+		<attributs>
+			<famille/>
+		</attributs>
+		<definition>◊ Définition de « Hakim ».</definition>
 	</entree>
 </dictionnaire_personnel>

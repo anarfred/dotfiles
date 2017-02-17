@@ -41,8 +41,9 @@
       <property name="nrows" type="uint" value="1"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="2"/>
-        <value type="int" value="11"/>
         <value type="int" value="3"/>
+        <value type="int" value="5"/>
+        <value type="int" value="10"/>
         <value type="int" value="4"/>
         <value type="int" value="7"/>
         <value type="int" value="1"/>
@@ -52,9 +53,9 @@
       <property name="size" type="uint" value="24"/>
       <property name="span-monitors" type="bool" value="false"/>
       <property name="background-color" type="array">
-        <value type="uint" value="10280"/>
-        <value type="uint" value="10280"/>
-        <value type="uint" value="10280"/>
+        <value type="uint" value="65535"/>
+        <value type="uint" value="65535"/>
+        <value type="uint" value="65535"/>
         <value type="uint" value="65535"/>
       </property>
     </property>
@@ -153,8 +154,10 @@
         <value type="string" value="14418443291.desktop"/>
       </property>
       <property name="names-visible" type="array">
-        <value type="string" value="veracrypt"/>
+        <value type="string" value="vlc"/>
         <value type="string" value="redshift-gtk"/>
+        <value type="string" value="terminal déroulant"/>
+        <value type="string" value="franz"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="guake"/>
         <value type="string" value="network"/>
@@ -168,36 +171,27 @@
         <value type="string" value="fusion-icon"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="evolution-alarm-notify"/>
+        <value type="string" value="rappels d&apos;evolution"/>
         <value type="string" value="cryptocat"/>
-        <value type="string" value="franz"/>
-        <value type="string" value="terminal xfce"/>
-        <value type="string" value="keepassx2"/>
+        <value type="string" value="google-musicmanager"/>
         <value type="string" value="transmission"/>
+        <value type="string" value="keepassx2"/>
         <value type="string" value="nautilus"/>
+        <value type="string" value="veracrypt"/>
+        <value type="string" value="terminal xfce"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="size-max" type="uint" value="22"/>
       <property name="miniature-view" type="bool" value="true"/>
     </property>
-    <property name="plugin-11" type="string" value="tasklist">
-      <property name="flat-buttons" type="bool" value="true"/>
-      <property name="show-handle" type="bool" value="true"/>
-      <property name="sort-order" type="uint" value="1"/>
-      <property name="grouping" type="uint" value="1"/>
-      <property name="show-wireframes" type="bool" value="false"/>
-      <property name="include-all-workspaces" type="bool" value="true"/>
-      <property name="show-labels" type="bool" value="true"/>
-    </property>
     <property name="plugin-14" type="string" value="whiskermenu"/>
-    <property name="plugin-9" type="string" value="xfce4-sensors-plugin"/>
-    <property name="plugin-10" type="string" value="mixer">
-      <property name="sound-card" type="string" value="PlaybackAudiointerneStroanalogiquePulseAudioMixer"/>
-      <property name="track" type="string" value="Master"/>
-      <property name="command" type="string" value="xfce4-mixer"/>
-    </property>
     <property name="plugin-1" type="string" value="clock">
       <property name="mode" type="uint" value="2"/>
     </property>
     <property name="plugin-2" type="string" value="whiskermenu"/>
+    <property name="plugin-5" type="string" value="pager">
+      <property name="rows" type="uint" value="4"/>
+    </property>
+    <property name="plugin-10" type="string" value="fsguard"/>
   </property>
 </channel>

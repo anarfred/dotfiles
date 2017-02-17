@@ -1091,3 +1091,155 @@ time 1482966544
 old [description:"Trouver un cadeau pour les parent à Oli" due:"1482469200" entry:"1480111077" modified:"1482250184" project:"personnel" status:"pending" tags:"noel" uuid:"b85f3b0b-cf12-4c07-b1c0-a2ef107bffef"]
 new [description:"Trouver un cadeau pour les parent à Oli" due:"1482469200" end:"1482966544" entry:"1480111077" modified:"1482966544" project:"personnel" status:"completed" tags:"noel" uuid:"b85f3b0b-cf12-4c07-b1c0-a2ef107bffef"]
 ---
+time 1483408295
+new [description:"Payer le loyer" due:"1485838799" entry:"1483408295" imask:"2" modified:"1480607417" parent:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" recur:"monthly" status:"waiting" uuid:"96ec706b-15bc-4eb0-b394-308e7912d5b3" wait:"1485320400"]
+---
+time 1483408295
+old [description:"Payer le loyer" due:"1480568399" entry:"1480094836" mask:"+W" modified:"1480607417" recur:"monthly" status:"recurring" uuid:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" wait:"1480050000"]
+new [description:"Payer le loyer" due:"1480568399" entry:"1480094836" mask:"+WW" modified:"1483408295" recur:"monthly" status:"recurring" uuid:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" wait:"1480050000"]
+---
+time 1483459549
+old [description:"vider mes boîtes courriels :shallow" entry:"1480607635" modified:"1480607635" status:"pending" uuid:"0fcd77ba-321d-497b-8df4-31bc8941bcbf"]
+new [description:"vider mes boîtes courriels +shallow" entry:"1480607635" modified:"1482979051" status:"pending" uuid:"0fcd77ba-321d-497b-8df4-31bc8941bcbf"]
+---
+time 1483459549
+old [description:"vider mes boîtes courriels +shallow" entry:"1480607635" modified:"1482979051" status:"pending" uuid:"0fcd77ba-321d-497b-8df4-31bc8941bcbf"]
+new [description:"vider mes boîtes courriels" entry:"1480607635" modified:"1482979065" status:"pending" tags:"shallow" uuid:"0fcd77ba-321d-497b-8df4-31bc8941bcbf"]
+---
+time 1483459562
+old [description:"Payer le loyer" due:"1480568399" entry:"1480094836" mask:"+WW" modified:"1483408295" recur:"monthly" status:"recurring" uuid:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" wait:"1480050000"]
+new [description:"Payer le loyer" due:"1480568399" entry:"1480094836" mask:"++W" modified:"1483459562" recur:"monthly" status:"recurring" uuid:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" wait:"1480050000"]
+---
+time 1483459562
+old [description:"Payer le loyer" due:"1483160399" entry:"1480607387" imask:"1" modified:"1480427725" parent:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" recur:"monthly" status:"pending" uuid:"c59c7067-3aa2-4b4f-be46-0a93f1dc3e5c"]
+new [description:"Payer le loyer" due:"1483160399" end:"1483459562" entry:"1480607387" imask:"1" modified:"1483459562" parent:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" recur:"monthly" status:"completed" uuid:"c59c7067-3aa2-4b4f-be46-0a93f1dc3e5c"]
+---
+time 1483657490
+old [description:"faire la conclusion" due:"1484456400" entry:"1480110755" modified:"1482250243" project:"mémoire" status:"pending" tags:"rédaction" uuid:"289d3194-92d2-4544-84ee-d4b9fffd693e"]
+new [description:"faire la conclusion" due:"1484456400" entry:"1480110755" modified:"1483657490" project:"memoire" status:"pending" tags:"rédaction" uuid:"289d3194-92d2-4544-84ee-d4b9fffd693e"]
+---
+time 1483657490
+old [description:"faire une liste des figures manquantes" due:"1484456400" entry:"1480110766" modified:"1482250243" project:"mémoire" status:"pending" tags:"shallow,rédaction" uuid:"f644c548-5920-4b02-bf3f-c625d54a50df"]
+new [description:"faire une liste des figures manquantes" due:"1484456400" entry:"1480110766" modified:"1483657490" project:"memoire" status:"pending" tags:"shallow,rédaction" uuid:"f644c548-5920-4b02-bf3f-c625d54a50df"]
+---
+time 1483657490
+old [description:"faire une liste des figures à retapper" due:"1484456400" entry:"1480110774" modified:"1482250243" project:"mémoire" status:"pending" tags:"shallow,rédaction" uuid:"0b5d3559-c138-47aa-9cdc-338899842798"]
+new [description:"faire une liste des figures à retapper" due:"1484456400" entry:"1480110774" modified:"1483657490" project:"memoire" status:"pending" tags:"shallow,rédaction" uuid:"0b5d3559-c138-47aa-9cdc-338899842798"]
+---
+time 1483657490
+old [description:"contacter Me renseigner à propos du séminaire" due:"1484456400" entry:"1480110795" modified:"1482250243" project:"mémoire" status:"pending" uuid:"53826cb1-4dd3-48c7-b62f-95ff03c38402"]
+new [description:"contacter Me renseigner à propos du séminaire" due:"1484456400" entry:"1480110795" modified:"1483657490" project:"memoire" status:"pending" uuid:"53826cb1-4dd3-48c7-b62f-95ff03c38402"]
+---
+time 1483657490
+old [description:"relire l'introduction" due:"1484456400" entry:"1480360493" modified:"1482250243" project:"mémoire" status:"pending" tags:"révision" uuid:"6429fd77-cd6e-4673-9ec1-1bbbc033a9e7"]
+new [description:"relire l'introduction" due:"1484456400" entry:"1480360493" modified:"1483657490" project:"memoire" status:"pending" tags:"révision" uuid:"6429fd77-cd6e-4673-9ec1-1bbbc033a9e7"]
+---
+time 1483657490
+old [description:"relire le chapitre 1" due:"1484456400" entry:"1480360512" modified:"1482250243" project:"mémoire" status:"pending" tags:"révision" uuid:"0d9b8779-2c79-4749-a9ac-38f1d6b81881"]
+new [description:"relire le chapitre 1" due:"1484456400" entry:"1480360512" modified:"1483657490" project:"memoire" status:"pending" tags:"révision" uuid:"0d9b8779-2c79-4749-a9ac-38f1d6b81881"]
+---
+time 1483657490
+old [depends:"8720eca6-0a7a-44f3-ba27-e0cc1516cf57" description:"relire le chapitre 2" due:"1484456400" entry:"1480360517" modified:"1482250243" project:"mémoire" status:"pending" tags:"révision" uuid:"02c58666-2bee-46ad-a904-fc92a8f7691a"]
+new [depends:"8720eca6-0a7a-44f3-ba27-e0cc1516cf57" description:"relire le chapitre 2" due:"1484456400" entry:"1480360517" modified:"1483657490" project:"memoire" status:"pending" tags:"révision" uuid:"02c58666-2bee-46ad-a904-fc92a8f7691a"]
+---
+time 1483657490
+old [depends:"0497c0bc-6737-4339-92c3-8c86dd6bce3b" description:"relire le chapitre 4" due:"1484456400" entry:"1480360521" modified:"1482250243" project:"mémoire" status:"pending" tags:"révision" uuid:"55fccbba-5385-4b5f-ae6f-71c5f4e387d6"]
+new [depends:"0497c0bc-6737-4339-92c3-8c86dd6bce3b" description:"relire le chapitre 4" due:"1484456400" entry:"1480360521" modified:"1483657490" project:"memoire" status:"pending" tags:"révision" uuid:"55fccbba-5385-4b5f-ae6f-71c5f4e387d6"]
+---
+time 1483657490
+old [depends:"b13a9f93-4595-4535-a730-78721f7ad5b7" description:"relire le chapitre 3" due:"1484456400" entry:"1480360526" modified:"1482250243" project:"mémoire" status:"pending" tags:"révision" uuid:"6af564b1-e2f8-4fa1-98a5-5bf89eb81102"]
+new [depends:"b13a9f93-4595-4535-a730-78721f7ad5b7" description:"relire le chapitre 3" due:"1484456400" entry:"1480360526" modified:"1483657490" project:"memoire" status:"pending" tags:"révision" uuid:"6af564b1-e2f8-4fa1-98a5-5bf89eb81102"]
+---
+time 1483657490
+old [description:"relire la conclusion" due:"1484456400" entry:"1480360538" modified:"1482250243" project:"mémoire" status:"pending" tags:"révision" uuid:"0186bd11-c4e6-44fc-8e27-578e20b53a7e"]
+new [description:"relire la conclusion" due:"1484456400" entry:"1480360538" modified:"1483657490" project:"memoire" status:"pending" tags:"révision" uuid:"0186bd11-c4e6-44fc-8e27-578e20b53a7e"]
+---
+time 1483657490
+old [description:"écrire les remerciements" due:"1484456400" entry:"1480360581" modified:"1482250243" project:"mémoire" status:"pending" tags:"rédaction" uuid:"137f4d50-03a1-42eb-b73c-bc1d89b2e836"]
+new [description:"écrire les remerciements" due:"1484456400" entry:"1480360581" modified:"1483657490" project:"memoire" status:"pending" tags:"rédaction" uuid:"137f4d50-03a1-42eb-b73c-bc1d89b2e836"]
+---
+time 1483657490
+old [description:"chap2ligne72:trouver la référence dans Higgins" due:"1484456400" entry:"1480362687" modified:"1482250243" project:"mémoire" status:"pending" tags:"rédaction" uuid:"7a67b99b-5170-4906-901d-4601d15c5b41"]
+new [description:"chap2ligne72:trouver la référence dans Higgins" due:"1484456400" entry:"1480362687" modified:"1483657490" project:"memoire" status:"pending" tags:"rédaction" uuid:"7a67b99b-5170-4906-901d-4601d15c5b41"]
+---
+time 1483657490
+old [description:"Retapper mes données dans l'éventualité où on me les demande" due:"1484456400" entry:"1480364509" modified:"1482250243" project:"mémoire" status:"pending" uuid:"c280a0c7-fa3d-49f1-935b-5dce3f17b3f8"]
+new [description:"Retapper mes données dans l'éventualité où on me les demande" due:"1484456400" entry:"1480364509" modified:"1483657490" project:"memoire" status:"pending" uuid:"c280a0c7-fa3d-49f1-935b-5dce3f17b3f8"]
+---
+time 1483657490
+old [description:"ajouter source des données et auteur à la figure 2.1" due:"1484456400" entry:"1480455049" modified:"1482250243" project:"mémoire" status:"pending" tags:"rédaction" uuid:"b7b19e55-2e44-4276-8be7-d09e5031aae6"]
+new [description:"ajouter source des données et auteur à la figure 2.1" due:"1484456400" entry:"1480455049" modified:"1483657490" project:"memoire" status:"pending" tags:"rédaction" uuid:"b7b19e55-2e44-4276-8be7-d09e5031aae6"]
+---
+time 1483657490
+old [description:"contacter Préparer une présentation pour mon séminaire" due:"1484456400" end:"1482094105" entry:"1480110810" modified:"1482250243" project:"mémoire" status:"completed" uuid:"99a90056-f600-4bc5-b545-e043d8480845"]
+new [description:"contacter Préparer une présentation pour mon séminaire" due:"1484456400" end:"1482094105" entry:"1480110810" modified:"1483657490" project:"memoire" status:"completed" uuid:"99a90056-f600-4bc5-b545-e043d8480845"]
+---
+time 1483657490
+old [description:"Mettre la note de bas de page sur le BDSM à la bonne place" due:"1484456400" end:"1480607572" entry:"1480363483" modified:"1482250243" project:"mémoire" status:"completed" tags:"rédaction" uuid:"2ce93bc7-4a24-49a6-901b-9037719877ca"]
+new [description:"Mettre la note de bas de page sur le BDSM à la bonne place" due:"1484456400" end:"1480607572" entry:"1480363483" modified:"1483657490" project:"memoire" status:"completed" tags:"rédaction" uuid:"2ce93bc7-4a24-49a6-901b-9037719877ca"]
+---
+time 1483657490
+old [description:"faire les todos du chapitre 4" due:"1484456400" end:"1480607544" entry:"1480360711" modified:"1482250243" project:"mémoire" status:"completed" tags:"rédaction" uuid:"0497c0bc-6737-4339-92c3-8c86dd6bce3b"]
+new [description:"faire les todos du chapitre 4" due:"1484456400" end:"1480607544" entry:"1480360711" modified:"1483657490" project:"memoire" status:"completed" tags:"rédaction" uuid:"0497c0bc-6737-4339-92c3-8c86dd6bce3b"]
+---
+time 1483657490
+old [description:"faire les todos du chapitre 3" due:"1484456400" end:"1480607533" entry:"1480360702" modified:"1482250243" project:"mémoire" status:"completed" tags:"rédaction" uuid:"b13a9f93-4595-4535-a730-78721f7ad5b7"]
+new [description:"faire les todos du chapitre 3" due:"1484456400" end:"1480607533" entry:"1480360702" modified:"1483657490" project:"memoire" status:"completed" tags:"rédaction" uuid:"b13a9f93-4595-4535-a730-78721f7ad5b7"]
+---
+time 1483657490
+old [description:"contacter Caroline et cie" due:"1484456400" end:"1480607472" entry:"1480110784" modified:"1482250243" project:"mémoire" status:"completed" uuid:"30d441c5-9f01-46c6-9de4-aa3e8fc0c9e1"]
+new [description:"contacter Caroline et cie" due:"1484456400" end:"1480607472" entry:"1480110784" modified:"1483657490" project:"memoire" status:"completed" uuid:"30d441c5-9f01-46c6-9de4-aa3e8fc0c9e1"]
+---
+time 1483657490
+old [description:"Payer mes frais de scolarité" due:"1484456400" end:"1480607486" entry:"1480111000" modified:"1482250243" project:"mémoire" status:"completed" uuid:"9bbee255-4bea-4ee6-a1d6-a697841db6c9"]
+new [description:"Payer mes frais de scolarité" due:"1484456400" end:"1480607486" entry:"1480111000" modified:"1483657490" project:"memoire" status:"completed" uuid:"9bbee255-4bea-4ee6-a1d6-a697841db6c9"]
+---
+time 1483657490
+old [depends:"7a67b99b-5170-4906-901d-4601d15c5b41" description:"faire les todos du chapitre 2" due:"1484456400" end:"1480607445" entry:"1480360776" modified:"1482250243" project:"mémoire" status:"completed" tags:"rédaction" uuid:"8720eca6-0a7a-44f3-ba27-e0cc1516cf57"]
+new [depends:"7a67b99b-5170-4906-901d-4601d15c5b41" description:"faire les todos du chapitre 2" due:"1484456400" end:"1480607445" entry:"1480360776" modified:"1483657490" project:"memoire" status:"completed" tags:"rédaction" uuid:"8720eca6-0a7a-44f3-ba27-e0cc1516cf57"]
+---
+time 1483657490
+old [description:"nommer les figures correctement" due:"1484456400" end:"1480607434" entry:"1480359456" modified:"1482250243" project:"mémoire" status:"completed" tags:"shallow,rédaction" uuid:"2d8e571e-5fa5-463d-8693-bf1b31b91b00"]
+new [description:"nommer les figures correctement" due:"1484456400" end:"1480607434" entry:"1480359456" modified:"1483657490" project:"memoire" status:"completed" tags:"shallow,rédaction" uuid:"2d8e571e-5fa5-463d-8693-bf1b31b91b00"]
+---
+time 1483657490
+old [description:"faire les todos du chapitre 1" due:"1484456400" end:"1480362143" entry:"1480360875" modified:"1482250243" project:"mémoire" status:"completed" tags:"rédaction" uuid:"062e4b2f-5f44-4f55-a721-8b7503229586"]
+new [description:"faire les todos du chapitre 1" due:"1484456400" end:"1480362143" entry:"1480360875" modified:"1483657490" project:"memoire" status:"completed" tags:"rédaction" uuid:"062e4b2f-5f44-4f55-a721-8b7503229586"]
+---
+time 1483657490
+old [description:"terminer les todo" due:"1484456400" end:"1480346285" entry:"1480110653" modified:"1482250243" project:"mémoire" status:"completed" tags:"rédaction" uuid:"3090c449-ac01-46ec-9e3f-8d3c8f176d88"]
+new [description:"terminer les todo" due:"1484456400" end:"1480346285" entry:"1480110653" modified:"1483657490" project:"memoire" status:"completed" tags:"rédaction" uuid:"3090c449-ac01-46ec-9e3f-8d3c8f176d88"]
+---
+time 1483975074
+old [description:"M'inscrire à mes séminaires" due:"1484542800" entry:"1480110947" modified:"1480345192" scheduled:"1481518800" status:"pending" tags:"doctorat" uuid:"92ef2ae1-2769-470d-bf67-259fb8ed8c83"]
+new [description:"M'inscrire à mes séminaires" due:"1484542800" end:"1483975074" entry:"1480110947" modified:"1483975074" scheduled:"1481518800" status:"completed" tags:"doctorat" uuid:"92ef2ae1-2769-470d-bf67-259fb8ed8c83"]
+---
+time 1484100131
+new [description:"trouver Le Breton, David. 2004. L’interactionnisme symbolique. Paris : PUF" due:"1487048400" entry:"1484100131" modified:"1484100131" project:"seminaireavance" status:"pending" uuid:"a998b90a-444d-4d23-ba29-b7d6e30d4307"]
+---
+time 1484101049
+new [description:"trouver Goffman, Erving. 1973. La mise en scène de la vie quotidienne. Vol 1. La présentation de soi. Paris : Les\nÉditions de Minuit." due:"1487048400" entry:"1484101049" modified:"1484101049" project:"seminaireavance" status:"pending" uuid:"ae0ca8f8-951a-4fe1-809a-bde6dc029424"]
+---
+time 1484101217
+new [description:"trouver Gagnon, John H. et William Simon. 2008 &open;1973&close;. « Les Origines sociales du développement sexuel ». In\nGagnon, J. 2008. Les Scripts de la sexualité. Essais sur les origines culturelles du désir." due:"1488862800" entry:"1484101217" modified:"1484101217" project:"seminaireavance" status:"pending" uuid:"5d67be1e-7a0b-4903-b8dc-4218e4b9c8ea"]
+---
+time 1484101298
+new [description:"trouver Montemurro, Beth. 2014. Deserving Desire : Women’s Stories of Sexual Evolution. New Brunswick, New\nJersey : Rutgers University Press." due:"1490068800" entry:"1484101298" modified:"1484101298" project:"seminaireavance" status:"pending" uuid:"39a69a43-0caf-4d91-8875-4fadb31d3f60"]
+---
+time 1484101357
+new [description:"trouver un sujet pour le projet final projet:seminaireavance" entry:"1484101357" modified:"1484101357" status:"pending" uuid:"44ce028d-56d0-4e39-a831-061ed2a11360"]
+---
+time 1484101411
+old [description:"trouver un sujet pour le projet final projet:seminaireavance" entry:"1484101357" modified:"1484101357" status:"pending" uuid:"44ce028d-56d0-4e39-a831-061ed2a11360"]
+new [description:"trouver un sujet pour le projet final projet:seminaireavance" end:"1484101409" entry:"1484101357" modified:"1484101411" status:"deleted" uuid:"44ce028d-56d0-4e39-a831-061ed2a11360"]
+---
+time 1484101430
+new [description:"trouver un sujet pour le projet final" entry:"1484101430" modified:"1484101430" project:"seminaireavance" status:"pending" uuid:"63522e43-80e2-4e29-a59e-ce48a2c1b5f0"]
+---
+time 1485920597
+new [description:"Payer le loyer" due:"1488344399" entry:"1485920597" imask:"3" modified:"1483459562" parent:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" recur:"monthly" status:"waiting" uuid:"e166ddde-5584-4014-b750-6e9f2435f17f" wait:"1487826000"]
+---
+time 1485920597
+old [description:"Payer le loyer" due:"1480568399" entry:"1480094836" mask:"++W" modified:"1483459562" recur:"monthly" status:"recurring" uuid:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" wait:"1480050000"]
+new [description:"Payer le loyer" due:"1480568399" entry:"1480094836" mask:"++WW" modified:"1485920597" recur:"monthly" status:"recurring" uuid:"c2e4ac92-df3a-443b-8ca1-7ec64e69b1ad" wait:"1480050000"]
+---
