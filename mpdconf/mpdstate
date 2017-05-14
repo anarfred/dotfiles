@@ -1,0 +1,50 @@
+sw_volume: 0
+audio_device_state:1:alsa
+audio_device_state:1:my_fifo
+state: play
+current: 4
+time: 97.500000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Hecq/Hecq [Enceladus] [2012] [FLAC] [CodeTempest]/03  Instaheat.flac
+1:Hecq/Hecq [Enceladus] [2012] [FLAC] [CodeTempest]/04  Instaheat (Remix by Mobthrow).flac
+2:Hecq - Avenger (2011) [FLAC, Web]/01. Bête Noire.flac
+3:Hecq - Avenger (2011) [FLAC, Web]/02. Elliott Calls (Interim).flac
+4:Hecq - Avenger (2011) [FLAC, Web]/05. Bane.flac
+5:Hecq - Avenger (2011) [FLAC, Web]/06. Shutter.flac
+6:Hecq - Avenger (2011) [FLAC, Web]/07. Lynn And Nicolas Call (Interim).flac
+7:Hecq - Avenger (2011) [FLAC, Web]/08. Nihilum.flac
+8:Hecq - Avenger (2011) [FLAC, Web]/09. Suture (With Matta) (feat. Matta).flac
+9:Hecq - Avenger (2011) [FLAC, Web]/10. Reprise.flac
+10:Hecq - Avenger (2011) [FLAC, Web]/11. Bane (Septic Insurgent Remix).flac
+11:Hecq - Avenger (2011) [FLAC, Web]/12. With Angels (Trifonic Remix).flac
+12:Hecq - Avenger (2011) [FLAC, Web]/13. Bane (Architect Remix).flac
+13:Hecq - Avenger (2011) [FLAC, Web]/14. Nihilum (Anxst Remix).flac
+14:Hecq - Avenger (2011) [FLAC, Web]/15. Bête Noire (Deadfader Remix).flac
+15:ISIS/[2004] Panopticon/01 - So Did We.flac
+16:ISIS/[2004] Panopticon/02 - Backlit.flac
+17:ISIS/[2004] Panopticon/03 - In Fiction.flac
+18:ISIS/[2004] Panopticon/04 - Wills Dissolve.flac
+19:ISIS/[2004] Panopticon/05 - Syndic Calls.flac
+20:ISIS/[2004] Panopticon/06 - Altered Course.flac
+21:ISIS/[2004] Panopticon/07 - Grinning Mouths.flac
+22:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/01 - Aphex Twin - Xtal.flac
+23:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/02 - Aphex Twin - Tha.flac
+24:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/03 - Aphex Twin - Pulsewidth.flac
+25:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/04 - Aphex Twin - Ageispolis.flac
+26:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/05 - Aphex Twin - I.flac
+27:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/06 - Aphex Twin - Green Calx.flac
+28:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/07 - Aphex Twin - Heliosphan.flac
+29:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/08 - Aphex Twin - We are the music makers.flac
+30:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/09 - Aphex Twin - Schottkey 7th Path.flac
+31:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/10 - Aphex Twin - Ptolemy.flac
+32:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/11 - Aphex Twin - Hedphelym.flac
+33:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/12 - Aphex Twin - Delphium.flac
+34:Aphex Twin - 1993 - Selected Ambient Works 85-92 [FLAC]/13 - Aphex Twin - Actium.flac
+playlist_end

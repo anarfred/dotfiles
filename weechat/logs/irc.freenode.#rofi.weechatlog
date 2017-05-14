@@ -1,0 +1,74 @@
+2016-11-14 21:53:01	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #rofi
+2016-11-14 21:53:01	--	Topic for #rofi is "Rofi! | https://davedavenport.github.io/rofi/ | Stable version 1.2.0 | https://forum.qtools.org/"
+2016-11-14 21:53:01	--	Topic set by DaveDavenport (~qball@unaffiliated/qball) on ven, 11 nov 2016 02:13:25
+2016-11-14 21:53:01	--	Channel #rofi: 34 nicks (1 op, 0 voices, 33 normals)
+2016-11-14 21:53:03	--	Channel created on lun, 06 jun 2016 12:26:08
+2016-11-14 21:56:43	bgdnvst	Hi everybody. I'm using rofi with some scripts, like rofi-surfraw and buku_run. These two script send their results on chromium, but if I use surfraw or buku in urxvt, it uses xdg-open which open a new tab qutebrowser. As I want to use qutebrowser as my main browser, how could I tell rofi to use xdg-open? Thanks!
+2016-11-14 22:39:32	--	irc: disconnected from server
+2016-11-14 22:39:50	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #rofi
+2016-11-14 22:39:50	--	Topic for #rofi is "Rofi! | https://davedavenport.github.io/rofi/ | Stable version 1.2.0 | https://forum.qtools.org/"
+2016-11-14 22:39:50	--	Topic set by DaveDavenport (~qball@unaffiliated/qball) on ven, 11 nov 2016 02:13:25
+2016-11-14 22:39:50	--	Channel #rofi: 34 nicks (1 op, 0 voices, 33 normals)
+2016-11-14 22:39:52	--	Channel created on lun, 06 jun 2016 12:26:08
+2016-11-14 22:52:47	<--	mrbanie (~mrbanie@unaffiliated/mrbanie) has quit (Ping timeout: 244 seconds)
+2016-11-14 22:54:32	-->	mrbanie (~mrbanie@unaffiliated/mrbanie) has joined #rofi
+2016-11-14 23:23:16	<--	tonyctl (~Thunderbi@c-73-82-42-178.hsd1.ga.comcast.net) has quit (Remote host closed the connection)
+2016-11-15 00:16:22		[bgdnvst away: sleeping]
+2016-11-15 10:07:36	--	irc: disconnected from server
+2016-11-15 10:07:55		[bgdnvst away: sleeping]
+2016-11-15 10:08:01	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #rofi
+2016-11-15 10:08:01	--	Topic for #rofi is "Rofi! | https://davedavenport.github.io/rofi/ | Stable version 1.2.0 | https://forum.qtools.org/"
+2016-11-15 10:08:01	--	Topic set by DaveDavenport (~qball@unaffiliated/qball) on ven, 11 nov 2016 02:13:25
+2016-11-15 10:08:01	--	Channel #rofi: 31 nicks (1 op, 0 voices, 30 normals)
+2016-11-15 10:08:05	--	Channel created on lun, 06 jun 2016 12:26:08
+2016-11-15 10:11:28		[bgdnvst back: gone 00:03:27]
+2016-11-15 11:30:22	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #rofi
+2016-11-15 11:30:22	--	Topic for #rofi is "Rofi! | https://davedavenport.github.io/rofi/ | Stable version 1.2.0 | https://forum.qtools.org/"
+2016-11-15 11:30:22	--	Topic set by DaveDavenport (~qball@unaffiliated/qball) on ven, 11 nov 2016 02:13:25
+2016-11-15 11:30:22	--	Channel #rofi: 32 nicks (1 op, 0 voices, 31 normals)
+2016-11-15 11:30:24	--	Channel created on lun, 06 jun 2016 12:26:08
+2016-11-15 12:10:21	-->	Alam_Squeeze (alam@rigginstereo.lawarias.srb2.org) has joined #rofi
+2016-11-15 12:47:10	<--	Coacher (~Coacher@unaffiliated/coacher) has quit (Quit: Konversation terminated!)
+2016-11-15 13:13:20	<--	Alam_Squeeze (alam@rigginstereo.lawarias.srb2.org) has quit (Ping timeout: 258 seconds)
+2016-11-15 14:11:15	--	irc: disconnected from server
+2016-11-15 14:11:42	-->	bgdnvst (~nrfrd@modemcable075.101-20-96.mc.videotron.ca) has joined #rofi
+2016-11-15 14:11:42	--	Topic for #rofi is "Rofi! | https://davedavenport.github.io/rofi/ | Stable version 1.2.0 | https://forum.qtools.org/"
+2016-11-15 14:11:42	--	Topic set by DaveDavenport (~qball@unaffiliated/qball) on ven, 11 nov 2016 02:13:25
+2016-11-15 14:11:42	--	Channel #rofi: 31 nicks (1 op, 0 voices, 30 normals)
+2016-11-15 14:11:42	--	Channel created on lun, 06 jun 2016 12:26:08
+2016-11-15 15:43:37	DaveDavenport	ydwoh
+2016-11-15 15:56:36	-->	rofi-github-bot (~rofi-gith@192.30.252.34) has joined #rofi
+2016-11-15 15:56:36	rofi-github-bot	[rofi] DaveDavenport pushed 1 new commit to master: https://git.io/vXDLZ
+2016-11-15 15:56:36	rofi-github-bot	rofi/master b1a44cc Dave Davenport: Update code documentation
+2016-11-15 15:56:36	<--	rofi-github-bot (~rofi-gith@192.30.252.34) has left #rofi
+2016-11-15 16:03:15	-->	rofi-github-bot (~rofi-gith@192.30.252.42) has joined #rofi
+2016-11-15 16:03:15	rofi-github-bot	[rofi] DaveDavenport pushed 1 new commit to master: https://git.io/vXDtK
+2016-11-15 16:03:15	rofi-github-bot	rofi/master d6756b6 Dave Davenport: Add extra check to travis.
+2016-11-15 16:03:15	<--	rofi-github-bot (~rofi-gith@192.30.252.42) has left #rofi
+2016-11-15 16:09:14	-->	nezylop (~poly@unaffiliated/polyzen) has joined #rofi
+2016-11-15 16:09:18	nezylop	/
+2016-11-15 16:09:32	nezylop	o/ is it possible to include other files from your rofi config?
+2016-11-15 16:09:42	DaveDavenport	since 1.2 yes
+2016-11-15 16:09:56	DaveDavenport	#include "file"
+2016-11-15 16:10:05	nezylop	hm..
+2016-11-15 16:10:42	DaveDavenport	hmm?
+2016-11-15 16:10:47	nezylop	woops ;p thank you, DaveDavenport
+2016-11-15 16:11:05	nezylop	moved the file and forgot to reflect that in the include :p
+2016-11-15 16:11:27	DaveDavenport	yeah I don't think xcb-xrm-util throws an error.
+2016-11-15 16:11:30	DaveDavenport	need to check
+2016-11-15 16:12:25	nezylop	don't see an error
+2016-11-15 16:12:41	nezylop	rofi is great, btw :). wish I had switched to it sooner
+2016-11-15 16:13:35	-->	rofi-github-bot (~rofi-gith@192.30.252.34) has joined #rofi
+2016-11-15 16:13:35	rofi-github-bot	[rofi] DaveDavenport pushed 1 new commit to master: https://git.io/vXDmZ
+2016-11-15 16:13:35	rofi-github-bot	rofi/master 89ac2ea Dave Davenport: Make travis output more verbose.
+2016-11-15 16:13:35	<--	rofi-github-bot (~rofi-gith@192.30.252.34) has left #rofi
+2016-11-15 16:13:44	DaveDavenport	its ok..  thinks like clerk, teiler and rofi-pass make it great :D
+2016-11-15 16:14:56	nezylop	heheh
+2016-11-15 16:14:57	DaveDavenport	bbl.
+2016-11-15 16:15:28	nezylop	there's a dpass script that I've switched to using rofi instead of dmenu, so far
+2016-11-15 16:15:38	nezylop	looked at rofi-pass and autopass, though
+2016-11-15 16:59:53	DaveDavenport	back
+2016-11-15 17:05:59	-->	rofi-github-bot (~rofi-gith@192.30.252.42) has joined #rofi
+2016-11-15 17:05:59	rofi-github-bot	[rofi] DaveDavenport pushed 1 new commit to master: https://git.io/vXDWT
+2016-11-15 17:05:59	rofi-github-bot	rofi/master 34cf7c6 Dave Davenport:  Remove unsupported tag from doxy file.
+2016-11-15 17:05:59	<--	rofi-github-bot (~rofi-gith@192.30.252.42) has left #rofi

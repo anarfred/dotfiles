@@ -1,0 +1,60 @@
+2015-02-06 12:52:17	-->	nrfrd (~nrfrd@modemcable102.125-200-24.mc.videotron.ca) has joined #fish
+2015-02-06 12:52:17	--	Topic for #fish is "fish - The Friendly Interactive SHell | Newest version: 2.1.1 | Finally, a command line shell for the 90s | http://fishshell.com | https://irc-fish.herokuapp.com/"
+2015-02-06 12:52:17	--	Topic set by xfix (~xfix@2606:df00:2::f512:8cfa) on Wed, 01 Oct 2014 13:13:41
+2015-02-06 12:52:17	--	Channel #fish: 54 nicks (0 ops, 0 voices, 54 normals)
+2015-02-06 12:52:19	--	Channel created on Sun, 26 Sep 2010 21:28:40
+2015-02-06 12:52:27	Riviera	I just tested it, and indeed, vim's system() started my login shell; which in your case would be fish and likely fail when the script and vim itself (via shellescape, shellquote and whatnot) expect a POSIX shell.
+2015-02-06 12:53:30	Riviera	so yeah, the easiest way would be teaching vim to use /bin/sh instead or so, maybe :help system() or #vim know how to. :)
+2015-02-06 12:54:16	companion_cube	I'm afraid many other tools will use the system shell :/
+2015-02-06 12:55:31	etu	AFAIK, its mostly vim that cause troubles
+2015-02-06 12:56:10	etu	and you can put some shell config in the vim config to make it run bash
+2015-02-06 13:05:17	nrfrd	Hi, I've got a problem after installing oh-my-fish and trying to use one of the promt coming with it. After changing the prompt in .config/fish/config.fish, I was stuck with an error message when reopeing a term saying "tried to print invalid character". After trying to change prompt theme and commenting the line unsucessfuly, I just decided to remove oh-my-fish and go back to default
+2015-02-06 13:05:17	nrfrd	configuration. But now, when I try to reconfigure my prompt using the command fish_config prompt, I get a " The request received an error. Perhaps the server has shut down." error, even after deleting .config/fish folder and reinstalling fish. Anybody knows what's the issue here? Thanks!
+2015-02-06 13:06:13	nrfrd	I still can change any option in the html config page, except the prompt.
+2015-02-06 13:33:45	-->	krobelus_ (~u@212-197-188-209.adsl.highway.telekom.at) has joined #fish
+2015-02-06 13:34:30	-->	tgt (~tgt@97e5aa5f.skybroadband.com) has joined #fish
+2015-02-06 13:35:31	<--	krobelus (~u@188-22-120-23.adsl.highway.telekom.at) has quit (Ping timeout: 480 seconds)
+2015-02-06 13:48:45	-->	zzamboni (~Adium@64.245.0.36) has joined #fish
+2015-02-06 13:51:57	-->	bronsen (housetier@shell.c-base.org) has joined #fish
+2015-02-06 14:01:54	<--	zzamboni (~Adium@64.245.0.36) has quit (Quit: Leaving.)
+2015-02-06 14:11:07	-->	Xethron (~Xethron@197.108.57.126) has joined #fish
+2015-02-06 14:15:16	<--	marrusl (~mark@cpe-24-90-46-248.nyc.res.rr.com) has quit (Quit: sync && halt)
+2015-02-06 14:24:19	-->	Xethron_ (~Xethron@197.108.57.126) has joined #fish
+2015-02-06 14:25:51	<--	martinklepsch (~textual@95.91.240.88) has quit (Quit: My MacBook has gone to sleep. ZZZzzz?)
+2015-02-06 14:26:46	-->	martinklepsch (~textual@95.91.240.88) has joined #fish
+2015-02-06 14:27:25	<--	Xethron (~Xethron@197.108.57.126) has quit (Ping timeout: 480 seconds)
+2015-02-06 14:37:06	<--	Xethron_ (~Xethron@197.108.57.126) has quit (Ping timeout: 480 seconds)
+2015-02-06 14:40:46	<--	koo5 (~sirdancea@236.152.broadband3.iol.cz) has quit (Remote host closed the connection)
+2015-02-06 14:45:10	-->	mklappstuhl (~textual@tsn109-201-154-159.dyn.nltelcom.net) has joined #fish
+2015-02-06 14:47:05	<--	martinklepsch (~textual@95.91.240.88) has quit (Ping timeout: 480 seconds)
+2015-02-06 14:48:17	<--	xcombelle (~xcombelle@AToulouse-657-1-1039-72.w109-222.abo.wanadoo.fr) has quit (Remote host closed the connection)
+2015-02-06 14:52:05	-->	martinklepsch (~textual@95.91.240.88) has joined #fish
+2015-02-06 14:53:15	<--	mklappstuhl (~textual@tsn109-201-154-159.dyn.nltelcom.net) has quit (Ping timeout: 480 seconds)
+2015-02-06 15:09:10	<--	michaelrose (~mike@75-172-1-177.tukw.qwest.net) has quit (Ping timeout: 480 seconds)
+2015-02-06 15:12:04	-->	marrusl (~mark@cpe-24-90-46-248.nyc.res.rr.com) has joined #fish
+2015-02-06 15:24:15	-->	michaelrose (~mike@174-31-128-53.tukw.qwest.net) has joined #fish
+2015-02-06 15:26:29	-->	mikerose357 (~mike@50.23.131.245) has joined #fish
+2015-02-06 15:27:19	enn_	I have a function which I want to source a file and set the resulting variables in the calling environment. But it seems like right now sourcing it from the function just sets it for the function itself, and after the function exits, the variables are no longer set. Is there a way to do what I want?
+2015-02-06 15:28:20	--	enn_ is now known as enn
+2015-02-06 15:32:20	<--	michaelrose (~mike@174-31-128-53.tukw.qwest.net) has quit (Ping timeout: 480 seconds)
+2015-02-06 15:44:05	-->	Xethron (~Xethron@197.108.57.126) has joined #fish
+2015-02-06 16:32:51	<--	Xethron (~Xethron@197.108.57.126) has quit (Ping timeout: 480 seconds)
+2015-02-06 16:59:48	<--	mikerose357 (~mike@50.23.131.245) has quit (Remote host closed the connection)
+2015-02-06 17:09:41	-->	koo5 (~sirdancea@236.152.broadband3.iol.cz) has joined #fish
+2015-02-06 17:09:54	-->	zzamboni (~Adium@189.177.25.92) has joined #fish
+2015-02-06 17:10:12	<--	zzamboni (~Adium@189.177.25.92) has quit (Remote host closed the connection)
+2015-02-06 18:09:31	Zanchey	enn: you need to change the scope you are setting the variable in; try set -g or see the set docs
+2015-02-06 18:30:12	enn	Zanchey: thank you
+2015-02-06 18:44:09	<--	shum (~sdothum@207.112.100.227) has quit (Quit: WeeChat 1.1.1)
+2015-02-06 18:44:24	-->	shum (~sdothum@207.112.100.227) has joined #fish
+2015-02-06 18:52:26	<--	tgt (~tgt@97e5aa5f.skybroadband.com) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2015-02-06 19:37:58	<--	Obfuscate (~keii@ip98-176-30-94.sd.sd.cox.net) has quit (Quit: Upgrade?)
+2015-02-06 19:46:15	-->	Obfuscate (~keii@ip98-176-30-94.sd.sd.cox.net) has joined #fish
+2015-02-06 19:59:39	<--	martinklepsch (~textual@95.91.240.88) has quit (Quit: My MacBook has gone to sleep. ZZZzzz?)
+2015-02-06 21:04:40	-->	fmoralesc (~fmoralesc@186-78-209-142.baf.movistar.cl) has joined #fish
+2015-02-06 21:04:58	<--	shum (~sdothum@207.112.100.227) has quit (Quit: WeeChat 1.1.1)
+2015-02-06 21:05:25	-->	shum (~sdothum@207.112.100.227) has joined #fish
+2015-02-06 21:46:47	<--	zanes (sid24121@id-24121.charlton.irccloud.com) has quit (Remote host closed the connection)
+2015-02-06 21:56:31	<--	shum (~sdothum@207.112.100.227) has quit (Quit: WeeChat 1.1.1)
+2015-02-06 21:57:15	-->	shum (~sdothum@207.112.100.227) has joined #fish
+2015-02-06 22:14:57	--	irc: disconnected from server

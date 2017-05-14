@@ -1,0 +1,1317 @@
+2015-02-06 12:48:40	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-02-06 12:48:40	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-02-06 12:48:40		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-02-06 12:49:57		[core]
+2015-02-06 12:49:57		  away     command  filter   key      plugin   reload   set      version
+2015-02-06 12:49:57		  bar      cursor   help     layout   print    repeat   unset    wait   
+2015-02-06 12:49:57		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2015-02-06 12:49:57		  color    eval     input    mute     quit     secure   uptime 
+2015-02-06 12:49:57		[perl]
+2015-02-06 12:49:57		  perl
+2015-02-06 12:49:57		[relay]
+2015-02-06 12:49:57		  relay
+2015-02-06 12:49:57		[ruby]
+2015-02-06 12:49:57		  ruby
+2015-02-06 12:49:57		[lua]
+2015-02-06 12:49:57		  lua
+2015-02-06 12:49:57		[logger]
+2015-02-06 12:49:57		  logger
+2015-02-06 12:49:57		[trigger]
+2015-02-06 12:49:57		  trigger
+2015-02-06 12:49:57		[script]
+2015-02-06 12:49:57		  script
+2015-02-06 12:49:57		[python]
+2015-02-06 12:49:57		  python
+2015-02-06 12:49:57		[alias]
+2015-02-06 12:49:57		  AAWAY    BEEP     CLOSE    KB       N        T        W      
+2015-02-06 12:49:57		  alias    BYE      EXIT     LEAVE    Q        UB       WC     
+2015-02-06 12:49:57		  AME      C        IG       M        REDRAW   UMODE    WI     
+2015-02-06 12:49:57		  AMSG     CHAT     J        MSGBUF   SAY      unalias  WII    
+2015-02-06 12:49:57		  ANICK    CL       K        MUB      SIGNOFF  V        WW     
+2015-02-06 12:49:57		[charset]
+2015-02-06 12:49:57		  charset
+2015-02-06 12:49:57		[exec]
+2015-02-06 12:49:57		  exec
+2015-02-06 12:49:57		[irc]
+2015-02-06 12:49:57		  admin       disconnect  map         pong        server      users     
+2015-02-06 12:49:57		  allchan     halfop      me          query       service     version   
+2015-02-06 12:49:57		  allpv       ignore      mode        quiet       servlist    voice     
+2015-02-06 12:49:57		  allserv     info        motd        quote       squery      wallchops 
+2015-02-06 12:49:57		  ban         invite      msg         reconnect   squit       wallops   
+2015-02-06 12:49:57		  connect     ison        names       rehash      stats       who       
+2015-02-06 12:49:57		  ctcp        join        nick        remove      summon      whois     
+2015-02-06 12:49:57		  cycle       kick        notice      restart     time        whowas    
+2015-02-06 12:49:57		  dcc         kickban     notify      sajoin      topic     
+2015-02-06 12:49:57		  dehalfop    kill        op          samode      trace     
+2015-02-06 12:49:57		  deop        links       oper        sanick      unban     
+2015-02-06 12:49:57		  devoice     list        part        sapart      unquiet   
+2015-02-06 12:49:57		  die         lusers      ping        saquit      userhost  
+2015-02-06 12:49:57		[aspell]
+2015-02-06 12:49:57		  aspell
+2015-02-06 12:49:57		[guile]
+2015-02-06 12:49:57		  guile
+2015-02-06 12:49:57		[xfer]
+2015-02-06 12:49:57		  me  xfer
+2015-02-06 12:51:33		irc: server oftc created
+2015-02-06 13:26:07		irc: server undernet created
+2015-02-06 22:14:57		fifo: pipe closed
+2015-02-06 23:56:30	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-02-06 23:56:30	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-02-06 23:56:30		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-02-06 23:57:39		fifo: pipe closed
+2015-02-08 12:29:40	=!=	Erreur : impossible de charger l'extension "/usr/lib/weechat/plugins/tcl.so" : libtcl8.6.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2015-02-08 12:29:40	=!=	Si vous essayez de charger un script et non une extension C, essayez la commande pour charger les scripts (/perl, /python, ...)
+2015-02-08 12:29:41		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-02-08 22:09:15		fifo : tube fermé
+2015-02-20 17:36:59	=!=	Erreur : impossible de charger l'extension "/usr/lib/weechat/plugins/tcl.so" : libtcl8.6.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2015-02-20 17:36:59	=!=	Si vous essayez de charger un script et non une extension C, essayez la commande pour charger les scripts (/perl, /python, ...)
+2015-02-20 17:36:59		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-02-20 17:37:10	=!=	Vous ne pouvez pas écrire de texte dans ce tampon
+2015-02-24 11:19:54		fifo : suppression du vieux tube "/home/nrfrd/.weechat/weechat_fifo_2600"
+2015-02-24 11:19:54	=!=	Erreur : impossible de charger l'extension "/usr/lib/weechat/plugins/tcl.so" : libtcl8.6.so: Ne peut ouvrir le fichier d'objet partagé: Aucun fichier ou dossier de ce type
+2015-02-24 11:19:54	=!=	Si vous essayez de charger un script et non une extension C, essayez la commande pour charger les scripts (/perl, /python, ...)
+2015-02-24 11:19:54		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-02-24 11:20:26	=!=	Vous ne pouvez pas écrire de texte dans ce tampon
+2015-02-24 11:20:31		irc : serveur abk créé
+2015-02-24 11:20:38	=!=	Vous ne pouvez pas écrire de texte dans ce tampon
+2015-02-24 11:55:31		fifo : tube fermé
+2016-08-22 15:29:34	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 83: unknown option for section "network": alternate_nick = on
+2016-08-22 15:29:34	=!=	Warning: /home/nrfrd/.weechat/script.conf, line 46: unknown option for section "scripts": dir = "%h/script"
+2016-08-22 15:29:34		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-08-22 15:30:13	=!=	irc: unable to add temporary server "Chicago.IL.US.Undernet.org" because the addition of temporary servers with command /connect is currently disabled
+2016-08-22 15:30:13	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-08-22 15:30:35	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2016-08-22 15:30:40	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2016-08-22 15:30:44		[irc]  /server  list|listfull [<server>]
+2016-08-22 15:30:44		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-08-22 15:30:44		                copy|rename <server> <new_name>
+2016-08-22 15:30:44		                reorder <server> [<server>...]
+2016-08-22 15:30:44		                del|keep <server>
+2016-08-22 15:30:44		                deloutq|jump|raw
+2016-08-22 15:30:44		list, add or remove IRC servers
+2016-08-22 15:30:44		    list: list servers (without argument, this list is displayed)
+2016-08-22 15:30:44		listfull: list servers with detailed info for each server
+2016-08-22 15:30:44		     add: add a new server
+2016-08-22 15:30:44		  server: server name, for internal and display use
+2016-08-22 15:30:44		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-08-22 15:30:44		    temp: add a temporary server (not saved)
+2016-08-22 15:30:44		  option: set option for server (for boolean option, value can be omitted)
+2016-08-22 15:30:44		nooption: set boolean option to 'off' (for example: -nossl)
+2016-08-22 15:30:44		    copy: duplicate a server
+2016-08-22 15:30:44		  rename: rename a server
+2016-08-22 15:30:44		 reorder: reorder list of servers
+2016-08-22 15:30:44		    keep: keep server in config file (for temporary servers only)
+2016-08-22 15:30:44		     del: delete a server
+2016-08-22 15:30:44		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-08-22 15:30:44		    jump: jump to server buffer
+2016-08-22 15:30:44		     raw: open buffer with raw IRC data
+2016-08-22 15:30:44		Examples:
+2016-08-22 15:30:44		  /server listfull
+2016-08-22 15:30:44		  /server add freenode chat.freenode.net
+2016-08-22 15:30:44		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-08-22 15:30:44		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-08-22 15:30:44		  /server copy freenode freenode-test
+2016-08-22 15:30:44		  /server rename freenode-test freenode2
+2016-08-22 15:30:44		  /server reorder freenode2 freenode
+2016-08-22 15:30:44		  /server del freenode
+2016-08-22 15:30:44		  /server deloutq
+2016-08-22 15:30:52	=!=	irc: server "undernet" already exists, can't add it!
+2016-08-22 15:34:36		fifo: pipe closed
+2016-11-07 16:17:38	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 30 : option inconnue pour la section "look" : item_away_message = on
+2016-11-07 16:17:38	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 39 : option inconnue pour la section "look" : nick_color_force = ""
+2016-11-07 16:17:38	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 40 : option inconnue pour la section "look" : nick_color_hash = sum
+2016-11-07 16:17:38	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 41 : option inconnue pour la section "look" : nick_color_stop_chars = "_|["
+2016-11-07 16:17:38	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 68 : option inconnue pour la section "color" : item_away = yellow
+2016-11-07 16:17:38		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-11-07 16:20:37	=!=	irc : la commande "nick" doit être exécutée sur un tampon irc (serveur ou canal)
+2016-11-07 16:21:47	=!=	irc : impossible d'ajouter le serveur temporaire "indymedia" car l'ajout de serveurs temporaires avec la commande /connect est actuellement désactivée
+2016-11-07 16:21:47	=!=	irc : si vous voulez ajouter un serveur standard, utilisez la commande "/server add" (voir /help server); si vous voulez vraiment ajouter un serveur temporaire (NON SAUVÉ), activez l'option irc.look.temporary_servers
+2016-11-07 16:21:47	=!=	irc : impossible d'ajouter le serveur temporaire "irc.indymedia.org/6697" car l'ajout de serveurs temporaires avec la commande /connect est actuellement désactivée
+2016-11-07 16:21:47	=!=	irc : si vous voulez ajouter un serveur standard, utilisez la commande "/server add" (voir /help server); si vous voulez vraiment ajouter un serveur temporaire (NON SAUVÉ), activez l'option irc.look.temporary_servers
+2016-11-07 16:21:59		irc : serveur indymedia ajouté
+2016-11-07 16:26:37		Option modifiée : irc.server.indymedia.ssl = on  (défaut si nul : off)
+2016-11-07 16:27:12		Option modifiée : irc.server.indymedia.sasl_username = "frdrcv"  (défaut si nul : "")
+2016-11-07 16:28:36		Option modifiée : irc.server.indymedia.ssl_priorities = "NORMAL:-VERS-TLS-ALL:+VERS-TLS1.0:+VERS-SSL3.0:%COMPAT"  (défaut si nul : "NORMAL:-VERS-SSL3.0")
+2016-11-07 16:30:27		Option modifiée : irc.server.indymedia.nicks = "{frdrcv}"  (défaut si nul : "nrfrd,nrfrd1,nrfrd2,nrfrd3,nrfrd4")
+2016-11-07 16:32:22		Option modifiée : weechat.network.gnutls_ca_file = "/etc/ssl/certs/ca-certificates.crt"  (défaut : "/etc/pki/tls/certs/ca-bundle.crt")
+2016-11-07 16:33:18		[core]
+2016-11-07 16:33:18		  away     buffer   command  debug    filter   history  key      mouse    plugin   proxy    reload   save     set      upgrade  version  window 
+2016-11-07 16:33:18		  bar      color    cursor   eval     help     input    layout   mute     print    quit     repeat   secure   unset    uptime   wait   
+2016-11-07 16:33:18		[logger]
+2016-11-07 16:33:18		  logger
+2016-11-07 16:33:18		[guile]
+2016-11-07 16:33:18		  guile
+2016-11-07 16:33:18		[xfer]
+2016-11-07 16:33:18		  me  xfer
+2016-11-07 16:33:18		[charset]
+2016-11-07 16:33:18		  charset
+2016-11-07 16:33:18		[javascript]
+2016-11-07 16:33:18		  javascript
+2016-11-07 16:33:18		[tcl]
+2016-11-07 16:33:18		  tcl
+2016-11-07 16:33:18		[aspell]
+2016-11-07 16:33:18		  aspell
+2016-11-07 16:33:18		[trigger]
+2016-11-07 16:33:18		  trigger
+2016-11-07 16:33:18		[python]
+2016-11-07 16:33:18		  python
+2016-11-07 16:33:18		[irc]
+2016-11-07 16:33:18		  admin       connect     devoice     invite      links       motd        op          quiet       sajoin      service     time        users       whois     
+2016-11-07 16:33:18		  allchan     ctcp        die         ison        list        msg         oper        quote       samode      servlist    topic       version     whowas    
+2016-11-07 16:33:18		  allpv       cycle       disconnect  join        lusers      names       part        reconnect   sanick      squery      trace       voice     
+2016-11-07 16:33:18		  allserv     dcc         halfop      kick        map         nick        ping        rehash      sapart      squit       unban       wallchops 
+2016-11-07 16:33:18		  ban         dehalfop    ignore      kickban     me          notice      pong        remove      saquit      stats       unquiet     wallops   
+2016-11-07 16:33:18		  cap         deop        info        kill        mode        notify      query       restart     server      summon      userhost    who       
+2016-11-07 16:33:18		[fifo]
+2016-11-07 16:33:18		  fifo
+2016-11-07 16:33:18		[ruby]
+2016-11-07 16:33:18		  ruby
+2016-11-07 16:33:18		[exec]
+2016-11-07 16:33:18		  exec
+2016-11-07 16:33:18		[script]
+2016-11-07 16:33:18		  script
+2016-11-07 16:33:18		[perl]
+2016-11-07 16:33:18		  perl
+2016-11-07 16:33:18		[lua]
+2016-11-07 16:33:18		  lua
+2016-11-07 16:33:18		[alias]
+2016-11-07 16:33:18		  AAWAY    AME      ANICK    BYE      CHAT     CLOSE    IG       K        LEAVE    MSGBUF   N        REDRAW   SIGNOFF  UB       V        WC       WII    
+2016-11-07 16:33:18		  alias    AMSG     BEEP     C        CL       EXIT     J        KB       M        MUB      Q        SAY      T        UMODE    W        WI       WW     
+2016-11-07 16:33:18		[relay]
+2016-11-07 16:33:18		  relay
+2016-11-07 16:33:23	=!=	Pas d'aide disponible, "weechat" n'est pas une commande ou une option
+2016-11-07 16:36:27		fifo : tube fermé
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 118: unknown option for section "server_default": default_msg_kick = ""
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 119: unknown option for section "server_default": default_msg_part = "WeeChat %v"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 120: unknown option for section "server_default": default_msg_quit = "WeeChat %v"
+2016-11-14 15:58:55	=!=	irc: error creating server option "freenode.default_msg_kick"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 179: invalid value for option: freenode.default_msg_kick
+2016-11-14 15:58:55	=!=	irc: error creating server option "freenode.default_msg_part"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 180: invalid value for option: freenode.default_msg_part
+2016-11-14 15:58:55	=!=	irc: error creating server option "freenode.default_msg_quit"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 181: invalid value for option: freenode.default_msg_quit
+2016-11-14 15:58:55	=!=	irc: error creating server option "oftc.default_msg_kick"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 218: invalid value for option: oftc.default_msg_kick
+2016-11-14 15:58:55	=!=	irc: error creating server option "oftc.default_msg_part"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 219: invalid value for option: oftc.default_msg_part
+2016-11-14 15:58:55	=!=	irc: error creating server option "oftc.default_msg_quit"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 220: invalid value for option: oftc.default_msg_quit
+2016-11-14 15:58:55	=!=	irc: error creating server option "undernet.default_msg_kick"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 257: invalid value for option: undernet.default_msg_kick
+2016-11-14 15:58:55	=!=	irc: error creating server option "undernet.default_msg_part"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 258: invalid value for option: undernet.default_msg_part
+2016-11-14 15:58:55	=!=	irc: error creating server option "undernet.default_msg_quit"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 259: invalid value for option: undernet.default_msg_quit
+2016-11-14 15:58:55	=!=	irc: error creating server option "abk.default_msg_kick"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 296: invalid value for option: abk.default_msg_kick
+2016-11-14 15:58:55	=!=	irc: error creating server option "abk.default_msg_part"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 297: invalid value for option: abk.default_msg_part
+2016-11-14 15:58:55	=!=	irc: error creating server option "abk.default_msg_quit"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 298: invalid value for option: abk.default_msg_quit
+2016-11-14 15:58:55	=!=	irc: error creating server option "indymedia.default_msg_kick"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 335: invalid value for option: indymedia.default_msg_kick
+2016-11-14 15:58:55	=!=	irc: error creating server option "indymedia.default_msg_part"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 336: invalid value for option: indymedia.default_msg_part
+2016-11-14 15:58:55	=!=	irc: error creating server option "indymedia.default_msg_quit"
+2016-11-14 15:58:55	=!=	Warning: /home/nrfrd/.weechat/irc.conf, line 337: invalid value for option: indymedia.default_msg_quit
+2016-11-14 15:58:55		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-11-14 16:01:00	=!=	irc: server "indymedia" already exists, can't add it!
+2016-11-14 16:01:12		[irc]  /server  list|listfull [<server>]
+2016-11-14 16:01:12		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-11-14 16:01:12		                copy|rename <server> <new_name>
+2016-11-14 16:01:12		                reorder <server> [<server>...]
+2016-11-14 16:01:12		                del|keep <server>
+2016-11-14 16:01:12		                deloutq|jump|raw
+2016-11-14 16:01:12		list, add or remove IRC servers
+2016-11-14 16:01:12		    list: list servers (without argument, this list is displayed)
+2016-11-14 16:01:12		listfull: list servers with detailed info for each server
+2016-11-14 16:01:12		     add: add a new server
+2016-11-14 16:01:12		  server: server name, for internal and display use
+2016-11-14 16:01:12		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-11-14 16:01:12		    temp: add a temporary server (not saved)
+2016-11-14 16:01:12		  option: set option for server (for boolean option, value can be omitted)
+2016-11-14 16:01:12		nooption: set boolean option to 'off' (for example: -nossl)
+2016-11-14 16:01:12		    copy: duplicate a server
+2016-11-14 16:01:12		  rename: rename a server
+2016-11-14 16:01:12		 reorder: reorder list of servers
+2016-11-14 16:01:12		    keep: keep server in config file (for temporary servers only)
+2016-11-14 16:01:12		     del: delete a server
+2016-11-14 16:01:12		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-11-14 16:01:12		    jump: jump to server buffer
+2016-11-14 16:01:12		     raw: open buffer with raw IRC data
+2016-11-14 16:01:12		Examples:
+2016-11-14 16:01:12		  /server listfull
+2016-11-14 16:01:12		  /server add freenode chat.freenode.net
+2016-11-14 16:01:12		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-11-14 16:01:12		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-11-14 16:01:12		  /server copy freenode freenode-test
+2016-11-14 16:01:12		  /server rename freenode-test freenode2
+2016-11-14 16:01:12		  /server reorder freenode2 freenode
+2016-11-14 16:01:12		  /server del freenode
+2016-11-14 16:01:12		  /server deloutq
+2016-11-14 16:01:24	=!=	Error: unknown command "/del" (type /help for help)
+2016-11-14 16:01:33		irc: server indymedia has been deleted
+2016-11-14 16:01:36		irc: server indymedia added
+2016-11-14 16:07:08	=!=	Error: unknown command "/ns" (type /help for help)
+2016-11-14 16:16:24		[core]  /buffer  list
+2016-11-14 16:16:24		                 clear [<number>|<name>|-merged|-all [<number>|<name>...]]
+2016-11-14 16:16:24		                 move <number>|-|+
+2016-11-14 16:16:24		                 swap <number1>|<name1> [<number2>|<name2>]
+2016-11-14 16:16:24		                 cycle <number>|<name> [<number>|<name>...]]
+2016-11-14 16:16:24		                 merge <number>
+2016-11-14 16:16:24		                 unmerge [<number>|-all]
+2016-11-14 16:16:24		                 hide [<number>|<name>|-all [<number>|<name>...]]
+2016-11-14 16:16:24		                 unhide [<number>|<name>|-all [<number>|<name>...]]
+2016-11-14 16:16:24		                 renumber [<number1> [<number2> [<start>]]]
+2016-11-14 16:16:24		                 close [<n1>[-<n2>]|<name>]
+2016-11-14 16:16:24		                 notify <level>
+2016-11-14 16:16:24		                 localvar
+2016-11-14 16:16:24		                 set <property> <value>
+2016-11-14 16:16:24		                 get <property>
+2016-11-14 16:16:24		                 <number>|-|+|<name>
+2016-11-14 16:16:24		manage buffers
+2016-11-14 16:16:24		    list: list buffers (without argument, this list is displayed)
+2016-11-14 16:16:24		   clear: clear buffer content (number for a buffer, -merged for merged buffers, -all for all buffers, or nothing for current buffer)
+2016-11-14 16:16:24		    move: move buffer in the list (may be relative, for example -1); "-" = move to first buffer number, "+" = move to last buffer number + 1
+2016-11-14 16:16:24		    swap: swap two buffers (swap with current buffer if only one number/name given)
+2016-11-14 16:16:24		   cycle: jump loop between a list of buffers
+2016-11-14 16:16:24		   merge: merge current buffer to another buffer (chat area will be mix of both buffers)
+2016-11-14 16:16:24		          (by default ctrl-x switches between merged buffers)
+2016-11-14 16:16:24		 unmerge: unmerge buffer from other buffers which have same number
+2016-11-14 16:16:24		    hide: hide the buffer
+2016-11-14 16:16:24		  unhide: unhide the buffer
+2016-11-14 16:16:24		renumber: renumber buffers (works only if option weechat.look.buffer_auto_renumber is off)
+2016-11-14 16:16:24		   close: close buffer (number/range or name is optional)
+2016-11-14 16:16:24		  notify: set notify level for current buffer: this level determines whether buffer will be added to hotlist or not:
+2016-11-14 16:16:24		               none: never
+2016-11-14 16:16:24		          highlight: for highlights only
+2016-11-14 16:16:24		            message: for messages from users + highlights
+2016-11-14 16:16:24		                all: all messages
+2016-11-14 16:16:24		              reset: reset to default value (all)
+2016-11-14 16:16:24		localvar: display local variables for current buffer
+2016-11-14 16:16:24		     set: set a property for current buffer
+2016-11-14 16:16:24		     get: display a property of current buffer
+2016-11-14 16:16:24		  number: jump to buffer by number, possible prefix:
+2016-11-14 16:16:24		          '+': relative jump, add number to current
+2016-11-14 16:16:24		          '-': relative jump, sub number to current
+2016-11-14 16:16:24		          '*': jump to number, using option "weechat.look.jump_current_to_previous_buffer"
+2016-11-14 16:16:24		       -: jump to first buffer number
+2016-11-14 16:16:24		       +: jump to last buffer number
+2016-11-14 16:16:24		    name: jump to buffer by (partial) name
+2016-11-14 16:16:24		Examples:
+2016-11-14 16:16:24		  clear current buffer:
+2016-11-14 16:16:24		    /buffer clear
+2016-11-14 16:16:24		  move buffer to number 5:
+2016-11-14 16:16:24		    /buffer move 5
+2016-11-14 16:16:24		  swap buffer 1 with 3:
+2016-11-14 16:16:24		    /buffer swap 1 3
+2016-11-14 16:16:24		  swap buffer #weechat with current buffer:
+2016-11-14 16:16:24		    /buffer swap #weechat
+2016-11-14 16:16:24		  jump on #chan1, #chan2, #chan3 and loop:
+2016-11-14 16:16:24		    /buffer cycle #chan1 #chan2 #chan3
+2016-11-14 16:16:24		  merge with core buffer:
+2016-11-14 16:16:24		    /buffer merge 1
+2016-11-14 16:16:24		  unmerge buffer:
+2016-11-14 16:16:24		    /buffer unmerge
+2016-11-14 16:16:24		  close current buffer:
+2016-11-14 16:16:24		    /buffer close
+2016-11-14 16:16:24		  close buffers 5 to 7:
+2016-11-14 16:16:24		    /buffer close 5-7
+2016-11-14 16:16:24		  jump to #weechat:
+2016-11-14 16:16:24		    /buffer #weechat
+2016-11-14 16:16:24		  jump to next buffer:
+2016-11-14 16:16:24		    /buffer +1
+2016-11-14 16:16:24		  jump to last buffer number:
+2016-11-14 16:16:24		    /buffer +
+2016-11-14 16:23:49	=!=	You can not write text in this buffer
+2016-11-14 16:24:01		script: downloading list of scripts...
+2016-11-14 16:24:02		script: 328 scripts for WeeChat 1.6
+2016-11-14 16:24:02		perl: loading script "/home/nrfrd/.weechat/perl/buffers.pl"
+2016-11-14 16:24:03		perl: registered script "buffers", version 5.4 (Sidebar with list of buffers)
+2016-11-14 16:24:03		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-11-14 16:24:03		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-11-14 16:24:03		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2016-11-14 16:24:03		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2016-11-14 16:24:03		python: loading script "/home/nrfrd/.weechat/python/buffer_autoclose.py"
+2016-11-14 16:24:03		python: registered script "buffer_autoclose", version 0.4 (Automatically close inactive private message buffers)
+2016-11-14 16:24:04		perl: loading script "/home/nrfrd/.weechat/perl/iset.pl"
+2016-11-14 16:24:04		perl: registered script "iset", version 4.2 (Interactive Set for configuration options)
+2016-11-14 16:24:04		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-11-14 16:24:04		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-11-14 16:24:04		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-11-14 16:24:04		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-11-14 16:24:12		python: loading script "/home/nrfrd/.weechat/python/go.py"
+2016-11-14 16:24:12		python: registered script "go", version 2.1 (Quick jump to buffers)
+2016-11-14 16:24:13		python: loading script "/home/nrfrd/.weechat/python/colorize_nicks.py"
+2016-11-14 16:24:13		python: registered script "colorize_nicks", version 22 (Use the weechat nick colors in the chat area)
+2016-11-14 16:27:45		[python/go]  /go  [name]
+2016-11-14 16:27:45		Quick jump to buffers
+2016-11-14 16:27:45		name: directly jump to buffer by name (without argument, list is displayed)
+2016-11-14 16:27:45		You can bind command to a key, for example:
+2016-11-14 16:27:45		  /key bind meta-g /go
+2016-11-14 16:27:45		You can use completion key (commonly Tab and shift-Tab) to select next/previous buffer in list.
+2016-11-14 16:31:00	=!=	No help available, "buffer_autoclose" is not a command or an option
+2016-11-14 16:31:06	=!=	Error: unknown command "/buffer_autoclose" (type /help for help)
+2016-11-14 16:31:22		[perl/iset]  /iset  d <text>
+2016-11-14 16:31:22		                    f <file>
+2016-11-14 16:31:22		                    s <section>
+2016-11-14 16:31:22		                    [=][=]<text>
+2016-11-14 16:31:22		Interactive set
+2016-11-14 16:31:22		d <text> : show only changed options
+2016-11-14 16:31:22		f file   : show options for a file
+2016-11-14 16:31:22		s section: show options for a section
+2016-11-14 16:31:22		text     : show options with 'text' in name
+2016-11-14 16:31:22		=text    : show options with 'text' in value
+2016-11-14 16:31:22		==text   : show options with exact 'text' in value
+2016-11-14 16:31:22		Keys for iset buffer:
+2016-11-14 16:31:22		f11,f12        : move iset content left/right
+2016-11-14 16:31:22		up,down        : move one option up/down
+2016-11-14 16:31:22		pgup,pdwn      : move one page up/down
+2016-11-14 16:31:22		home,end       : move to first/last option
+2016-11-14 16:31:22		ctrl+'L'       : refresh options and screen
+2016-11-14 16:31:22		alt+space      : toggle boolean on/off
+2016-11-14 16:31:22		alt+'+'        : increase value (for integer or color)
+2016-11-14 16:31:22		alt+'-'        : decrease value (for integer or color)
+2016-11-14 16:31:22		alt+'i',alt+'r': reset value of option
+2016-11-14 16:31:22		alt+'i',alt+'u': unset option
+2016-11-14 16:31:22		alt+enter      : set new value for option (edit it with command line)
+2016-11-14 16:31:22		text,enter     : set a new filter using command line (use '*' to see all options)
+2016-11-14 16:31:22		alt+'v'        : toggle help bar on/off
+2016-11-14 16:31:22		alt+'p'        : toggle option "show_plugin_description" on/off
+2016-11-14 16:31:22		q              : as input in iset buffer to close it
+2016-11-14 16:31:22		Mouse actions:
+2016-11-14 16:31:22		wheel up/down                 : move cursor up/down
+2016-11-14 16:31:22		left button                   : select an option from list
+2016-11-14 16:31:22		right button                  : toggle boolean (on/off) or set a new value for option (edit it with command line)
+2016-11-14 16:31:22		right button + drag left/right: increase/decrease value (for integer or color)
+2016-11-14 16:31:22		Examples:
+2016-11-14 16:31:22		  show changed options in 'aspell' plugin
+2016-11-14 16:31:22		    /iset d aspell
+2016-11-14 16:31:22		  show options for file 'irc'
+2016-11-14 16:31:22		    /iset f irc
+2016-11-14 16:31:22		  show options for section 'look'
+2016-11-14 16:31:22		    /iset s look
+2016-11-14 16:31:22		  show all options with text 'nicklist' in name
+2016-11-14 16:31:22		    /iset nicklist
+2016-11-14 16:31:22		  show all values which contain 'red'. ('=' is a trigger char).
+2016-11-14 16:31:22		    /iset =red
+2016-11-14 16:31:22		  show all values which hit 'off'. ('==' is a trigger char).
+2016-11-14 16:31:22		    /iset ==off
+2016-11-14 16:31:22		  show options for file 'weechat' which contains value 'off'
+2016-11-14 16:31:22		    /iset f weechat =off
+2016-11-14 16:32:40		script: script "iset.pl" is already installed and up-to-date
+2016-11-14 16:32:41		python: loading script "/home/nrfrd/.weechat/python/histsearch.py"
+2016-11-14 16:32:41		python: registered script "histsearch", version 0.3 (Quick search in command history (think ctrl-r in bash))
+2016-11-14 16:32:41		perl: loading script "/home/nrfrd/.weechat/perl/nickregain.pl"
+2016-11-14 16:32:41		perl: registered script "nickregain", version 1.1.1 (Auto Nick Regaining)
+2016-11-14 16:32:42		python: loading script "/home/nrfrd/.weechat/python/shortenurl.py"
+2016-11-14 16:32:42		python: registered script "shortenurl", version 0.6.0 (Shorten long incoming and outgoing URLs)
+2016-11-14 16:33:52	=!=	No help available, "shortwnuel" is not a command or an option
+2016-11-14 16:34:03	=!=	No help available, "shortenurl" is not a command or an option
+2016-11-14 16:34:09	=!=	Error: unknown command "/shortenurl" (type /help for help)
+2016-11-14 16:35:22		Option created: weechat.palette.196 = "lightred"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.130 = "brown"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.208 = "orange"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.3 = "yellow"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.113 = "green"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.46 = "lightgreen"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.45 = "aqua"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.81 = "lightblue"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.135 = "purple"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.170 = "magenta"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.201 = "lightmagenta"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.39 = "cyan"  (default: "")
+2016-11-14 16:35:22		Option created: weechat.palette.51 = "lightcyan"  (default: "")
+2016-11-14 16:35:49		Option changed: weechat.bar.status.color_bg = 10  (default: blue)
+2016-11-14 16:35:49		Option changed: weechat.bar.title.color_bg = 10  (default: blue)
+2016-11-14 16:36:54		Option changed: weechat.look.prefix_same_nick = "⤷"  (default: "")
+2016-11-14 16:37:19		Notify changed for "core.weechat": "all" to "message"
+2016-11-14 16:37:19		Notify changed for "irc.server.indymedia": "all" to "message"
+2016-11-14 16:37:19		Notify changed for "irc.indymedia.just1602": "all" to "message"
+2016-11-14 16:37:19		Option changed: weechat.look.buffer_notify_default = message  (default: all)
+2016-11-14 16:37:27		Option changed: irc.look.smart_filter = on
+2016-11-14 16:41:11	=!=	You can not write text in this buffer
+2016-11-14 16:41:16	=!=	irc: command "whois" must be executed on irc buffer (server or channel)
+2016-11-14 16:44:03		buffer_autoclose: Closing buffer: indymedia.just1602
+2016-11-14 16:48:03	=!=	irc: command "list" must be executed on irc buffer (server or channel)
+2016-11-14 16:48:20		Buffers list:
+2016-11-14 16:48:20		  [1] core.weechat (notify: message)
+2016-11-14 16:48:20		  [1] irc.server.indymedia (notify: message)
+2016-11-14 16:48:34	=!=	irc: command "list" must be executed on irc buffer (server or channel)
+2016-11-14 17:00:46		Option changed: irc.server.indymedia.sasl_mechanism = ecdsa-nist256p-challenge  (default if null: plain)
+2016-11-14 17:01:19		Option changed: irc.server.indymedia.sasl_username = "bgdnvst"  (default if null: "")
+2016-11-14 17:01:58		Option changed: irc.server.indymedia.sasl_key = "%h/ecdsa.pem"  (default if null: "")
+2016-11-14 17:26:22		[irc]  /server  list|listfull [<server>]
+2016-11-14 17:26:22		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-11-14 17:26:22		                copy|rename <server> <new_name>
+2016-11-14 17:26:22		                reorder <server> [<server>...]
+2016-11-14 17:26:22		                del|keep <server>
+2016-11-14 17:26:22		                deloutq|jump|raw
+2016-11-14 17:26:22		list, add or remove IRC servers
+2016-11-14 17:26:22		    list: list servers (without argument, this list is displayed)
+2016-11-14 17:26:22		listfull: list servers with detailed info for each server
+2016-11-14 17:26:22		     add: add a new server
+2016-11-14 17:26:22		  server: server name, for internal and display use
+2016-11-14 17:26:22		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-11-14 17:26:22		    temp: add a temporary server (not saved)
+2016-11-14 17:26:22		  option: set option for server (for boolean option, value can be omitted)
+2016-11-14 17:26:22		nooption: set boolean option to 'off' (for example: -nossl)
+2016-11-14 17:26:22		    copy: duplicate a server
+2016-11-14 17:26:22		  rename: rename a server
+2016-11-14 17:26:22		 reorder: reorder list of servers
+2016-11-14 17:26:22		    keep: keep server in config file (for temporary servers only)
+2016-11-14 17:26:22		     del: delete a server
+2016-11-14 17:26:22		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-11-14 17:26:22		    jump: jump to server buffer
+2016-11-14 17:26:22		     raw: open buffer with raw IRC data
+2016-11-14 17:26:22		Examples:
+2016-11-14 17:26:22		  /server listfull
+2016-11-14 17:26:22		  /server add freenode chat.freenode.net
+2016-11-14 17:26:22		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-11-14 17:26:22		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-11-14 17:26:22		  /server copy freenode freenode-test
+2016-11-14 17:26:22		  /server rename freenode-test freenode2
+2016-11-14 17:26:22		  /server reorder freenode2 freenode
+2016-11-14 17:26:22		  /server del freenode
+2016-11-14 17:26:22		  /server deloutq
+2016-11-14 17:26:32		[core]
+2016-11-14 17:26:32		  away     buffer   command  debug    filter   history  key      mouse    plugin   proxy    reload   save     set      upgrade  version  window 
+2016-11-14 17:26:32		  bar      color    cursor   eval     help     input    layout   mute     print    quit     repeat   secure   unset    uptime   wait   
+2016-11-14 17:26:32		[trigger]
+2016-11-14 17:26:32		  trigger
+2016-11-14 17:26:32		[relay]
+2016-11-14 17:26:32		  relay
+2016-11-14 17:26:32		[perl]
+2016-11-14 17:26:32		  buffers_detach  buffers_whitelist  iset  nickregain  perl
+2016-11-14 17:26:32		[guile]
+2016-11-14 17:26:32		  guile
+2016-11-14 17:26:32		[aspell]
+2016-11-14 17:26:32		  aspell
+2016-11-14 17:26:32		[xfer]
+2016-11-14 17:26:32		  me  xfer
+2016-11-14 17:26:32		[lua]
+2016-11-14 17:26:32		  lua
+2016-11-14 17:26:32		[irc]
+2016-11-14 17:26:32		  admin       connect     devoice     invite      links       motd        op          quiet       sajoin      service     time        users       whois     
+2016-11-14 17:26:32		  allchan     ctcp        die         ison        list        msg         oper        quote       samode      servlist    topic       version     whowas    
+2016-11-14 17:26:32		  allpv       cycle       disconnect  join        lusers      names       part        reconnect   sanick      squery      trace       voice     
+2016-11-14 17:26:32		  allserv     dcc         halfop      kick        map         nick        ping        rehash      sapart      squit       unban       wallchops 
+2016-11-14 17:26:32		  ban         dehalfop    ignore      kickban     me          notice      pong        remove      saquit      stats       unquiet     wallops   
+2016-11-14 17:26:32		  cap         deop        info        kill        mode        notify      query       restart     server      summon      userhost    who       
+2016-11-14 17:26:32		[logger]
+2016-11-14 17:26:32		  logger
+2016-11-14 17:26:32		[tcl]
+2016-11-14 17:26:32		  tcl
+2016-11-14 17:26:32		[charset]
+2016-11-14 17:26:32		  charset
+2016-11-14 17:26:32		[exec]
+2016-11-14 17:26:32		  exec
+2016-11-14 17:26:32		[python]
+2016-11-14 17:26:32		  go  histsearch  python
+2016-11-14 17:26:32		[fifo]
+2016-11-14 17:26:32		  fifo
+2016-11-14 17:26:32		[alias]
+2016-11-14 17:26:32		  AAWAY    AME      ANICK    BYE      CHAT     CLOSE    IG       K        LEAVE    MSGBUF   N        REDRAW   SIGNOFF  UB       V        WC       WII    
+2016-11-14 17:26:32		  alias    AMSG     BEEP     C        CL       EXIT     J        KB       M        MUB      Q        SAY      T        UMODE    W        WI       WW     
+2016-11-14 17:26:32		[script]
+2016-11-14 17:26:32		  script
+2016-11-14 17:26:47		[irc]  /disconnect  [<server>|-all|-pending [<reason>]]
+2016-11-14 17:26:47		disconnect from one or all IRC servers
+2016-11-14 17:26:47		  server: internal server name
+2016-11-14 17:26:47		    -all: disconnect from all servers
+2016-11-14 17:26:47		-pending: cancel auto-reconnection on servers currently reconnecting
+2016-11-14 17:26:47		  reason: reason for the "quit"
+2016-11-14 17:29:27		Option changed: irc.server_default.nicks = "bgdnvst"  (default: "")
+2016-11-14 17:30:40	=!=	irc: server "freenode" already exists, can't add it!
+2016-11-14 17:30:55		irc: server freenode has been deleted
+2016-11-14 17:31:42		irc: server freenode added
+2016-11-14 21:18:00		python: loading script "/home/nrfrd/.weechat/python/weeget.py"
+2016-11-14 21:18:00		python: registered script "weeget", version 2.0 (WeeChat scripts manager)
+2016-11-14 21:18:00	=!=	WARNING: the script weeget.py is obsolete since WeeChat 0.3.9 (it is replaced by command /script)
+2016-11-14 21:18:00	=!=	To uninstall weeget.py: /weeget remove weeget.py
+2016-11-14 21:18:10		[python/weeget]  /weeget  list|listinstalled [<text>|<tag>]
+2016-11-14 21:18:10		                          show <script>
+2016-11-14 21:18:10		                          install|remove <script> [<script>...]
+2016-11-14 21:18:10		                          check|update|upgrade
+2016-11-14 21:18:10		WeeChat scripts manager
+2016-11-14 21:18:10		         list: list scripts (search text if given)
+2016-11-14 21:18:10		listinstalled: list installed scripts (search text if given)
+2016-11-14 21:18:10		         show: show detailed information about a script (in repository)
+2016-11-14 21:18:10		      install: install/upgrade script(s)
+2016-11-14 21:18:10		        check: check if local scripts needs upgrade
+2016-11-14 21:18:10		       update: update local scripts cache
+2016-11-14 21:18:10		      upgrade: upgrade all local scripts if they are obsolete
+2016-11-14 21:18:10		       remove: remove script(s)
+2016-11-14 21:18:10		Indicators in lists (first column):
+2016-11-14 21:18:10		  i  script is installed
+2016-11-14 21:18:10		  ?  unknown script
+2016-11-14 21:18:10		  r  script is running (loaded)
+2016-11-14 21:18:10		  N  script is obsolete (new version available)
+2016-11-14 21:18:10		Examples:
+2016-11-14 21:18:10		  /weeget list             => list all scripts
+2016-11-14 21:18:10		  /weeget list game        => list all scripts with text/tag "game"
+2016-11-14 21:18:10		  /weeget install beep.pl  => install script beep.pl
+2016-11-14 21:18:10		  /weeget remove beep.pl   => remove script beep.pl
+2016-11-14 21:18:19		weeget: downloading list of scripts...
+2016-11-14 21:18:19		weeget: scripts downloaded
+2016-11-14 21:18:20		Scripts installed:
+2016-11-14 21:18:20		ir  buffer_autoclose       py  Automatically close inactive private message buffers.
+2016-11-14 21:18:20		ir  buffers                pl  Sidebar with list of buffers.
+2016-11-14 21:18:20		ir  colorize_nicks         py  Use the weechat nick colors in the chat area and command line.
+2016-11-14 21:18:20		ir  go                     py  Quick jump to buffers.
+2016-11-14 21:18:20		ir  histsearch             py  Quick search in command history.
+2016-11-14 21:18:20		ir  iset                   pl  Set WeeChat and plugins options interactively.
+2016-11-14 21:18:20		ir  nickregain             pl  Automatically attempts to regain IRC primary nick.
+2016-11-14 21:18:20		ir  shortenurl             py  Shorten long urls using isgd or tinyurl.
+2016-11-14 21:18:20		ir  weeget                 py  Scripts manager.
+2016-11-14 21:24:35		fifo: pipe closed
+2016-11-14 21:24:35		python: scripts unloaded
+2016-11-14 21:25:41		perl scripts loaded: buffers, iset, nickregain
+2016-11-14 21:25:41	=!=	WARNING: the script weeget.py is obsolete since WeeChat 0.3.9 (it is replaced by command /script)
+2016-11-14 21:25:41	=!=	To uninstall weeget.py: /weeget remove weeget.py
+2016-11-14 21:25:41		python scripts loaded: buffer_autoclose, colorize_nicks, go, histsearch, shortenurl, weeget
+2016-11-14 21:25:41		script: 328 scripts for WeeChat 1.6
+2016-11-14 21:25:41		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-11-14 21:26:26		Option changed: weechat.palette.196 = "lightred"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.130 = "brown"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.208 = "orange"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.3 = "yellow"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.113 = "green"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.46 = "lightgreen"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.45 = "aqua"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.81 = "lightblue"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.135 = "purple"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.170 = "magenta"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.201 = "lightmagenta"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.39 = "cyan"  (default: "")
+2016-11-14 21:26:26		Option changed: weechat.palette.51 = "lightcyan"  (default: "")
+2016-11-14 21:28:14		Option changed: weechat.bar.status.color_bg = 10
+2016-11-14 21:28:14		Option changed: weechat.bar.title.color_bg = 10
+2016-11-14 21:28:33		fifo: pipe closed
+2016-11-14 21:28:33		python: scripts unloaded
+2016-11-14 21:28:37		perl scripts loaded: buffers, iset, nickregain
+2016-11-14 21:28:37	=!=	WARNING: the script weeget.py is obsolete since WeeChat 0.3.9 (it is replaced by command /script)
+2016-11-14 21:28:37	=!=	To uninstall weeget.py: /weeget remove weeget.py
+2016-11-14 21:28:37		python scripts loaded: buffer_autoclose, colorize_nicks, go, histsearch, shortenurl, weeget
+2016-11-14 21:28:37		script: 328 scripts for WeeChat 1.6
+2016-11-14 21:28:37		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-11-14 21:30:29		Option changed: weechat.palette.196 = "lightred"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.130 = "brown"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.208 = "orange"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.3 = "yellow"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.113 = "green"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.46 = "lightgreen"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.45 = "aqua"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.81 = "lightblue"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.135 = "purple"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.170 = "magenta"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.201 = "lightmagenta"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.39 = "cyan"  (default: "")
+2016-11-14 21:30:29		Option changed: weechat.palette.51 = "lightcyan"  (default: "")
+2016-11-14 21:33:21		Scripts for WeeChat 1.6:
+2016-11-14 21:33:21		    allquery               py  Execute command on all irc query buffers.
+2016-11-14 21:33:21		    alternatetz            py  Add an alternate timezone item.
+2016-11-14 21:33:21		    amarok2                pl  Amarok 2 control and now playing script.
+2016-11-14 21:33:21		    amqp_notify            rb  Send private messages and highlights to an AMQP exchange.
+2016-11-14 21:33:21		    announce_url_title     py  Announce URL title to user or to channel.
+2016-11-14 21:33:21		    anotify                py  Notifications of private messages, highlights, DCC send/receive and more.
+2016-11-14 21:33:21		    apply_corrections      py  Display corrected text when user sends s/typo/replacement.
+2016-11-14 21:33:21		    arespond               py  Simple autoresponder.
+2016-11-14 21:33:21		    atcomplete             pl  Tab complete nicks when prefixed with "@".
+2016-11-14 21:33:21		    audacious              pl  Display which song Audacious is currently playing.
+2016-11-14 21:33:21		    auth                   rb  Automatically authenticate with NickServ using SASL username/password.
+2016-11-14 21:33:21		    auto_away              py  A simple auto-away script.
+2016-11-14 21:33:21		    autoauth               py  Permits to auto-authenticate when changing nick.
+2016-11-14 21:33:21		    autoconnect            py  Reopen servers and channels opened last time WeeChat closed.
+2016-11-14 21:33:21		    autojoin               py  Configure autojoin for all servers according to currently joined channels.
+2016-11-14 21:33:21		    autojoin_on_invite     py  Auto joins channels when invited.
+2016-11-14 21:33:21		    autojoinem             py  Add/del channels in autojoin option.
+2016-11-14 21:33:21		    automarkbuffer         py  Mark buffers as read if there is no new message in a specific time range.
+2016-11-14 21:33:21		    automode               py  Auto op/voice users when they join IRC channel.
+2016-11-14 21:33:21		    autopong               py  Auto-reply to ping queries.
+2016-11-14 21:33:21		    autosavekey            py  Save channel key to autojoin or secured data.
+2016-11-14 21:33:21		    autosort               py  Automatically keep buffers grouped by server and sorted by name.
+2016-11-14 21:33:21		    away_action            py  Run command on highlight and privmsg when away.
+2016-11-14 21:33:21		    awaylog                pl  Log highlights/private messages when you are away.
+2016-11-14 21:33:21		    axolotl                py  Encrypt/decrypt IRC messages using axolotl ratchet and GPG.
+2016-11-14 21:33:21		    bandwidth              py  Displays network interface bandwidth on a bar.
+2016-11-14 21:33:21		    bashorg                pl  Retrieve quotes from bash.org.
+2016-11-14 21:33:21		    beat                   pl  Add a bar item with the Beat-Internet-Time.
+2016-11-14 21:33:21		    beep                   pl  Beep (terminal bell) or run command on highlight/private message.
+2016-11-14 21:33:21		    beinc                  py  On screen display notification.
+2016-11-14 21:33:21		    biditext               py  Display right-to-left text in chat with fribidi.
+2016-11-14 21:33:21		    bitlbee_completion     py  Add tab completion to bitlbee commands.
+2016-11-14 21:33:21		    bitlbee_typing_notice  py  Send notice when typing message on bitlbee, display if user is writing in a bar item.
+2016-11-14 21:33:21		    btc_ticker             py  Display Bitcoin or other crypto currency spot exchange value.
+2016-11-14 21:33:21		    buddylist              pl  A simple buddylist to show if your buddies are online/away/offline.
+2016-11-14 21:33:21		ir  buffer_autoclose       py  Automatically close inactive private message buffers.
+2016-11-14 21:33:21		    buffer_autoset         py  Auto-set buffer properties when a buffer is opened.
+2016-11-14 21:33:21		    buffer_swap            py  Swap two buffers.
+2016-11-14 21:33:21		ir  buffers                pl  Sidebar with list of buffers.
+2016-11-14 21:33:21		    buffzilla              rb  Copy everything into one buffer.
+2016-11-14 21:33:21		    bufsave                py  Save current buffer content to a file.
+2016-11-14 21:33:21		    bufsize                py  Bar item with scroll indicator and info about number of lines in buffer.
+2016-11-14 21:33:21		    challengeauth          rb  Securely authenticate with QuakeNet by using CHALLENGEAUTH.
+2016-11-14 21:33:21		    chan_hl                tcl Highlight some channels on each message.
+2016-11-14 21:33:21		    chanact                py  New hotlist, use names and keybindings instead of numbers.
+2016-11-14 21:33:21		    chancomp               py  List shared channels with user on command or WHOIS.
+2016-11-14 21:33:21		    chanmon                pl  Adds a channel monitor buffer.
+2016-11-14 21:33:21		    chanop                 py  Helper script for IRC channel operators.
+2016-11-14 21:33:21		    chanpriority           py  Set channel priority.
+2016-11-14 21:33:21		    chanstat               py  Displays channel's peak, low and average users.
+2016-11-14 21:33:21		    chatters               pl  Bar item with chatters (non idle people).
+2016-11-14 21:33:21		    clemenshow             py  Display which song clementine is currently playing.
+2016-11-14 21:33:21		    clemy                  py  Control Clementine from WeeChat.
+2016-11-14 21:33:21		    clone_scanner          py  Detect multiple nicknames from the same host on irc channels.
+2016-11-14 21:33:21		    cmd_help               py  Contextual command line help.
+2016-11-14 21:33:21		    cmdind                 pl  Command line indicator: command or text.
+2016-11-14 21:33:21		    cmus                   py  Control and now-playing script for cmus.
+2016-11-14 21:33:21		    color_popup            pl  Interpret mirc formatting codes in the command line and show a color popup when needed.
+2016-11-14 21:33:21		    colorize_lines         pl  Color the channel text with nick color.
+2016-11-14 21:33:21		ir  colorize_nicks         py  Use the weechat nick colors in the chat area and command line.
+2016-11-14 21:33:21		    colorizer              rb  Colorize parts of text in certain buffers based on rules.
+2016-11-14 21:33:21		    commorkers             pl  Analyze channels nicklists to find common lurkers.
+2016-11-14 21:33:21		    completion             py  Custom word completions.
+2016-11-14 21:33:21		    confversion            py  Save config files in a version control system.
+2016-11-14 21:33:21		    coords                 pl  Select text, nicks or URLs on screen with mouse or keyboard.
+2016-11-14 21:33:21		    correction_completion  py  Provides a completion for "s/typo/correct".
+2016-11-14 21:33:21		    countdown              rb  Display a countdown on current buffer.
+2016-11-14 21:33:21		    country                py  Print user's country and local time in whois/whowas replies.
+2016-11-14 21:33:21		    cron                   py  Time-based scheduler, like cron and at.
+2016-11-14 21:33:21		    crypt                  py  Encrypt/decrypt messages using openssl.
+2016-11-14 21:33:21		    curiousignore          pl  Remove messages from a nick and only print nick.
+2016-11-14 21:33:21		    customize_bar          py  Customize bars by buffer.
+2016-11-14 21:33:21		    dcc_antispam           py  Antispam for DCC file/chat requests.
+2016-11-14 21:33:21		    dcc_send_relay         rb  Forward DCC SEND requests to a different client.
+2016-11-14 21:33:21		    deadbeef_np            py  Display which song DeaDBeeF is currently playing.
+2016-11-14 21:33:21		    dellog                 pl  Delete log file of current buffer.
+2016-11-14 21:33:21		    dzen_notifier          pl  Notify dzen when a private message is received.
+2016-11-14 21:33:21		    echo                   pl  Print a line and additionally set activity level.
+2016-11-14 21:33:21		    emoji                  lua Translate :shortcode: to proper emoji.
+2016-11-14 21:33:21		    emoji2alias            py  Convert emoji back to their :aliases:.
+2016-11-14 21:33:21		    emoji_aliases          py  Convert emoji aliases to unicode emoji.
+2016-11-14 21:33:21		    emote                  scm Replace keywords with emoticons.
+2016-11-14 21:33:21		    expand_url             pl  Expand short URLs.
+2016-11-14 21:33:21		    fileaway               py  Set away status based on presence of a file.
+2016-11-14 21:33:21		    filter_ext             pl  Extends /filter, help against spam.
+2016-11-14 21:33:21		    fish                   py  FiSH encryption/decryption.
+2016-11-14 21:33:21		    floodit                py  Flood'it game.
+2016-11-14 21:33:21		    foo_spam               pl  Show info about current song in foobar2000.
+2016-11-14 21:33:21		    format_lines           pl  Format the output of each line.
+2016-11-14 21:33:21		    fortune                pl  Sends a random fortune cookie.
+2016-11-14 21:33:21		    fullwidth              py  Convert text to its full width equivalent and send it to buffer.
+2016-11-14 21:33:21		    gateway_rename         scm Convert usernames of gateway connections to their real names.
+2016-11-14 21:33:21		    gnome_screensaver_away py  Set away status based on Gnome screen saver.
+2016-11-14 21:33:21		    gnotify                py  Notifications through Growl.
+2016-11-14 21:33:21		    gntp_notify            rb  Growl notifications using ruby-gntp.
+2016-11-14 21:33:21		    gntpnotify             py  Growl notifications using python-gntp.
+2016-11-14 21:33:21		ir  go                     py  Quick jump to buffers.
+2016-11-14 21:33:21		    grep                   py  Search regular expression in buffers or log files.
+2016-11-14 21:33:21		    grep_filter            py  Filter buffers automatically while searching them.
+2016-11-14 21:33:21		    growl                  py  Send Growl notifications upon events.
+2016-11-14 21:33:21		    growl_net_notify       pl  Notifications through Net::Growl.
+2016-11-14 21:33:21		    gweather               py  Add a bar item with Google weather.
+2016-11-14 21:33:21		    hatwidget              py  Show hats (user modes like "@" or "+") in a bar item.
+2016-11-14 21:33:21		    highlightxmpp          py  Relay highlighted and private messages over XMPP (Jabber).
+2016-11-14 21:33:21		    highmon                pl  Adds a highlight monitor buffer.
+2016-11-14 21:33:21		    hilites                rb  Display Weechat highlights in dzen (and beep).
+2016-11-14 21:33:21		    histman                py  Save and restore global and/or buffer command history.
+2016-11-14 21:33:21		ir  histsearch             py  Quick search in command history.
+2016-11-14 21:33:21		    hl2file                py  Generate a file with highlights for external programs as conky.
+2016-11-14 21:33:21		    hl_here                pl  Show highlights in the active buffer.
+2016-11-14 21:33:21		    hl_nicks               py  Generate a list of nicks in input by selecting nicks using flags and patterns.
+2016-11-14 21:33:21		    hlpvitem               py  Add bar item with highlight/private messages.
+2016-11-14 21:33:21		    hotlist2extern         pl  Give hotlist to an external file/program.
+2016-11-14 21:33:21		    http_item              lua Bar item with HTTP source.
+2016-11-14 21:33:21		    ichatts                py  iChat-style timestamps.
+2016-11-14 21:33:21		    identica               py  Format identi.ca bot messages.
+2016-11-14 21:33:21		    im_kayac_com_notify    py  Push notification to im.kayac.com.
+2016-11-14 21:33:21		    im_rename              py  Rename Facebook/Google+ usernames when using Minbif.
+2016-11-14 21:33:21		    imap_status            py  Bar item with unread imap messages count.
+2016-11-14 21:33:21		    infolist               py  Display infolist in a buffer, useful for script developers.
+2016-11-14 21:33:21		    infos                  py  Display WeeChats infos, useful for script developers.
+2016-11-14 21:33:21		    inotify                py  Notification script using libnotify or dbus with screen support.
+2016-11-14 21:33:21		    input_lock             rb  Lock input (authorize only commands).
+2016-11-14 21:33:21		    ircrypt                py  Secure encryption layer for the IRC protocol based on OpenPGP.
+2016-11-14 21:33:21		    irssi_awaylog          py  Log highlights/private messages when you are away.
+2016-11-14 21:33:21		    irssinotifier          py  IrssiNotifier push notifications with end-to-end encryption.
+2016-11-14 21:33:21		ir  iset                   pl  Set WeeChat and plugins options interactively.
+2016-11-14 21:33:21		    isgd                   pl  Shorten URLs with is.gd.
+2016-11-14 21:33:21		    itunes                 rb  iTunes control and now playing script.
+2016-11-14 21:33:21		    jabber                 py  Jabber/XMPP protocol.
+2016-11-14 21:33:21		    jisearch               py  Query JiSho's API to fetch translations for kanji to english or the other way round.
+2016-11-14 21:33:21		    jnotify                pl  Start command/program if a user joins a channel you are in.
+2016-11-14 21:33:21		    join2fast              pl  Automatically join channels on UnderNET that get throttled due to "Target change too fast".
+2016-11-14 21:33:21		    jump_smart_higher      pl  Jump to a higher buffer with activity.
+2016-11-14 21:33:21		    karmastorm             scm Karma votes.
+2016-11-14 21:33:21		    kbtimeout              py  Kickban nick and unban after some seconds.
+2016-11-14 21:33:21		    keepnick               py  Keep your nick and recover it in case it's stolen.
+2016-11-14 21:33:21		    kernel                 pl  Display latest available kernel on kernel.org.
+2016-11-14 21:33:21		    kickban                pl  Customizable kickban command with unban timer and mask resolver.
+2016-11-14 21:33:21		    kikoo                  pl  Send a colored "kikoo" on current channel.
+2016-11-14 21:33:21		    kiloseconds            py  Adds a command and bar item for displaying the current time in kiloseconds.
+2016-11-14 21:33:21		    lastfm                 py  Send your latest Last.fm track to the current buffer.
+2016-11-14 21:33:21		    latex_unicode          py  Replace LaTeX with unicode representations.
+2016-11-14 21:33:21		    launcher               pl  Launch external commands for signals.
+2016-11-14 21:33:21		    leet                   py  Convert text to leet.
+2016-11-14 21:33:21		    listbuffer             py  Show /list results in a common buffer and interact with them.
+2016-11-14 21:33:21		    listsort               pl  Sort the output of /list command by user count.
+2016-11-14 21:33:21		    lnotify                py  A libnotify script.
+2016-11-14 21:33:21		    logsize                py  Display size of current log file in a bar item.
+2016-11-14 21:33:21		    luanma                 pl  Charset replacement for IRC, recode past message.
+2016-11-14 21:33:21		    maildir                pl  Unread e-mail notification and count from a local Maildir directory.
+2016-11-14 21:33:21		    maskmatch              py  Display who is affected when a mode with a hostmask argument is set.
+2016-11-14 21:33:21		    mass_hl_blocker        pl  Block mass highlights.
+2016-11-14 21:33:21		    mastermind             pl  Mastermind game.
+2016-11-14 21:33:21		    memon                  py  Freenode memo notifications.
+2016-11-14 21:33:21		    menu                   pl  Bar with popup menu.
+2016-11-14 21:33:21		    minbif_typing_notice   rb  Send notice when typing message on minbif, display if user is writing in a bar item.
+2016-11-14 21:33:21		    minesweeper            py  Minesweeper game.
+2016-11-14 21:33:21		    mnick                  pl  Change nick on multiple servers using custom masks.
+2016-11-14 21:33:21		    mnotify                py  Mail notifications of private/highlight/DCC and more.
+2016-11-14 21:33:21		    moc                    pl  Show info about current song in moc.
+2016-11-14 21:33:21		    moc_control            py  Control and now-playing script for moc.
+2016-11-14 21:33:21		    mop                    py  Give operator status to everyone in the current channel.
+2016-11-14 21:33:21		    mpc                    py  A now playing and control script for mpd.
+2016-11-14 21:33:21		    mpdbitl                lua Set Bitlbee's status message with current MPD track.
+2016-11-14 21:33:21		    mpdnp                  py  Display which song mpd is currently playing.
+2016-11-14 21:33:21		    mpdspam                rb  Display which song mpd is currently playing.
+2016-11-14 21:33:21		    mplayer                py  A now watching script for mplayer.
+2016-11-14 21:33:21		    mplex                  pl  Simple remote control of multiplexer (screen or tmux), optionally set away status.
+2016-11-14 21:33:21		    mpris2_np              py  A now playing script for players supporting the mpris dbus interface.
+2016-11-14 21:33:21		    mpris_np               py  A now playing script for players supporting the mpris dbus interface.
+2016-11-14 21:33:21		    mpv                    py  A now watching script for mpv.
+2016-11-14 21:33:21		    mqtt_notify            py  Send notifications using the MQTT protocol.
+2016-11-14 21:33:21		    msg_command            py  Run chat received in a buffer as commands.
+2016-11-14 21:33:21		    multiline              pl  Multi-line edit box, also supports editing of multi-line pastes.
+2016-11-14 21:33:21		    myuptime               rb  Sends machine uptime to current channel.
+2016-11-14 21:33:21		    nameday                py  Display name days in bar item and buffer (only french calendar).
+2016-11-14 21:33:21		    ncmpcpp                pl  Control and now playing script for ncmpcpp.
+2016-11-14 21:33:21		    newsbar                pl  Print highlights or text given by commands into a bar (auto popup if needed).
+2016-11-14 21:33:21		    nick_complete_wrapper  lua Wrap nick completion with custom prefix and/or suffix.
+2016-11-14 21:33:21		ir  nickregain             pl  Automatically attempts to regain IRC primary nick.
+2016-11-14 21:33:21		    nma                    py  Receive notifications in Notify My Android (android phone app).
+2016-11-14 21:33:21		    noirccolors            py  Remove IRC colors from selected buffers.
+2016-11-14 21:33:21		    notification_center    py  Notifications through OS X notification center.
+2016-11-14 21:33:21		    notifo                 py  Send private messages and highlights as push notifications to your iPhone/Android.
+2016-11-14 21:33:21		    notifo_notify          py  Push notification to iPod touch/iPhone with notifo.
+2016-11-14 21:33:21		    notify                 py  Notification on screen for highlights and private messages.
+2016-11-14 21:33:21		    notify_send            pl  Send libnotify notifications with smart delays to avoid spam.
+2016-11-14 21:33:21		    oldswarner             lua Warn user if about to paste URL already existing in buffer.
+2016-11-14 21:33:21		    otr                    py  Off-The-Record IRC messaging.
+2016-11-14 21:33:21		    pagetitle              py  Adds HTML page titles to http:// urls in your message.
+2016-11-14 21:33:21		    parse_relayed_msg      pl  Proper integration of remote users' nicknames in channel and nicklist.
+2016-11-14 21:33:21		    pastebuf               lua View content of pastebin site in a buffer.
+2016-11-14 21:33:21		    perlexec               pl  Execute perl code with a command or in a buffer.
+2016-11-14 21:33:21		    pop3_mail              pl  Check POP3 server for mails and display mail headers.
+2016-11-14 21:33:21		    postpone               py  Postpone written messages for later dispatching if target nick is not on channel.
+2016-11-14 21:33:21		    prism                  py  Send text using rainbow colors.
+2016-11-14 21:33:21		    prowl_notify           py  Notifications on iPod Touch/iPhone/iPad with Prowl.
+2016-11-14 21:33:21		    purgelogs              py  Delete log files by age or size.
+2016-11-14 21:33:21		    pushover               pl  Send push notifications to your mobile devices using Pushover, NMA or Pushbullet.
+2016-11-14 21:33:21		    pybuffer               py  Debugging tool for python scripts or test WeeChat's API functions.
+2016-11-14 21:33:21		    pyrnotify              py  Send notifications to remote client using ssh and libnotify.
+2016-11-14 21:33:21		    query_blocker          pl  Simple blocker for private message (i.e. spam).
+2016-11-14 21:33:21		    queryman               py  Save and restore query buffers after /quit.
+2016-11-14 21:33:21		    queue                  py  Command queuing.
+2016-11-14 21:33:21		    quick_force_color      py  Quickly add/del/change entry in option irc.look.nick_color_force.
+2016-11-14 21:33:21		    quodnp                 py  A now playing and control script for Quodlibet.
+2016-11-14 21:33:21		    ragefaces              pl  Send ragefac.es URLs.
+2016-11-14 21:33:21		    recoverop              pl  Recover channel operator in empty channel.
+2016-11-14 21:33:21		    responsive_layout      py  Automatically apply layouts according to terminal size.
+2016-11-14 21:33:21		    rhythmbox              pl  Display which song rhythmbox is currently playing.
+2016-11-14 21:33:21		    rhythmbus              pl  Control Rhythmbox through qdbus.
+2016-11-14 21:33:21		    rnotify                tcl Sends highlights to (remote) client using libnotify.
+2016-11-14 21:33:21		    rslap                  pl  Slaps with random messages.
+2016-11-14 21:33:21		    rssagg                 pl  RSS/RDF/Atom feed aggregator.
+2016-11-14 21:33:21		    samechannel            rb  List multiple occurences of the same nick(s) in a set of channels.
+2016-11-14 21:33:21		    samegame               py  SameGame.
+2016-11-14 21:33:21		    screen_away            py  Set away status when detaching and attaching from screen or tmux.
+2016-11-14 21:33:21		    seeks                  pl  Search terms on seeks node and display results.
+2016-11-14 21:33:21		    sensors                py  Displays sensor data.
+2016-11-14 21:33:21		    server_autoswitch      py  Cycle to currently used server (for merged buffers).
+2016-11-14 21:33:21		    shell                  py  Run shell commands inside WeeChat.
+2016-11-14 21:33:21		ir  shortenurl             py  Shorten long urls using isgd or tinyurl.
+2016-11-14 21:33:21		    shuffle                pl  Simple text shuffler.
+2016-11-14 21:33:21		    shutup                 py  Replace text from specified IRC users with random or preset text.
+2016-11-14 21:33:21		    slack                  py  Slack.com native client.
+2016-11-14 21:33:21		    slock_away             py  Set away status if slock (X display locker) is running.
+2016-11-14 21:33:21		    smile                  py  Print a random ASCII smiley.
+2016-11-14 21:33:21		    snake                  pl  Snake game.
+2016-11-14 21:33:21		    snarl_net_notify       pl  Snarl notifications for highlights.
+2016-11-14 21:33:21		    snotify                py  Play sound when messages are printed in buffers.
+2016-11-14 21:33:21		    socket_notify          rb  Send highlights and private messages to a unix socket.
+2016-11-14 21:33:21		    sort_arza              pl  Sort channels inside networks.
+2016-11-14 21:33:21		    sort_buffers           pl  Sort irc buffers alphabetically.
+2016-11-14 21:33:21		    sort_servers           py  Sort buffers by server and alphabetically.
+2016-11-14 21:33:21		    sound                  pl  Play a sound for IRC "CTCP SOUND" message.
+2016-11-14 21:33:21		    spacer                 pl  Add a space between each character.
+2016-11-14 21:33:21		    spell_correction       py  Correction for misspelled words in command line.
+2016-11-14 21:33:21		    spell_menu             pl  Popup menu to choose spell checker corrections.
+2016-11-14 21:33:21		    spotify                py  Looks up meta information about spotify-URIs and posts back to channel.
+2016-11-14 21:33:21		    spotify_nowplaying     py  Current song script for Spotify on OS X.
+2016-11-14 21:33:21		    sshnotify              py  A notify script which uses ssh.
+2016-11-14 21:33:21		    stalker                pl  Record and correlate nick!user@host information.
+2016-11-14 21:33:21		    stats_bar              pl  Bar items with stats about network interface, load, and free memory.
+2016-11-14 21:33:21		    stick_buffer           py  Stick buffer to a window.
+2016-11-14 21:33:21		    strmon                 pl  Monitoring of highlights/tags/buffers/nicks with sound/osd notifications.
+2016-11-14 21:33:21		    substitution           rb  Substitute strings in messages before they are sent.
+2016-11-14 21:33:21		    sysinfo                pl  System info command.
+2016-11-14 21:33:21		    tailer                 py  Tail any number of files and run any command with line appended.
+2016-11-14 21:33:21		    text_effects           lua Adds effects to words surrounded by certain characters.
+2016-11-14 21:33:21		    text_item              py  Add bar items with plain text.
+2016-11-14 21:33:21		    text_replace           py  Replaces text you write with replacement text.
+2016-11-14 21:33:21		    thinklight_blink       pl  Thinklight blink on highlight/private message.
+2016-11-14 21:33:21		    tictactoe              py  Tic-tac-toe game.
+2016-11-14 21:33:21		    tinyurl                py  Get "tinyurl.com" equivalent for URLs.
+2016-11-14 21:33:21		    title                  py  Set terminal title to active buffer name and hotlist items.
+2016-11-14 21:33:21		    tmux_env               py  Update WeeChat environment from tmux.
+2016-11-14 21:33:21		    toggle_highlight       py  Toggle notifications of normal messages for current buffer.
+2016-11-14 21:33:21		    toggle_nicklist        py  Auto show and hide nicklist depending on buffer name.
+2016-11-14 21:33:21		    topicdiff              py  Show differences between old and new topics.
+2016-11-14 21:33:21		    topicsed               pl  Edit channel topics by perl regular expressions or in input-line.
+2016-11-14 21:33:21		    translate              py  Translate string using Google translate API.
+2016-11-14 21:33:21		    triggerreply           py  Automatically replies over specified triggers.
+2016-11-14 21:33:21		    twitch                 py  Twitch.tv chat integration.
+2016-11-14 21:33:21		    twmn_notify            py  Notifications for twmn.
+2016-11-14 21:33:21		    typing_counter         py  Bar item showing typing count and cursor position.
+2016-11-14 21:33:21		    ubus                   pl  Ubus notification.
+2016-11-14 21:33:21		    uname                  py  Sends "uname -a" output to current channel.
+2016-11-14 21:33:21		    undernet_challenge     rb  Respond to undernet challenge when there's no identd.
+2016-11-14 21:33:21		    undernet_totp          py  UnderNET's X OTP (OATH-TOTP) authentication.
+2016-11-14 21:33:21		    unhighlight            py  Allow per-buffer specification of a regex that prevents highlights.
+2016-11-14 21:33:21		    unread_buffer          py  Mark buffer as unread.
+2016-11-14 21:33:21		    unset_unused           pl  Remove options of scripts that are no longer installed.
+2016-11-14 21:33:21		    unwanted_msg           py  Avoid sending misformatted commands as messages.
+2016-11-14 21:33:21		    update_notifier        py  Notify user about WeeChat updates.
+2016-11-14 21:33:21		    uppercase              py  Transform all your input to uppercase (useful for INTERNATIONAL CAPSLOCK DAY).
+2016-11-14 21:33:21		    upside_down            py  Replaces text you write with upside down text.
+2016-11-14 21:33:21		    url_arza               pl  Shorten long URLs in buffers and input line.
+2016-11-14 21:33:21		    url_hinter             rb  Open URLs without using the mouse.
+2016-11-14 21:33:21		    url_olde               py  Display when and where a URI was first posted.
+2016-11-14 21:33:21		    url_shorten            rb  Shorten URLs with many shortening services.
+2016-11-14 21:33:21		    urlbar                 py  Display a url bar for easy clicking or selecting.
+2016-11-14 21:33:21		    urlbuf                 py  A common buffer for URLs.
+2016-11-14 21:33:21		    urlgrab                py  Logs url and open them in browser.
+2016-11-14 21:33:21		    urlselect              lua Interactively select URL with keyboard and perform some commands on it.
+2016-11-14 21:33:21		    urlserver              py  Shorten URLs with own HTTP server.
+2016-11-14 21:33:21		    vdm                    py  Display content of viedemerde.fr/fmylife.com website.
+2016-11-14 21:33:21		    vimode                 py  Vi-like key bindings/commands with normal and insert mode.
+2016-11-14 21:33:21		    volumeter              pl  Show volume of data on network interface in a bar.
+2016-11-14 21:33:21		    weather                py  Display weather from Google.
+2016-11-14 21:33:21		    weatherbot             py  Weather bot using the WeatherUnderground API.
+2016-11-14 21:33:21		    weefish                rb  FiSH encryption/decryption.
+2016-11-14 21:33:21		ir  weeget                 py  Scripts manager.
+2016-11-14 21:33:21		    weemoticons            py  Convert ascii emotes to the unicode emoticon.
+2016-11-14 21:33:21		    weempd                 py  Display which song mpd is currently playing.
+2016-11-14 21:33:21		    weemustfeed            py  RSS/RDF/Atom feed aggregator.
+2016-11-14 21:33:21		    weenetsoul             py  Netsoul protocol.
+2016-11-14 21:33:21		    weeprowl               py  Prowl notifications.
+2016-11-14 21:33:21		    weerock                pl  A "now playing" script for several music players.
+2016-11-14 21:33:21		    weespotify             rb  Display which song spotify is currently playing.
+2016-11-14 21:33:21		    weestats               py  Insert some statistics about buffers/windows on command line.
+2016-11-14 21:33:21		    weestreamer            py  Livestreamer companion for WeeChat.
+2016-11-14 21:33:21		    weetext                py  SMS Text Messaging using Google Voice.
+2016-11-14 21:33:21		    weetris                pl  Tetris-like game.
+2016-11-14 21:33:21		    weetweet               py  WeeChat twitter client.
+2016-11-14 21:33:21		    whatismyip             py  Display external ip address.
+2016-11-14 21:33:21		    whois_on_query         py  Send "whois" on nick when receiving new IRC query.
+2016-11-14 21:33:21		    whoissource            py  Display source of "End of WHOIS" numerics.
+2016-11-14 21:33:21		    whowas_timeago         py  Display a human-readable time string for WHOWAS data.
+2016-11-14 21:33:21		    win_scroll_screen      py  Scroll by fractional screens.
+2016-11-14 21:33:21		    windicate              py  Add alerts to the message menu in Ubuntu.
+2016-11-14 21:33:21		    wmiibar                pl  Wmii statusbar notification for highlights.
+2016-11-14 21:33:21		    ws_replace             py  Remove leading and trailing whitespace before sending text.
+2016-11-14 21:33:21		    wtwitter               py  Send latest tweet to the current buffer.
+2016-11-14 21:33:21		    xclip                  pl  Paste content from X11 clipboard.
+2016-11-14 21:33:21		    xfer_run_command       py  Run a command on end of xfer.
+2016-11-14 21:33:21		    xfer_scp               py  Copy files by scp after xfer.
+2016-11-14 21:33:21		    xfer_setip             py  Set xfer own ip with external ip.
+2016-11-14 21:33:21		    xmms2                  rb  Display which song xmms2 is currently playing.
+2016-11-14 21:33:21		    xosdnotify             tcl Show highlights and private messages with OSD.
+2016-11-14 21:33:21		    xterm_paste            pl  Make xterm clipboard paste available as command.
+2016-11-14 21:33:21		    yaaa                   pl  Auto-away script.
+2016-11-14 21:33:21		    yaurls                 pl  Shorten URLs with many shortening services.
+2016-11-14 21:33:21		    zerotab                py  Complete empty input line with latest speaker nick in channel.
+2016-11-14 21:33:21		    zmq_notify             rb  Send notifications to a ZMQ socket.
+2016-11-14 21:33:21		    zncnotice              py  Convert ZNC status PRIVMSGs to NOTICEs.
+2016-11-14 21:33:21		    zncplayback            py  Add support for the ZNC Playback module.
+2016-11-14 21:33:42		[python/weeget]  /weeget  list|listinstalled [<text>|<tag>]
+2016-11-14 21:33:42		                          show <script>
+2016-11-14 21:33:42		                          install|remove <script> [<script>...]
+2016-11-14 21:33:42		                          check|update|upgrade
+2016-11-14 21:33:42		WeeChat scripts manager
+2016-11-14 21:33:42		         list: list scripts (search text if given)
+2016-11-14 21:33:42		listinstalled: list installed scripts (search text if given)
+2016-11-14 21:33:42		         show: show detailed information about a script (in repository)
+2016-11-14 21:33:42		      install: install/upgrade script(s)
+2016-11-14 21:33:42		        check: check if local scripts needs upgrade
+2016-11-14 21:33:42		       update: update local scripts cache
+2016-11-14 21:33:42		      upgrade: upgrade all local scripts if they are obsolete
+2016-11-14 21:33:42		       remove: remove script(s)
+2016-11-14 21:33:42		Indicators in lists (first column):
+2016-11-14 21:33:42		  i  script is installed
+2016-11-14 21:33:42		  ?  unknown script
+2016-11-14 21:33:42		  r  script is running (loaded)
+2016-11-14 21:33:42		  N  script is obsolete (new version available)
+2016-11-14 21:33:42		Examples:
+2016-11-14 21:33:42		  /weeget list             => list all scripts
+2016-11-14 21:33:42		  /weeget list game        => list all scripts with text/tag "game"
+2016-11-14 21:33:42		  /weeget install beep.pl  => install script beep.pl
+2016-11-14 21:33:42		  /weeget remove beep.pl   => remove script beep.pl
+2016-11-14 21:33:50		Scripts for WeeChat 1.6 matching "arch":
+2016-11-14 21:33:50		    grep        py  Search regular expression in buffers or log files.
+2016-11-14 21:33:50		    grep_filter py  Filter buffers automatically while searching them.
+2016-11-14 21:33:50		ir  histsearch  py  Quick search in command history.
+2016-11-14 21:33:50		    jisearch    py  Query JiSho's API to fetch translations for kanji to english or the other way round.
+2016-11-14 21:33:50		    seeks       pl  Search terms on seeks node and display results.
+2016-11-14 21:34:12		Scripts for WeeChat 1.6 matching "buffer":
+2016-11-14 21:34:12		    allquery          py  Execute command on all irc query buffers.
+2016-11-14 21:34:12		    automarkbuffer    py  Mark buffers as read if there is no new message in a specific time range.
+2016-11-14 21:34:12		    autosort          py  Automatically keep buffers grouped by server and sorted by name.
+2016-11-14 21:34:12		ir  buffer_autoclose  py  Automatically close inactive private message buffers.
+2016-11-14 21:34:12		    buffer_autoset    py  Auto-set buffer properties when a buffer is opened.
+2016-11-14 21:34:12		    buffer_swap       py  Swap two buffers.
+2016-11-14 21:34:12		ir  buffers           pl  Sidebar with list of buffers.
+2016-11-14 21:34:12		    buffzilla         rb  Copy everything into one buffer.
+2016-11-14 21:34:12		    bufsave           py  Save current buffer content to a file.
+2016-11-14 21:34:12		    bufsize           py  Bar item with scroll indicator and info about number of lines in buffer.
+2016-11-14 21:34:12		    chanmon           pl  Adds a channel monitor buffer.
+2016-11-14 21:34:12		    colorizer         rb  Colorize parts of text in certain buffers based on rules.
+2016-11-14 21:34:12		    countdown         rb  Display a countdown on current buffer.
+2016-11-14 21:34:12		    customize_bar     py  Customize bars by buffer.
+2016-11-14 21:34:12		    dellog            pl  Delete log file of current buffer.
+2016-11-14 21:34:12		    fullwidth         py  Convert text to its full width equivalent and send it to buffer.
+2016-11-14 21:34:12		ir  go                py  Quick jump to buffers.
+2016-11-14 21:34:12		    grep              py  Search regular expression in buffers or log files.
+2016-11-14 21:34:12		    grep_filter       py  Filter buffers automatically while searching them.
+2016-11-14 21:34:12		    highmon           pl  Adds a highlight monitor buffer.
+2016-11-14 21:34:12		    histman           py  Save and restore global and/or buffer command history.
+2016-11-14 21:34:12		    hl_here           pl  Show highlights in the active buffer.
+2016-11-14 21:34:12		    infolist          py  Display infolist in a buffer, useful for script developers.
+2016-11-14 21:34:12		    jump_smart_higher pl  Jump to a higher buffer with activity.
+2016-11-14 21:34:12		    lastfm            py  Send your latest Last.fm track to the current buffer.
+2016-11-14 21:34:12		    listbuffer        py  Show /list results in a common buffer and interact with them.
+2016-11-14 21:34:12		    msg_command       py  Run chat received in a buffer as commands.
+2016-11-14 21:34:12		    nameday           py  Display name days in bar item and buffer (only french calendar).
+2016-11-14 21:34:12		    noirccolors       py  Remove IRC colors from selected buffers.
+2016-11-14 21:34:12		    oldswarner        lua Warn user if about to paste URL already existing in buffer.
+2016-11-14 21:34:12		    pastebuf          lua View content of pastebin site in a buffer.
+2016-11-14 21:34:12		    perlexec          pl  Execute perl code with a command or in a buffer.
+2016-11-14 21:34:12		    pybuffer          py  Debugging tool for python scripts or test WeeChat's API functions.
+2016-11-14 21:34:12		    queryman          py  Save and restore query buffers after /quit.
+2016-11-14 21:34:12		    server_autoswitch py  Cycle to currently used server (for merged buffers).
+2016-11-14 21:34:12		    snotify           py  Play sound when messages are printed in buffers.
+2016-11-14 21:34:12		    sort_arza         pl  Sort channels inside networks.
+2016-11-14 21:34:12		    sort_buffers      pl  Sort irc buffers alphabetically.
+2016-11-14 21:34:12		    sort_servers      py  Sort buffers by server and alphabetically.
+2016-11-14 21:34:12		    stick_buffer      py  Stick buffer to a window.
+2016-11-14 21:34:12		    strmon            pl  Monitoring of highlights/tags/buffers/nicks with sound/osd notifications.
+2016-11-14 21:34:12		    title             py  Set terminal title to active buffer name and hotlist items.
+2016-11-14 21:34:12		    toggle_highlight  py  Toggle notifications of normal messages for current buffer.
+2016-11-14 21:34:12		    toggle_nicklist   py  Auto show and hide nicklist depending on buffer name.
+2016-11-14 21:34:12		    unhighlight       py  Allow per-buffer specification of a regex that prevents highlights.
+2016-11-14 21:34:12		    unread_buffer     py  Mark buffer as unread.
+2016-11-14 21:34:12		    url_arza          pl  Shorten long URLs in buffers and input line.
+2016-11-14 21:34:12		    urlbuf            py  A common buffer for URLs.
+2016-11-14 21:34:12		    weestats          py  Insert some statistics about buffers/windows on command line.
+2016-11-14 21:34:12		    wtwitter          py  Send latest tweet to the current buffer.
+2016-11-14 21:45:11		script: script "iset.pl" is already installed and up-to-date
+2016-11-14 21:45:13		script: script "iset.pl" is already installed and up-to-date
+2016-11-14 22:15:49	=!=	irc: unable to add temporary server "irc.rizon.net" because the addition of temporary servers with command /connect is currently disabled
+2016-11-14 22:15:49	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-11-14 22:16:43		irc: server rizon added
+2016-11-14 22:31:10		Option changed: irc.server.freenode.autoconnect = on  (default if null: off)
+2016-11-14 22:31:25		Option changed: irc.server.indymedia.autoconnect = on  (default if null: off)
+2016-11-14 22:31:33		Option changed: irc.server.rizon.autoconnect = on  (default if null: off)
+2016-11-14 22:38:36		Option changed: irc.server.freenode.sasl_mechanism = ecdsa-nist256p-challenge  (default if null: plain)
+2016-11-14 22:39:06		Option changed: irc.server.freenode.sasl_username = "bgdnvst"  (default if null: "")
+2016-11-14 22:39:22		Option changed: irc.server.freenode.sasl_key = "%h/ecdsa.pem"  (default if null: "")
+2016-11-14 22:40:48		Option changed: irc.server.rizon.sasl_mechanism = ecdsa-nist256p-challenge  (default if null: plain)
+2016-11-14 22:41:06		Option changed: irc.server.rizon.sasl_username = "bgdnvst"  (default if null: "")
+2016-11-14 22:41:29		Option changed: irc.server.rizon.sasl_key = "%h/ecdsa.pem"  (default if null: "")
+2016-11-14 22:42:23		Option changed: irc.server.rizon.sasl_username = "bgdnvst"  (default if null: "")
+2016-11-14 22:52:16		anotify: No module named pynotify
+2016-11-14 22:52:16		python: stdout/stderr: Traceback (most recent call last):
+2016-11-14 22:52:16		python: stdout/stderr:   File "/home/nrfrd/.weechat/python/anotify.py", line 406, in <module>
+2016-11-14 22:52:16		python: stdout/stderr:     def a_notify(notification, title, description, priority=pynotify.URGENCY_LOW):
+2016-11-14 22:52:16		python: stdout/stderr: NameError: name 'pynotify' is not defined
+2016-11-14 22:52:16	=!=	python: unable to parse file "/home/nrfrd/.weechat/python/anotify.py"
+2016-11-14 22:54:29		New key binding (context "mouse"): @chat(*)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-11-14 22:54:29		New key binding (context "mouse"): @item(buffer_nicklist)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-11-14 22:54:29		New key binding (context "mouse"): @item(buddylist):button1* => hsignal:buddylist_mouse
+2016-11-14 22:54:29		New key binding (context "mouse"): @item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-11-14 22:54:38		Notify list is empty on all servers
+2016-11-14 22:55:20	=!=	Error: unknown command "/anotify" (type /help for help)
+2016-11-14 22:55:36		[perl/buddylist]  /buddylist  <add>[nick_1 [... nick_n]] | <del>[nick_1 [... nick_n]]
+2016-11-14 22:55:36		display status from your buddies a bar-item.
+2016-11-14 22:55:36		<add> [nick(s)] add nick(s) to the buddylist
+2016-11-14 22:55:36		<del> [nick(s)] delete nick(s) from the buddylist
+2016-11-14 22:55:36		<list> show buddylist
+2016-11-14 22:55:36		Options:
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.buddylist'            : path/file-name to store your buddies. "%h" will be replaced by WeeChat home (by default: ~/.weechat)
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.default         : fall back color. (default: standard weechat color)
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.online'         : color for online buddies.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.away'           : color for away buddies.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.offline'        : color for offline buddies.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.server'         : color for servername.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.server.offline' : color for disconnected server (default: hide).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.color.number'         : color for channel number (default: lightred). If empty, channel list option is off.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.show.query'           : displays a query buffer in front of the channel list.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.hide.server.if.buddies.offline': hides server when all buddies are offline for this server (default: off).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.hide.buddy.if.offline': hide buddy if offline (default: off).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.buddy.on.server'      : show buddy who is connected to a server, but not visiting the same channel(s) (default: on).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.buddy.on.server.color': color for online buddy but not visiting the same channel(s) (default: lightgreen).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.hide.bar'             : hides buddylist bar when all servers with added buddies are offline (default: on).
+2016-11-14 22:55:36		                                          always  : buddylist bar will be hidden (for example if you want to add item 'buddylist' to 'weechat.bar.status.items'
+2016-11-14 22:55:36		                                          off     : buddylist bar will not be hidden.
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.check.buddies'        : time in seconds to send a /whois request to server. Be careful not to flood server (default: 20).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.callback.timeout'     : time in seconds to wait for answer from server. (default: 60).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.display.original.nick': display original nickname even if buddy changed his /nick (you have to add new nick to buddylist) (default: off).
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.sort'                 : sort method for buddylist (default or status).
+2016-11-14 22:55:36		                                          default : buddylist will be sort by nickname
+2016-11-14 22:55:36		                                          status  : buddylist will be sort by status (online, away, offline)
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.display.social.net'   : using bitlbee, buddies will be sorted in sublists with social-network name (eg. msn/jabber/facebook)(default: on)
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.display.social.net.color': color for social-network name (default: yellow)
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.text.color'           : color for optional online/away/offline-text in buddylist (default: white)
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.text.online'          : optional online text in buddylist (sort method has to be 'status')
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.text.away'            : optional away text in buddylist (sort method has to be 'status')
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.text.offline'         : optional offline text in buddylist (sort method has to be 'status')
+2016-11-14 22:55:36		'plugins.var.perl.buddylist.use.redirection'      : using redirection to get status of buddies (needs weechat >=0.3.4) (default: on).
+2016-11-14 22:55:36		Mouse-support (standard key bindings):
+2016-11-14 22:55:36		  click left mouse-button on buddy to open a query buffer.
+2016-11-14 22:55:36		  add a buddy by dragging a nick with left mouse-button from nicklist or chat-area and drop on buddylist.
+2016-11-14 22:55:36		  remove a buddy by dragging a buddy with left mouse-button from buddylist and drop it on any area.
+2016-11-14 22:55:36		Troubleshooting:
+2016-11-14 22:55:36		If buddylist will not be refreshed in nicklist-mode, check the following WeeChat options:
+2016-11-14 22:55:36		'irc.server_default.away_check'          : interval between two checks, in minutes. (has to be >= 1 (default:0)).
+2016-11-14 22:55:36		'irc.server_default.away_check_max_nicks': channels with high number of nicks will not be checked (default: 25).
+2016-11-14 22:55:36		name of buddy has to be written 'case sensitive' (it's recommended to use nick-completion or to drag'n'drop buddy with mouse).
+2016-11-14 22:55:36		Examples:
+2016-11-14 22:55:36		  Add buddy (nils) to buddylist (server of current buffer will be used):
+2016-11-14 22:55:36		    /buddylist add nils
+2016-11-14 22:55:36		  Delete buddy (nils) from buddylist:
+2016-11-14 22:55:36		    /buddylist del nils (server of current buffer will be used)
+2016-11-14 22:59:21		[perl/buddylist]  /buddylist  <add>[nick_1 [... nick_n]] | <del>[nick_1 [... nick_n]]
+2016-11-14 22:59:21		display status from your buddies a bar-item.
+2016-11-14 22:59:21		<add> [nick(s)] add nick(s) to the buddylist
+2016-11-14 22:59:21		<del> [nick(s)] delete nick(s) from the buddylist
+2016-11-14 22:59:21		<list> show buddylist
+2016-11-14 22:59:21		Options:
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.buddylist'            : path/file-name to store your buddies. "%h" will be replaced by WeeChat home (by default: ~/.weechat)
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.default         : fall back color. (default: standard weechat color)
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.online'         : color for online buddies.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.away'           : color for away buddies.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.offline'        : color for offline buddies.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.server'         : color for servername.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.server.offline' : color for disconnected server (default: hide).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.color.number'         : color for channel number (default: lightred). If empty, channel list option is off.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.show.query'           : displays a query buffer in front of the channel list.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.hide.server.if.buddies.offline': hides server when all buddies are offline for this server (default: off).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.hide.buddy.if.offline': hide buddy if offline (default: off).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.buddy.on.server'      : show buddy who is connected to a server, but not visiting the same channel(s) (default: on).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.buddy.on.server.color': color for online buddy but not visiting the same channel(s) (default: lightgreen).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.hide.bar'             : hides buddylist bar when all servers with added buddies are offline (default: on).
+2016-11-14 22:59:21		                                          always  : buddylist bar will be hidden (for example if you want to add item 'buddylist' to 'weechat.bar.status.items'
+2016-11-14 22:59:21		                                          off     : buddylist bar will not be hidden.
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.check.buddies'        : time in seconds to send a /whois request to server. Be careful not to flood server (default: 20).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.callback.timeout'     : time in seconds to wait for answer from server. (default: 60).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.display.original.nick': display original nickname even if buddy changed his /nick (you have to add new nick to buddylist) (default: off).
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.sort'                 : sort method for buddylist (default or status).
+2016-11-14 22:59:21		                                          default : buddylist will be sort by nickname
+2016-11-14 22:59:21		                                          status  : buddylist will be sort by status (online, away, offline)
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.display.social.net'   : using bitlbee, buddies will be sorted in sublists with social-network name (eg. msn/jabber/facebook)(default: on)
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.display.social.net.color': color for social-network name (default: yellow)
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.text.color'           : color for optional online/away/offline-text in buddylist (default: white)
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.text.online'          : optional online text in buddylist (sort method has to be 'status')
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.text.away'            : optional away text in buddylist (sort method has to be 'status')
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.text.offline'         : optional offline text in buddylist (sort method has to be 'status')
+2016-11-14 22:59:21		'plugins.var.perl.buddylist.use.redirection'      : using redirection to get status of buddies (needs weechat >=0.3.4) (default: on).
+2016-11-14 22:59:21		Mouse-support (standard key bindings):
+2016-11-14 22:59:21		  click left mouse-button on buddy to open a query buffer.
+2016-11-14 22:59:21		  add a buddy by dragging a nick with left mouse-button from nicklist or chat-area and drop on buddylist.
+2016-11-14 22:59:21		  remove a buddy by dragging a buddy with left mouse-button from buddylist and drop it on any area.
+2016-11-14 22:59:21		Troubleshooting:
+2016-11-14 22:59:21		If buddylist will not be refreshed in nicklist-mode, check the following WeeChat options:
+2016-11-14 22:59:21		'irc.server_default.away_check'          : interval between two checks, in minutes. (has to be >= 1 (default:0)).
+2016-11-14 22:59:21		'irc.server_default.away_check_max_nicks': channels with high number of nicks will not be checked (default: 25).
+2016-11-14 22:59:21		name of buddy has to be written 'case sensitive' (it's recommended to use nick-completion or to drag'n'drop buddy with mouse).
+2016-11-14 22:59:21		Examples:
+2016-11-14 22:59:21		  Add buddy (nils) to buddylist (server of current buffer will be used):
+2016-11-14 22:59:21		    /buddylist add nils
+2016-11-14 22:59:21		  Delete buddy (nils) from buddylist:
+2016-11-14 22:59:21		    /buddylist del nils (server of current buffer will be used)
+2016-11-14 23:01:37		buffer_autoclose: Closing buffer: indymedia.just1602
+2016-11-14 23:18:17		[irc]  /list  [<channel>[,<channel>...]] [<server>] [-re <regex>]
+2016-11-14 23:18:17		list channels and their topic
+2016-11-14 23:18:17		channel: channel to list
+2016-11-14 23:18:17		 server: server name
+2016-11-14 23:18:17		  regex: POSIX extended regular expression used to filter results (case insensitive, can start by "(?-i)" to become case sensitive)
+2016-11-14 23:18:17		Examples:
+2016-11-14 23:18:17		  list all channels on server (can be very slow on large networks):
+2016-11-14 23:18:17		    /list
+2016-11-14 23:18:17		  list channel #weechat:
+2016-11-14 23:18:17		    /list #weechat
+2016-11-14 23:18:17		  list all channels beginning with "#weechat" (can be very slow on large networks):
+2016-11-14 23:18:17		    /list -re #weechat.*
+2016-11-15 10:11:41	=!=	Error: unknown command "/awat" (type /help for help)
+2016-11-15 10:17:50		[irc]  /server  list|listfull [<server>]
+2016-11-15 10:17:50		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-11-15 10:17:50		                copy|rename <server> <new_name>
+2016-11-15 10:17:50		                reorder <server> [<server>...]
+2016-11-15 10:17:50		                del|keep <server>
+2016-11-15 10:17:50		                deloutq|jump|raw
+2016-11-15 10:17:50		list, add or remove IRC servers
+2016-11-15 10:17:50		    list: list servers (without argument, this list is displayed)
+2016-11-15 10:17:50		listfull: list servers with detailed info for each server
+2016-11-15 10:17:50		     add: add a new server
+2016-11-15 10:17:50		  server: server name, for internal and display use
+2016-11-15 10:17:50		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-11-15 10:17:50		    temp: add a temporary server (not saved)
+2016-11-15 10:17:50		  option: set option for server (for boolean option, value can be omitted)
+2016-11-15 10:17:50		nooption: set boolean option to 'off' (for example: -nossl)
+2016-11-15 10:17:50		    copy: duplicate a server
+2016-11-15 10:17:50		  rename: rename a server
+2016-11-15 10:17:50		 reorder: reorder list of servers
+2016-11-15 10:17:50		    keep: keep server in config file (for temporary servers only)
+2016-11-15 10:17:50		     del: delete a server
+2016-11-15 10:17:50		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-11-15 10:17:50		    jump: jump to server buffer
+2016-11-15 10:17:50		     raw: open buffer with raw IRC data
+2016-11-15 10:17:50		Examples:
+2016-11-15 10:17:50		  /server listfull
+2016-11-15 10:17:50		  /server add freenode chat.freenode.net
+2016-11-15 10:17:50		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-11-15 10:17:50		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-11-15 10:17:50		  /server copy freenode freenode-test
+2016-11-15 10:17:50		  /server rename freenode-test freenode2
+2016-11-15 10:17:50		  /server reorder freenode2 freenode
+2016-11-15 10:17:50		  /server del freenode
+2016-11-15 10:17:50		  /server deloutq
+2016-11-15 10:23:42		irc: server bitlbee added
+2016-11-15 10:34:29	=!=	Too few arguments for command "/OPER" (help on command: /help OPER)
+2016-11-15 10:34:47	=!=	Too few arguments for command "/OPER" (help on command: /help OPER)
+2016-11-15 10:35:53		fifo: pipe closed
+2016-11-15 10:35:53		python: scripts unloaded
+2016-11-15 10:36:20		perl scripts loaded: buddylist, buffers, iset, nickregain
+2016-11-15 10:36:20		anotify: No module named pynotify
+2016-11-15 10:36:20		python: stdout/stderr: Traceback (most recent call last):
+2016-11-15 10:36:20		python: stdout/stderr:   File "/home/nrfrd/.weechat/python/autoload/anotify.py", line 406, in <module>
+2016-11-15 10:36:20		python: stdout/stderr:     def a_notify(notification, title, description, priority=pynotify.URGENCY_LOW):
+2016-11-15 10:36:20		python: stdout/stderr: NameError: name 'pynotify' is not defined
+2016-11-15 10:36:20	=!=	python: unable to parse file "/home/nrfrd/.weechat/python/autoload/anotify.py"
+2016-11-15 10:36:20	=!=	WARNING: the script weeget.py is obsolete since WeeChat 0.3.9 (it is replaced by command /script)
+2016-11-15 10:36:20	=!=	To uninstall weeget.py: /weeget remove weeget.py
+2016-11-15 10:36:20		python scripts loaded: buffer_autoclose, colorize_nicks, go, histsearch, shortenurl, weeget
+2016-11-15 10:36:20		script: 328 scripts for WeeChat 1.6
+2016-11-15 10:36:20		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-11-15 11:25:20		buffer_autoclose: Closing buffer: bitlbee.OlivierGauvin
+2016-11-15 12:09:01		Option changed: buffers.color.current_fg = cyan  (default: lightcyan)
+2016-11-15 12:09:46		Option changed: buffers.color.number = green  (default: lightgreen)
+2016-11-15 12:09:57		Option changed: buffers.color.number_char = green  (default: lightgreen)
+2016-11-15 12:10:09		Option changed: buffers.color.number = yellow  (default: lightgreen)
+2016-11-15 12:21:20		buffer_autoclose: Closing buffer: bitlbee.JustinLavoie
+2016-11-15 12:27:20		buffer_autoclose: Closing buffer: bitlbee.purple_request_0
+2016-11-15 13:54:01	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:54:41	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:55:21	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:56:01	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:56:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:57:21	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:58:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:59:14	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 13:59:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:00:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:01:14	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:01:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:02:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:03:14	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:03:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:04:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:05:14	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:05:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:06:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:07:14	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:07:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:08:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:09:14	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:09:54	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 14:10:34	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+2016-11-15 19:32:05	=!=	buddylist: timeout error for server indymedia. Increase value "callback.timeout" (current value: 60)
+                                                                                                                                                                                                                                                                                                                                                                                       2016-11-15 19:39:48		fifo: removing old fifo pipe "/home/nrfrd/.weechat/weechat_fifo_24382"
+2016-11-15 19:39:48		perl scripts loaded: buddylist, buffers, iset, nickregain
+2016-11-15 19:39:49		anotify: No module named pynotify
+2016-11-15 19:39:49		python: stdout/stderr: Traceback (most recent call last):
+2016-11-15 19:39:49		python: stdout/stderr:   File "/home/nrfrd/.weechat/python/autoload/anotify.py", line 406, in <module>
+2016-11-15 19:39:49		python: stdout/stderr:     def a_notify(notification, title, description, priority=pynotify.URGENCY_LOW):
+2016-11-15 19:39:49		python: stdout/stderr: NameError: name 'pynotify' is not defined
+2016-11-15 19:39:49	=!=	python: unable to parse file "/home/nrfrd/.weechat/python/autoload/anotify.py"
+2016-11-15 19:39:49	=!=	WARNING: the script weeget.py is obsolete since WeeChat 0.3.9 (it is replaced by command /script)
+2016-11-15 19:39:49	=!=	To uninstall weeget.py: /weeget remove weeget.py
+2016-11-15 19:39:49		python scripts loaded: buffer_autoclose, colorize_nicks, go, histsearch, shortenurl, weeget
+2016-11-15 19:39:49		script: downloading list of scripts...
+2016-11-15 19:39:49		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-11-15 19:39:50		script: 328 scripts for WeeChat 1.6
+2016-11-16 08:18:21		fifo: pipe closed
+2016-11-16 08:18:21		python: scripts unloaded
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/trigger.conf, ligne 12 : option inconnue pour la section "color" : flag_post_action = lightblue
+2016-11-17 10:04:45	=!=	Attention : option inconnue pour la section "trigger" : beep.post_action (valeur : "none")
+2016-11-17 10:04:45	=!=	Attention : option inconnue pour la section "trigger" : cmd_pass.post_action (valeur : "none")
+2016-11-17 10:04:45	=!=	Attention : option inconnue pour la section "trigger" : msg_auth.post_action (valeur : "none")
+2016-11-17 10:04:45	=!=	Attention : option inconnue pour la section "trigger" : server_pass.post_action (valeur : "none")
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 120 : option inconnue pour la section "server_default" : msg_kick = ""
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 121 : option inconnue pour la section "server_default" : msg_part = "WeeChat ${info:version}"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 122 : option inconnue pour la section "server_default" : msg_quit = "WeeChat ${info:version}"
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "oftc.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 179 : valeur invalide pour l'option : oftc.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "oftc.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 180 : valeur invalide pour l'option : oftc.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "oftc.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 181 : valeur invalide pour l'option : oftc.msg_quit
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "undernet.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 218 : valeur invalide pour l'option : undernet.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "undernet.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 219 : valeur invalide pour l'option : undernet.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "undernet.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 220 : valeur invalide pour l'option : undernet.msg_quit
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "abk.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 257 : valeur invalide pour l'option : abk.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "abk.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 258 : valeur invalide pour l'option : abk.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "abk.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 259 : valeur invalide pour l'option : abk.msg_quit
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "indymedia.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 296 : valeur invalide pour l'option : indymedia.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "indymedia.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 297 : valeur invalide pour l'option : indymedia.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "indymedia.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 298 : valeur invalide pour l'option : indymedia.msg_quit
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "freenode.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 335 : valeur invalide pour l'option : freenode.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "freenode.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 336 : valeur invalide pour l'option : freenode.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "freenode.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 337 : valeur invalide pour l'option : freenode.msg_quit
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "rizon.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 374 : valeur invalide pour l'option : rizon.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "rizon.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 375 : valeur invalide pour l'option : rizon.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "rizon.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 376 : valeur invalide pour l'option : rizon.msg_quit
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "bitlbee.msg_kick"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 413 : valeur invalide pour l'option : bitlbee.msg_kick
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "bitlbee.msg_part"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 414 : valeur invalide pour l'option : bitlbee.msg_part
+2016-11-17 10:04:45	=!=	irc : erreur de création de l'option serveur "bitlbee.msg_quit"
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 415 : valeur invalide pour l'option : bitlbee.msg_quit
+2016-11-17 10:04:45	=!=	Attention : /home/nrfrd/.weechat/relay.conf, ligne 21 : option inconnue pour la section "network" : allow_empty_password = off
+2016-11-17 10:04:45	=!=	WARNING: the script weeget.py is obsolete since WeeChat 0.3.9 (it is replaced by command /script)
+2016-11-17 10:04:45	=!=	To uninstall weeget.py: /weeget remove weeget.py
+2016-11-17 10:04:45		Scripts python chargés : anotify, buffer_autoclose, colorize_nicks, go, histsearch, shortenurl, weeget
+2016-11-17 10:04:45		Scripts perl chargés : buddylist, buffers, iset, nickregain
+2016-11-17 10:04:45		script : téléchargement de la liste des scripts...
+2016-11-17 10:04:45		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-11-17 10:04:50		script : 328 scripts pour WeeChat 1.5
+2016-11-17 10:06:33		perl : scripts déchargés
+2016-11-17 10:06:33		fifo : tube fermé
+2016-11-17 10:06:33		python : scripts déchargés

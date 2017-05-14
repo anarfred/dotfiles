@@ -1,0 +1,917 @@
+2016-11-14 21:26:57	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #ubuntu
+2016-11-14 21:26:57	--	Topic for #ubuntu is "Official Ubuntu Support Channel | IRC Guidelines: http://ubottu.com/y/gl | This channel supports: Ubuntu and its official flavors, versions 12.04, 14.04, 16.04, 16.10 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: http://ubottu.com/y/irc | Pastes to http://paste.ubuntu.com/ | Download: http://ubottu.com/y/dl"
+2016-11-14 21:26:57	--	Topic set by dax (~dax@freenode/staff/dax) on jeu, 13 oct 2016 11:18:36
+2016-11-14 21:26:58	--	Channel #ubuntu: 1756 nicks (1 op, 0 voices, 1755 normals)
+2016-11-14 21:26:58	--	PvNotice(ChanServ): Welcome to #ubuntu! Please read the channel topic. This channel is logged. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+2016-11-14 21:26:58	--	URL for #ubuntu: http://www.ubuntu.com
+2016-11-14 21:26:59	--	Channel created on dim, 26 nov 2006 01:42:41
+2016-11-14 21:27:11	-->	Zesty_ (~Zesty@180.97.28.12) has joined #ubuntu
+2016-11-14 21:27:11	<--	Zesty_ (~Zesty@180.97.28.12) has quit (Changing host)
+2016-11-14 21:27:11	-->	Zesty_ (~Zesty@unaffiliated/zestybaby) has joined #ubuntu
+2016-11-14 21:27:30	-->	Leno (~Leno@139.226.141.23) has joined #ubuntu
+2016-11-14 21:28:05	<--	Pinkamena_D (~Pinkamena@69.136.102.83) has quit (Remote host closed the connection)
+2016-11-14 21:28:17	-->	Pinkamena_D (~Pinkamena@69.136.102.83) has joined #ubuntu
+2016-11-14 21:31:49	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #ubuntu
+2016-11-14 21:31:49	--	Topic for #ubuntu is "Official Ubuntu Support Channel | IRC Guidelines: http://ubottu.com/y/gl | This channel supports: Ubuntu and its official flavors, versions 12.04, 14.04, 16.04, 16.10 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: http://ubottu.com/y/irc | Pastes to http://paste.ubuntu.com/ | Download: http://ubottu.com/y/dl"
+2016-11-14 21:31:49	--	Topic set by dax (~dax@freenode/staff/dax) on jeu, 13 oct 2016 11:18:36
+2016-11-14 21:31:50	--	Channel #ubuntu: 1758 nicks (1 op, 0 voices, 1757 normals)
+2016-11-14 21:31:50	--	PvNotice(ChanServ): Welcome to #ubuntu! Please read the channel topic. This channel is logged. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+2016-11-14 21:31:50	--	URL for #ubuntu: http://www.ubuntu.com
+2016-11-14 21:31:50	<--	mikecmpbll (~mikecmpbl@ruby/staff/mikecmpbll) has quit (Quit: inabit. zz.)
+2016-11-14 21:31:51	--	Channel created on dim, 26 nov 2006 01:42:41
+2016-11-14 21:32:56	-->	mortalius__ (~mortalius@unaffiliated/mortalius) has joined #ubuntu
+2016-11-14 21:32:58	<--	Leno (~Leno@139.226.141.23) has quit (Remote host closed the connection)
+2016-11-14 21:33:01	<--	kchz (~dschulz@host-217.170.52.190.copaco.com.py) has quit (Client Quit)
+2016-11-14 21:33:57	<--	kyle__ (~kyle@schmitt.ninja) has quit (Quit: WeeChat 1.6)
+2016-11-14 21:34:05	-->	kyle (~kyle@schmitt.ninja) has joined #ubuntu
+2016-11-14 21:34:13	<--	mortalius_ (~mortalius@unaffiliated/mortalius) has quit (Ping timeout: 245 seconds)
+2016-11-14 21:34:26	--	kyle is now known as kyle__
+2016-11-14 21:37:30	<--	gulag2015 (~gulag2015@c-73-16-141-136.hsd1.nh.comcast.net) has quit (Ping timeout: 252 seconds)
+2016-11-14 21:37:32	<--	dodge29 (~matt@cpe-184-57-107-163.columbus.res.rr.com) has quit (Quit: Ex-Chat)
+2016-11-14 21:39:43	<--	xangua (uid19036@gateway/web/irccloud.com/x-vyzwoxgwpxtmnvcl) has quit (Quit: Connection closed for inactivity)
+2016-11-14 21:39:50	<--	pietilson (~pietilson@68-113-238-211.dhcp.stpt.wi.charter.com) has quit (Read error: Connection reset by peer)
+2016-11-14 21:42:10	-->	Akuw (~kenny@190.39.132.224) has joined #ubuntu
+2016-11-14 21:42:35	-->	D30 (~asterinux@210.213.86.122) has joined #ubuntu
+2016-11-14 21:42:47	<--	a7i3n (~a7i3n@76.14.41.27) has quit (Quit: WeeChat 1.4)
+2016-11-14 21:42:58	<--	kaxing (~kaxing@118-168-75-29.dynamic.hinet.net) has quit (Ping timeout: 245 seconds)
+2016-11-14 21:43:53	<--	nicolas__ (~nicolas@11.91.89.92.rev.sfr.net) has quit (Ping timeout: 260 seconds)
+2016-11-14 21:44:06	<--	GJdan (~dan@d64-180-22-165.bchsia.telus.net) has quit (Quit: WeeChat 1.7-dev)
+2016-11-14 21:44:16	-->	mEck0 (~mEck0@c-73f0e455.28-8-64736c10.cust.bredbandsbolaget.se) has joined #ubuntu
+2016-11-14 21:44:36	-->	bneo99 (~bneo99@62.185.50.60.cbj01-home.tm.net.my) has joined #ubuntu
+2016-11-14 21:44:46	-->	loliconnoisseur (~loliconno@217.115.122.29) has joined #ubuntu
+2016-11-14 21:44:51	-->	JustAnotherIdiot (~loser@im.from.the.gigamatrix.xyz) has joined #ubuntu
+2016-11-14 21:45:07	<--	loliconnoisseur (~loliconno@217.115.122.29) has quit (Client Quit)
+2016-11-14 21:45:21	-->	rocket__ (~rocket__@unaffiliated/rocket--/x-6233973) has joined #ubuntu
+2016-11-14 21:45:22	<--	SpeakerToMeat (~SpeakerTo@prgmr/customer/SpeakerToMeat) has quit (Ping timeout: 265 seconds)
+2016-11-14 21:45:39	rocket__	hi ubuntu login does not work anymore suddently
+2016-11-14 21:46:31	-->	farid_ (~farid@iv2-technologies-gw1.ter1.prb.par.cust.as8218.eu) has joined #ubuntu
+2016-11-14 21:47:17	-->	kenden__ (~dsps@85.211.212.210) has joined #ubuntu
+2016-11-14 21:47:35	-->	somsip (~somsip@node-876.pool-118-173.dynamic.totbb.net) has joined #ubuntu
+2016-11-14 21:47:43	rocket__	anyone?
+2016-11-14 21:48:23	-->	obZen (~quassel@209.95.50.162) has joined #ubuntu
+2016-11-14 21:48:42	<--	done (~pouet@89-92-35-83.hfc.dyn.abo.bbox.fr) has quit (Ping timeout: 246 seconds)
+2016-11-14 21:49:01	<--	mEck0 (~mEck0@c-73f0e455.28-8-64736c10.cust.bredbandsbolaget.se) has quit (Ping timeout: 260 seconds)
+2016-11-14 21:49:03	-->	ponyrider (~cf2iqx@unaffiliated/ponyrider) has joined #ubuntu
+2016-11-14 21:49:21	-->	done (~pouet@89-92-35-83.hfc.dyn.abo.bbox.fr) has joined #ubuntu
+2016-11-14 21:49:45	-->	SpeakerToMeat (~SpeakerTo@prgmr/customer/SpeakerToMeat) has joined #ubuntu
+2016-11-14 21:50:31	Bashing-om	rocket__: Were you sudo'n where you should not have ? show ' ls -al .ICEauthority .Xauthority ' Did you recently run updates and broke a proprietary driver ? show ' sudo lshw -C display ' in a pastebin .
+2016-11-14 21:50:34	-->	mike_ (~mike@206-47-13-106.dsl.ncf.ca) has joined #ubuntu
+2016-11-14 21:50:47	<--	kenden_ (~dsps@85.211.212.210) has quit (Ping timeout: 244 seconds)
+2016-11-14 21:50:57	--	mike_ is now known as Guest42888
+2016-11-14 21:51:14	-->	loliconnoisseur (~loliconno@217.115.122.29) has joined #ubuntu
+2016-11-14 21:51:53	<--	msjche (~msjche@unaffiliated/msjche) has quit (Ping timeout: 256 seconds)
+2016-11-14 21:52:01	-->	kak (kak@gateway/shell/fnordserver.eu/x-mbinzwjemmhaznvf) has joined #ubuntu
+2016-11-14 21:52:02	<--	loliconnoisseur (~loliconno@217.115.122.29) has quit (Client Quit)
+2016-11-14 21:52:12	-->	yennifer (yennifer@gateway/shell/fnordserver.eu/x-sqkrotyaifahsyok) has joined #ubuntu
+2016-11-14 21:52:13	-->	Dreaman (~one@87-126-4-239.ip.btc-net.bg) has joined #ubuntu
+2016-11-14 21:52:25	<--	Guest42888 (~mike@206-47-13-106.dsl.ncf.ca) has quit (Client Quit)
+2016-11-14 21:52:34	<--	Dreaman (~one@87-126-4-239.ip.btc-net.bg) has quit (Changing host)
+2016-11-14 21:52:34	-->	Dreaman (~one@unaffiliated/dreaman) has joined #ubuntu
+2016-11-14 21:52:45	<--	nils_ (~nils_@pdpc/supporter/35for7/nils) has quit (Ping timeout: 260 seconds)
+2016-11-14 21:53:07	-->	lilvim (lilvim@gateway/shell/fnordserver.eu/x-ukmoioidshmzkjxt) has joined #ubuntu
+2016-11-14 21:53:35	-->	ilken (ilken@gateway/shell/fnordserver.eu/x-jowailncwddatmmu) has joined #ubuntu
+2016-11-14 21:53:38	-->	hongna (~test@116.213.116.2) has joined #ubuntu
+2016-11-14 21:54:22	<--	janat08 (5f38fd76@gateway/web/freenode/ip.95.56.253.118) has quit (Quit: Page closed)
+2016-11-14 21:54:27	-->	loliconnoisseur (~loliconno@217.115.122.29) has joined #ubuntu
+2016-11-14 21:54:36	-->	nielsk (nielsk@gateway/shell/fnordserver.eu/x-phhatxwhqzsxuewp) has joined #ubuntu
+2016-11-14 21:54:38	-->	ktomz (ktom@gateway/shell/fnordserver.eu/x-eagiyvkchrmgreei) has joined #ubuntu
+2016-11-14 21:54:45	<--	loliconnoisseur (~loliconno@217.115.122.29) has quit (Client Quit)
+2016-11-14 21:55:02	<--	dreamon_ (~dreamon@unaffiliated/dreamon) has quit (Ping timeout: 265 seconds)
+2016-11-14 21:55:04	-->	Grorco (~Grorco@adsl-108-68-136-17.dsl.lgtpmi.sbcglobal.net) has joined #ubuntu
+2016-11-14 21:55:15	-->	Satyajit (Satyajit@gateway/shell/fnordserver.eu/x-buzvwryencafaqyw) has joined #ubuntu
+2016-11-14 21:55:19	-->	LegendThinker (LegendThin@gateway/shell/fnordserver.eu/x-grqklmruxyvzkfhl) has joined #ubuntu
+2016-11-14 21:55:46	-->	pauna (pauna@gateway/shell/fnordserver.eu/x-lagiczqgmoixyoul) has joined #ubuntu
+2016-11-14 21:55:56	rocket__	Bashing-om, i cant log in
+2016-11-14 21:56:04	rocket__	i think its the nvidia driver
+2016-11-14 21:56:09	<--	reisio (~reisio@unaffiliated/reisio) has quit (Quit: leaving)
+2016-11-14 21:56:10	rocket__	it worked just a minute before
+2016-11-14 21:56:15	rocket__	maybe some update dont know
+2016-11-14 21:56:30	rocket__	i enter credentials and it jumps back into login
+2016-11-14 21:56:57	-->	FunnyLookinHat (~funnylook@ubuntu/member/funnylookinhat) has joined #ubuntu
+2016-11-14 21:56:58	<--	talonz (~talonz@ppp118-208-240-50.bras1.hba2.internode.on.net) has quit (Ping timeout: 265 seconds)
+2016-11-14 21:56:59	rocket__	it just worked a minute before
+2016-11-14 21:57:09	Bashing-om	rocket__: At the login screen, key combo crl+alt+F1 -> console interface . login here with your credentials .
+2016-11-14 21:57:10	rocket__	i even turned off login
+2016-11-14 21:57:10	<--	fels (~fels@213.137.8.154) has quit (Remote host closed the connection)
+2016-11-14 21:57:19	rocket__	it does not work as well
+2016-11-14 21:57:25	rocket__	it says wrong password
+2016-11-14 21:57:26	-->	Guest16051 (~alpha@103.212.147.96) has joined #ubuntu
+2016-11-14 21:57:31	rocket__	but i can try again
+2016-11-14 21:57:35	kenrin	you forget your password?
+2016-11-14 21:57:45	rocket__	no
+2016-11-14 21:57:54	rocket__	i even turned off login at the start
+2016-11-14 21:57:58	rocket__	no i didnt
+2016-11-14 21:58:02	rocket__	something is wrong
+2016-11-14 21:58:14	-->	zel (drzel@gateway/shell/fnordserver.eu/x-anhfwfmjkswskvsx) has joined #ubuntu
+2016-11-14 21:58:36	--	zel is now known as Guest1564
+2016-11-14 21:58:39	rocket__	well will try again tomorrow at least i have to use the resume shell
+2016-11-14 21:58:44	rocket__	root shell
+2016-11-14 21:58:45	-->	fels (~fels@213.137.8.154) has joined #ubuntu
+2016-11-14 21:59:41	-->	Alphard (alphard@gateway/shell/fnordserver.eu/x-rcjmkpgcmfbkfziv) has joined #ubuntu
+2016-11-14 21:59:42	<--	Alphard (alphard@gateway/shell/fnordserver.eu/x-rcjmkpgcmfbkfziv) has quit (Changing host)
+2016-11-14 21:59:42	-->	Alphard (alphard@unaffiliated/baronawesome) has joined #ubuntu
+2016-11-14 21:59:42	<--	Alphard (alphard@unaffiliated/baronawesome) has quit (Changing host)
+2016-11-14 21:59:42	-->	Alphard (alphard@gateway/shell/fnordserver.eu/x-rcjmkpgcmfbkfziv) has joined #ubuntu
+2016-11-14 21:59:43	-->	patadasAlHigado (~patadasAl@199.38.102.125) has joined #ubuntu
+2016-11-14 22:00:01	<--	rimd2r (~rimd2r@tm.rimd2r.info) has quit (Quit: Tiarra 0.1+svn-39209M: SIGTERM received; exit)
+2016-11-14 22:00:21	<--	Bashing-om (~sysop@ubuntu/member/bashing-om) has left #ubuntu ("Nighty nite all")
+2016-11-14 22:00:25	-->	talonz (~talonz@ppp118-208-240-50.bras1.hba2.internode.on.net) has joined #ubuntu
+2016-11-14 22:00:42	-->	bytetrial (~guest@97.65.103.250) has joined #ubuntu
+2016-11-14 22:01:02	<--	Grorco (~Grorco@adsl-108-68-136-17.dsl.lgtpmi.sbcglobal.net) has quit (Read error: Connection reset by peer)
+2016-11-14 22:01:05	<--	bytetrial (~guest@97.65.103.250) has quit (Remote host closed the connection)
+2016-11-14 22:01:10	-->	rimd2r (~rimd2r@tm.rimd2r.info) has joined #ubuntu
+2016-11-14 22:01:18	<--	Wizek (~Wizek@catv-89-132-132-110.catv.broadband.hu) has quit (Ping timeout: 245 seconds)
+2016-11-14 22:01:23	<--	slashedzero1 (~richard@c-73-192-217-14.hsd1.ca.comcast.net) has quit (Ping timeout: 258 seconds)
+2016-11-14 22:01:34	-->	dreamon_ (~dreamon@unaffiliated/dreamon) has joined #ubuntu
+2016-11-14 22:02:18	-->	slashedzero1 (~richard@c-73-192-217-14.hsd1.ca.comcast.net) has joined #ubuntu
+2016-11-14 22:02:21	-->	liuxg (~liuxg@221.223.113.8) has joined #ubuntu
+2016-11-14 22:02:23	-->	maccam94 (~cam@pool-108-8-234-37.spfdma.east.verizon.net) has joined #ubuntu
+2016-11-14 22:03:01	<--	FunnyLookinHat (~funnylook@ubuntu/member/funnylookinhat) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:03:33	<--	fels (~fels@213.137.8.154) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:04:20	<--	Sven_vB (kisl@gateway/shell/fnordserver.eu/x-ytkzfqjlahejyuqj) has quit (Max SendQ exceeded)
+2016-11-14 22:04:28	-->	Sven_vB (kisl@gateway/shell/fnordserver.eu/x-bvvxabgkqpfjaygo) has joined #ubuntu
+2016-11-14 22:04:50	-->	quesada__ (~quesada@x4db44aff.dyn.telefonica.de) has joined #ubuntu
+2016-11-14 22:05:10	<--	svm_invictvs (~patrick@unaffiliated/svminvictvs/x-938456) has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+2016-11-14 22:05:24	-->	varx (~claydavi@50-90-145-254.res.bhn.net) has joined #ubuntu
+2016-11-14 22:05:31	-->	nils_ (~nils_@pdpc/supporter/35for7/nils) has joined #ubuntu
+2016-11-14 22:06:05	<--	rocket__ (~rocket__@unaffiliated/rocket--/x-6233973) has quit (Read error: Connection reset by peer)
+2016-11-14 22:06:25	-->	muchmoist (~muchmoist@66.228.60.28) has joined #ubuntu
+2016-11-14 22:06:27	-->	xangua (uid19036@gateway/web/irccloud.com/x-cmcknmycyynhumaw) has joined #ubuntu
+2016-11-14 22:06:36	-->	the_ant (~Thunderbi@27.131.2.26) has joined #ubuntu
+2016-11-14 22:06:39	<--	muchmoist (~muchmoist@66.228.60.28) has left #ubuntu
+2016-11-14 22:07:08	-->	EoN (~EoN@unaffiliated/eon) has joined #ubuntu
+2016-11-14 22:07:17	<--	batteronizer (~abhishek@182.69.92.127) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:07:17	<--	mingming (~mingming@static-50-53-92-112.bvtn.or.frontiernet.net) has quit (Ping timeout: 240 seconds)
+2016-11-14 22:07:32	-->	venmx (~pactadmin@host86-173-114-90.range86-173.btcentralplus.com) has joined #ubuntu
+2016-11-14 22:07:44	-->	manish (~manish@110.44.127.204) has joined #ubuntu
+2016-11-14 22:07:54	-->	aavrug (~gaurav@117.240.170.130) has joined #ubuntu
+2016-11-14 22:08:20	<--	Colti (Miramar-FL@2a00:c1e0:0:2:0:1:208:ab5e) has quit (Excess Flood)
+2016-11-14 22:08:21	<--	quesada_ (~quesada@x4db4473b.dyn.telefonica.de) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:08:25	-->	GJdan (~dan@d64-180-22-165.bchsia.telus.net) has joined #ubuntu
+2016-11-14 22:08:55	<--	huayra (~huayra@ubuntu/member/hubuntu) has quit (Remote host closed the connection)
+2016-11-14 22:09:23	-->	Colti (Miramar-FL@2a00:c1e0:0:2:0:1:208:ab5e) has joined #ubuntu
+2016-11-14 22:09:51	<--	n0wje (~anthony@71-36-56-170.albq.qwest.net) has quit (Remote host closed the connection)
+2016-11-14 22:10:17	<--	boost (~jsierra@ool-43555901.dyn.optonline.net) has quit (Ping timeout: 240 seconds)
+2016-11-14 22:10:29	<--	blackwind_123 (~IceChat9@59.99.105.59) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:10:44	<--	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has quit (Remote host closed the connection)
+2016-11-14 22:11:27	<--	axisys (~axisys@unaffiliated/axisys) has quit (Ping timeout: 244 seconds)
+2016-11-14 22:12:18	-->	boost (~jsierra@ool-43555901.dyn.optonline.net) has joined #ubuntu
+2016-11-14 22:12:21	-->	blackwind_123 (~IceChat9@117.192.154.120) has joined #ubuntu
+2016-11-14 22:12:32	<--	venmx (~pactadmin@host86-173-114-90.range86-173.btcentralplus.com) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:13:38	-->	raspado (~raspado@198.8.80.150) has joined #ubuntu
+2016-11-14 22:14:24	-->	mizu_no_oto (~textual@c-50-177-170-9.hsd1.ma.comcast.net) has joined #ubuntu
+2016-11-14 22:15:04	-->	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has joined #ubuntu
+2016-11-14 22:16:00	<--	D30 (~asterinux@210.213.86.122) has quit (Quit: Ex-Chat)
+2016-11-14 22:17:49	<--	mizu_no_oto (~textual@c-50-177-170-9.hsd1.ma.comcast.net) has quit (Client Quit)
+2016-11-14 22:18:06	<--	yinflying2016 (~yinfei@58.48.110.168) has quit (Ping timeout: 246 seconds)
+2016-11-14 22:18:06	-->	manish_ (~manish@202.166.213.196) has joined #ubuntu
+2016-11-14 22:18:55	-->	angrycoast (~steve@2601:187:8100:7652:b872:e20c:1858:23cc) has joined #ubuntu
+2016-11-14 22:18:59	-->	cruzes (~admin@191.8.35.223) has joined #ubuntu
+2016-11-14 22:19:02	-->	blackhole (~smuxi@CPE00fc8de45fb3-CM00fc8de45fb0.cpe.net.cable.rogers.com) has joined #ubuntu
+2016-11-14 22:19:26	--	blackhole is now known as Guest83693
+2016-11-14 22:19:42	-->	aus_mal (~aus_mal@unaffiliated/aus-mal/x-4574378) has joined #ubuntu
+2016-11-14 22:20:45	<--	manish (~manish@110.44.127.204) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:20:59	<--	pauljw (~pauljw@104.200.154.41) has quit (Quit: Leaving)
+2016-11-14 22:21:45	<--	cruzes (~admin@191.8.35.223) has quit (Quit: WeeChat 1.0.1)
+2016-11-14 22:22:41	aus_mal	Hi everyone.  Firefox is very slow to start up, even after a fresh OS install. No other browser I've tried has this problem. Has anyone else encountered this and knows of a workaround?
+2016-11-14 22:22:50	-->	DocPlatypus (~skquinn@c-73-6-60-72.hsd1.tx.comcast.net) has joined #ubuntu
+2016-11-14 22:23:04	DocPlatypus	okay, Bluetooth troubles continue after the upgrade to 16.04
+2016-11-14 22:23:18	DocPlatypus	phone can't send files to laptop anymore
+2016-11-14 22:24:58	-->	batteronizer (~abhishek@182.69.92.127) has joined #ubuntu
+2016-11-14 22:25:57	<--	tmartins (~tmartins@2607:fea8:1d60:d66::6) has quit (Ping timeout: 240 seconds)
+2016-11-14 22:26:21	-->	tmartins (~tmartins@2607:fea8:1d60:d66::6) has joined #ubuntu
+2016-11-14 22:26:41	<--	mrJack (~Thunderbi@2a02:2168:d0e:1200:e0b8:23a6:4748:283) has quit (Quit: mrJack)
+2016-11-14 22:26:43	<--	tmartins (~tmartins@2607:fea8:1d60:d66::6) has quit (Max SendQ exceeded)
+2016-11-14 22:27:23	<--	lsv (~nn@CPE1cabc064a733-CM1cabc064a730.cpe.net.cable.rogers.com) has quit (Read error: Connection reset by peer)
+2016-11-14 22:27:45	<--	forkup (~chillen@unaffiliated/forkup) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:27:49	-->	tmartins (~tmartins@2607:fea8:1d60:d66::6) has joined #ubuntu
+2016-11-14 22:27:52	-->	nomic (~nomic@host81-151-166-227.range81-151.btcentralplus.com) has joined #ubuntu
+2016-11-14 22:28:02	-->	forkup (~chillen@unaffiliated/forkup) has joined #ubuntu
+2016-11-14 22:28:09	<--	tmartins (~tmartins@2607:fea8:1d60:d66::6) has quit (Max SendQ exceeded)
+2016-11-14 22:28:51	-->	tmartins (~tmartins@2607:fea8:1d60:d66::6) has joined #ubuntu
+2016-11-14 22:29:15	<--	tmartins (~tmartins@2607:fea8:1d60:d66::6) has quit (Max SendQ exceeded)
+2016-11-14 22:29:26	<--	saschpe (~saschpe@opensuse/member/saschpe) has quit (Ping timeout: 264 seconds)
+2016-11-14 22:29:27	-->	rocket__ (~rocket__@unaffiliated/rocket--/x-6233973) has joined #ubuntu
+2016-11-14 22:29:34	rocket__	it was a driver issue
+2016-11-14 22:29:50	rocket__	well i have to say drivers and linux work better but still its not optimal
+2016-11-14 22:29:51	-->	saschpe_ (~saschpe@opensuse/member/saschpe) has joined #ubuntu
+2016-11-14 22:29:51	-->	tmartins (~tmartins@2607:fea8:1d60:d66::6) has joined #ubuntu
+2016-11-14 22:29:57	rocket__	my printer does not work well
+2016-11-14 22:30:05	--	saschpe_ is now known as saschpe
+2016-11-14 22:30:05	<--	manish_ (~manish@202.166.213.196) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:30:09	rocket__	and now the gpu driver just didnt work
+2016-11-14 22:30:13	<--	chachasmooth (~chachasmo@unaffiliated/chachasmooth) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:30:14	rocket__	without any reason
+2016-11-14 22:30:14	<--	tmartins (~tmartins@2607:fea8:1d60:d66::6) has quit (Max SendQ exceeded)
+2016-11-14 22:30:56	-->	tmartins (~tmartins@2607:fea8:1d60:d66::6) has joined #ubuntu
+2016-11-14 22:31:01	<--	blackwind_123 (~IceChat9@117.192.154.120) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:31:08	stan_man_can	is it best to configure iptables with iptables-restore or ufw?
+2016-11-14 22:31:17	-->	yinflying2016 (~yinfei@58.48.110.168) has joined #ubuntu
+2016-11-14 22:31:21	<--	tmartins (~tmartins@2607:fea8:1d60:d66::6) has quit (Max SendQ exceeded)
+2016-11-14 22:31:43	<--	nomic (~nomic@host81-151-166-227.range81-151.btcentralplus.com) has quit (Client Quit)
+2016-11-14 22:32:10	-->	kenden_ (~dsps@85.211.212.210) has joined #ubuntu
+2016-11-14 22:32:38	<--	somsip (~somsip@node-876.pool-118-173.dynamic.totbb.net) has quit (Ping timeout: 244 seconds)
+2016-11-14 22:33:12	-->	nukeez (~nukeez@209-15-78-21.resi.cgocable.ca) has joined #ubuntu
+2016-11-14 22:33:24	-->	blackwind_123 (~IceChat9@117.192.155.37) has joined #ubuntu
+2016-11-14 22:34:36	DocPlatypus	what is the first step to diagnosing Bluetooth problems?
+2016-11-14 22:34:55	<--	BurtReynolds (~computer@ip68-227-164-181.om.om.cox.net) has quit (Remote host closed the connection)
+2016-11-14 22:34:58	-->	chachasmooth (~chachasmo@unaffiliated/chachasmooth) has joined #ubuntu
+2016-11-14 22:35:01	<--	sab (~sab@cable-static-142-158.teleport.ch) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:35:11	<--	Guest83693 (~smuxi@CPE00fc8de45fb3-CM00fc8de45fb0.cpe.net.cable.rogers.com) has quit (Ping timeout: 268 seconds)
+2016-11-14 22:35:33	<--	kenden__ (~dsps@85.211.212.210) has quit (Ping timeout: 248 seconds)
+2016-11-14 22:35:34	<--	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has quit (Ping timeout: 245 seconds)
+2016-11-14 22:36:01	-->	sab (~sab@cable-static-142-158.teleport.ch) has joined #ubuntu
+2016-11-14 22:37:05	<--	stryx` (~stryx@unaffiliated/stryx/x-3871776) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:37:08	<--	rodsmith (~rodsmith@ip68-228-155-77.ri.ri.cox.net) has quit (Remote host closed the connection)
+2016-11-14 22:37:47	<--	Akuw (~kenny@190.39.132.224) has quit (Ping timeout: 256 seconds)
+2016-11-14 22:37:48	<--	kostkon (~kostkon@host86-189-137-108.range86-189.btcentralplus.com) has quit (Ping timeout: 258 seconds)
+2016-11-14 22:38:21	-->	Coyz (617e78f2@gateway/web/freenode/ip.97.126.120.242) has joined #ubuntu
+2016-11-14 22:38:29	-->	stryx` (~stryx@unaffiliated/stryx/x-3871776) has joined #ubuntu
+2016-11-14 22:38:31	Coyz	hello
+2016-11-14 22:39:16	-->	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has joined #ubuntu
+2016-11-14 22:39:32	--	irc: disconnected from server
+2016-11-14 22:39:50	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #ubuntu
+2016-11-14 22:39:50	--	Topic for #ubuntu is "Official Ubuntu Support Channel | IRC Guidelines: http://ubottu.com/y/gl | This channel supports: Ubuntu and its official flavors, versions 12.04, 14.04, 16.04, 16.10 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: http://ubottu.com/y/irc | Pastes to http://paste.ubuntu.com/ | Download: http://ubottu.com/y/dl"
+2016-11-14 22:39:50	--	Topic set by dax (~dax@freenode/staff/dax) on jeu, 13 oct 2016 11:18:36
+2016-11-14 22:39:50	--	Channel #ubuntu: 1764 nicks (1 op, 0 voices, 1763 normals)
+2016-11-14 22:39:50	--	PvNotice(ChanServ): Welcome to #ubuntu! Please read the channel topic. This channel is logged. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+2016-11-14 22:39:50	--	URL for #ubuntu: http://www.ubuntu.com
+2016-11-14 22:39:50	--	Channel created on dim, 26 nov 2006 01:42:41
+2016-11-14 22:40:23	<--	Coyz (617e78f2@gateway/web/freenode/ip.97.126.120.242) has quit (Client Quit)
+2016-11-14 22:40:28	<--	nukeez (~nukeez@209-15-78-21.resi.cgocable.ca) has left #ubuntu
+2016-11-14 22:41:30	<--	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has quit (Remote host closed the connection)
+2016-11-14 22:42:07	<--	ejuan (~ethan@75-128-115-105.dhcp.aldl.mi.charter.com) has quit (Quit: Leaving)
+2016-11-14 22:42:28	-->	kaxing (~kaxing@175.41.48.77) has joined #ubuntu
+2016-11-14 22:42:47	<--	eelstrebor (~eelstrebo@216.75.116.100) has quit (Quit: Ex-Chat)
+2016-11-14 22:44:01	-->	tieinv (~tieinv@S0106bcee7b6f7560.vf.shawcable.net) has joined #ubuntu
+2016-11-14 22:45:01	-->	mEck0 (~mEck0@c-73f0e455.28-8-64736c10.cust.bredbandsbolaget.se) has joined #ubuntu
+2016-11-14 22:45:01	<--	Spr1ng (~Spr1ng@unaffiliated/spr1ng) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:46:00	-->	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has joined #ubuntu
+2016-11-14 22:46:42	-->	Spr1ng (~Spr1ng@unaffiliated/spr1ng) has joined #ubuntu
+2016-11-14 22:46:45	-->	Gnomethrower (~B@unaffiliated/gnomethrower) has joined #ubuntu
+2016-11-14 22:47:06	<--	EoN (~EoN@unaffiliated/eon) has quit (Ping timeout: 244 seconds)
+2016-11-14 22:47:21	<--	blackwind_123 (~IceChat9@117.192.155.37) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:48:00	-->	panikovsky (~panikovsk@31.23.126.191) has joined #ubuntu
+2016-11-14 22:48:08	-->	greydawg (~naveen@103.211.76.92) has joined #ubuntu
+2016-11-14 22:48:53	-->	victorp_ (~victorp@cpc65478-bmly8-2-0-cust106.2-3.cable.virginm.net) has joined #ubuntu
+2016-11-14 22:48:55	<--	victorp (~victorp@cpc65478-bmly8-2-0-cust106.2-3.cable.virginm.net) has quit (Read error: Connection reset by peer)
+2016-11-14 22:49:21	-->	manish_ (~manish@110.44.127.204) has joined #ubuntu
+2016-11-14 22:49:34	<--	mEck0 (~mEck0@c-73f0e455.28-8-64736c10.cust.bredbandsbolaget.se) has quit (Ping timeout: 256 seconds)
+2016-11-14 22:49:39	<--	michaelni (~michael@213-47-41-20.cable.dynamic.surfer.at) has quit (Ping timeout: 265 seconds)
+2016-11-14 22:49:43	<--	Ferendevelop (~Ferendeve@211.117.118.113) has quit (Ping timeout: 252 seconds)
+2016-11-14 22:50:17	-->	smoon (68002d79@gateway/web/cgi-irc/kiwiirc.com/ip.104.0.45.121) has joined #ubuntu
+2016-11-14 22:50:30	smoon	how do i change the order of library paths ubuntu evaluates for C++ libraries?
+2016-11-14 22:50:47	smoon	i want /usr/local/lib to be the first path checked :/ failing to link to a library because it's using the system path instead of /usr/local/lib
+2016-11-14 22:50:51	<--	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has quit (Remote host closed the connection)
+2016-11-14 22:51:33	<--	scottschecter (~scottsche@c-76-115-234-122.hsd1.or.comcast.net) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:51:35	<--	lanking (~lanking@112.95.233.137) has quit (Ping timeout: 265 seconds)
+2016-11-14 22:52:13	-->	sab__ (~sab@87.102.142.158) has joined #ubuntu
+2016-11-14 22:52:13	<--	sab (~sab@cable-static-142-158.teleport.ch) has quit (Disconnected by services)
+2016-11-14 22:52:40	-->	reisio (~reisio@unaffiliated/reisio) has joined #ubuntu
+2016-11-14 22:53:31	<--	laza (~laza@b2b-130-180-1-210.unitymedia.biz) has quit (Ping timeout: 265 seconds)
+2016-11-14 22:53:39	<--	obZen (~quassel@209.95.50.162) has quit (Read error: Connection reset by peer)
+2016-11-14 22:54:00	<--	kaxing (~kaxing@175.41.48.77) has quit (Ping timeout: 260 seconds)
+2016-11-14 22:54:18	<--	Hellosun_ (~Hellosun@moon.cse.yzu.edu.tw) has quit (Ping timeout: 268 seconds)
+2016-11-14 22:54:33	-->	blackwind_123 (~IceChat9@103.62.71.209) has joined #ubuntu
+2016-11-14 22:54:44	<--	tieinv (~tieinv@S0106bcee7b6f7560.vf.shawcable.net) has quit (Quit: Leaving)
+2016-11-14 22:55:15	-->	laza (~laza@b2b-130-180-1-210.unitymedia.biz) has joined #ubuntu
+2016-11-14 22:55:58	-->	sab (~sab@cable-static-142-158.teleport.ch) has joined #ubuntu
+2016-11-14 22:56:24	<--	sab__ (~sab@87.102.142.158) has quit (Ping timeout: 244 seconds)
+2016-11-14 22:56:43	-->	obZen (~quassel@209.95.50.145) has joined #ubuntu
+2016-11-14 22:56:50	smoon	i've tried configuring LD_CONFIG_PATH and ld.conf.do
+2016-11-14 22:56:51	smoon	.so*
+2016-11-14 22:56:52	<--	kamdard (~kamdard@47.187.195.142) has quit (Ping timeout: 250 seconds)
+2016-11-14 22:57:19	<--	rocket__ (~rocket__@unaffiliated/rocket--/x-6233973) has quit (Read error: Connection reset by peer)
+2016-11-14 22:58:00	-->	dm_comp (~dm_comp@c-24-8-163-153.hsd1.co.comcast.net) has joined #ubuntu
+2016-11-14 22:59:10	-->	mewecoffee (~mewecoffe@ip98-176-60-217.sd.sd.cox.net) has joined #ubuntu
+2016-11-14 22:59:11	-->	FunnyLookinHat (~funnylook@ubuntu/member/funnylookinhat) has joined #ubuntu
+2016-11-14 22:59:18	dm_comp	any emacs fans! for some reason when try to M-> to get to the end of buffer I get no results. Am I missing something?
+2016-11-14 22:59:38	dm_comp	I'm on ubuntu 16.10
+2016-11-14 22:59:50	-->	Hellosun_ (~Hellosun@140.138.144.150) has joined #ubuntu
+2016-11-14 23:00:01	dm_comp	Also, I can't send to emacs channel :(
+2016-11-14 23:00:06	-->	gregoire_ (~gregoire@119-46-60-66.static.asianet.co.th) has joined #ubuntu
+2016-11-14 23:00:10	-->	gregoire__ (~gregoire@119-46-60-66.static.asianet.co.th) has joined #ubuntu
+2016-11-14 23:00:20	-->	somsip (~somsip@node-8ld.pool-118-173.dynamic.totbb.net) has joined #ubuntu
+2016-11-14 23:00:21	<--	Sparklyballs (~sparklyba@unaffiliated/sparklyballs) has quit (Quit: Outta here folks....)
+2016-11-14 23:00:33	dm_comp	also is -> arrow key or M and ">"?
+2016-11-14 23:00:34	-->	ilfantomas (~chatzilla@ool-457a3c53.dyn.optonline.net) has joined #ubuntu
+2016-11-14 23:01:02	<--	gregoire__ (~gregoire@119-46-60-66.static.asianet.co.th) has quit (Client Quit)
+2016-11-14 23:01:16	-->	Sparklyballs (~sparklyba@unaffiliated/sparklyballs) has joined #ubuntu
+2016-11-14 23:02:00	-->	michaelni (~michael@213-47-41-20.cable.dynamic.surfer.at) has joined #ubuntu
+2016-11-14 23:02:08	-->	ChaiTRex (~ChaiTRex@gateway/tor-sasl/chaitrex) has joined #ubuntu
+2016-11-14 23:02:19	<--	blackwind_123 (~IceChat9@103.62.71.209) has quit (Ping timeout: 268 seconds)
+2016-11-14 23:02:28	<--	FunnyLookinHat (~funnylook@ubuntu/member/funnylookinhat) has quit (Remote host closed the connection)
+2016-11-14 23:02:41	-->	FunnyLookinHat (~funnylook@ubuntu/member/funnylookinhat) has joined #ubuntu
+2016-11-14 23:02:56	<--	aus_mal (~aus_mal@unaffiliated/aus-mal/x-4574378) has quit (Quit: Leaving)
+2016-11-14 23:02:58	<--	zoolook (~zoolook@host81.190-231-200.telecom.net.ar) has quit (Quit: Konversation terminated!)
+2016-11-14 23:03:42	<--	negronjl (~negronjl@pool-74-101-16-132.nycmny.fios.verizon.net) has quit (Read error: Connection reset by peer)
+2016-11-14 23:04:06	<--	nullniverse (~nalik891@unaffiliated/nullniverse) has quit (Quit: Leaving)
+2016-11-14 23:04:07	-->	cyphase_ (~cyphase@c-50-148-131-137.hsd1.ca.comcast.net) has joined #ubuntu
+2016-11-14 23:04:24	-->	blackwind_123 (~IceChat9@117.192.159.185) has joined #ubuntu
+2016-11-14 23:04:55	-->	irishfromua (~irish@193.108.249.183) has joined #ubuntu
+2016-11-14 23:05:00	-->	Grorco (~Grorco@adsl-108-68-136-17.dsl.lgtpmi.sbcglobal.net) has joined #ubuntu
+2016-11-14 23:05:12	-->	greta_samsa (~greta@64.106.56.130) has joined #ubuntu
+2016-11-14 23:05:44	<--	irishfromua (~irish@193.108.249.183) has quit (Remote host closed the connection)
+2016-11-14 23:05:46	-->	dkam (~dkam@203-214-129-61.perm.iinet.net.au) has joined #ubuntu
+2016-11-14 23:06:29	greta_samsa	What will the device name (in /dev) be for a USB Storage device?
+2016-11-14 23:06:57	<--	cyphase (~cyphase@unaffiliated/cyphase) has quit (Ping timeout: 260 seconds)
+2016-11-14 23:07:14	-->	kaxing (~kaxing@175.41.48.77) has joined #ubuntu
+2016-11-14 23:07:36	<--	sab (~sab@cable-static-142-158.teleport.ch) has quit (Ping timeout: 260 seconds)
+2016-11-14 23:07:39	<--	Grorco (~Grorco@adsl-108-68-136-17.dsl.lgtpmi.sbcglobal.net) has quit (Read error: Connection reset by peer)
+2016-11-14 23:07:39	reisio	greta_samsa: it'll vary
+2016-11-14 23:07:50	reisio	greta_samsa: lsblk -f will say, or sudo blkid
+2016-11-14 23:07:50	bgdnvst	greta_samsa: in my case, they're named with the following letters, as SDA and SDB are my SSD and an internal HDD, my USB key would be named SDC
+2016-11-14 23:07:58	reisio	greta_samsa: usually they'll show up in your file manager, too
+2016-11-14 23:08:01	<--	kk4ewt (~notfred2@fedora/Southern-Gentleman) has quit (Remote host closed the connection)
+2016-11-14 23:08:04	<--	jackyu (~jackyu@218.76.23.26) has quit (Ping timeout: 260 seconds)
+2016-11-14 23:08:10	-->	Grorco (~Grorco@adsl-108-68-136-17.dsl.lgtpmi.sbcglobal.net) has joined #ubuntu
+2016-11-14 23:08:23	reisio	fatlabel /dev/foo# FATISDUMBUSB
+2016-11-14 23:08:26	greta_samsa	My file manager isn't set up to mount them automatically, unfortunately.
+2016-11-14 23:08:31	greta_samsa	Thanks, everyone.
+2016-11-14 23:08:48	reisio	that's not unfortunate
+2016-11-14 23:08:53	reisio	but it will probably still show them
+2016-11-14 23:09:00	-->	Rokixz (~rokas@5.199.160.9) has joined #ubuntu
+2016-11-14 23:09:30	bgdnvst	greta_samsa: what are you using?
+2016-11-14 23:09:31	<--	Jlye (~JtLivelye@cpe-74-79-203-131.twcny.res.rr.com) has quit (Ping timeout: 252 seconds)
+2016-11-14 23:09:37	<--	CAPITANOOO (~CAPITANOO@host122-156-static.117-2-b.business.telecomitalia.it) has quit (Ping timeout: 240 seconds)
+2016-11-14 23:09:49	-->	superguest (~fkl@162.221.126.161) has joined #ubuntu
+2016-11-14 23:10:10	greta_samsa	bgdnvst: I'm running Server 16.04 (LTS).
+2016-11-14 23:10:16	-->	EoN (~EoN@unaffiliated/eon) has joined #ubuntu
+2016-11-14 23:10:28	bgdnvst	greta_samsa: I meant, as your file manager
+2016-11-14 23:11:26	-->	cyphase (~cyphase@unaffiliated/cyphase) has joined #ubuntu
+2016-11-14 23:11:28	-->	sab (~sab@cable-static-142-158.teleport.ch) has joined #ubuntu
+2016-11-14 23:11:34	-->	moises (~moises@2600:8800:520b:6900:6495:56ed:3f79:ea5e) has joined #ubuntu
+2016-11-14 23:11:46	greta_samsa	bgdnvst: In that case, ls, rm, cd, etc, mount, etc.
+2016-11-14 23:12:18	<--	smoon (68002d79@gateway/web/cgi-irc/kiwiirc.com/ip.104.0.45.121) has quit (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+2016-11-14 23:13:16	-->	RadioNova327 (~TStaley32@174-84-202-214.res.bhn.net) has joined #ubuntu
+2016-11-14 23:13:28	bgdnvst	greta_samsa: Ok, probably somebody else would be more comfortable to answer you, I rarely mount anything manually with cli tools. Good luck
+2016-11-14 23:14:02	<--	batteronizer (~abhishek@182.69.92.127) has quit (Ping timeout: 268 seconds)
+2016-11-14 23:14:03	greta_samsa	bgdnvst: I think I've got it from here. Thanks!
+2016-11-14 23:14:06	mwd	greta_samsa, if you find the UUID you can add an entry to /etc/fstab
+2016-11-14 23:14:26	<--	Dreaman (~one@unaffiliated/dreaman) has quit (Quit: Leaving)
+2016-11-14 23:14:27	<--	moises (~moises@2600:8800:520b:6900:6495:56ed:3f79:ea5e) has quit (Client Quit)
+2016-11-14 23:14:37	-->	fuzzybear (~fuzzybear@135-23-127-15.cpe.pppoe.ca) has joined #ubuntu
+2016-11-14 23:14:52	greta_samsa	mwd: In this case I just have to copy a single file (my ssh pubkey) to use Core.
+2016-11-14 23:14:54	<--	Tims_Tech (~Tims_Tech@unaffiliated/tims-tech) has quit (Remote host closed the connection)
+2016-11-14 23:15:15	-->	Tims_Tech (~Tims_Tech@unaffiliated/tims-tech) has joined #ubuntu
+2016-11-14 23:15:19	greta_samsa	mwd: But I'll remember how to automount stuff, thanks.
+2016-11-14 23:15:23	mwd	ah, i thought you were looking to make it automount
+2016-11-14 23:15:24	mwd	ok
+2016-11-14 23:16:14	<--	ilfantomas (~chatzilla@ool-457a3c53.dyn.optonline.net) has quit (Ping timeout: 256 seconds)
+2016-11-14 23:16:29	<--	fuzzybear3965 (~fuzzybear@135-23-127-15.cpe.pppoe.ca) has quit (Ping timeout: 265 seconds)
+2016-11-14 23:16:51	<--	greta_samsa (~greta@64.106.56.130) has left #ubuntu
+2016-11-14 23:17:55	-->	zacharypch (~zak@pool-108-45-126-100.washdc.fios.verizon.net) has joined #ubuntu
+2016-11-14 23:17:55	<--	varx (~claydavi@50-90-145-254.res.bhn.net) has quit (Quit: Ex-Chat)
+2016-11-14 23:18:02	-->	xorte (~alex@c-73-132-210-218.hsd1.dc.comcast.net) has joined #ubuntu
+2016-11-14 23:18:12	-->	singam (ca58f68c@gateway/web/cgi-irc/kiwiirc.com/ip.202.88.246.140) has joined #ubuntu
+2016-11-14 23:18:18	-->	deidyomega (46be89b2@gateway/web/freenode/ip.70.190.137.178) has joined #ubuntu
+2016-11-14 23:18:20	singam	halo
+2016-11-14 23:18:22	-->	tweaker (~tweaker@213.184.127.43) has joined #ubuntu
+2016-11-14 23:18:41	deidyomega	How often does ubuntu update "/sys/class/power_supply/BAT0/charge_now"?
+2016-11-14 23:19:25	-->	fungmen (cb805964@gateway/web/cgi-irc/kiwiirc.com/ip.203.128.89.100) has joined #ubuntu
+2016-11-14 23:19:34	Ben64	it would update when it changes
+2016-11-14 23:19:35	deidyomega	It seems to be around ~5 seconds or so
+2016-11-14 23:19:44	-->	SkyRocknRoll (~SkyRocknR@unaffiliated/skyrocknroll) has joined #ubuntu
+2016-11-14 23:19:48	fungmen	testing
+2016-11-14 23:19:49	-->	uhhf (~Thunderbi@123.120.64.96) has joined #ubuntu
+2016-11-14 23:19:52	fungmen	anyone here ?
+2016-11-14 23:19:57	Ben64	1769 people
+2016-11-14 23:20:02	<--	squinty (~squinty@S01069cd643d2c8a1.du.shawcable.net) has quit (Remote host closed the connection)
+2016-11-14 23:20:07	fungmen	ooo i see
+2016-11-14 23:20:09	deidyomega	@Ben64 except if the computer  is on, and  discharging, the battery is always reducing in charge
+2016-11-14 23:20:15	Ben64	deidyomega: ok?
+2016-11-14 23:20:21	<--	hxm (~hxm@unaffiliated/hackemate) has quit (Ping timeout: 258 seconds)
+2016-11-14 23:20:21	-->	melonhead (446da524@gateway/web/freenode/ip.68.109.165.36) has joined #ubuntu
+2016-11-14 23:20:35	<--	fungmen (cb805964@gateway/web/cgi-irc/kiwiirc.com/ip.203.128.89.100) has quit (Client Quit)
+2016-11-14 23:20:36	deidyomega	@Ben64 And the charge_now isn't reducing every millisecond
+2016-11-14 23:21:00	Ben64	ok?
+2016-11-14 23:21:32	deidyomega	So, maybe my question is, when does it 'change', or when does the system check the actual battery level, and report it back to charge_now
+2016-11-14 23:22:02	-->	guayabito (~guayabito@c-73-1-121-2.hsd1.fl.comcast.net) has joined #ubuntu
+2016-11-14 23:22:02	zanshin	The eth0 interface has disappeared from my 16.10 installation. Yesterday I setup xrdp and was able to vnc into the box. Today I get "Error getting hardware address for "eth0": No such device". `ifconfig -a` only lists lo:, docker0:, and wlp2s0:. Not sure where eth0 went or how to get it back.
+2016-11-14 23:22:10	Ben64	when the system has new information
+2016-11-14 23:22:49	<--	guayabito (~guayabito@c-73-1-121-2.hsd1.fl.comcast.net) has quit (Client Quit)
+2016-11-14 23:23:44	-->	sphenxes02 (~sphenxes@81-5-252-190.hdsl.highway.telekom.at) has joined #ubuntu
+2016-11-14 23:23:49	deidyomega	@Ben64, is there a predictable time when that might occur?  Or should I just check every second and hope for the best?
+2016-11-14 23:24:12	Ben64	it's probably not time based at all
+2016-11-14 23:24:54	-->	hxm (~hxm@2001:41d0:52:cff::2c) has joined #ubuntu
+2016-11-14 23:24:54	<--	hxm (~hxm@2001:41d0:52:cff::2c) has quit (Changing host)
+2016-11-14 23:24:54	-->	hxm (~hxm@unaffiliated/hackemate) has joined #ubuntu
+2016-11-14 23:25:26	deidyomega	@Ben64 Are you saying it's like a 'push' update from the kernal?
+2016-11-14 23:25:34	Ben64	from the battery
+2016-11-14 23:25:42	deidyomega	wut...
+2016-11-14 23:25:54	<--	HamRadio (~elijah@67.148.122.154) has quit (Ping timeout: 250 seconds)
+2016-11-14 23:25:55	Ben64	what are you trying to accomplish
+2016-11-14 23:26:00	<--	fraggle_ (~fraggle@2a02-8429-803d-d401-0227-0eff-fe0f-1727.rev.sfr.net) has quit (Ping timeout: 246 seconds)
+2016-11-14 23:26:05	-->	HamRadio (~elijah@204.187.100.19) has joined #ubuntu
+2016-11-14 23:26:05	-->	pax2you (~Thunderbi@host155-108-dynamic.48-82-r.retail.telecomitalia.it) has joined #ubuntu
+2016-11-14 23:26:22	-->	afru_ (~dozier@72-238-119-188.res.bhn.net) has joined #ubuntu
+2016-11-14 23:26:25	CodeMouse92	Is it still "good practice" to edit /etc/environment if I have a binary installed in a particular folder and I need it pathed?
+2016-11-14 23:26:30	CodeMouse92	If not, what is?
+2016-11-14 23:26:31	<--	cyphase_ (~cyphase@c-50-148-131-137.hsd1.ca.comcast.net) has quit (Quit: cyphase.com)
+2016-11-14 23:26:32	deidyomega	My computer seems to have a weird glitch where the system tell me I will have 30% battery, then instantly say I have 5% battery
+2016-11-14 23:26:43	<--	sphenxes (~sphenxes@81-5-224-167.hdsl.highway.telekom.at) has quit (Ping timeout: 245 seconds)
+2016-11-14 23:26:48	Ben64	sounds more like a bad battery
+2016-11-14 23:27:08	<--	sphenxes01 (~sphenxes@81-5-224-167.hdsl.highway.telekom.at) has quit (Ping timeout: 245 seconds)
+2016-11-14 23:27:17	-->	sphenxes (~sphenxes@81-5-252-190.hdsl.highway.telekom.at) has joined #ubuntu
+2016-11-14 23:27:19	<--	gargsms (~gargsms@106.51.142.44) has quit (Quit: Leaving)
+2016-11-14 23:27:20	deidyomega	I am writting a program to check the charge_now and then track it's decline.  See if it's the battery or if ubuntu is screwing with me
+2016-11-14 23:27:37	-->	th0r (~th0r@2605:6001:e6cd:6400:b8b0:f7a5:db4e:7bfb) has joined #ubuntu
+2016-11-14 23:27:58	Ben64	why not just use the power statistics in ubuntu
+2016-11-14 23:29:15	deidyomega	I did, and the charge history shows a nice smooth decline
+2016-11-14 23:29:22	<--	h82or8 (~spence@unaffiliated/spence) has quit (Quit: Leaving)
+2016-11-14 23:29:23	--	Guest16051 is now known as slyrobot
+2016-11-14 23:29:46	deidyomega	However the top right indicator, will stay in the 30's, then drop to battery critical on me
+2016-11-14 23:29:57	Ben64	bad battery
+2016-11-14 23:30:12	deidyomega	Then why does the charge history show a smooth decline?
+2016-11-14 23:30:19	-->	NoteOn (~noteon@s174004.ppp.asahi-net.or.jp) has joined #ubuntu
+2016-11-14 23:30:20	Ben64	post it
+2016-11-14 23:30:36	<--	NoteOn (~noteon@s174004.ppp.asahi-net.or.jp) has quit (Client Quit)
+2016-11-14 23:32:00	<--	Rave1 (~dell@node-1w7jr9yc5q60zib42jghqtarb.ipv6.telus.net) has quit (Quit: Leaving)
+2016-11-14 23:32:02	-->	robotroll (~robotroll@unaffiliated/robotroll) has joined #ubuntu
+2016-11-14 23:32:06	<--	th0r (~th0r@2605:6001:e6cd:6400:b8b0:f7a5:db4e:7bfb) has quit (Client Quit)
+2016-11-14 23:32:23	-->	kingnebby (~KingNebby@c-67-185-172-86.hsd1.wa.comcast.net) has joined #ubuntu
+2016-11-14 23:32:35	deidyomega	@Ben64, how would you like me to post screenshots? does #ubuntu have a preferred method?
+2016-11-14 23:32:40	-->	kenden__ (~dsps@85.211.212.210) has joined #ubuntu
+2016-11-14 23:32:49	-->	glitchd (~glitchd@72-48-87-177.dyn.grandenetworks.net) has joined #ubuntu
+2016-11-14 23:33:03	-->	Ben65 (~ben64@unaffiliated/ben64) has joined #ubuntu
+2016-11-14 23:33:09	-->	lanking (~lanking@112.95.233.137) has joined #ubuntu
+2016-11-14 23:33:12	Ben64	imgur probably
+2016-11-14 23:33:14	-->	cigumo_ (~cigumo@r186-50-127-44.dialup.adsl.anteldata.net.uy) has joined #ubuntu
+2016-11-14 23:33:23	Ben64	also post discharge profile
+2016-11-14 23:33:26	-->	ktchk (~eddie6929@n219079250092.netvigator.com) has joined #ubuntu
+2016-11-14 23:33:33	glitchd	16.10 has been released, right?
+2016-11-14 23:33:48	Ben64	yes, the releases are named yy.mm
+2016-11-14 23:33:52	<--	ktchk (~eddie6929@n219079250092.netvigator.com) has quit (Read error: Connection reset by peer)
+2016-11-14 23:33:58	<--	CarlFK (~carl@c-98-223-145-234.hsd1.il.comcast.net) has quit (Read error: Connection reset by peer)
+2016-11-14 23:33:59	Ben64	so 16.10 came out in October 2016
+2016-11-14 23:34:12	glitchd	thought so..
+2016-11-14 23:34:30	glitchd	for some reason i cannot upgrade from 16.04.1 to 16.10
+2016-11-14 23:34:37	glitchd	throught the command line anyways
+2016-11-14 23:34:45	<--	cyphase (~cyphase@unaffiliated/cyphase) has quit (Ping timeout: 248 seconds)
+2016-11-14 23:34:51	deidyomega	@Ben64 charge history looks good:  http://www.tiikoni.com/tis/view/?id=648570f
+2016-11-14 23:34:52		[ https://is.gd/yd6VCG ]
+2016-11-14 23:35:04	deidyomega	However time to empty doesn't: http://www.tiikoni.com/tis/view/?id=1cce91d
+2016-11-14 23:35:04		[ https://is.gd/zCQEwA ]
+2016-11-14 23:35:07	glitchd	might anyone have any ideas why?
+2016-11-14 23:35:20	deidyomega	(notice the 1hr mark)
+2016-11-14 23:35:22	-->	th0r (~th0r@2605:6001:e6cd:6400:b8b0:f7a5:db4e:7bfb) has joined #ubuntu
+2016-11-14 23:35:39	slyrobot	Will this fix the Skylake motherboard issues ??
+2016-11-14 23:35:43	reisio	glitchd: you might, if you say the error/s
+2016-11-14 23:36:04	<--	kenden_ (~dsps@85.211.212.210) has quit (Ping timeout: 258 seconds)
+2016-11-14 23:36:30	-->	uhhf1 (~Thunderbi@123.120.54.200) has joined #ubuntu
+2016-11-14 23:36:32	<--	sydfx (Snake@modemcable004.79-176-173.mc.videotron.ca) has quit (Ping timeout: 260 seconds)
+2016-11-14 23:36:42	Ben64	glitchd: are you aware that 16.04 is supported until 2021, and 16.10 is only supported until July 2017?
+2016-11-14 23:36:42	slyrobot	Has anyone tried using Ubuntu 16.10 ?
+2016-11-14 23:36:43	<--	cigumo (~cigumo@r186-55-148-238.dialup.adsl.anteldata.net.uy) has quit (Ping timeout: 256 seconds)
+2016-11-14 23:36:44	--	cigumo_ is now known as cigumo
+2016-11-14 23:36:44	-->	fraggle_ (~fraggle@2a02-8429-803d-d401-0227-0eff-fe0f-1727.rev.sfr.net) has joined #ubuntu
+2016-11-14 23:36:50	<--	blackwind_123 (~IceChat9@117.192.159.185) has quit (Ping timeout: 258 seconds)
+2016-11-14 23:36:53	<--	uhhf (~Thunderbi@123.120.64.96) has quit (Ping timeout: 248 seconds)
+2016-11-14 23:36:53	--	uhhf1 is now known as uhhf
+2016-11-14 23:37:17	glitchd	reisio, well sudo do-release-upgrade returns "no new release found"
+2016-11-14 23:37:31	-->	ejbs_ (~ejbs_@ipbcc28f86.dynamic.kabel-deutschland.de) has joined #ubuntu
+2016-11-14 23:37:47	glitchd	Ben64, yes i am, i just like to stay up to date with th releases
+2016-11-14 23:37:59	-->	venmx (~pactadmin@host86-173-114-90.range86-173.btcentralplus.com) has joined #ubuntu
+2016-11-14 23:38:06	freakyy	hi all. im using ubuntu budgie - how can i get ubuntu to save my ssh password for a session or for some time?
+2016-11-14 23:38:06	Ben64	well open the update manager and change your preferences from LTS only to whatever isn't LTS only
+2016-11-14 23:38:14	freakyy	if i do ssh user@host
+2016-11-14 23:38:16	Ben64	freakyy: what is ubuntu budgie
+2016-11-14 23:38:37	-->	sydfx (Snake@modemcable004.79-176-173.mc.videotron.ca) has joined #ubuntu
+2016-11-14 23:38:45	-->	blackwind_123 (~IceChat9@117.192.136.252) has joined #ubuntu
+2016-11-14 23:39:02	freakyy	Ben64: budgie is a new desktop environment which is accepted as flavour of ubuntu form 17.04 on. u can already use budgie though.
+2016-11-14 23:39:08	-->	te_lanus (~te_lanus@154.66.195.97) has joined #ubuntu
+2016-11-14 23:39:11	freakyy	it uses gnome stuff
+2016-11-14 23:39:32	glitchd	Ben64, wow i was wondering why i hadnt received a notification for the upgrade, that explains it. thx
+2016-11-14 23:39:38	Ben64	well until 17.04 i suppose, it isn't supported here
+2016-11-14 23:39:42	freakyy	hey glitchd :D
+2016-11-14 23:39:47	glitchd	yea?
+2016-11-14 23:40:11	glitchd	freakyy, ..?
+2016-11-14 23:40:25	freakyy	glitchd: it is - budgie is the official repos already and with a ppa u can already install the full budige remix
+2016-11-14 23:40:37	freakyy	glitchd: u remember me? i set u up an owncloud account because u helped me ;D
+2016-11-14 23:40:44	Ben64	PPA = not supported
+2016-11-14 23:40:55	glitchd	freakyy, thats right! lol
+2016-11-14 23:40:57	<--	pac1 (~pac1@pool-100-0-1-32.bstnma.fios.verizon.net) has quit (Ping timeout: 240 seconds)
+2016-11-14 23:41:06	glitchd	freakyy, whats up bud?
+2016-11-14 23:41:08	freakyy	cant u guys tell me what gnome uses to save passwords for ssh sessions? ;D
+2016-11-14 23:41:20	-->	Yiota (~textual@2607:fea8:56e0:407:50b4:6b62:5062:7410) has joined #ubuntu
+2016-11-14 23:41:22	Ben64	maybe in ##linux
+2016-11-14 23:41:30	freakyy	glitchd: not much ;D ... trying to get help ;D
+2016-11-14 23:41:59	glitchd	freakyy, gnome-keyring i believe
+2016-11-14 23:42:01	deidyomega	@Ben64 charge history looks good:  http://www.tiikoni.com/tis/view/?id=648570f however time to empty doesn't: http://www.tiikoni.com/tis/view/?id=1cce91d
+2016-11-14 23:42:03		[ https://is.gd/yd6VCG ]
+2016-11-14 23:42:03		[ https://is.gd/zCQEwA ]
+2016-11-14 23:42:06	glitchd	freakyy, thats how it saves the passwords
+2016-11-14 23:42:11	freakyy	glitchd: thanks wait
+2016-11-14 23:42:48	<--	venmx (~pactadmin@host86-173-114-90.range86-173.btcentralplus.com) has quit (Ping timeout: 250 seconds)
+2016-11-14 23:42:51	Ben64	deidyomega: yep bad battery
+2016-11-14 23:43:38	deidyomega	Guess no amounts of C I write will fix that... Ok, thanks for helping!
+2016-11-14 23:43:46	glitchd	freakyy, wait for what?
+2016-11-14 23:44:08	freakyy	nm ... gnome-keyring is ok but isnt ther esomethin that sits in my system tray?
+2016-11-14 23:44:19	<--	Grorco (~Grorco@adsl-108-68-136-17.dsl.lgtpmi.sbcglobal.net) has quit (Read error: Connection reset by peer)
+2016-11-14 23:44:21	glitchd	pic?
+2016-11-14 23:44:21	<--	sab (~sab@cable-static-142-158.teleport.ch) has quit (Ping timeout: 252 seconds)
+2016-11-14 23:44:33	glitchd	sry misread that
+2016-11-14 23:45:29	-->	ilfantomas (~chatzilla@ool-457a3c53.dyn.optonline.net) has joined #ubuntu
+2016-11-14 23:45:39	<--	blackwind_123 (~IceChat9@117.192.136.252) has quit (Ping timeout: 258 seconds)
+2016-11-14 23:45:51	glitchd	freakyy, i have no idea about that tho..
+2016-11-14 23:45:55	<--	th0r (~th0r@2605:6001:e6cd:6400:b8b0:f7a5:db4e:7bfb) has quit (Quit: Bye)
+2016-11-14 23:46:24	<--	slyrobot (~alpha@103.212.147.96) has quit (Quit: Leaving)
+2016-11-14 23:46:58	<--	Yiota (~textual@2607:fea8:56e0:407:50b4:6b62:5062:7410) has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+2016-11-14 23:47:28	-->	fungmen (~quassel@203.128.89.100) has joined #ubuntu
+2016-11-14 23:47:54	glitchd	is it even recommended to update to ".10" releases?
+2016-11-14 23:47:54	-->	sab (~sab@cable-static-142-158.teleport.ch) has joined #ubuntu
+2016-11-14 23:48:59	-->	msjche (~msjche@unaffiliated/msjche) has joined #ubuntu
+2016-11-14 23:48:59	<--	HamRadio (~elijah@204.187.100.19) has quit (Read error: Connection reset by peer)
+2016-11-14 23:49:03	Ben64	glitchd: .10 only means it came out in october
+2016-11-14 23:49:23	freakyy	glitchd: yea .. .10 is ok to use ... it has been released
+2016-11-14 23:49:25	freakyy	but its not LTS
+2016-11-14 23:49:47	Ben64	only half of the .04 releases are LTS
+2016-11-14 23:49:49	-->	howyoubeen_ (~howyoubee@75-129-34-202.dhcp.aldl.mi.charter.com) has joined #ubuntu
+2016-11-14 23:50:07	-->	subhojit777 (~subhojit@182.71.64.139) has joined #ubuntu
+2016-11-14 23:50:07	siva_machina	only the eve years
+2016-11-14 23:50:11	glitchd	i think ill just wait till the next lts then
+2016-11-14 23:50:13	<--	FunnyLookinHat (~funnylook@ubuntu/member/funnylookinhat) has quit (Remote host closed the connection)
+2016-11-14 23:50:13	siva_machina	even
+2016-11-14 23:50:13	--	howyoubeen_ is now known as howyoubeen
+2016-11-14 23:50:21	freakyy	glitchd: ok ;D
+2016-11-14 23:50:23	-->	blackwind_123 (~IceChat9@117.254.144.183) has joined #ubuntu
+2016-11-14 23:50:46	glitchd	my system is solid, no need to fool with it for no reason
+2016-11-14 23:50:57	siva_machina	Nope
+2016-11-14 23:51:15	siva_machina	Unless it is for testing reasons.
+2016-11-14 23:51:21	glitchd	meh
+2016-11-14 23:51:35	glitchd	testing shmesting
+2016-11-14 23:51:42	glitchd	not for this guy
+2016-11-14 23:51:58	<--	mewecoffee (~mewecoffe@ip98-176-60-217.sd.sd.cox.net) has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+2016-11-14 23:52:00	glitchd	maybe perhaps in a vm just for shits, but not on my hd
+2016-11-14 23:52:17	<--	scottt_ (~scottt@user-0ccssht.cable.mindspring.com) has quit (Read error: Connection reset by peer)
+2016-11-14 23:52:27	-->	HamRadio (~elijah@67.148.122.154) has joined #ubuntu
+2016-11-14 23:52:44	siva_machina	Only reason I would use one of the inbetween releases is to try Unity8
+2016-11-14 23:53:06	glitchd	ive never been a fan of unity at all
+2016-11-14 23:53:19	glitchd	im more xfce bound
+2016-11-14 23:53:19	siva_machina	Neither was I. But It grew on me
+2016-11-14 23:53:41	glitchd	u know what else grows? fungus.
+2016-11-14 23:53:54	glitchd	dont need that resource hogging dm
+2016-11-14 23:53:56	siva_machina	You know what grows on fungus?
+2016-11-14 23:53:58	siva_machina	mushrooms
+2016-11-14 23:54:16	glitchd	ba zing
+2016-11-14 23:54:38	glitchd	been there. done that. had a long walk back.
+2016-11-14 23:54:50	siva_machina	unless you have less 8 gig of ram and a really small hard drive. Resources shouldn't be to much of an issue
+2016-11-14 23:55:10	-->	redeemed (~rd@82.208.188.40) has joined #ubuntu
+2016-11-14 23:55:18	glitchd	ive always just found it not as snappy as xfce, and thats what im after.
+2016-11-14 23:55:18	-->	bluezone (uid104970@gateway/web/irccloud.com/x-lsewzucasrmtmdud) has joined #ubuntu
+2016-11-14 23:55:20	reisio	right, unless your computer is from 2000
+2016-11-14 23:55:25	-->	YY_Bozhinsky (~YYB@unaffiliated/yy-bozhinsky/x-285352) has joined #ubuntu
+2016-11-14 23:55:37	glitchd	i have 8 gigs ram and an i5 so it runs pretty decently
+2016-11-14 23:55:38	reisio	mmm, lovely Xfce
+2016-11-14 23:55:45	glitchd	yes, and yes.
+2016-11-14 23:55:48	<--	tweaker (~tweaker@213.184.127.43) has quit (Ping timeout: 250 seconds)
+2016-11-14 23:56:01	glitchd	*yes and, yes.
+2016-11-14 23:56:16	siva_machina	In the end it is personal opinion or you need to squeeze every last bit of resource from your machine for some reason or another
+2016-11-14 23:56:16	reisio	yarp
+2016-11-14 23:56:31	glitchd	indeed
+2016-11-14 23:56:50	<--	kingnebby (~KingNebby@c-67-185-172-86.hsd1.wa.comcast.net) has quit (Ping timeout: 265 seconds)
+2016-11-14 23:57:10	-->	DavyCrocket (~aaron@c-24-17-87-129.hsd1.wa.comcast.net) has joined #ubuntu
+2016-11-14 23:57:18	glitchd	well i gave unity a fair chance to sway my, and it did not.
+2016-11-14 23:57:26	glitchd	*sway me,
+2016-11-14 23:57:56	<--	sydfx (Snake@modemcable004.79-176-173.mc.videotron.ca) has quit (Ping timeout: 260 seconds)
+2016-11-14 23:58:00	glitchd	i type fast lol often while doing something else at the same time
+2016-11-14 23:58:06	siva_machina	I think it the use of keyboard shortcuts made me kinda like it.
+2016-11-14 23:58:21	siva_machina	If I want something liht I useally go for i3wm
+2016-11-14 23:58:25	glitchd	right on, to each their own
+2016-11-14 23:58:36	-->	irishfromua (~irish@193.108.249.183) has joined #ubuntu
+2016-11-14 23:58:40	glitchd	never used i3wm..
+2016-11-14 23:58:46	siva_machina	which is pretty much all keyboard shortccuts
+2016-11-14 23:58:53	siva_machina	shortcuts*
+2016-11-14 23:59:09	-->	sphenxes01 (~sphenxes@81-5-225-9.hdsl.highway.telekom.at) has joined #ubuntu
+2016-11-14 23:59:24	<--	ffatman (~ffamousff@2a01:e35:8ad7:6b60:e158:872b:61e9:2b) has quit (Remote host closed the connection)
+2016-11-14 23:59:35	<--	sethj (~seth@ubuntu/member/sethj) has quit (Remote host closed the connection)
+2016-11-14 23:59:41	-->	fels (~fels@213.137.8.154) has joined #ubuntu
+2016-11-14 23:59:48	siva_machina	One thing I do like with i3. Your config for its settings is in 1 to 2 config files
+2016-11-14 23:59:50	<--	blackwind_123 (~IceChat9@117.254.144.183) has quit (Ping timeout: 258 seconds)
+2016-11-15 00:00:01	siva_machina	making it easy to back up your ssettings
+2016-11-15 00:00:33	-->	ffatman (~ffamousff@2a01:e35:8ad7:6b60:e158:872b:61e9:2b) has joined #ubuntu
+2016-11-15 00:00:45	glitchd	im actually watching a video about it right now
+2016-11-15 00:00:57	-->	blackwind_123 (~IceChat9@117.192.133.5) has joined #ubuntu
+2016-11-15 00:01:05	<--	daynaskully (~digifiv5e@unaffiliated/daynaskully) has quit (Ping timeout: 260 seconds)
+2016-11-15 00:01:11	-->	jsalex2 (~jsast@pool-71-244-165-248.bltmmd.fios.verizon.net) has joined #ubuntu
+2016-11-15 00:01:13	-->	happyday (8178b232@gateway/web/freenode/ip.129.120.178.50) has joined #ubuntu
+2016-11-15 00:01:33	-->	delinquentme (~delinquen@108-77-136-226.lightspeed.sntcca.sbcglobal.net) has joined #ubuntu
+2016-11-15 00:02:24	-->	batteronizer (~abhishek@182.69.92.127) has joined #ubuntu
+2016-11-15 00:02:29	<--	sphenxes (~sphenxes@81-5-252-190.hdsl.highway.telekom.at) has quit (Ping timeout: 248 seconds)
+2016-11-15 00:02:29	<--	sphenxes02 (~sphenxes@81-5-252-190.hdsl.highway.telekom.at) has quit (Ping timeout: 248 seconds)
+2016-11-15 00:02:37	-->	sphenxes02 (~sphenxes@81-5-225-9.hdsl.highway.telekom.at) has joined #ubuntu
+2016-11-15 00:02:37	-->	kenden_ (~dsps@85.211.212.210) has joined #ubuntu
+2016-11-15 00:02:45	<--	farid_ (~farid@iv2-technologies-gw1.ter1.prb.par.cust.as8218.eu) has quit (Ping timeout: 268 seconds)
+2016-11-15 00:03:15	-->	kingnebby (~KingNebby@c-67-185-172-86.hsd1.wa.comcast.net) has joined #ubuntu
+2016-11-15 00:03:30	<--	deidyomega (46be89b2@gateway/web/freenode/ip.70.190.137.178) has quit (Quit: Page closed)
+2016-11-15 00:03:47	-->	mewecoffee (~mewecoffe@ip98-176-60-217.sd.sd.cox.net) has joined #ubuntu
+2016-11-15 00:04:05	-->	svm_invictvs (~patrick@unaffiliated/svminvictvs/x-938456) has joined #ubuntu
+2016-11-15 00:04:12	-->	impi (~impi@197.89.244.231) has joined #ubuntu
+2016-11-15 00:04:17	<--	fels (~fels@213.137.8.154) has quit (Ping timeout: 240 seconds)
+2016-11-15 00:04:33	freakyy	btw guys if u havent heard yet: http://www.omgubuntu.co.uk/2016/11/ubuntu-budgie-now-official-ubuntu-flavor?utm_source=slideshow
+2016-11-15 00:04:34		[ https://is.gd/J2VfXU ]
+2016-11-15 00:04:35	freakyy	:)
+2016-11-15 00:04:45	-->	CarlFK (~carl@c-98-223-145-234.hsd1.il.comcast.net) has joined #ubuntu
+2016-11-15 00:05:12	-->	CAPITANOOO (~CAPITANOO@host122-156-static.117-2-b.business.telecomitalia.it) has joined #ubuntu
+2016-11-15 00:05:17	-->	LordWeston (~vhx@unaffiliated/lordweston) has joined #ubuntu
+2016-11-15 00:05:30	-->	daynaskully (~digifiv5e@unaffiliated/daynaskully) has joined #ubuntu
+2016-11-15 00:05:41	<--	jsalex2 (~jsast@pool-71-244-165-248.bltmmd.fios.verizon.net) has quit (Ping timeout: 248 seconds)
+2016-11-15 00:05:55	zanshin	zanshin: Looks like you need an updated driver, however the e1000e 3.3.4 driver doesn't recognize the kernel included in Ubuntu 16.10 (4.8.0-27-generic). Phooey.
+2016-11-15 00:06:11	<--	kenden__ (~dsps@85.211.212.210) has quit (Ping timeout: 256 seconds)
+2016-11-15 00:06:41	<--	trism (~jconti@unaffiliated/trism) has quit (Remote host closed the connection)
+2016-11-15 00:06:42	<--	mewecoffee (~mewecoffe@ip98-176-60-217.sd.sd.cox.net) has quit (Client Quit)
+2016-11-15 00:06:42	-->	Freze (~Freze@c-73-167-60-180.hsd1.ma.comcast.net) has joined #ubuntu
+2016-11-15 00:06:58	-->	mewecoffee (~mewecoffe@ip98-176-60-217.sd.sd.cox.net) has joined #ubuntu
+2016-11-15 00:07:05	Freze	can you do LVM on two seperate hard drives and leave one harddrive with it's current default
+2016-11-15 00:07:06	-->	seb__ (~seb@2a01:e35:8bae:2150:90f1:1037:3ee7:6206) has joined #ubuntu
+2016-11-15 00:07:10	<--	LordWeston (~vhx@unaffiliated/lordweston) has quit (Client Quit)
+2016-11-15 00:07:13	Freze	I think sda is just ext4
+2016-11-15 00:07:13	<--	CAPITANOOO (~CAPITANOO@host122-156-static.117-2-b.business.telecomitalia.it) has quit (Client Quit)
+2016-11-15 00:07:33	Freze	but i want sdb and sdc to be one drive using LVM
+2016-11-15 00:08:02	freakyy	i have a question. anyone here using budgie?
+2016-11-15 00:08:11	<--	Jochen_wvdT (~Schlawine@HSI-KBW-134-3-254-56.hsi14.kabel-badenwuerttemberg.de) has quit (Ping timeout: 252 seconds)
+2016-11-15 00:08:16	-->	CAPITANOOO (~CAPITANOO@host122-156-static.117-2-b.business.telecomitalia.it) has joined #ubuntu
+2016-11-15 00:08:25	<--	mewecoffee (~mewecoffe@ip98-176-60-217.sd.sd.cox.net) has quit (Client Quit)
+2016-11-15 00:08:54	<--	crafty1 (~crafty1@c-98-237-115-56.hsd1.pa.comcast.net) has quit (Ping timeout: 256 seconds)
+2016-11-15 00:08:57	reisio	freakyy: what if someone were
+2016-11-15 00:09:01	<--	workmank (~workmank@2601:147:c201:822f:d8a8:496a:381e:d98a) has quit (Ping timeout: 260 seconds)
+2016-11-15 00:09:12	<--	the_ant (~Thunderbi@27.131.2.26) has quit (Remote host closed the connection)
+2016-11-15 00:09:24	<--	HamRadio (~elijah@67.148.122.154) has quit (Ping timeout: 265 seconds)
+2016-11-15 00:09:34	-->	crafty1 (~crafty1@c-98-237-115-56.hsd1.pa.comcast.net) has joined #ubuntu
+2016-11-15 00:09:50	<--	happyday (8178b232@gateway/web/freenode/ip.129.120.178.50) has quit (Ping timeout: 260 seconds)
+2016-11-15 00:09:54	freakyy	reisio: i wanna know - there is this sidebar panel ... can i remove it? :D i dotn need it i think ;D
+2016-11-15 00:09:57	<--	blackwind_123 (~IceChat9@117.192.133.5) has quit (Ping timeout: 240 seconds)
+2016-11-15 00:10:15	-->	UrsaTempest (uid171474@gateway/web/irccloud.com/x-ivcninuhiwcthdxb) has joined #ubuntu
+2016-11-15 00:10:29	reisio	freakyy: most likely
+2016-11-15 00:10:36	freakyy	what is it called?
+2016-11-15 00:10:46	-->	HamRadio (~elijah@204.187.100.19) has joined #ubuntu
+2016-11-15 00:10:57	-->	ianychoi (~ianychoi@118.46.26.190) has joined #ubuntu
+2016-11-15 00:11:09	-->	jackhumm (uid97400@gateway/web/irccloud.com/x-figfozxcphhpyxyg) has joined #ubuntu
+2016-11-15 00:11:34	reisio	freakyy: raven, isn't it?
+2016-11-15 00:11:52	elias_a	freakyy: Use some other flavour of Linux, then or different desktop.
+2016-11-15 00:12:08	-->	blackwind_123 (~IceChat9@117.192.137.123) has joined #ubuntu
+2016-11-15 00:12:33	-->	th0r (~th0r@2605:6001:e6cd:6400:b8b0:f7a5:db4e:7bfb) has joined #ubuntu
+2016-11-15 00:12:34	-->	abhishek (~abhigenie@223.181.42.38) has joined #ubuntu
+2016-11-15 00:12:56	elias_a	The side panel is after all a very central part of Ubuntu,
+2016-11-15 00:13:44	siva_machina	I usually have the panel in Unity autohide.
+2016-11-15 00:13:49	freakyy	no i mean tplank .- thank you i found out ;D
+2016-11-15 00:13:52	CodeMouse92	Alternatively, if you're on Ubuntu 16.04 or later, you can just move said "side bar" (it's called the Launcher) to the bottom of the screen
+2016-11-15 00:13:53	siva_machina	Until I need it
+2016-11-15 00:14:24	freakyy	im not talking about ubuntu im talkin about ubuntu budgie
+2016-11-15 00:14:25	CodeMouse92	freakyy: Good to know :)
+2016-11-15 00:14:41	<--	angrycoast (~steve@2601:187:8100:7652:b872:e20c:1858:23cc) has quit (Ping timeout: 256 seconds)
+2016-11-15 00:15:01	siva_machina	The panel on the right in Budgie you can also hide till you need it.
+2016-11-15 00:15:41	glitchd	freakyy, youre not talking about ubuntu, youre talking about ubuntu budgie --its still ubuntu
+2016-11-15 00:16:06	glitchd	freakyy, same base os, just with a different dm
+2016-11-15 00:16:22		[bgdnvst away: sleeping]
+2016-11-15 00:16:24	reisio	tplank
+2016-11-15 00:16:29	freakyy	just plank
+2016-11-15 00:16:36	freakyy	the t came from the word beforre
+2016-11-15 00:16:37	reisio	budgie, raven, plank, all bad names :p
+2016-11-15 00:16:41	glitchd	freakyy, like me, im using ubuntu with xubuntu desktop installed, its still ubuntu to
+2016-11-15 00:16:45	glitchd	tho*
+2016-11-15 00:16:49	freakyy	glitchd: ok ;D
+2016-11-15 00:17:02	-->	Jochen_wvdT (~Schlawine@HSI-KBW-134-3-254-56.hsi14.kabel-badenwuerttemberg.de) has joined #ubuntu
+2016-11-15 00:17:20	freakyy	ok guys, thanks for all your help ...
+2016-11-15 00:17:35	glitchd	freakyy, did your issue get resolved?
+2016-11-15 00:17:51	<--	kingnebby (~KingNebby@c-67-185-172-86.hsd1.wa.comcast.net) has quit (Ping timeout: 258 seconds)
+2016-11-15 00:18:23	<--	yinflying2016 (~yinfei@58.48.110.168) has quit (Ping timeout: 245 seconds)
+2016-11-15 00:19:01	<--	Dartellum (~Thunderbi@pool-72-92-18-122.phlapa.fios.verizon.net) has quit (Ping timeout: 248 seconds)
+2016-11-15 00:19:19	-->	for{} (~gangalo@unaffiliated/gangalo) has joined #ubuntu
+2016-11-15 00:19:35	<--	^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) has quit (Ping timeout: 244 seconds)
+2016-11-15 00:19:43	<--	xangua (uid19036@gateway/web/irccloud.com/x-cmcknmycyynhumaw) has quit (Quit: Connection closed for inactivity)
+2016-11-15 00:19:52	<--	noobboyd (~noobboyd@CPE-124-189-143-170.cyzn1.lon.bigpond.net.au) has quit (Ping timeout: 260 seconds)
+2016-11-15 00:20:21	-->	xiejinggang (~xiejingga@119.129.225.201) has joined #ubuntu
+2016-11-15 00:20:25	xiejinggang	hello
+2016-11-15 00:20:29	xiejinggang	有人吗
+2016-11-15 00:20:41	glitchd	lol
+2016-11-15 00:20:51	underd0g	yo
+2016-11-15 00:21:04	glitchd	sup
+2016-11-15 00:21:12	siva_machina	I awesome 有人吗 means hello.
+2016-11-15 00:21:14	-->	^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) has joined #ubuntu
+2016-11-15 00:21:19	siva_machina	assume*
+2016-11-15 00:21:23	<--	delinquentme (~delinquen@108-77-136-226.lightspeed.sntcca.sbcglobal.net) has quit (Ping timeout: 252 seconds)
+2016-11-15 00:21:26	<--	xiejinggang (~xiejingga@119.129.225.201) has quit (Client Quit)
+2016-11-15 00:21:29	siva_machina	how the frack did I get awesome?
+2016-11-15 00:21:34	siva_machina	>.>
+2016-11-15 00:21:37	melonhead	installing KDE on Ubuntu 16.04
+2016-11-15 00:21:38	underd0g	haha dope
+2016-11-15 00:21:39	glitchd	because youre awesome
+2016-11-15 00:21:40	melonhead	any gotchas?
+2016-11-15 00:22:05	reisio	melonhead: only one
+2016-11-15 00:22:14	melonhead	what's that reisio?
+2016-11-15 00:22:20	-->	mista (~mista@72-172-185-194.bayarea.net) has joined #ubuntu
+2016-11-15 00:22:27	<--	mista (~mista@72-172-185-194.bayarea.net) has left #ubuntu
+2016-11-15 00:22:28	siva_machina	maybe lack of being able to use your superkey/windows key without using ksuperkey.
+2016-11-15 00:22:28	glitchd	your spelling=)
+2016-11-15 00:22:31	reisio	removing Unity/GNOME deps you no longer need
+2016-11-15 00:22:57	reisio	有人吗 -> anyone there
+2016-11-15 00:22:58	melonhead	reisio: is it as bad as trying to get rid of Noveau?
+2016-11-15 00:23:07	glitchd	google ftw
+2016-11-15 00:23:12	reisio	melonhead: it's easy, as is dealing with nouveau
+2016-11-15 00:23:27	-->	janosik (~matt@c-73-51-210-157.hsd1.il.comcast.net) has joined #ubuntu
+2016-11-15 00:23:36	melonhead	ok, reisio. I'm working on getting KDE in now
+2016-11-15 00:23:37	<--	blackwind_123 (~IceChat9@117.192.137.123) has quit (Ping timeout: 240 seconds)
+2016-11-15 00:23:42	melonhead	will fight with GNOME shortly.
+2016-11-15 00:23:44	<--	janosik (~matt@c-73-51-210-157.hsd1.il.comcast.net) has quit (Changing host)
+2016-11-15 00:23:44	-->	janosik (~matt@unaffiliated/janosik) has joined #ubuntu
+2016-11-15 00:23:49	reisio	I forgot the command I used last time
+2016-11-15 00:23:58	glitchd	skip kde, go xfce
+2016-11-15 00:24:00	freakyy	glitchd: yea i was ablet o remove the dock ... i just dont get the sense why i would need it as i have the taskbar already
+2016-11-15 00:24:01	melonhead	"One fight at a time, fellas."
+2016-11-15 00:24:23	siva_machina	KDE does get become a bit better if you use Android.
+2016-11-15 00:24:37	freakyy	ok bye all
+2016-11-15 00:24:40	glitchd	freakyy, well i believe thats what the dm was using instead of a dock, so theyre basically the same thing
+2016-11-15 00:24:40	-->	cyphase (~cyphase@unaffiliated/cyphase) has joined #ubuntu
+2016-11-15 00:24:41	<--	robotroll (~robotroll@unaffiliated/robotroll) has quit (Read error: Connection reset by peer)
+2016-11-15 00:25:07	glitchd	siva_machina, how so?
+2016-11-15 00:25:10	freakyy	i dont get why i would need a ... dock if i have somethin glike what i have iwth budgie at the top
+2016-11-15 00:25:14	<--	apb1963 (~apb1963@107-146-220-94.res.bhn.net) has quit (Quit: Leaving)
+2016-11-15 00:25:20	siva_machina	glitchd, KDEconnect
+2016-11-15 00:25:25	freakyy	with budgie its like with windows 10 u can keep your apps in the bar
+2016-11-15 00:25:33	glitchd	siva_machina, nvr used it..
+2016-11-15 00:25:53	glitchd	siva_machina, i dont think ive even used kde since like 10.04 lol
+2016-11-15 00:26:07	freakyy	ok bye all now :)
+2016-11-15 00:26:10	siva_machina	glitchd, If you ever try kde again I and you have an Android device. I suggest you do.
+2016-11-15 00:26:11	freakyy	bye glitchd  ^^
+2016-11-15 00:26:11	Vysty	I upgraded from 14.04 to 16.04 last time and I've run into some bugs and glitchy stuff. Can anyone help me trouble shoot?
+2016-11-15 00:26:28	<--	CAPITANOOO (~CAPITANOO@host122-156-static.117-2-b.business.telecomitalia.it) has quit (Quit: CAPITANOOO)
+2016-11-15 00:26:35	<--	janosik (~matt@unaffiliated/janosik) has quit (Client Quit)
+2016-11-15 00:26:35	siva_machina	bye freakyy
+2016-11-15 00:26:36	glitchd	adios freakyy
+2016-11-15 00:26:48	<--	ilfantomas (~chatzilla@ool-457a3c53.dyn.optonline.net) has quit (Ping timeout: 265 seconds)
+2016-11-15 00:26:49	glitchd	siva_machina, ill keep that in mind
+2016-11-15 00:26:54	Vysty	last night*
+2016-11-15 00:27:33	<--	uhhf (~Thunderbi@123.120.54.200) has quit (Ping timeout: 248 seconds)
+2016-11-15 00:27:36	-->	farid_ (~farid@iv2-technologies-gw1.ter1.prb.par.cust.as8218.eu) has joined #ubuntu
+2016-11-15 00:27:43	<--	impi (~impi@197.89.244.231) has quit (Quit: “ヽ(´▽｀)ノ”)
+2016-11-15 00:28:45	-->	akkonrad (~akkonrad3@gae109.internetdsl.tpnet.pl) has joined #ubuntu
+2016-11-15 00:28:50	-->	Dartellum (~Thunderbi@pool-71-162-177-192.phlapa.fios.verizon.net) has joined #ubuntu
+2016-11-15 00:29:39	Vysty	All went quiet suddenly.
+2016-11-15 00:29:47	-->	hmkum (~hmk@g1-27-253-251-9.bmobile.ne.jp) has joined #ubuntu
+2016-11-15 00:30:11	-->	mike_ (~mike@8.219.158.146.dynamic.jazztel.es) has joined #ubuntu
+2016-11-15 00:30:21	reisio	Vysty: lies
+2016-11-15 00:30:21	-->	biboy (~ubuntu@c-73-162-59-99.hsd1.ca.comcast.net) has joined #ubuntu
+2016-11-15 00:30:21	<--	biboy (~ubuntu@c-73-162-59-99.hsd1.ca.comcast.net) has quit (Client Quit)
+2016-11-15 00:30:25	-->	m_javad_mohebi (~mJavadMoh@188.34.135.93) has joined #ubuntu
+2016-11-15 00:30:26	Vysty	Good!
+2016-11-15 00:30:35	--	mike_ is now known as Guest81616
+2016-11-15 00:30:40	Vysty	Anyone able to help me troubleshoot the bugginess of my Ubuntu upgrade?
+2016-11-15 00:30:41	<--	hmkum (~hmk@g1-27-253-251-9.bmobile.ne.jp) has left #ubuntu
+2016-11-15 00:31:03	-->	wasim (~wasim@183.82.101.16) has joined #ubuntu
+2016-11-15 00:31:19	reisio	you'll have to explain the bugs before anyone can do that
+2016-11-15 00:31:38	-->	ToBeCloud (uid51591@wikimedia/ToBeFree) has joined #ubuntu
+2016-11-15 10:07:36	--	irc: disconnected from server
+2016-11-15 10:07:55		[bgdnvst away: sleeping]
+2016-11-15 10:08:01	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #ubuntu
+2016-11-15 10:08:01	--	Topic for #ubuntu is "Official Ubuntu Support Channel | IRC Guidelines: http://ubottu.com/y/gl | This channel supports: Ubuntu and its official flavors, versions 12.04, 14.04, 16.04, 16.10 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: http://ubottu.com/y/irc | Pastes to http://paste.ubuntu.com/ | Download: http://ubottu.com/y/dl"
+2016-11-15 10:08:01	--	Topic set by dax (~dax@freenode/staff/dax) on jeu, 13 oct 2016 11:18:36
+2016-11-15 10:08:01	--	Channel #ubuntu: 1868 nicks (1 op, 0 voices, 1867 normals)
+2016-11-15 10:08:01	--	PvNotice(ChanServ): Welcome to #ubuntu! Please read the channel topic. This channel is logged. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+2016-11-15 10:08:01	--	URL for #ubuntu: http://www.ubuntu.com
+2016-11-15 10:08:01	--	Channel created on dim, 26 nov 2006 01:42:41
+2016-11-15 10:08:05	-->	steffen__ (~steffen@pD9E60EA3.dip0.t-ipconnect.de) has joined #ubuntu
+2016-11-15 10:08:06	-->	ZeekHuge (~ZeekHuge_@59.91.138.129) has joined #ubuntu
+2016-11-15 10:08:06	-->	lck (~Adium@2a02:6b8:0:2312:34b0:6b7e:a27c:ea7d) has joined #ubuntu
+2016-11-15 10:08:07	liuxg	clicking "system settings" does not open anything on my 16.04 Ubuntu
+2016-11-15 10:08:20	Afdla	Is it safe to have password in the login keyring of SeaHorse? It gets unlocked automatically after login, which sounds bit scary
+2016-11-15 10:08:22	<--	hateball (~quassel@unaffiliated/hateball) has quit (Remote host closed the connection)
+2016-11-15 10:08:26	-->	Usorg (~Usorg@dyndsl-178-142-073-101.ewe-ip-backbone.de) has joined #ubuntu
+2016-11-15 10:08:38	-->	scottschecter (~scottsche@c-76-115-234-122.hsd1.or.comcast.net) has joined #ubuntu
+2016-11-15 10:08:39	<--	SebthreeBQM10HD (~phablet@cpc85430-aztw29-2-0-cust193.18-1.cable.virginm.net) has quit (Remote host closed the connection)
+2016-11-15 10:08:39	-->	thiras (~thiras@unaffiliated/thiras) has joined #ubuntu
+2016-11-15 10:08:51	-->	nomic (~nomic@host81-151-166-227.range81-151.btcentralplus.com) has joined #ubuntu
+2016-11-15 10:08:58	brainwash	Afdla: but you are the one who unlocks it on login
+2016-11-15 10:09:06	brainwash	others can't
+2016-11-15 10:09:20	Afdla	Yea, I don't know the internals, so just thought
+2016-11-15 10:09:26	-->	Mart (~Martin@4dafb8b6.ftth.telfortglasvezel.nl) has joined #ubuntu
+2016-11-15 10:09:27	--	blueocean is now known as toba
+2016-11-15 10:09:34	--	toba is now known as blueocean
+2016-11-15 10:09:35	Afdla	So I suppose it's safe
+2016-11-15 10:09:35	<--	Usorg (~Usorg@dyndsl-178-142-073-101.ewe-ip-backbone.de) has quit (Read error: Connection reset by peer)
+2016-11-15 10:09:51	<--	Draecos (~Draecos@203-121-194-221.e-wire.net.au) has quit (Quit: This computer has gone to sleep)
+2016-11-15 10:10:09	<--	lunatix79 (~Thunderbi@v3-1227.vlinux.de) has quit (Quit: lunatix79)
+2016-11-15 10:10:12	-->	adks (~adks@199.71.232.194) has joined #ubuntu
+2016-11-15 10:10:13	ioria	liuxg, try    unity-control-center   from terminal
+2016-11-15 10:10:20	-->	FrankoT (~FrankoT@dyndsl-178-142-073-101.ewe-ip-backbone.de) has joined #ubuntu
+2016-11-15 10:10:23	<--	kenp (~kenp@unaffiliated/kenan) has quit (Client Quit)
+2016-11-15 10:10:40	<--	arduinoToy (~steffen@pD9E60EA3.dip0.t-ipconnect.de) has quit (Ping timeout: 265 seconds)
+2016-11-15 10:10:45	liuxg	ioria, thanks.. I just got it working by installing unity-control-center. many thanks
+2016-11-15 10:10:48	-->	valeech (~valeech@unaffiliated/valeech) has joined #ubuntu
+2016-11-15 10:10:55	ioria	liuxg, no prob
+2016-11-15 10:11:10	-->	Swankey_ (~Swankey@206.223.184.2) has joined #ubuntu
+2016-11-15 10:11:20	<--	Maxou (~maxou@46.252.178.180) has quit (Remote host closed the connection)
+2016-11-15 10:11:24	-->	chcl3 (~chcl3@95.61.147.160) has joined #ubuntu
+2016-11-15 10:11:28		[bgdnvst back: gone 00:03:27]
+2016-11-15 10:11:31	<--	mjayk (~root@178.62.73.146) has quit (Quit: Lost terminal)
+2016-11-15 10:11:41	-->	atomekk (~atomekk@unaffiliated/atomekk) has joined #ubuntu
+2016-11-15 10:11:43	<--	steffen_ (~steffen@vpn-ms.adesso.de) has quit (Ping timeout: 252 seconds)
+2016-11-15 10:11:53	-->	tami_ (~smuxi@96-39-186-91.dhcp.mdfd.or.charter.com) has joined #ubuntu
+2016-11-15 10:11:53	-->	kenp (~kenp@unaffiliated/kenan) has joined #ubuntu
+2016-11-15 10:12:02	-->	chibby0ne (~chibby0ne@134.134.139.83) has joined #ubuntu
+2016-11-15 10:12:05	<--	chibby0ne (~chibby0ne@134.134.139.83) has left #ubuntu
+2016-11-15 10:12:10	<--	sorin-mihai (~sorin-mih@unaffiliated/sorin-mihai) has quit (Remote host closed the connection)
+2016-11-15 10:12:27	-->	alexkrupp (~textual@pool-98-116-157-111.nycmny.fios.verizon.net) has joined #ubuntu
+2016-11-15 10:12:49	<--	impi (~impi@196.22.249.114) has quit (Ping timeout: 252 seconds)
+2016-11-15 10:12:58	<--	knot (~knot@124.40.246.86) has quit (Ping timeout: 256 seconds)
+2016-11-15 10:13:05	<--	Swankey (~Swankey@76.9.199.178) has quit (Ping timeout: 265 seconds)
+2016-11-15 10:13:21	-->	subhojit777 (~subhojit@223.179.143.122) has joined #ubuntu
+2016-11-15 10:13:23	-->	panina (~panina@c-52eedb54.07-342-6d6c6d5.cust.bredbandsbolaget.se) has joined #ubuntu
+2016-11-15 10:13:37	<--	HolyKnight (uid24670@gateway/web/irccloud.com/x-wwktmckqmhxrjeif) has quit (Quit: Connection closed for inactivity)
+2016-11-15 10:13:37	-->	OOPMan (~OOPMan@154.66.249.84) has joined #ubuntu
+2016-11-15 10:14:13	<--	valeech (~valeech@unaffiliated/valeech) has quit (Client Quit)
+2016-11-15 10:14:47	<--	narindergupta (~narinderg@172.56.7.142) has quit (Ping timeout: 256 seconds)
+2016-11-15 10:15:05	-->	mewecoffeeX64 (~mewecoffe@144.37.244.131) has joined #ubuntu
+2016-11-15 10:15:46	-->	ChetManly (~chet@207.195.17.121) has joined #ubuntu
+2016-11-15 10:15:47	-->	Leno (~Leno@139.226.141.23) has joined #ubuntu
+2016-11-15 10:15:49	-->	Nani (7c7b5246@gateway/web/freenode/ip.124.123.82.70) has joined #ubuntu
+2016-11-15 10:16:27	<--	vrederv (~vrederv@84-114-84-181.cable.dynamic.surfer.at) has quit (Quit: Leaving)
+2016-11-15 10:17:13	<--	hhee1 (~hhee@37-145-175-56.broadband.corbina.ru) has quit (Read error: Connection reset by peer)
+2016-11-15 10:17:14	Nani	I just installed dual boot ubuntu 16 and my windows network adapator not working
+2016-11-15 10:17:18	<--	liuxg (~liuxg@221.223.113.8) has quit (Quit: Ex-Chat)
+2016-11-15 10:17:39	Nani	can any one help me
+2016-11-15 10:17:43	-->	ircuse (~ircuser1@cpc84141-pool16-2-0-cust106.15-1.cable.virginm.net) has joined #ubuntu
+2016-11-15 10:17:43	<--	VladGh (~VladGh@ip72-211-94-127.no.no.cox.net) has quit (Remote host closed the connection)
+2016-11-15 10:17:54	<--	TerjeBH (~Thunderbi@ti0030a400-3025.bb.online.no) has quit (Quit: TerjeBH)
+2016-11-15 10:17:58	<--	tarkus (~koistya@109.230.131.90) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2016-11-15 10:18:11	-->	limfm (~limfm@116.233.92.202) has joined #ubuntu
+2016-11-15 10:18:18	<--	fguillot (~fguillot@108.163.152.8) has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+2016-11-15 10:18:23	-->	tarkus (~koistya@109.230.131.90) has joined #ubuntu
+2016-11-15 10:18:28	<--	ecit5234089 (~Leno@139.226.141.23) has quit (Ping timeout: 248 seconds)
+2016-11-15 10:18:49	-->	gus_ (~smuxi@75.98.139.11) has joined #ubuntu
+2016-11-15 10:18:53	<--	limfm (~limfm@116.233.92.202) has quit (Client Quit)
+2016-11-15 10:19:01	-->	jfroebe (~jfroebe@64.124.12.37) has joined #ubuntu
+2016-11-15 10:19:04	<--	igordcar1 (~igordcard@box.igordcard.com) has quit (Quit: leaving)
+2016-11-15 10:19:09	<--	kenp (~kenp@unaffiliated/kenan) has quit (Quit: kenp)
+2016-11-15 10:19:17	-->	VladGh (~VladGh@ip72-211-94-127.no.no.cox.net) has joined #ubuntu
+2016-11-15 10:19:33	-->	igordcard (~igordcard@box.igordcard.com) has joined #ubuntu
+2016-11-15 10:19:36	<--	Nani (7c7b5246@gateway/web/freenode/ip.124.123.82.70) has quit (Client Quit)
+2016-11-15 10:19:37	-->	fguillot (~fguillot@108.163.152.8) has joined #ubuntu
+2016-11-15 10:19:37	-->	Jlye (~JtLivelye@cpe-74-79-203-131.twcny.res.rr.com) has joined #ubuntu
+2016-11-15 10:19:37	-->	autra (~augustin@37.166.98.141) has joined #ubuntu
+2016-11-15 10:19:59	-->	kenp (~kenp@unaffiliated/kenan) has joined #ubuntu
+2016-11-15 10:20:17	-->	Maxou (~maxou@46.252.178.180) has joined #ubuntu
+2016-11-15 10:20:21	<--	maolang (~maolang@2a01:e35:2e6c:5620:c77e:c4ff:15e1:718) has quit (Ping timeout: 260 seconds)
+2016-11-15 10:20:35	<--	jfroebe (~jfroebe@64.124.12.37) has quit (Client Quit)
+2016-11-15 10:20:35	donofrio	anyone here using airwatch on ubuntu?
+2016-11-15 10:20:46	-->	mmxx_th (~mmxx_th@177.86.241.216) has joined #ubuntu
+2016-11-15 10:22:43	<--	tarkus (~koistya@109.230.131.90) has quit (Ping timeout: 252 seconds)
+2016-11-15 10:23:13	-->	sappel (~sappel@x4db269c0.dyn.telefonica.de) has joined #ubuntu
+2016-11-15 10:23:22	<--	FrankoT (~FrankoT@dyndsl-178-142-073-101.ewe-ip-backbone.de) has quit (Read error: Connection reset by peer)
+2016-11-15 10:23:43	<--	shootbird (~quassel@beepbeep.serverpit.com) has quit (Ping timeout: 260 seconds)
+2016-11-15 10:23:49	<--	ircuse (~ircuser1@cpc84141-pool16-2-0-cust106.15-1.cable.virginm.net) has quit (Read error: Connection reset by peer)
+2016-11-15 10:24:15	-->	tetsuo (~pablo@OL89-134.fibertel.com.ar) has joined #ubuntu
+2016-11-15 10:24:17	-->	narindergupta (~narinderg@2405:204:318a:2095:e5e6:b813:2109:991a) has joined #ubuntu
+2016-11-15 10:24:18	-->	asyg (~andrzej@91.240.101.190) has joined #ubuntu
+2016-11-15 10:24:37	-->	ircuse (~ircuser1@cpc84141-pool16-2-0-cust106.15-1.cable.virginm.net) has joined #ubuntu
+2016-11-15 10:24:39	-->	jfroebe (~jfroebe@64.124.12.37) has joined #ubuntu
+2016-11-15 10:24:45	<--	kenp (~kenp@unaffiliated/kenan) has quit (Client Quit)
+2016-11-15 10:24:56	<--	ilyaman (ilyaman@nat/novell/x-waqioczdzddbvjsz) has quit (Ping timeout: 240 seconds)
+2016-11-15 10:25:35	-->	nubcake (~kaefermic@dslb-094-217-131-198.094.217.pools.vodafone-ip.de) has joined #ubuntu
+2016-11-15 10:25:37	tetsuo	hello guys, anyone familiar with debian packaging? I need my debian/install file to avoid certain folder inside
+2016-11-15 10:25:42	-->	kenp (~kenp@78.174.88.16) has joined #ubuntu
+2016-11-15 10:25:52	-->	scain (~scain@2607:5300:60:233b::1) has joined #ubuntu
+2016-11-15 10:26:15	<--	asyg (~andrzej@91.240.101.190) has quit (Client Quit)
+2016-11-15 10:26:19	-->	nolash (~nolash@ip5f5bf7fe.dynamic.kabel-deutschland.de) has joined #ubuntu
+2016-11-15 10:26:41	tetsuo	like, I have this rule: app/* some/folder/myapp
+2016-11-15 10:26:42	<--	elmagio (~smuxi@cable-212.76.242.107.coditel.net) has quit (Remote host closed the connection)
+2016-11-15 10:26:54	<--	Leno (~Leno@139.226.141.23) has quit (Read error: Connection reset by peer)
+2016-11-15 10:27:00	<--	autra (~augustin@37.166.98.141) has quit (Ping timeout: 248 seconds)
+2016-11-15 10:27:02	<--	narindergupta (~narinderg@2405:204:318a:2095:e5e6:b813:2109:991a) has quit (Client Quit)
+2016-11-15 10:27:05	-->	Sekreta (~Sekreta@172.98.67.90) has joined #ubuntu
+2016-11-15 10:27:11	<--	akiva_ (~smuxi@135.0.178.206) has quit (Ping timeout: 244 seconds)
+2016-11-15 10:27:11	tetsuo	but I want a folder inside app/thisfolder skipped
+2016-11-15 10:27:14	<--	kenp (~kenp@78.174.88.16) has quit (Client Quit)
+2016-11-15 10:27:49	-->	simosx (~simosx@ubuntu/member/simosx) has joined #ubuntu
+2016-11-15 10:28:39	<--	Sekreta (~Sekreta@172.98.67.90) has quit (Client Quit)
+2016-11-15 10:28:49	<--	simosx (~simosx@ubuntu/member/simosx) has quit (Remote host closed the connection)
+2016-11-15 10:28:55	-->	impi (~impi@196.22.249.114) has joined #ubuntu
+2016-11-15 10:29:14	-->	ilyaman (ilyaman@nat/novell/x-lhivqrbcorhsohjj) has joined #ubuntu
+2016-11-15 10:29:24	-->	Zonga (~Zonga@dyndsl-178-142-073-101.ewe-ip-backbone.de) has joined #ubuntu
+2016-11-15 10:30:03	<--	open-nandra (~marek@81.89.61.168.host.vnet.sk) has quit (Ping timeout: 252 seconds)
+2016-11-15 10:30:09	<--	ircuse (~ircuser1@cpc84141-pool16-2-0-cust106.15-1.cable.virginm.net) has left #ubuntu
+2016-11-15 10:30:25	<--	Thorstenmari (~jatsu@77.231.221.109) has quit (Quit: Ex-Chat)
+2016-11-15 10:30:34	-->	alain (~alain@209.232.88.79.rev.sfr.net) has joined #ubuntu
+2016-11-15 10:30:37	<--	alain (~alain@209.232.88.79.rev.sfr.net) has quit (Client Quit)
+2016-11-15 10:30:38	<--	Guest69488 (~smuxi@bas2-toronto36-70-50-58-108.dsl.bell.ca) has quit (Ping timeout: 250 seconds)
+2016-11-15 10:30:51	<--	Zonga (~Zonga@dyndsl-178-142-073-101.ewe-ip-backbone.de) has quit (Read error: Connection reset by peer)
+2016-11-15 10:30:55	-->	sams (4ffa0af3@gateway/web/freenode/ip.79.250.10.243) has joined #ubuntu
+2016-11-15 10:31:11	-->	sssilver (~sssilver@2605:6000:ee54:b500:5ca1:616f:9edc:5a88) has joined #ubuntu
+2016-11-15 10:31:28	-->	Zonga (~Zonga@dyndsl-178-142-073-101.ewe-ip-backbone.de) has joined #ubuntu
+2016-11-15 10:31:56	-->	akiva_ (~smuxi@135.0.178.206) has joined #ubuntu
+2016-11-15 10:31:59	-->	kenp (~kenp@unaffiliated/kenan) has joined #ubuntu
+2016-11-15 10:32:19	-->	ash_workz (~chatzilla@50-243-5-153-static.hfc.comcastbusiness.net) has joined #ubuntu
+2016-11-15 10:32:42	-->	ircuse (~ircuser1@cpc84141-pool16-2-0-cust106.15-1.cable.virginm.net) has joined #ubuntu
+2016-11-15 10:33:11	<--	huglester (~huglester@79.142.119.214) has quit (Quit: Ex-Chat)
+2016-11-15 10:33:17	<--	caco (c6cf107a@gateway/web/freenode/ip.198.207.16.122) has quit (Quit: Page closed)
+2016-11-15 10:33:24	<--	dekon (~dekon@ip-94-112-12-86.net.upcbroadband.cz) has quit (Quit: Leaving)
+2016-11-15 10:33:47	<--	loguerto (~loguerto@62.152.115.182) has quit (Read error: Connection reset by peer)
+2016-11-15 10:33:48	<--	sams (4ffa0af3@gateway/web/freenode/ip.79.250.10.243) has quit (Client Quit)
+2016-11-15 10:33:55	-->	dekon (~dekon@ip-94-112-12-86.net.upcbroadband.cz) has joined #ubuntu
+2016-11-15 10:33:57	<--	nomic (~nomic@host81-151-166-227.range81-151.btcentralplus.com) has quit (Quit: Leaving)
+2016-11-15 10:34:00	-->	shootbird (~quassel@beepbeep.serverpit.com) has joined #ubuntu
+2016-11-15 10:34:08	-->	kenden__ (~dsps@85.211.212.210) has joined #ubuntu
+2016-11-15 10:34:10	-->	tykayn1 (~tykayn@37.164.206.241) has joined #ubuntu
+2016-11-15 10:34:10	-->	philipballew (~philip@ubuntu/member/philipballew) has joined #ubuntu
+2016-11-15 10:34:58	-->	star_prone (~sviatovig@81.89.12.66) has joined #ubuntu
+2016-11-15 10:35:31	<--	ircuse (~ircuser1@cpc84141-pool16-2-0-cust106.15-1.cable.virginm.net) has left #ubuntu

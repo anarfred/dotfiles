@@ -1,0 +1,50 @@
+find e6
+filter petplay
+find sp
+find .sal
+rename backupsdmarjo
+find kennel
+open_with less
+find .con
+find .confi
+find i3ljk
+find green
+q
+ chmod -R -x
+ chmod -R -x *
+find h
+
+shell find . -type d -empty -delete
+find . -type d -empty -delete
+rename csquotes.pdf
+open_with fbreader
+open_with epub
+find Sl
+find S
+find Sima
+open_with zathura
+find .sam
+find .fonts
+find .fo
+find w
+c
+cd .fonts
+find sh
+find moc
+find .moc
+shell mkdir youtube
+find youtu
+open_with 
+shell 
+find .samael
+shell cd .samael
+cd .samel
+find .sa
+find bin
+find tor
+open_with exec
+cd .Samael
+cd  .samael
+cd .samael
+rename 
+delete

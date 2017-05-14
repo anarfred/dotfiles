@@ -1,0 +1,56 @@
+2016-11-14 23:19:03	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #i3
+2016-11-14 23:19:03	--	Topic for #i3 is "i3 v4.13 released | i3status 2.10 released | i3lock 2.8 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | http://build.i3wm.org/download-count.txt | paste at http://p.nnev.de/ | file upload at https://transfer.sh/"
+2016-11-14 23:19:03	--	Topic set by sECuRE (~sECuRE@alp.zekjur.net) on mar, 08 nov 2016 15:35:30
+2016-11-14 23:19:03	--	Channel #i3: 341 nicks (1 op, 0 voices, 340 normals)
+2016-11-14 23:19:05	--	Channel created on jeu, 22 jui 2010 15:58:13
+2016-11-14 23:23:16	<--	tonyctl (~Thunderbi@c-73-82-42-178.hsd1.ga.comcast.net) has quit (Remote host closed the connection)
+2016-11-14 23:28:42	<--	koenvg (~koenvg@45.55.24.123) has left #i3
+2016-11-14 23:36:58	-->	npc_says (~nope@c-76-26-203-243.hsd1.sc.comcast.net) has joined #i3
+2016-11-14 23:38:00	-->	venmx (~pactadmin@host86-173-114-90.range86-173.btcentralplus.com) has joined #i3
+2016-11-14 23:38:24	<--	npc_says (~nope@c-76-26-203-243.hsd1.sc.comcast.net) has quit (Client Quit)
+2016-11-14 23:42:32	-->	npc_says (~nope@c-76-26-203-243.hsd1.sc.comcast.net) has joined #i3
+2016-11-14 23:42:48	<--	venmx (~pactadmin@host86-173-114-90.range86-173.btcentralplus.com) has quit (Ping timeout: 250 seconds)
+2016-11-14 23:46:31	npc_says	hello, i recently upgraded i3 to 4.13 and have found that it now starts uxterm instead of xterm. I noticed the difference due to Xresource specifying reverse video for xterm yet uxterm does not abide by it.
+2016-11-14 23:47:32	-->	curiousx (~curiousx@unaffiliated/curiousx) has joined #i3
+2016-11-14 23:47:48	<--	curiousx (~curiousx@unaffiliated/curiousx) has quit (Client Quit)
+2016-11-14 23:49:53	npc_says	i've looked at i3-sensible-terminal wrapper and i3 config and am still wondering how i can specify a class for xterm
+2016-11-14 23:52:15	<--	npc_says (~nope@c-76-26-203-243.hsd1.sc.comcast.net) has quit (Quit: leaving)
+2016-11-14 23:55:25	<--	shou31 (~shougo@KD106130004043.au-net.ne.jp) has quit (Ping timeout: 256 seconds)
+2016-11-14 23:56:27	<--	inddwtsn (~yama@181.88.255.31) has quit (Ping timeout: 252 seconds)
+2016-11-14 23:58:50	-->	shou32 (~shougo@KD106130018177.au-net.ne.jp) has joined #i3
+2016-11-15 00:05:10	-->	greywolver (~grey@pool-100-11-190-234.phlapa.fios.verizon.net) has joined #i3
+2016-11-15 00:05:22	-->	spiux (~spiux@46.166.168.36) has joined #i3
+2016-11-15 00:08:26	<--	Magnetz74 (~roman@209.198.66.7) has quit (Ping timeout: 265 seconds)
+2016-11-15 00:15:46	-->	arescorpio (~arescorpi@31-57-245-190.fibertel.com.ar) has joined #i3
+2016-11-15 00:16:22		[bgdnvst away: sleeping]
+2016-11-15 00:28:31	<--	Prutheus_ (~XPS@WB21-0110.STUDFB.UniBw-Muenchen.de) has quit (Quit: leaving)
+2016-11-15 00:28:51	-->	Prutheus (~XPS@WB21-0110.STUDFB.UniBw-Muenchen.de) has joined #i3
+2016-11-15 00:28:52	-->	pf_ (~pf@109.2.broadband2.iol.cz) has joined #i3
+2016-11-15 10:07:36	--	irc: disconnected from server
+2016-11-15 10:07:55		[bgdnvst away: sleeping]
+2016-11-15 10:08:03	-->	bgdnvst (~nrfrd@24.48.32.238) has joined #i3
+2016-11-15 10:08:03	--	Topic for #i3 is "i3 v4.13 released | i3status 2.10 released | i3lock 2.8 released | http://code.i3wm.org/ | http://i3wm.org/ | http://faq.i3wm.org/ | http://build.i3wm.org/download-count.txt | paste at http://p.nnev.de/ | file upload at https://transfer.sh/"
+2016-11-15 10:08:03	--	Topic set by sECuRE (~sECuRE@alp.zekjur.net) on mar, 08 nov 2016 15:35:30
+2016-11-15 10:08:03	--	Channel #i3: 356 nicks (1 op, 0 voices, 355 normals)
+2016-11-15 10:08:07	--	Channel created on jeu, 22 jui 2010 15:58:13
+2016-11-15 10:10:48	-->	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has joined #i3
+2016-11-15 10:11:28		[bgdnvst back: gone 00:03:27]
+2016-11-15 10:13:16	<--	nujikl123 (~quest1@89-71-126-91.dynamic.chello.pl) has quit (Ping timeout: 240 seconds)
+2016-11-15 10:17:26	<--	somis (~somis@149.56.153.189) has quit (Quit: WeeChat 1.6)
+2016-11-15 10:18:51	<--	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has quit (Quit: bye)
+2016-11-15 10:18:53	-->	Erayaydin (9f925167@gateway/web/freenode/ip.159.146.81.103) has joined #i3
+2016-11-15 10:19:08	-->	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has joined #i3
+2016-11-15 10:19:33	Erayaydin	Hi, I have DPI problem on Chromium and Firefox (Only on this apps, other apps fine). On Xfce Chromium and Firefox DPI is fine
+2016-11-15 10:19:51	Erayaydin	I have DPI problem on only i3 and only on chromium and firefox (not other apps)
+2016-11-15 10:22:29	-->	somis (~somis@149.56.153.186) has joined #i3
+2016-11-15 10:25:03	<--	jaiks (jschmid@nat/novell/x-oobkfodbqvxaibai) has quit (Ping timeout: 245 seconds)
+2016-11-15 10:25:38	-->	przemkovv-bis (~przemkovv@89-64-178-94.dynamic.chello.pl) has joined #i3
+2016-11-15 10:27:00	-->	nujikl123 (~quest1@89-71-126-91.dynamic.chello.pl) has joined #i3
+2016-11-15 10:27:34	-->	qws-user-1229 (~quassel@cpe-76-181-123-141.columbus.res.rr.com) has joined #i3
+2016-11-15 10:29:02	-->	jaiks (jschmid@nat/novell/x-puadhjggmvqceuar) has joined #i3
+2016-11-15 10:30:16	<--	qws-user-1228 (~quassel@2605:a000:110c:a05e:c8ce:daff:2d1:a11f) has quit (Ping timeout: 240 seconds)
+2016-11-15 10:31:05	<--	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has quit (Quit: bye)
+2016-11-15 10:32:53	-->	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has joined #i3
+2016-11-15 10:33:24	-->	alexpbrown (~alex.brow@38.97.68.126) has joined #i3
+2016-11-15 10:33:40	<--	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has quit (Client Quit)
+2016-11-15 10:33:56	-->	moonnie (~irc@5355D4AC.cm-6-6d.dynamic.ziggo.nl) has joined #i3

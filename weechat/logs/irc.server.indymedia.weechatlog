@@ -1,0 +1,1461 @@
+2016-11-07 16:22:06	--	irc : connexion au serveur irc.indymedia.org/6697...
+2016-11-07 16:22:06	--	irc : connecté à irc.indymedia.org/6697 (162.247.75.152)
+2016-11-07 16:22:06	=!=	irc : lecture de données sur le socket : erreur 104 Connection reset by peer
+2016-11-07 16:22:06	--	irc : déconnexion du serveur...
+2016-11-07 16:22:06	--	irc : déconnecté du serveur
+2016-11-07 16:22:06	--	irc : reconnexion au serveur dans 10 secondes
+2016-11-07 16:22:16	--	irc : reconnexion au serveur...
+2016-11-07 16:22:16	--	irc : connexion au serveur irc.indymedia.org/6697...
+2016-11-07 16:22:16	--	irc : connecté à irc.indymedia.org/6697 (199.58.80.38)
+2016-11-07 16:22:16	=!=	irc : lecture de données sur le socket : erreur 104 Connection reset by peer
+2016-11-07 16:22:16	--	irc : déconnexion du serveur...
+2016-11-07 16:22:16	--	irc : déconnecté du serveur
+2016-11-07 16:22:16	--	irc : reconnexion au serveur dans 20 secondes
+2016-11-07 16:22:36	--	irc : reconnexion au serveur...
+2016-11-07 16:22:36	--	irc : connexion au serveur irc.indymedia.org/6697...
+2016-11-07 16:22:36	--	irc : connecté à irc.indymedia.org/6697 (199.58.80.38)
+2016-11-07 16:22:36	=!=	irc : lecture de données sur le socket : erreur 104 Connection reset by peer
+2016-11-07 16:22:36	--	irc : déconnexion du serveur...
+2016-11-07 16:22:36	--	irc : déconnecté du serveur
+2016-11-07 16:22:36	--	irc : reconnexion au serveur dans 40 secondes
+2016-11-07 16:23:16	--	irc : reconnexion au serveur...
+2016-11-07 16:23:16	--	irc : connexion au serveur irc.indymedia.org/6697...
+2016-11-07 16:23:17	--	irc : connecté à irc.indymedia.org/6697 (162.247.75.152)
+2016-11-07 16:23:17	=!=	irc : lecture de données sur le socket : erreur 104 Connection reset by peer
+2016-11-07 16:23:17	--	irc : déconnexion du serveur...
+2016-11-07 16:23:17	--	irc : déconnecté du serveur
+2016-11-07 16:23:17	--	irc : reconnexion au serveur dans 1 minute, 20 secondes
+2016-11-07 16:24:37	--	irc : reconnexion au serveur...
+2016-11-07 16:24:37	--	irc : connexion au serveur irc.indymedia.org/6697...
+2016-11-07 16:24:38	--	irc : connecté à irc.indymedia.org/6697 (199.58.80.38)
+2016-11-07 16:24:38	=!=	irc : lecture de données sur le socket : erreur 104 Connection reset by peer
+2016-11-07 16:24:38	--	irc : déconnexion du serveur...
+2016-11-07 16:24:38	--	irc : déconnecté du serveur
+2016-11-07 16:24:38	--	irc : reconnexion au serveur dans 2 minutes, 40 secondes
+2016-11-07 16:27:18	--	irc : reconnexion au serveur...
+2016-11-07 16:27:18	--	irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
+2016-11-07 16:27:19	--	gnutls : connecté en utilisant un échange secret Diffie-Hellman de 2048 bits
+2016-11-07 16:27:19	--	gnutls : réception de 5 certificats
+2016-11-07 16:27:19	--	 - info certificat[1] :
+2016-11-07 16:27:19	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signé avec RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-07 16:27:19	--	 - info certificat[2] :
+2016-11-07 16:27:19	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-07 16:27:19	--	 - info certificat[3] :
+2016-11-07 16:27:19	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-07 16:27:19	--	 - info certificat[4] :
+2016-11-07 16:27:19	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-07 16:27:19	--	 - info certificat[5] :
+2016-11-07 16:27:19	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-07 16:27:19	=!=	gnutls : le certificat de l'hôte n'est PAS de confiance
+2016-11-07 16:27:19	=!=	gnutls : l'émetteur du certificat de l'hôte est inconnu
+2016-11-07 16:27:19	=!=	irc : la poignée de main (handshake) de TLS a échoué
+2016-11-07 16:27:19	=!=	irc : erreur : Erreur dans le certificat.
+2016-11-07 16:27:19	--	irc : reconnexion au serveur dans 5 minutes, 20 secondes
+2016-11-07 16:32:39	--	irc : reconnexion au serveur...
+2016-11-07 16:32:39	--	irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
+2016-11-07 16:32:40	--	gnutls : connecté en utilisant un échange secret Diffie-Hellman de 2048 bits
+2016-11-07 16:32:40	--	gnutls : réception de 5 certificats
+2016-11-07 16:32:40	--	 - info certificat[1] :
+2016-11-07 16:32:40	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signé avec RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-07 16:32:40	--	 - info certificat[2] :
+2016-11-07 16:32:40	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-07 16:32:40	--	 - info certificat[3] :
+2016-11-07 16:32:40	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-07 16:32:40	--	 - info certificat[4] :
+2016-11-07 16:32:40	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-07 16:32:40	--	 - info certificat[5] :
+2016-11-07 16:32:40	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-07 16:32:40	=!=	gnutls : le certificat de l'hôte n'est PAS de confiance
+2016-11-07 16:32:40	=!=	gnutls : l'émetteur du certificat de l'hôte est inconnu
+2016-11-07 16:32:40	=!=	irc : la poignée de main (handshake) de TLS a échoué
+2016-11-07 16:32:40	=!=	irc : erreur : Erreur dans le certificat.
+2016-11-07 16:32:40	--	irc : reconnexion au serveur dans 10 minutes
+2016-11-07 16:33:10	=!=	irc : ce tampon n'est pas un canal !
+2016-11-07 16:33:13	=!=	irc : ce tampon n'est pas un canal !
+2016-11-07 16:33:30	=!=	irc : ce tampon n'est pas un canal !
+2016-11-07 16:33:31	=!=	irc : ce tampon n'est pas un canal !
+2016-11-07 16:34:39		irc : la reconnexion automatique est annulée
+2016-11-07 16:34:39	--	irc : déconnecté du serveur
+2016-11-07 16:35:18	=!=	irc : ce tampon n'est pas un canal !
+2016-11-07 16:36:27	--	irc : déconnecté du serveur
+2016-11-14 16:01:44	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-14 16:01:45	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-14 16:01:45	--	gnutls: receiving 5 certificates
+2016-11-14 16:01:45	--	 - certificate[1] info:
+2016-11-14 16:01:45	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-14 16:01:45	--	 - certificate[2] info:
+2016-11-14 16:01:45	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-14 16:01:45	--	 - certificate[3] info:
+2016-11-14 16:01:45	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-14 16:01:45	--	 - certificate[4] info:
+2016-11-14 16:01:45	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-14 16:01:45	--	 - certificate[5] info:
+2016-11-14 16:01:45	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-14 16:01:45	--	gnutls: peer's certificate is trusted
+2016-11-14 16:01:45	--	irc: connected to irc.indymedia.org/6697 (216.46.7.99)
+2016-11-14 16:01:45	--	chat0.koumbit.net: *** Looking up your hostname...
+2016-11-14 16:01:45	--	chat0.koumbit.net: *** Couldn't look up your hostname
+2016-11-14 16:01:45	--	Welcome to the Indymedia Internet Relay Chat Network nrfrd
+2016-11-14 16:01:45	--	Your host is chat0.koumbit.net[chat0.koumbit.net/6697], running version charybdis-3.5.3
+2016-11-14 16:01:45	--	This server was created Tue Sep  6 14:36:52 UTC 2016
+2016-11-14 16:01:45	--	chat0.koumbit.net charybdis-3.5.3 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-14 16:01:45	--	KNOCK ETRACE MONITOR=100 WHOX FNC CPRIVMSG CNOTICE SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+2016-11-14 16:01:45	--	CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+2016-11-14 16:01:45	--	TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz CLIENTVER=3.0 :are supported by this server
+2016-11-14 16:01:45	--	There are 1 users and 422 invisible on 4 servers
+2016-11-14 16:01:45	--	1 :IRC Operators online
+2016-11-14 16:01:45	--	197 :channels formed
+2016-11-14 16:01:45	--	I have 176 clients and 1 servers
+2016-11-14 16:01:45	--	176 182 :Current local users 176, max 182
+2016-11-14 16:01:45	--	423 424 :Current global users 423, max 424
+2016-11-14 16:01:45	--	Highest connection count: 183 (182 clients) (884 connections received)
+2016-11-14 16:01:45	--	- chat0.koumbit.net Message of the Day -
+2016-11-14 16:01:45	--	-                 #                            #
+2016-11-14 16:01:45	--	-              ###                             ####
+2016-11-14 16:01:45	--	-            ####                                ###
+2016-11-14 16:01:45	--	-          ####                           #       ###
+2016-11-14 16:01:45	--	-         ####     ###                    ###     ####
+2016-11-14 16:01:45	--	-        ####    ####                      ###     ####
+2016-11-14 16:01:45	--	-       ####    ###     ##           ##     ###    ####
+2016-11-14 16:01:45	--	-      ####    ###    ###             ##     ###    ####
+2016-11-14 16:01:45	--	-     #####   ###    ###               ##    ###    ####
+2016-11-14 16:01:45	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-14 16:01:45	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-14 16:01:45	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-14 16:01:45	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-14 16:01:45	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-14 16:01:45	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-14 16:01:45	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-14 16:01:45	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-14 16:01:45	--	-      ###     ###        #######       ###     ####
+2016-11-14 16:01:45	--	-      ####      ##      ########      ##      ###
+2016-11-14 16:01:45	--	-       ####             ########            ####
+2016-11-14 16:01:45	--	-         ###            #######            ###
+2016-11-14 16:01:45	--	-           ##           #######          ###
+2016-11-14 16:01:45	--	-                        #######
+2016-11-14 16:01:45	--	-                     ############
+2016-11-14 16:01:45	--	-                     ############
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	-             chat0.koumbit.net IMC Chat Server
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- "I have no quote to provide here yet, as I have not found some useful
+2016-11-14 16:01:45	--	- revolutionnary figure to name-drop here." - anarcat
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- *** NETWORK POLICY **************************************************
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-14 16:01:45	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-14 16:01:45	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-14 16:01:45	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-14 16:01:45	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-14 16:01:45	--	- registering with nickserv, please set your email address too, so you
+2016-11-14 16:01:45	--	- can recover your password later. You should also put your wiki URL
+2016-11-14 16:01:45	--	- or local imc into your nickserv profile.
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- If you speak languages other than english, please join the
+2016-11-14 16:01:45	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-14 16:01:45	--	- German, join #de, and so forth.
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- *** USAGE ***********************************************************
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- Services for protecting your nickname and channel registrations are
+2016-11-14 16:01:45	--	- available. For information, do:
+2016-11-14 16:01:45	--	- /msg nickserv help
+2016-11-14 16:01:45	--	- /msg chanserv help
+2016-11-14 16:01:45	--	- /msg memoserv help
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-14 16:01:45	--	- working group mantaining this IRC network mail
+2016-11-14 16:01:45	--	- <ircd@lists.indymedia.org>.
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- To access IRC via a web browser (java or html), please visit
+2016-11-14 16:01:45	--	- https://chat.indymedia.org
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-14 16:01:45	--	- communications between you and the server. The IRCd working group
+2016-11-14 16:01:45	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-14 16:01:45	--	- ones. Please note that you may not be able to join some channels if
+2016-11-14 16:01:45	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-14 16:01:45	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-14 16:01:45	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- For complete information and instructions, see the HOWTO at:
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- The SSL Certificate fingerprint of this server is:
+2016-11-14 16:01:45	--	-
+2016-11-14 16:01:45	--	- SHA1 Fingerprint=A9:DA:6F:DB:AD:B9:C5:16:E8:84:93:90:95:7A:29:70:28:37:DB:81
+2016-11-14 16:01:45	--	End of /MOTD command.
+2016-11-14 16:01:45	--	User mode [+Zhi] by nrfrd
+2016-11-14 16:01:45	--	24.48.kw.igu :is now your hidden host
+2016-11-14 16:04:31	--	You are now known as bgdnvst
+2016-11-14 16:09:02	--	MSG(NickServ): register ******************************************
+2016-11-14 16:09:02	--	NickServ (NickServ@services.indymedia.org): bgdnvst is now registered to frdrcv@protonmail.com, with the password xri58P}j*z[rqgDqj4#W.
+2016-11-14 16:41:34	--	[bgdnvst] (~nrfrd@24.48.kw.igu): nrfrd
+2016-11-14 16:41:34	--	[bgdnvst] chat0.koumbit.net (chat0 Koumbit IRC Server)
+2016-11-14 16:41:34	--	[bgdnvst] is using a secure connection [TLS1.2, ECDHE-RSA-AES-256-GCM-AEAD]
+2016-11-14 16:41:34	--	[bgdnvst] is connecting from *@24.48.32.238 24.48.32.238
+2016-11-14 16:41:34	--	[bgdnvst] idle: 00 hours 32 minutes 32 seconds, signon at: lun, 14 nov 2016 16:01:45
+2016-11-14 16:41:34	--	[bgdnvst] is logged in as bgdnvst
+2016-11-14 16:41:34	--	[bgdnvst] End of /WHOIS list.
+2016-11-14 16:49:00	--	Channel Users  Name
+2016-11-14 16:49:00	--	#sdiy(5)
+2016-11-14 16:49:00	--	#interference(9)
+2016-11-14 16:49:00	--	#cricket(4)
+2016-11-14 16:49:00	--	#bc(3)
+2016-11-14 16:49:00	--	#etp(9): 12:41 < dtb> la pistola de silicona es la verdadera impresora 3d
+2016-11-14 16:49:00	--	#occupyboston(3)
+2016-11-14 16:49:00	--	#puppet(18): Submit and review merge requests here: https://gitlab.com/groups/shared-puppet-modules-group/merge_requests
+2016-11-14 16:49:00	--	#print(5)
+2016-11-14 16:49:00	--	#uk(6)
+2016-11-14 16:49:00	--	#icarus(3): *** http://mindfuloccupation.org/ *** || http://theicarusproject.net/ -- register your nicknames, type: /msg nickserv register <password> <email address> || Activity is low, but highly variable, due to users being spread among many different timezones and mental states. Stick around for a while to chat.
+2016-11-14 16:49:00	--	#crabgrass(10)
+2016-11-14 16:49:00	--	#tachanka(16): all systems green | any problems, contact here or on tachanka-collective@lists.tachanka.org
+2016-11-14 16:49:00	--	#ecobytes(5): Federation is dead. https://vector.allmende.io/#/room/#ecobytes:matrix.allmende.io Long live the federation!
+2016-11-14 16:49:00	--	#espiv(14): https://espiv.net/files/2016/04/apokentrwshkaialladaimonia.pdf
+2016-11-14 16:49:00	--	#nl(4)
+2016-11-14 16:49:00	--	#sous-surveillance(9): http://sous-surveillance.net/ || Cartographie collaborative <blink>CONTRE</blink> la vidéosurveillance || https://red.rebellyon.info/projects/carto
+2016-11-14 16:49:00	--	#contrast(3)
+2016-11-14 16:49:00	--	#hackmeet(3)
+2016-11-14 16:49:00	--	#riseup-status(5)
+2016-11-14 16:49:00	--	#tribu(4)
+2016-11-14 16:49:00	--	#indymedia(25): the Indymedia mailing list server has died
+2016-11-14 16:49:00	--	#west(3)
+2016-11-14 16:49:00	--	#apv(15):  ":::Anarchist Peoples' Village::  https://pad.riseup.net/p/apv33c3 - internal project: https://we.riseup.net/anarchistvillagepeople
+2016-11-14 16:49:00	--	#radar(17): https://radar.squat.net | code/issues https://0xacab.org/radar
+2016-11-14 16:49:00	--	#brasil(3)
+2016-11-14 16:49:00	--	#mod_gnutls(3)
+2016-11-14 16:49:00	--	#koumbit-status(13): https://status.koumbit.net http://stats.koumbit.net https://wiki.koumbit.net/WeatherMap
+2016-11-14 16:49:00	--	#traven(4)
+2016-11-14 16:49:00	--	#seaccp(10): we are on UPS!
+2016-11-14 16:49:00	--	#garbman(3): Mindre mat - Mer Civ
+2016-11-14 16:49:00	--	#coopsymbiotic(3)
+2016-11-14 16:49:00	--	#nadir(11): maintenance startet. see http://status.nadir.org
+2016-11-14 16:49:00	--	#riseup(108): sorry for the we.riseup.net cert expiration, something was blocking its update. *chirp*chirp*
+2016-11-14 16:49:00	--	#LAG(34): "send all your money to NL32 TRIO 0390 9112 08 or lag dies" | Nov 9th: Hacking Feminism | Nov 18th: C= 64 assembly
+2016-11-14 16:49:00	--	#novaema(3): novaema!
+2016-11-14 16:49:00	--	#de(3)
+2016-11-14 16:49:00	--	#listwork(5)
+2016-11-14 16:49:00	--	#anarchopedia(3)
+2016-11-14 16:49:00	--	#ircd(18): documentation & news: https://we.riseup.net/ircd | tor hidden service: h7gf2ha3hefoj5ls.onion | Who can help? /stats p | Web chat: https://chat.koumbit.net https://irc.indymedia.nl | SSL-only channels: /mode #channel +S | Cloaks: register & ask | fpr: 0F:7E:DD:67:15:D3:4F:A6:F3:E7:67:58:F9:B9:71:45:E3:67:13:AB
+2016-11-14 16:49:00	--	#Langos(3)
+2016-11-14 16:49:00	--	#occupywallstreet(6): Day #1514 (as of Nov 09 2015)  ||| http://99.occupymediawiki.org/wiki/99wiki:Current_events ||| Contact ops for /TOPIC suggestions/disapproval of current topic.
+2016-11-14 16:49:00	--	#cw(4)
+2016-11-14 16:49:00	--	#schleuder(9)
+2016-11-14 16:49:00	--	#pinknoise(8)
+2016-11-14 16:49:00	--	#notokdirdel(4)
+2016-11-14 16:49:00	--	#koumbit(23): Koumbit.org | web interface: https://chat.koumbit.net/ | just ask your question and wait, don't ask to  ask | on parle français - we speak english - hablamos español a veces | état des services - network service status: https://status.koumbit.net/
+2016-11-14 16:49:00	--	#kroeg(9)
+2016-11-14 16:49:00	--	#apssa(3)
+2016-11-14 16:49:00	--	#lsxtech(3)
+2016-11-14 16:49:00	--	#newimc(3)
+2016-11-14 16:49:00	--	#aktivix(10): owncloud new x509 : lists up : mail up
+2016-11-14 16:49:00	--	#cms(3)
+2016-11-14 16:49:00	--	#infokiosques.net(4): httpS://infokiosques.net/ des brochures à foison !
+2016-11-14 16:49:00	--	#sindominio(3)
+2016-11-14 16:49:00	--	#Morena(7)
+2016-11-14 16:49:00	--	#sf-active(3)
+2016-11-14 16:49:00	--	#SQUAT(24):  https://planet.squat.net/ :: https://radar.squat.net/
+2016-11-14 16:49:00	--	#mir(4)
+2016-11-14 16:49:00	--	#mayfirst(23): Upgrade party at https://meet.mayfirst.org/support
+2016-11-14 16:49:00	--	#denmark(12): Chat for anarkister, socialister, feminister, esperantister, aktivister, queers, idlers, slamkodere og hangarounds | If you're new, please introduce yourself. Anonymous idlers will eventually be kicked | Skriv til joe: /msg joe | Nogen der har lyst til at rode i Databaser? Rebel har den gamle indymedia database
+2016-11-14 16:49:00	--	#tech(68): NSA: "found the Heartbleed glitch shortly after its introduction..." http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html
+2016-11-14 16:49:00	--	#seattle(3)
+2016-11-14 16:49:00	--	#occupyoakland(3)
+2016-11-14 16:49:00	--	#rebellyon(12): Rebellyon.info (https://rebellyon.info) LE site d'infos alternatives, libres et coopératives de Lyon - France
+2016-11-14 16:49:00	--	#london(3)
+2016-11-14 16:49:00	--	#leap-build(4)
+2016-11-14 16:49:00	--	#reseaurebellyon(12): Rebellyon.info Le site d'info de Lyon et sa région
+2016-11-14 16:49:00	--	#athens(6): Κανάλι επικοινωνίας Athens Imc | Για τροποποιήσεις παρακαλούμε να δίνετε πάντα το link του άρθρου ή της εκδήλωσης που επιθυμείτε προς αλλαγή και περιμένετε απάντηση ως ένδειξη ότι η ΔΟ έλαβε το αίτημα σας.
+2016-11-14 16:49:00	--	#unciv(6): https://www.unciv.nl | uncivilization - ethics technology hacking future sustainability anarchy community utopia squirrels | https://www.unciv.nl/w/IRC
+2016-11-14 16:49:00	--	#mediaslibres(4)
+2016-11-14 16:49:00	--	#linksunten(4)
+2016-11-14 16:49:00	--	#features(3)
+2016-11-14 16:49:00	--	End of /LIST
+2016-11-14 17:00:05	--	MSG(nickserv): set pubkey An2AsteOx541LrMCWAJILv0Oe6/P/hSoae2IKdk6izCU
+2016-11-14 17:00:05	--	NickServ (NickServ@services.indymedia.org): Your public key is now set to An2AsteOx541LrMCWAJILv0Oe6/P/hSoae2IKdk6izCU.
+2016-11-14 17:02:04	--	irc: disconnected from server
+2016-11-14 17:02:04	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-14 17:02:05	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-14 17:02:05	--	gnutls: receiving 5 certificates
+2016-11-14 17:02:05	--	 - certificate[1] info:
+2016-11-14 17:02:05	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-14 17:02:05	--	 - certificate[2] info:
+2016-11-14 17:02:05	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-14 17:02:05	--	 - certificate[3] info:
+2016-11-14 17:02:05	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-14 17:02:05	--	 - certificate[4] info:
+2016-11-14 17:02:05	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-14 17:02:05	--	 - certificate[5] info:
+2016-11-14 17:02:05	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-14 17:02:05	--	gnutls: peer's certificate is trusted
+2016-11-14 17:02:05	--	irc: connected to irc.indymedia.org/6697 (199.58.80.38)
+2016-11-14 17:02:05	--	chat1.koumbit.net: *** Looking up your hostname...
+2016-11-14 17:02:05	--	chat1.koumbit.net: *** Couldn't look up your hostname
+2016-11-14 17:02:05	--	irc: client capability, server supports: account-notify away-notify cap-notify chghost extended-join multi-prefix sasl tls userhost-in-names
+2016-11-14 17:02:05	--	irc: client capability, requesting: sasl
+2016-11-14 17:02:05	--	irc: client capability, enabled: sasl
+2016-11-14 17:02:05	--	PLAIN :are available SASL mechanisms
+2016-11-14 17:02:05	--	SASL authentication failed
+2016-11-14 17:02:06	--	SASL authentication aborted
+2016-11-14 17:02:06	--	Welcome to the Indymedia Internet Relay Chat Network nrfrd
+2016-11-14 17:02:06	--	Your host is chat1.koumbit.net[chat1.koumbit.net/6697], running version charybdis-3.5.3
+2016-11-14 17:02:06	--	This server was created Tue Sep  6 00:45:17 UTC 2016
+2016-11-14 17:02:06	--	chat1.koumbit.net charybdis-3.5.3 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-14 17:02:06	--	MONITOR=100 FNC CPRIVMSG CNOTICE SAFELIST ELIST=CTU ETRACE KNOCK WHOX CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+2016-11-14 17:02:06	--	CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+2016-11-14 17:02:06	--	TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz CLIENTVER=3.0 :are supported by this server
+2016-11-14 17:02:06	--	There are 1 users and 414 invisible on 4 servers
+2016-11-14 17:02:06	--	1 :IRC Operators online
+2016-11-14 17:02:06	--	196 :channels formed
+2016-11-14 17:02:06	--	I have 177 clients and 3 servers
+2016-11-14 17:02:06	--	177 197 :Current local users 177, max 197
+2016-11-14 17:02:06	--	415 431 :Current global users 415, max 431
+2016-11-14 17:02:06	--	Highest connection count: 200 (197 clients) (1902 connections received)
+2016-11-14 17:02:06	--	- chat1.koumbit.net Message of the Day -
+2016-11-14 17:02:06	--	-                 #                            #
+2016-11-14 17:02:06	--	-              ###                             ####
+2016-11-14 17:02:06	--	-            ####                                ###
+2016-11-14 17:02:06	--	-          ####                           #       ###
+2016-11-14 17:02:06	--	-         ####     ###                    ###     ####
+2016-11-14 17:02:06	--	-        ####    ####                      ###     ####
+2016-11-14 17:02:06	--	-       ####    ###     ##           ##     ###    ####
+2016-11-14 17:02:06	--	-      ####    ###    ###             ##     ###    ####
+2016-11-14 17:02:06	--	-     #####   ###    ###               ##    ###    ####
+2016-11-14 17:02:06	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-14 17:02:06	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-14 17:02:06	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-14 17:02:06	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-14 17:02:06	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-14 17:02:06	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-14 17:02:06	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-14 17:02:06	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-14 17:02:06	--	-      ###     ###        #######       ###     ####
+2016-11-14 17:02:06	--	-      ####      ##      ########      ##      ###
+2016-11-14 17:02:06	--	-       ####             ########            ####
+2016-11-14 17:02:06	--	-         ###            #######            ###
+2016-11-14 17:02:06	--	-           ##           #######          ###
+2016-11-14 17:02:06	--	-                        #######
+2016-11-14 17:02:06	--	-                     ############
+2016-11-14 17:02:06	--	-                     ############
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	-             chat0.koumbit.net IMC Chat Server
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- "I have no quote to provide here yet, as I have not found some useful
+2016-11-14 17:02:06	--	- revolutionnary figure to name-drop here." - anarcat
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- *** NETWORK POLICY **************************************************
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-14 17:02:06	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-14 17:02:06	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-14 17:02:06	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-14 17:02:06	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-14 17:02:06	--	- registering with nickserv, please set your email address too, so you
+2016-11-14 17:02:06	--	- can recover your password later. You should also put your wiki URL
+2016-11-14 17:02:06	--	- or local imc into your nickserv profile.
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- If you speak languages other than english, please join the
+2016-11-14 17:02:06	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-14 17:02:06	--	- German, join #de, and so forth.
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- *** USAGE ***********************************************************
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- Services for protecting your nickname and channel registrations are
+2016-11-14 17:02:06	--	- available. For information, do:
+2016-11-14 17:02:06	--	- /msg nickserv help
+2016-11-14 17:02:06	--	- /msg chanserv help
+2016-11-14 17:02:06	--	- /msg memoserv help
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-14 17:02:06	--	- working group mantaining this IRC network mail
+2016-11-14 17:02:06	--	- <ircd@lists.indymedia.org>.
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- To access IRC via a web browser (java or html), please visit
+2016-11-14 17:02:06	--	- https://chat.indymedia.org
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-14 17:02:06	--	- communications between you and the server. The IRCd working group
+2016-11-14 17:02:06	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-14 17:02:06	--	- ones. Please note that you may not be able to join some channels if
+2016-11-14 17:02:06	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-14 17:02:06	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-14 17:02:06	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- For complete information and instructions, see the HOWTO at:
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- The SSL Certificate fingerprint of this server is:
+2016-11-14 17:02:06	--	-
+2016-11-14 17:02:06	--	- SHA1 Fingerprint=A9:DA:6F:DB:AD:B9:C5:16:E8:84:93:90:95:7A:29:70:28:37:DB:81
+2016-11-14 17:02:06	--	End of /MOTD command.
+2016-11-14 17:02:06	--	User mode [+Zhi] by nrfrd
+2016-11-14 17:02:06	--	24.48.kw.igu :is now your hidden host
+2016-11-14 17:04:57	--	You are now known as bgdnvst
+2016-11-14 17:04:57	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-14 17:06:13	--	MSG(NickServ): identify ********************
+2016-11-14 17:06:13	--	NickServ (NickServ@services.indymedia.org): You are now identified for bgdnvst.
+2016-11-14 22:22:25	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-14 22:22:25	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-14 22:22:25	--	gnutls: receiving 5 certificates
+2016-11-14 22:22:25	--	 - certificate[1] info:
+2016-11-14 22:22:25	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-14 22:22:25	--	 - certificate[2] info:
+2016-11-14 22:22:25	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-14 22:22:25	--	 - certificate[3] info:
+2016-11-14 22:22:25	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-14 22:22:25	--	 - certificate[4] info:
+2016-11-14 22:22:25	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-14 22:22:25	--	 - certificate[5] info:
+2016-11-14 22:22:25	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-14 22:22:25	--	gnutls: peer's certificate is trusted
+2016-11-14 22:22:25	--	irc: connected to irc.indymedia.org/6697 (162.247.75.152)
+2016-11-14 22:22:25	--	che.indymedia.org: *** Looking up your hostname...
+2016-11-14 22:22:25	--	che.indymedia.org: *** Couldn't look up your hostname
+2016-11-14 22:22:25	--	irc: client capability, server supports: account-notify away-notify extended-join multi-prefix sasl
+2016-11-14 22:22:25	--	irc: client capability, requesting: sasl
+2016-11-14 22:22:25	--	irc: client capability, enabled: sasl
+2016-11-14 22:22:26	--	SASL authentication failed
+2016-11-14 22:22:27	--	SASL authentication aborted
+2016-11-14 22:22:27	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-14 22:22:27	--	Your host is che.indymedia.org[che.indymedia.org/6697], running version charybdis-3.4.2
+2016-11-14 22:22:27	--	This server was created Tue Sep 6 2016 at 00:18:22 UTC
+2016-11-14 22:22:27	--	che.indymedia.org charybdis-3.4.2 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-14 22:22:27	--	SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia KNOCK :are supported by this server
+2016-11-14 22:22:27	--	STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D :are supported by this server
+2016-11-14 22:22:27	--	MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz WHOX CLIENTVER=3.0 :are supported by this server
+2016-11-14 22:22:27	--	There are 1 users and 389 invisible on 4 servers
+2016-11-14 22:22:27	--	1 :IRC Operators online
+2016-11-14 22:22:27	--	192 :channels formed
+2016-11-14 22:22:27	--	I have 48 clients and 1 servers
+2016-11-14 22:22:27	--	48 63 :Current local users 48, max 63
+2016-11-14 22:22:27	--	390 425 :Current global users 390, max 425
+2016-11-14 22:22:27	--	Highest connection count: 64 (63 clients) (464 connections received)
+2016-11-14 22:22:27	--	- che.indymedia.org Message of the Day -
+2016-11-14 22:22:27	--	-                 #                            #
+2016-11-14 22:22:27	--	-              ###                             ####
+2016-11-14 22:22:27	--	-            ####                                ###
+2016-11-14 22:22:27	--	-          ####                           #       ###
+2016-11-14 22:22:27	--	-         ####     ###                    ###     ####
+2016-11-14 22:22:27	--	-        ####    ####                      ###     ####
+2016-11-14 22:22:27	--	-       ####    ###     ##           ##     ###    ####
+2016-11-14 22:22:27	--	-      ####    ###    ###             ##     ###    ####
+2016-11-14 22:22:27	--	-     #####   ###    ###               ##    ###    ####
+2016-11-14 22:22:27	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-14 22:22:27	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-14 22:22:27	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-14 22:22:27	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-14 22:22:27	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-14 22:22:27	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-14 22:22:27	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-14 22:22:27	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-14 22:22:27	--	-      ###     ###        #######       ###     ####
+2016-11-14 22:22:27	--	-      ####      ##      ########      ##      ###
+2016-11-14 22:22:27	--	-       ####             ########            ####
+2016-11-14 22:22:27	--	-         ###            #######            ###
+2016-11-14 22:22:27	--	-           ##           #######          ###
+2016-11-14 22:22:27	--	-                        #######
+2016-11-14 22:22:27	--	-                     ############
+2016-11-14 22:22:27	--	-                     ############
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	-            che.indymedia.org IMC Chat Server
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	-  "It is not just a simple game, it is a weapon of the revolution."
+2016-11-14 22:22:27	--	-                                        - Ernesto 'Che' Guevara
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- *** NETWORK POLICY **************************************************
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-14 22:22:27	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-14 22:22:27	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-14 22:22:27	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-14 22:22:27	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-14 22:22:27	--	- registering with nickserv, please set your email address too, so you
+2016-11-14 22:22:27	--	- can recover your password later. You should also put your wiki URL
+2016-11-14 22:22:27	--	- or local imc into your nickserv profile.
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- If you speak languages other than english, please join the
+2016-11-14 22:22:27	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-14 22:22:27	--	- German, join #de, and so forth.
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- *** USAGE ***********************************************************
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- Services for protecting your nickname and channel registrations are
+2016-11-14 22:22:27	--	- available. For information, do:
+2016-11-14 22:22:27	--	- /msg nickserv help
+2016-11-14 22:22:27	--	- /msg chanserv help
+2016-11-14 22:22:27	--	- /msg memoserv help
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-14 22:22:27	--	- working group mantaining this IRC network mail
+2016-11-14 22:22:27	--	- <ircd@lists.indymedia.org>.
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- To access IRC via a web browser (java or html), please visit
+2016-11-14 22:22:27	--	- https://chat.indymedia.org
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-14 22:22:27	--	- communications between you and the server. The IRCd working group
+2016-11-14 22:22:27	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-14 22:22:27	--	- ones. Please note that you may not be able to join some channels if
+2016-11-14 22:22:27	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-14 22:22:27	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-14 22:22:27	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- For complete information and instructions, see the HOWTO at:
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-14 22:22:27	--	-
+2016-11-14 22:22:27	--	End of /MOTD command.
+2016-11-14 22:22:27	--	User mode [+Zhi] by bgdnvst
+2016-11-14 22:22:27	--	24.48.kw.igu :is now your hidden host
+2016-11-14 22:22:27	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-14 22:23:22	--	MSG(NickServ): identify ********************
+2016-11-14 22:23:22	--	NickServ (NickServ@services.indymedia.org): You are now identified for bgdnvst.
+2016-11-15 00:10:31	--	You are no longer marked as being away
+2016-11-15 00:10:36	--	You are no longer marked as being away
+2016-11-15 00:11:25	--	[#abdl] End of /WHO list.
+2016-11-15 00:16:39	--	You have been marked as being away
+2016-11-15 10:07:39	=!=	irc: reading data on socket: error -54 Error in the pull function.
+2016-11-15 10:07:39	--	irc: disconnecting from server...
+2016-11-15 10:07:39	--	irc: disconnected from server
+2016-11-15 10:07:39	--	irc: reconnecting to server in 10 seconds
+2016-11-15 10:07:49	--	irc: reconnecting to server...
+2016-11-15 10:07:49	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-15 10:07:49	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-15 10:07:49	--	gnutls: receiving 5 certificates
+2016-11-15 10:07:49	--	 - certificate[1] info:
+2016-11-15 10:07:49	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-15 10:07:49	--	 - certificate[2] info:
+2016-11-15 10:07:49	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-15 10:07:49	--	 - certificate[3] info:
+2016-11-15 10:07:49	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-15 10:07:49	--	 - certificate[4] info:
+2016-11-15 10:07:49	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-15 10:07:49	--	 - certificate[5] info:
+2016-11-15 10:07:49	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-15 10:07:49	--	gnutls: peer's certificate is trusted
+2016-11-15 10:07:49	--	irc: connected to irc.indymedia.org/6697 (216.46.7.99)
+2016-11-15 10:07:49	--	chat0.koumbit.net: *** Looking up your hostname...
+2016-11-15 10:07:49	--	chat0.koumbit.net: *** Couldn't look up your hostname
+2016-11-15 10:07:49	--	irc: client capability, server supports: account-notify away-notify cap-notify chghost extended-join multi-prefix sasl tls userhost-in-names
+2016-11-15 10:07:49	--	irc: client capability, requesting: sasl
+2016-11-15 10:07:49	--	irc: client capability, enabled: sasl
+2016-11-15 10:07:50	--	PLAIN :are available SASL mechanisms
+2016-11-15 10:07:50	--	SASL authentication failed
+2016-11-15 10:07:51	--	SASL authentication aborted
+2016-11-15 10:07:51	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-15 10:07:51	--	Your host is chat0.koumbit.net[chat0.koumbit.net/6697], running version charybdis-3.5.3
+2016-11-15 10:07:51	--	This server was created Tue Sep  6 14:36:52 UTC 2016
+2016-11-15 10:07:51	--	chat0.koumbit.net charybdis-3.5.3 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-15 10:07:51	--	KNOCK ETRACE MONITOR=100 WHOX FNC CPRIVMSG CNOTICE SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+2016-11-15 10:07:51	--	CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+2016-11-15 10:07:51	--	TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz CLIENTVER=3.0 :are supported by this server
+2016-11-15 10:07:51	--	There are 1 users and 404 invisible on 4 servers
+2016-11-15 10:07:51	--	1 :IRC Operators online
+2016-11-15 10:07:51	--	196 :channels formed
+2016-11-15 10:07:51	--	I have 161 clients and 1 servers
+2016-11-15 10:07:51	--	161 182 :Current local users 161, max 182
+2016-11-15 10:07:51	--	405 425 :Current global users 405, max 425
+2016-11-15 10:07:51	--	Highest connection count: 183 (182 clients) (1017 connections received)
+2016-11-15 10:07:51	--	- chat0.koumbit.net Message of the Day -
+2016-11-15 10:07:51	--	-                 #                            #
+2016-11-15 10:07:51	--	-              ###                             ####
+2016-11-15 10:07:51	--	-            ####                                ###
+2016-11-15 10:07:51	--	-          ####                           #       ###
+2016-11-15 10:07:51	--	-         ####     ###                    ###     ####
+2016-11-15 10:07:51	--	-        ####    ####                      ###     ####
+2016-11-15 10:07:51	--	-       ####    ###     ##           ##     ###    ####
+2016-11-15 10:07:51	--	-      ####    ###    ###             ##     ###    ####
+2016-11-15 10:07:51	--	-     #####   ###    ###               ##    ###    ####
+2016-11-15 10:07:51	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-15 10:07:51	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-15 10:07:51	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-15 10:07:51	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-15 10:07:51	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-15 10:07:51	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-15 10:07:51	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-15 10:07:51	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-15 10:07:51	--	-      ###     ###        #######       ###     ####
+2016-11-15 10:07:51	--	-      ####      ##      ########      ##      ###
+2016-11-15 10:07:51	--	-       ####             ########            ####
+2016-11-15 10:07:51	--	-         ###            #######            ###
+2016-11-15 10:07:51	--	-           ##           #######          ###
+2016-11-15 10:07:51	--	-                        #######
+2016-11-15 10:07:51	--	-                     ############
+2016-11-15 10:07:51	--	-                     ############
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	-             chat0.koumbit.net IMC Chat Server
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- "I have no quote to provide here yet, as I have not found some useful
+2016-11-15 10:07:51	--	- revolutionnary figure to name-drop here." - anarcat
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- *** NETWORK POLICY **************************************************
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-15 10:07:51	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-15 10:07:51	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-15 10:07:51	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-15 10:07:51	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-15 10:07:51	--	- registering with nickserv, please set your email address too, so you
+2016-11-15 10:07:51	--	- can recover your password later. You should also put your wiki URL
+2016-11-15 10:07:51	--	- or local imc into your nickserv profile.
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- If you speak languages other than english, please join the
+2016-11-15 10:07:51	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-15 10:07:51	--	- German, join #de, and so forth.
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- *** USAGE ***********************************************************
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- Services for protecting your nickname and channel registrations are
+2016-11-15 10:07:51	--	- available. For information, do:
+2016-11-15 10:07:51	--	- /msg nickserv help
+2016-11-15 10:07:51	--	- /msg chanserv help
+2016-11-15 10:07:51	--	- /msg memoserv help
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-15 10:07:51	--	- working group mantaining this IRC network mail
+2016-11-15 10:07:51	--	- <ircd@lists.indymedia.org>.
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- To access IRC via a web browser (java or html), please visit
+2016-11-15 10:07:51	--	- https://chat.indymedia.org
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-15 10:07:51	--	- communications between you and the server. The IRCd working group
+2016-11-15 10:07:51	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-15 10:07:51	--	- ones. Please note that you may not be able to join some channels if
+2016-11-15 10:07:51	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-15 10:07:51	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-15 10:07:51	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- For complete information and instructions, see the HOWTO at:
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- The SSL Certificate fingerprint of this server is:
+2016-11-15 10:07:51	--	-
+2016-11-15 10:07:51	--	- SHA1 Fingerprint=A9:DA:6F:DB:AD:B9:C5:16:E8:84:93:90:95:7A:29:70:28:37:DB:81
+2016-11-15 10:07:51	--	End of /MOTD command.
+2016-11-15 10:07:51	--	User mode [+Zhi] by bgdnvst
+2016-11-15 10:07:51	--	24.48.kw.igu :is now your hidden host
+2016-11-15 10:07:51	--	You have been marked as being away
+2016-11-15 10:07:51	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-15 10:36:20	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-15 10:36:21	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-15 10:36:21	--	gnutls: receiving 5 certificates
+2016-11-15 10:36:21	--	 - certificate[1] info:
+2016-11-15 10:36:21	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-15 10:36:21	--	 - certificate[2] info:
+2016-11-15 10:36:21	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-15 10:36:21	--	 - certificate[3] info:
+2016-11-15 10:36:21	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-15 10:36:21	--	 - certificate[4] info:
+2016-11-15 10:36:21	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-15 10:36:21	--	 - certificate[5] info:
+2016-11-15 10:36:21	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-15 10:36:21	--	gnutls: peer's certificate is trusted
+2016-11-15 10:36:21	--	irc: connected to irc.indymedia.org/6697 (162.247.75.152)
+2016-11-15 10:36:21	--	che.indymedia.org: *** Looking up your hostname...
+2016-11-15 10:36:21	--	che.indymedia.org: *** Couldn't look up your hostname
+2016-11-15 10:36:21	--	irc: client capability, server supports: account-notify away-notify extended-join multi-prefix sasl
+2016-11-15 10:36:21	--	irc: client capability, requesting: sasl
+2016-11-15 10:36:21	--	irc: client capability, enabled: sasl
+2016-11-15 10:36:22	--	SASL authentication failed
+2016-11-15 10:36:23	--	SASL authentication aborted
+2016-11-15 10:36:23	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-15 10:36:23	--	Your host is che.indymedia.org[che.indymedia.org/6697], running version charybdis-3.4.2
+2016-11-15 10:36:23	--	This server was created Tue Sep 6 2016 at 00:18:22 UTC
+2016-11-15 10:36:23	--	che.indymedia.org charybdis-3.4.2 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-15 10:36:23	--	SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia KNOCK :are supported by this server
+2016-11-15 10:36:23	--	STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D :are supported by this server
+2016-11-15 10:36:23	--	MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz WHOX CLIENTVER=3.0 :are supported by this server
+2016-11-15 10:36:23	--	There are 1 users and 408 invisible on 4 servers
+2016-11-15 10:36:23	--	1 :IRC Operators online
+2016-11-15 10:36:23	--	195 :channels formed
+2016-11-15 10:36:23	--	I have 68 clients and 1 servers
+2016-11-15 10:36:23	--	68 68 :Current local users 68, max 68
+2016-11-15 10:36:23	--	409 425 :Current global users 409, max 425
+2016-11-15 10:36:23	--	Highest connection count: 69 (68 clients) (528 connections received)
+2016-11-15 10:36:23	--	- che.indymedia.org Message of the Day -
+2016-11-15 10:36:23	--	-                 #                            #
+2016-11-15 10:36:23	--	-              ###                             ####
+2016-11-15 10:36:23	--	-            ####                                ###
+2016-11-15 10:36:23	--	-          ####                           #       ###
+2016-11-15 10:36:23	--	-         ####     ###                    ###     ####
+2016-11-15 10:36:23	--	-        ####    ####                      ###     ####
+2016-11-15 10:36:23	--	-       ####    ###     ##           ##     ###    ####
+2016-11-15 10:36:23	--	-      ####    ###    ###             ##     ###    ####
+2016-11-15 10:36:23	--	-     #####   ###    ###               ##    ###    ####
+2016-11-15 10:36:23	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-15 10:36:23	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-15 10:36:23	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-15 10:36:23	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-15 10:36:23	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-15 10:36:23	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-15 10:36:23	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-15 10:36:23	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-15 10:36:23	--	-      ###     ###        #######       ###     ####
+2016-11-15 10:36:23	--	-      ####      ##      ########      ##      ###
+2016-11-15 10:36:23	--	-       ####             ########            ####
+2016-11-15 10:36:23	--	-         ###            #######            ###
+2016-11-15 10:36:23	--	-           ##           #######          ###
+2016-11-15 10:36:23	--	-                        #######
+2016-11-15 10:36:23	--	-                     ############
+2016-11-15 10:36:23	--	-                     ############
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	-            che.indymedia.org IMC Chat Server
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	-  "It is not just a simple game, it is a weapon of the revolution."
+2016-11-15 10:36:23	--	-                                        - Ernesto 'Che' Guevara
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- *** NETWORK POLICY **************************************************
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-15 10:36:23	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-15 10:36:23	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-15 10:36:23	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-15 10:36:23	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-15 10:36:23	--	- registering with nickserv, please set your email address too, so you
+2016-11-15 10:36:23	--	- can recover your password later. You should also put your wiki URL
+2016-11-15 10:36:23	--	- or local imc into your nickserv profile.
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- If you speak languages other than english, please join the
+2016-11-15 10:36:23	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-15 10:36:23	--	- German, join #de, and so forth.
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- *** USAGE ***********************************************************
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- Services for protecting your nickname and channel registrations are
+2016-11-15 10:36:23	--	- available. For information, do:
+2016-11-15 10:36:23	--	- /msg nickserv help
+2016-11-15 10:36:23	--	- /msg chanserv help
+2016-11-15 10:36:23	--	- /msg memoserv help
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-15 10:36:23	--	- working group mantaining this IRC network mail
+2016-11-15 10:36:23	--	- <ircd@lists.indymedia.org>.
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- To access IRC via a web browser (java or html), please visit
+2016-11-15 10:36:23	--	- https://chat.indymedia.org
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-15 10:36:23	--	- communications between you and the server. The IRCd working group
+2016-11-15 10:36:23	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-15 10:36:23	--	- ones. Please note that you may not be able to join some channels if
+2016-11-15 10:36:23	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-15 10:36:23	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-15 10:36:23	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- For complete information and instructions, see the HOWTO at:
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-15 10:36:23	--	-
+2016-11-15 10:36:23	--	End of /MOTD command.
+2016-11-15 10:36:23	--	User mode [+Zhi] by bgdnvst
+2016-11-15 10:36:23	--	24.48.kw.igu :is now your hidden host
+2016-11-15 10:36:23	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-15 11:08:59	--	MSG(NickServ): identify ********************
+2016-11-15 11:08:59	--	NickServ (NickServ@services.indymedia.org): You are now identified for bgdnvst.
+2016-11-15 11:33:12	--	MSG(nickserv): help
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): ***** NickServ Help *****
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): NickServ allows users to 'register' a nickname, and stop
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): others from using that nick. NickServ allows the owner of a
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): nickname to disconnect a user from the network that is using
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): their nickname.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): If a registered nick is not used by the owner for 180 days,
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): NickServ will drop the nickname, allowing it to be reregistered.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org):  
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): For more information on a command, type:
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): /msg NickServ help <command>
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): For a verbose listing of all commands, type:
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): /msg NickServ help commands
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org):  
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): The following commands are available:
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): GHOST           Reclaims use of a nickname.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): GROUP           Adds a nickname to your account.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): IDENTIFY        Identifies to services for a nickname.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): INFO            Displays information on registrations.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): LISTCHANS       Lists channels that you have access to.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): REGISTER        Registers a nickname.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): RELEASE         Releases a services enforcer.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): SENDPASS        Email registration passwords.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): SET             Sets various control flags.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): UNGROUP         Removes a nickname from your account.
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org):  
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): Other commands: ACC, ACCESS, CERT, DROP, HELP, LISTGROUPS, 
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org):                 LOGOUT, REGAIN, SETPASS, STATUS, TAXONOMY, 
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org):                 VACATION, VERIFY
+2016-11-15 11:33:12	--	NickServ (NickServ@services.indymedia.org): ***** End of Help *****
+2016-11-15 11:34:34	--	MSG(chanserv): help
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): ***** ChanServ Help *****
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): ChanServ gives normal users the ability to maintain control
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): of a channel, without the need of a bot. Channel takeovers are
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): virtually impossible when a channel is registered with ChanServ.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): Registration is a quick and painless process. Once registered,
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): the founder can maintain complete and total control over the channel.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): Please note that channels will expire after 180 days of inactivity,
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): or if there are no eligible channel successors.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): Activity is defined as a user with one of +FORforsv being on the channel.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): Successors are primarily those who have the +R flag
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): set on their account in the channel, although other
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): people may be chosen depending on their access
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): level and activity.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org):  
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): Commands can also be given on channel by prefixing one of '!'
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): and omitting the channel name. These are called "fantasy"
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): commands and can also be disabled on a per-channel basis.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org):  
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): For more information on a command, type:
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): /msg ChanServ help <command>
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): For a verbose listing of all commands, type:
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): /msg ChanServ help commands
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org):  
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): The following commands are available:
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): FLAGS           Manipulates specific permissions on a channel.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): INVITE          Invites you to a channel.
+2016-11-15 11:34:34	--	ChanServ (ChanServ@services.indymedia.org): OP              Gives channel ops to a user.
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org): RECOVER         Regain control of your channel.
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org): REGISTER        Registers a channel.
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org): SET             Sets various control flags.
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org): UNBAN           Removes a ban on a channel.
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org):  
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org): Other commands: ACCESS, AKICK, AOP, BAN, CLEAR, CLONE, 
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org):                 COUNT, DEOP, DEVOICE, DROP, FORCEXOP, GETKEY, 
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org):                 HELP, INFO, KICK, KICKBAN, QUIET, ROLE, 
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org):                 SOP, STATUS, SYNC, TAXONOMY, TEMPLATE, TOPIC, 
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org):                 TOPICAPPEND, TOPICPREPEND, TOPICSWAP, UNQUIET, 
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org):                 VOICE, VOP, WHY
+2016-11-15 11:34:42	--	ChanServ (ChanServ@services.indymedia.org): ***** End of Help *****
+2016-11-15 12:02:50	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-15 12:02:50	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-15 12:02:50	--	gnutls: receiving 5 certificates
+2016-11-15 12:02:50	--	 - certificate[1] info:
+2016-11-15 12:02:50	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-15 12:02:50	--	 - certificate[2] info:
+2016-11-15 12:02:50	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-15 12:02:50	--	 - certificate[3] info:
+2016-11-15 12:02:50	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-15 12:02:50	--	 - certificate[4] info:
+2016-11-15 12:02:50	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-15 12:02:50	--	 - certificate[5] info:
+2016-11-15 12:02:50	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-15 12:02:50	--	gnutls: peer's certificate is trusted
+2016-11-15 12:02:50	--	irc: connected to irc.indymedia.org/6697 (162.247.75.152)
+2016-11-15 12:02:50	--	che.indymedia.org: *** Looking up your hostname...
+2016-11-15 12:02:50	--	che.indymedia.org: *** Couldn't look up your hostname
+2016-11-15 12:02:50	--	irc: client capability, server supports: account-notify away-notify extended-join multi-prefix sasl
+2016-11-15 12:02:50	--	irc: client capability, requesting: sasl
+2016-11-15 12:02:50	--	irc: client capability, enabled: sasl
+2016-11-15 12:02:50	--	SASL authentication failed
+2016-11-15 12:02:51	--	SASL authentication aborted
+2016-11-15 12:02:51	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-15 12:02:51	--	Your host is che.indymedia.org[che.indymedia.org/6697], running version charybdis-3.4.2
+2016-11-15 12:02:51	--	This server was created Tue Sep 6 2016 at 00:18:22 UTC
+2016-11-15 12:02:51	--	che.indymedia.org charybdis-3.4.2 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-15 12:02:51	--	SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia KNOCK :are supported by this server
+2016-11-15 12:02:51	--	STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D :are supported by this server
+2016-11-15 12:02:51	--	MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz WHOX CLIENTVER=3.0 :are supported by this server
+2016-11-15 12:02:51	--	There are 1 users and 407 invisible on 4 servers
+2016-11-15 12:02:51	--	1 :IRC Operators online
+2016-11-15 12:02:51	--	195 :channels formed
+2016-11-15 12:02:51	--	I have 60 clients and 1 servers
+2016-11-15 12:02:51	--	60 68 :Current local users 60, max 68
+2016-11-15 12:02:51	--	408 425 :Current global users 408, max 425
+2016-11-15 12:02:51	--	Highest connection count: 69 (68 clients) (535 connections received)
+2016-11-15 12:02:51	--	- che.indymedia.org Message of the Day -
+2016-11-15 12:02:51	--	-                 #                            #
+2016-11-15 12:02:51	--	-              ###                             ####
+2016-11-15 12:02:51	--	-            ####                                ###
+2016-11-15 12:02:51	--	-          ####                           #       ###
+2016-11-15 12:02:51	--	-         ####     ###                    ###     ####
+2016-11-15 12:02:51	--	-        ####    ####                      ###     ####
+2016-11-15 12:02:51	--	-       ####    ###     ##           ##     ###    ####
+2016-11-15 12:02:51	--	-      ####    ###    ###             ##     ###    ####
+2016-11-15 12:02:51	--	-     #####   ###    ###               ##    ###    ####
+2016-11-15 12:02:51	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-15 12:02:51	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-15 12:02:51	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-15 12:02:51	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-15 12:02:51	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-15 12:02:51	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-15 12:02:51	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-15 12:02:51	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-15 12:02:51	--	-      ###     ###        #######       ###     ####
+2016-11-15 12:02:51	--	-      ####      ##      ########      ##      ###
+2016-11-15 12:02:51	--	-       ####             ########            ####
+2016-11-15 12:02:51	--	-         ###            #######            ###
+2016-11-15 12:02:51	--	-           ##           #######          ###
+2016-11-15 12:02:51	--	-                        #######
+2016-11-15 12:02:51	--	-                     ############
+2016-11-15 12:02:51	--	-                     ############
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	-            che.indymedia.org IMC Chat Server
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	-  "It is not just a simple game, it is a weapon of the revolution."
+2016-11-15 12:02:51	--	-                                        - Ernesto 'Che' Guevara
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- *** NETWORK POLICY **************************************************
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-15 12:02:51	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-15 12:02:51	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-15 12:02:51	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-15 12:02:51	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-15 12:02:51	--	- registering with nickserv, please set your email address too, so you
+2016-11-15 12:02:51	--	- can recover your password later. You should also put your wiki URL
+2016-11-15 12:02:51	--	- or local imc into your nickserv profile.
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- If you speak languages other than english, please join the
+2016-11-15 12:02:51	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-15 12:02:51	--	- German, join #de, and so forth.
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- *** USAGE ***********************************************************
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- Services for protecting your nickname and channel registrations are
+2016-11-15 12:02:51	--	- available. For information, do:
+2016-11-15 12:02:51	--	- /msg nickserv help
+2016-11-15 12:02:51	--	- /msg chanserv help
+2016-11-15 12:02:51	--	- /msg memoserv help
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-15 12:02:51	--	- working group mantaining this IRC network mail
+2016-11-15 12:02:51	--	- <ircd@lists.indymedia.org>.
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- To access IRC via a web browser (java or html), please visit
+2016-11-15 12:02:51	--	- https://chat.indymedia.org
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-15 12:02:51	--	- communications between you and the server. The IRCd working group
+2016-11-15 12:02:51	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-15 12:02:51	--	- ones. Please note that you may not be able to join some channels if
+2016-11-15 12:02:51	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-15 12:02:51	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-15 12:02:51	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- For complete information and instructions, see the HOWTO at:
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-15 12:02:51	--	-
+2016-11-15 12:02:51	--	End of /MOTD command.
+2016-11-15 12:02:51	--	User mode [+Zhi] by bgdnvst
+2016-11-15 12:02:51	--	24.48.kw.igu :is now your hidden host
+2016-11-15 12:02:51	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-15 14:10:48	=!=	irc: reading data on socket: error -54 Error in the pull function.
+2016-11-15 14:10:48	--	irc: disconnecting from server...
+2016-11-15 14:10:48	--	irc: disconnected from server
+2016-11-15 14:10:48	--	irc: reconnecting to server in 10 seconds
+2016-11-15 14:10:58	--	irc: reconnecting to server...
+2016-11-15 14:10:58	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-15 14:10:58	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-15 14:10:58	--	gnutls: receiving 5 certificates
+2016-11-15 14:10:58	--	 - certificate[1] info:
+2016-11-15 14:10:58	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-15 14:10:58	--	 - certificate[2] info:
+2016-11-15 14:10:58	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-15 14:10:58	--	 - certificate[3] info:
+2016-11-15 14:10:58	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-15 14:10:58	--	 - certificate[4] info:
+2016-11-15 14:10:58	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-15 14:10:58	--	 - certificate[5] info:
+2016-11-15 14:10:58	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-15 14:10:58	--	gnutls: peer's certificate is trusted
+2016-11-15 14:10:58	--	irc: connected to irc.indymedia.org/6697 (199.58.80.38)
+2016-11-15 14:10:58	--	chat1.koumbit.net: *** Looking up your hostname...
+2016-11-15 14:10:58	--	chat1.koumbit.net: *** Found your hostname
+2016-11-15 14:10:59	--	irc: client capability, server supports: account-notify away-notify cap-notify chghost extended-join multi-prefix sasl tls userhost-in-names
+2016-11-15 14:10:59	--	irc: client capability, requesting: sasl
+2016-11-15 14:10:59	--	irc: client capability, enabled: sasl
+2016-11-15 14:10:59	--	PLAIN :are available SASL mechanisms
+2016-11-15 14:10:59	--	SASL authentication failed
+2016-11-15 14:11:00	--	SASL authentication aborted
+2016-11-15 14:11:00	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-15 14:11:00	--	Your host is chat1.koumbit.net[chat1.koumbit.net/6697], running version charybdis-3.5.3
+2016-11-15 14:11:00	--	This server was created Tue Sep  6 00:45:17 UTC 2016
+2016-11-15 14:11:00	--	chat1.koumbit.net charybdis-3.5.3 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-15 14:11:00	--	MONITOR=100 FNC CPRIVMSG CNOTICE SAFELIST ELIST=CTU ETRACE KNOCK WHOX CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+2016-11-15 14:11:00	--	CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+2016-11-15 14:11:00	--	TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz CLIENTVER=3.0 :are supported by this server
+2016-11-15 14:11:00	--	There are 1 users and 413 invisible on 4 servers
+2016-11-15 14:11:00	--	1 :IRC Operators online
+2016-11-15 14:11:00	--	194 :channels formed
+2016-11-15 14:11:00	--	I have 181 clients and 3 servers
+2016-11-15 14:11:00	--	181 197 :Current local users 181, max 197
+2016-11-15 14:11:00	--	414 431 :Current global users 414, max 431
+2016-11-15 14:11:00	--	Highest connection count: 200 (197 clients) (1992 connections received)
+2016-11-15 14:11:00	--	- chat1.koumbit.net Message of the Day -
+2016-11-15 14:11:00	--	-                 #                            #
+2016-11-15 14:11:00	--	-              ###                             ####
+2016-11-15 14:11:00	--	-            ####                                ###
+2016-11-15 14:11:00	--	-          ####                           #       ###
+2016-11-15 14:11:00	--	-         ####     ###                    ###     ####
+2016-11-15 14:11:00	--	-        ####    ####                      ###     ####
+2016-11-15 14:11:00	--	-       ####    ###     ##           ##     ###    ####
+2016-11-15 14:11:00	--	-      ####    ###    ###             ##     ###    ####
+2016-11-15 14:11:00	--	-     #####   ###    ###               ##    ###    ####
+2016-11-15 14:11:00	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-15 14:11:00	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-15 14:11:00	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-15 14:11:00	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-15 14:11:00	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-15 14:11:00	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-15 14:11:00	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-15 14:11:00	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-15 14:11:00	--	-      ###     ###        #######       ###     ####
+2016-11-15 14:11:00	--	-      ####      ##      ########      ##      ###
+2016-11-15 14:11:00	--	-       ####             ########            ####
+2016-11-15 14:11:00	--	-         ###            #######            ###
+2016-11-15 14:11:00	--	-           ##           #######          ###
+2016-11-15 14:11:00	--	-                        #######
+2016-11-15 14:11:00	--	-                     ############
+2016-11-15 14:11:00	--	-                     ############
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	-             chat0.koumbit.net IMC Chat Server
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- "I have no quote to provide here yet, as I have not found some useful
+2016-11-15 14:11:00	--	- revolutionnary figure to name-drop here." - anarcat
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- *** NETWORK POLICY **************************************************
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-15 14:11:00	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-15 14:11:00	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-15 14:11:00	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-15 14:11:00	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-15 14:11:00	--	- registering with nickserv, please set your email address too, so you
+2016-11-15 14:11:00	--	- can recover your password later. You should also put your wiki URL
+2016-11-15 14:11:00	--	- or local imc into your nickserv profile.
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- If you speak languages other than english, please join the
+2016-11-15 14:11:00	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-15 14:11:00	--	- German, join #de, and so forth.
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- *** USAGE ***********************************************************
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- Services for protecting your nickname and channel registrations are
+2016-11-15 14:11:00	--	- available. For information, do:
+2016-11-15 14:11:00	--	- /msg nickserv help
+2016-11-15 14:11:00	--	- /msg chanserv help
+2016-11-15 14:11:00	--	- /msg memoserv help
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-15 14:11:00	--	- working group mantaining this IRC network mail
+2016-11-15 14:11:00	--	- <ircd@lists.indymedia.org>.
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- To access IRC via a web browser (java or html), please visit
+2016-11-15 14:11:00	--	- https://chat.indymedia.org
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-15 14:11:00	--	- communications between you and the server. The IRCd working group
+2016-11-15 14:11:00	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-15 14:11:00	--	- ones. Please note that you may not be able to join some channels if
+2016-11-15 14:11:00	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-15 14:11:00	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-15 14:11:00	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- For complete information and instructions, see the HOWTO at:
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- The SSL Certificate fingerprint of this server is:
+2016-11-15 14:11:00	--	-
+2016-11-15 14:11:00	--	- SHA1 Fingerprint=A9:DA:6F:DB:AD:B9:C5:16:E8:84:93:90:95:7A:29:70:28:37:DB:81
+2016-11-15 14:11:00	--	End of /MOTD command.
+2016-11-15 14:11:00	--	User mode [+Zhi] by bgdnvst
+2016-11-15 14:11:00	--	innkfadosz803.934-58-79.mc.videotron.ca :is now your hidden host
+2016-11-15 14:11:00	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-15 19:39:49	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-15 19:39:49	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-15 19:39:49	--	gnutls: receiving 5 certificates
+2016-11-15 19:39:49	--	 - certificate[1] info:
+2016-11-15 19:39:49	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-15 19:39:49	--	 - certificate[2] info:
+2016-11-15 19:39:49	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-15 19:39:49	--	 - certificate[3] info:
+2016-11-15 19:39:49	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-15 19:39:49	--	 - certificate[4] info:
+2016-11-15 19:39:49	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-15 19:39:49	--	 - certificate[5] info:
+2016-11-15 19:39:49	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-15 19:39:49	--	gnutls: peer's certificate is trusted
+2016-11-15 19:39:49	--	irc: connected to irc.indymedia.org/6697 (162.247.75.152)
+2016-11-15 19:39:49	--	che.indymedia.org: *** Looking up your hostname...
+2016-11-15 19:39:49	--	che.indymedia.org: *** Couldn't look up your hostname
+2016-11-15 19:39:49	--	irc: client capability, server supports: account-notify away-notify extended-join multi-prefix sasl
+2016-11-15 19:39:49	--	irc: client capability, requesting: sasl
+2016-11-15 19:39:49	--	irc: client capability, enabled: sasl
+2016-11-15 19:39:49	--	SASL authentication failed
+2016-11-15 19:39:50	--	SASL authentication aborted
+2016-11-15 19:39:50	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-15 19:39:50	--	Your host is che.indymedia.org[che.indymedia.org/6697], running version charybdis-3.4.2
+2016-11-15 19:39:50	--	This server was created Tue Sep 6 2016 at 00:18:22 UTC
+2016-11-15 19:39:50	--	che.indymedia.org charybdis-3.4.2 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-15 19:39:50	--	SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia KNOCK :are supported by this server
+2016-11-15 19:39:50	--	STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D :are supported by this server
+2016-11-15 19:39:50	--	MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz WHOX CLIENTVER=3.0 :are supported by this server
+2016-11-15 19:39:50	--	There are 1 users and 394 invisible on 4 servers
+2016-11-15 19:39:50	--	1 :IRC Operators online
+2016-11-15 19:39:50	--	193 :channels formed
+2016-11-15 19:39:50	--	I have 56 clients and 1 servers
+2016-11-15 19:39:50	--	56 68 :Current local users 56, max 68
+2016-11-15 19:39:50	--	395 425 :Current global users 395, max 425
+2016-11-15 19:39:50	--	Highest connection count: 69 (68 clients) (577 connections received)
+2016-11-15 19:39:50	--	- che.indymedia.org Message of the Day -
+2016-11-15 19:39:50	--	-                 #                            #
+2016-11-15 19:39:50	--	-              ###                             ####
+2016-11-15 19:39:50	--	-            ####                                ###
+2016-11-15 19:39:50	--	-          ####                           #       ###
+2016-11-15 19:39:50	--	-         ####     ###                    ###     ####
+2016-11-15 19:39:50	--	-        ####    ####                      ###     ####
+2016-11-15 19:39:50	--	-       ####    ###     ##           ##     ###    ####
+2016-11-15 19:39:50	--	-      ####    ###    ###             ##     ###    ####
+2016-11-15 19:39:50	--	-     #####   ###    ###               ##    ###    ####
+2016-11-15 19:39:50	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-15 19:39:50	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-15 19:39:50	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-15 19:39:50	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-15 19:39:50	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-15 19:39:50	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-15 19:39:50	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-15 19:39:50	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-15 19:39:50	--	-      ###     ###        #######       ###     ####
+2016-11-15 19:39:50	--	-      ####      ##      ########      ##      ###
+2016-11-15 19:39:50	--	-       ####             ########            ####
+2016-11-15 19:39:50	--	-         ###            #######            ###
+2016-11-15 19:39:50	--	-           ##           #######          ###
+2016-11-15 19:39:50	--	-                        #######
+2016-11-15 19:39:50	--	-                     ############
+2016-11-15 19:39:50	--	-                     ############
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	-            che.indymedia.org IMC Chat Server
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	-  "It is not just a simple game, it is a weapon of the revolution."
+2016-11-15 19:39:50	--	-                                        - Ernesto 'Che' Guevara
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- *** NETWORK POLICY **************************************************
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-15 19:39:50	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-15 19:39:50	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-15 19:39:50	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-15 19:39:50	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-15 19:39:50	--	- registering with nickserv, please set your email address too, so you
+2016-11-15 19:39:50	--	- can recover your password later. You should also put your wiki URL
+2016-11-15 19:39:50	--	- or local imc into your nickserv profile.
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- If you speak languages other than english, please join the
+2016-11-15 19:39:50	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-15 19:39:50	--	- German, join #de, and so forth.
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- *** USAGE ***********************************************************
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- Services for protecting your nickname and channel registrations are
+2016-11-15 19:39:50	--	- available. For information, do:
+2016-11-15 19:39:50	--	- /msg nickserv help
+2016-11-15 19:39:50	--	- /msg chanserv help
+2016-11-15 19:39:50	--	- /msg memoserv help
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-15 19:39:50	--	- working group mantaining this IRC network mail
+2016-11-15 19:39:50	--	- <ircd@lists.indymedia.org>.
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- To access IRC via a web browser (java or html), please visit
+2016-11-15 19:39:50	--	- https://chat.indymedia.org
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-15 19:39:50	--	- communications between you and the server. The IRCd working group
+2016-11-15 19:39:50	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-15 19:39:50	--	- ones. Please note that you may not be able to join some channels if
+2016-11-15 19:39:50	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-15 19:39:50	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-15 19:39:50	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- For complete information and instructions, see the HOWTO at:
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-15 19:39:50	--	-
+2016-11-15 19:39:50	--	End of /MOTD command.
+2016-11-15 19:39:50	--	User mode [+Zhi] by bgdnvst
+2016-11-15 19:39:50	--	24.48.kw.igu :is now your hidden host
+2016-11-15 19:39:50	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-16 08:16:45	=!=	irc: reading data on socket: error -54 Error in the pull function.
+2016-11-16 08:16:45	--	irc: disconnecting from server...
+2016-11-16 08:16:45	--	irc: disconnected from server
+2016-11-16 08:16:45	--	irc: reconnecting to server in 10 seconds
+2016-11-16 08:16:55	--	irc: reconnecting to server...
+2016-11-16 08:16:55	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2016-11-16 08:16:55	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2016-11-16 08:16:55	--	gnutls: receiving 5 certificates
+2016-11-16 08:16:55	--	 - certificate[1] info:
+2016-11-16 08:16:55	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signed using RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-16 08:16:55	--	 - certificate[2] info:
+2016-11-16 08:16:55	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-16 08:16:55	--	 - certificate[3] info:
+2016-11-16 08:16:55	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-16 08:16:55	--	 - certificate[4] info:
+2016-11-16 08:16:55	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-16 08:16:55	--	 - certificate[5] info:
+2016-11-16 08:16:55	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signed using RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-16 08:16:55	--	gnutls: peer's certificate is trusted
+2016-11-16 08:16:55	--	irc: connected to irc.indymedia.org/6697 (216.46.7.99)
+2016-11-16 08:16:56	--	chat0.koumbit.net: *** Looking up your hostname...
+2016-11-16 08:16:56	--	chat0.koumbit.net: *** Couldn't look up your hostname
+2016-11-16 08:16:56	--	irc: client capability, server supports: account-notify away-notify cap-notify chghost extended-join multi-prefix sasl tls userhost-in-names
+2016-11-16 08:16:56	--	irc: client capability, requesting: sasl
+2016-11-16 08:16:56	--	irc: client capability, enabled: sasl
+2016-11-16 08:16:56	--	PLAIN :are available SASL mechanisms
+2016-11-16 08:16:56	--	SASL authentication failed
+2016-11-16 08:16:57	--	SASL authentication aborted
+2016-11-16 08:16:57	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2016-11-16 08:16:57	--	Your host is chat0.koumbit.net[chat0.koumbit.net/6697], running version charybdis-3.5.3
+2016-11-16 08:16:57	--	This server was created Tue Sep  6 14:36:52 UTC 2016
+2016-11-16 08:16:57	--	chat0.koumbit.net charybdis-3.5.3 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2016-11-16 08:16:57	--	KNOCK ETRACE MONITOR=100 WHOX FNC CPRIVMSG CNOTICE SAFELIST ELIST=CTU CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+2016-11-16 08:16:57	--	CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+2016-11-16 08:16:57	--	TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz CLIENTVER=3.0 :are supported by this server
+2016-11-16 08:16:57	--	There are 1 users and 411 invisible on 4 servers
+2016-11-16 08:16:57	--	1 :IRC Operators online
+2016-11-16 08:16:57	--	1 :unknown connection(s)
+2016-11-16 08:16:57	--	196 :channels formed
+2016-11-16 08:16:57	--	I have 171 clients and 1 servers
+2016-11-16 08:16:57	--	171 182 :Current local users 171, max 182
+2016-11-16 08:16:57	--	412 425 :Current global users 412, max 425
+2016-11-16 08:16:57	--	Highest connection count: 183 (182 clients) (1214 connections received)
+2016-11-16 08:16:57	--	- chat0.koumbit.net Message of the Day -
+2016-11-16 08:16:57	--	-                 #                            #
+2016-11-16 08:16:57	--	-              ###                             ####
+2016-11-16 08:16:57	--	-            ####                                ###
+2016-11-16 08:16:57	--	-          ####                           #       ###
+2016-11-16 08:16:57	--	-         ####     ###                    ###     ####
+2016-11-16 08:16:57	--	-        ####    ####                      ###     ####
+2016-11-16 08:16:57	--	-       ####    ###     ##           ##     ###    ####
+2016-11-16 08:16:57	--	-      ####    ###    ###             ##     ###    ####
+2016-11-16 08:16:57	--	-     #####   ###    ###               ##    ###    ####
+2016-11-16 08:16:57	--	-     ####   ####   ###      ####      ###   ###    ####
+2016-11-16 08:16:57	--	-     ####   ###    ##     #######      ##   ###    ####
+2016-11-16 08:16:57	--	-    ####    ###   ###     ########    ###   ###   #####
+2016-11-16 08:16:57	--	-    ####    ###   ##      #######     ##    ###   ####
+2016-11-16 08:16:57	--	-    ####    ###   ##       #####     ###   ###    ####
+2016-11-16 08:16:57	--	-    ####    ###   ###   #########    ##   ####   ####
+2016-11-16 08:16:57	--	-     ###    ###    ##   ########   ###    ###   #####
+2016-11-16 08:16:57	--	-     ####    ###    ##   #######  ##     ###    ####
+2016-11-16 08:16:57	--	-      ###     ###        #######       ###     ####
+2016-11-16 08:16:57	--	-      ####      ##      ########      ##      ###
+2016-11-16 08:16:57	--	-       ####             ########            ####
+2016-11-16 08:16:57	--	-         ###            #######            ###
+2016-11-16 08:16:57	--	-           ##           #######          ###
+2016-11-16 08:16:57	--	-                        #######
+2016-11-16 08:16:57	--	-                     ############
+2016-11-16 08:16:57	--	-                     ############
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	-             chat0.koumbit.net IMC Chat Server
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- "I have no quote to provide here yet, as I have not found some useful
+2016-11-16 08:16:57	--	- revolutionnary figure to name-drop here." - anarcat
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- *** NETWORK POLICY **************************************************
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- This IRC network is only for indymedia related usage. Please find
+2016-11-16 08:16:57	--	- another network for your botnets, spam, viruses etc., as well as
+2016-11-16 08:16:57	--	- topically unrelated usage. We welcome you to discuss whether or not
+2016-11-16 08:16:57	--	- your intended use is appropriate in the #ircd channel or on the
+2016-11-16 08:16:57	--	- <ircd@lists.indymedia.org> mailing list.
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- Returning visitors are encouraged to register with nickserv. When
+2016-11-16 08:16:57	--	- registering with nickserv, please set your email address too, so you
+2016-11-16 08:16:57	--	- can recover your password later. You should also put your wiki URL
+2016-11-16 08:16:57	--	- or local imc into your nickserv profile.
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- If you speak languages other than english, please join the
+2016-11-16 08:16:57	--	- appropriate channel for those languages. For Espanol, join #es, for
+2016-11-16 08:16:57	--	- German, join #de, and so forth.
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- *** USAGE ***********************************************************
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- Services for protecting your nickname and channel registrations are
+2016-11-16 08:16:57	--	- available. For information, do:
+2016-11-16 08:16:57	--	- /msg nickserv help
+2016-11-16 08:16:57	--	- /msg chanserv help
+2016-11-16 08:16:57	--	- /msg memoserv help
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2016-11-16 08:16:57	--	- working group mantaining this IRC network mail
+2016-11-16 08:16:57	--	- <ircd@lists.indymedia.org>.
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- To access IRC via a web browser (java or html), please visit
+2016-11-16 08:16:57	--	- https://chat.indymedia.org
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- *** SECURE CONNECTIONS **********************************************
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2016-11-16 08:16:57	--	- communications between you and the server. The IRCd working group
+2016-11-16 08:16:57	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2016-11-16 08:16:57	--	- ones. Please note that you may not be able to join some channels if
+2016-11-16 08:16:57	--	- the channel mantainers have chosen to disallow non SSL users.
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2016-11-16 08:16:57	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2016-11-16 08:16:57	--	- /server -ssl, or /sslserver depending on your client software.
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- For complete information and instructions, see the HOWTO at:
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- The SSL Certificate fingerprint of this server is:
+2016-11-16 08:16:57	--	-
+2016-11-16 08:16:57	--	- SHA1 Fingerprint=A9:DA:6F:DB:AD:B9:C5:16:E8:84:93:90:95:7A:29:70:28:37:DB:81
+2016-11-16 08:16:57	--	End of /MOTD command.
+2016-11-16 08:16:57	--	User mode [+Zhi] by bgdnvst
+2016-11-16 08:16:57	--	24.48.kw.igu :is now your hidden host
+2016-11-16 08:16:57	--	NickServ (NickServ@services.indymedia.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2016-11-17 10:04:45	--	irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
+2016-11-17 10:04:53	--	gnutls : connecté en utilisant un échange secret Diffie-Hellman de 2048 bits
+2016-11-17 10:04:53	--	gnutls : réception de 5 certificats
+2016-11-17 10:04:53	--	 - info certificat[1] :
+2016-11-17 10:04:53	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signé avec RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-17 10:04:53	--	 - info certificat[2] :
+2016-11-17 10:04:53	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-17 10:04:53	--	 - info certificat[3] :
+2016-11-17 10:04:53	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-17 10:04:53	--	 - info certificat[4] :
+2016-11-17 10:04:53	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-17 10:04:53	--	 - info certificat[5] :
+2016-11-17 10:04:53	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-17 10:04:53	=!=	gnutls : le certificat de l'hôte n'est PAS de confiance
+2016-11-17 10:04:53	=!=	gnutls : l'émetteur du certificat de l'hôte est inconnu
+2016-11-17 10:04:53	=!=	irc : la poignée de main (handshake) de TLS a échoué
+2016-11-17 10:04:53	=!=	irc : erreur : Erreur dans le certificat.
+2016-11-17 10:04:53	--	irc : reconnexion au serveur dans 10 secondes
+2016-11-17 10:05:03	--	irc : reconnexion au serveur...
+2016-11-17 10:05:03	--	irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
+2016-11-17 10:05:04	--	gnutls : connecté en utilisant un échange secret Diffie-Hellman de 2048 bits
+2016-11-17 10:05:04	--	gnutls : réception de 5 certificats
+2016-11-17 10:05:04	--	 - info certificat[1] :
+2016-11-17 10:05:04	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signé avec RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-17 10:05:04	--	 - info certificat[2] :
+2016-11-17 10:05:04	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-17 10:05:04	--	 - info certificat[3] :
+2016-11-17 10:05:04	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-17 10:05:04	--	 - info certificat[4] :
+2016-11-17 10:05:04	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-17 10:05:04	--	 - info certificat[5] :
+2016-11-17 10:05:04	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-17 10:05:04	=!=	gnutls : le certificat de l'hôte n'est PAS de confiance
+2016-11-17 10:05:04	=!=	gnutls : l'émetteur du certificat de l'hôte est inconnu
+2016-11-17 10:05:04	=!=	irc : la poignée de main (handshake) de TLS a échoué
+2016-11-17 10:05:04	=!=	irc : erreur : Erreur dans le certificat.
+2016-11-17 10:05:04	--	irc : reconnexion au serveur dans 20 secondes
+2016-11-17 10:05:24	--	irc : reconnexion au serveur...
+2016-11-17 10:05:24	--	irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
+2016-11-17 10:05:24	--	gnutls : connecté en utilisant un échange secret Diffie-Hellman de 2048 bits
+2016-11-17 10:05:24	--	gnutls : réception de 5 certificats
+2016-11-17 10:05:24	--	 - info certificat[1] :
+2016-11-17 10:05:24	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signé avec RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-17 10:05:24	--	 - info certificat[2] :
+2016-11-17 10:05:24	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-17 10:05:24	--	 - info certificat[3] :
+2016-11-17 10:05:24	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-17 10:05:24	--	 - info certificat[4] :
+2016-11-17 10:05:24	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-17 10:05:24	--	 - info certificat[5] :
+2016-11-17 10:05:24	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-17 10:05:24	=!=	gnutls : le certificat de l'hôte n'est PAS de confiance
+2016-11-17 10:05:24	=!=	gnutls : l'émetteur du certificat de l'hôte est inconnu
+2016-11-17 10:05:24	=!=	irc : la poignée de main (handshake) de TLS a échoué
+2016-11-17 10:05:24	=!=	irc : erreur : Erreur dans le certificat.
+2016-11-17 10:05:24	--	irc : reconnexion au serveur dans 40 secondes
+2016-11-17 10:06:04	--	irc : reconnexion au serveur...
+2016-11-17 10:06:04	--	irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
+2016-11-17 10:06:05	--	gnutls : connecté en utilisant un échange secret Diffie-Hellman de 2048 bits
+2016-11-17 10:06:05	--	gnutls : réception de 5 certificats
+2016-11-17 10:06:05	--	 - info certificat[1] :
+2016-11-17 10:06:05	--	   - subject `OU=Domain Control Validated,OU=EssentialSSL,CN=irc.indymedia.org', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', RSA key 2432 bits, signé avec RSA-SHA1, activated `2012-05-31 00:00:00 UTC', expires `2017-05-31 23:59:59 UTC', SHA-1 fingerprint `0f7edd6715d34fa6f3e76758f9b97145e36713ab'
+2016-11-17 10:06:05	--	 - info certificat[2] :
+2016-11-17 10:06:05	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=EssentialSSL CA', issuer `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2019-12-31 23:59:59 UTC', SHA-1 fingerprint `23bc94154eef52fb485e90665f41c2be809b0667'
+2016-11-17 10:06:05	--	 - info certificat[3] :
+2016-11-17 10:06:05	--	   - subject `C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signé avec RSA-SHA1, activated `2006-12-01 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `3a6c6d0ce8015d1b3b5cae19952e06f9428c7993'
+2016-11-17 10:06:05	--	 - info certificat[4] :
+2016-11-17 10:06:05	--	   - subject `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2005-06-07 08:09:10 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `867539a26c81fa2d78277c3adfdb304312535e57'
+2016-11-17 10:06:05	--	 - info certificat[5] :
+2016-11-17 10:06:05	--	   - subject `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', issuer `C=SE,O=AddTrust AB,OU=AddTrust External TTP Network,CN=AddTrust External CA Root', RSA key 2048 bits, signé avec RSA-SHA1, activated `2000-05-30 10:48:38 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `02faf3e291435468607857694df5e45b68851868'
+2016-11-17 10:06:05	=!=	gnutls : le certificat de l'hôte n'est PAS de confiance
+2016-11-17 10:06:05	=!=	gnutls : l'émetteur du certificat de l'hôte est inconnu
+2016-11-17 10:06:05	=!=	irc : la poignée de main (handshake) de TLS a échoué
+2016-11-17 10:06:05	=!=	irc : erreur : Erreur dans le certificat.
+2016-11-17 10:06:05	--	irc : reconnexion au serveur dans 1 minute, 20 secondes
+2016-11-17 10:06:33	--	irc : déconnecté du serveur
