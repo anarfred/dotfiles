@@ -411,7 +411,7 @@ nnoremap <leader>sc :CloseSession<CR>
 " Vimtex {{{
 let g:vimtex_fold_enabled = 1
 let g:vimtex_fold_comments = 1
-let g:vimtex_view_general_viewer = 'okular'
+let g:vimtex_view_general_viewer = 'zathura'
 let g:vimtex_view_general_options = '--unique @pdf\#src:@line@tex'
 let g:vimtex_view_general_options_latexmk = '--unique'
 let g:vimtex_quickfix_latexlog = {'fix_paths':0} " À RETIRER NVIM 0.2.0
