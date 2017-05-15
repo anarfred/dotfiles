@@ -1,4 +1,3 @@
-find e6
 filter petplay
 find sp
 find .sal
@@ -48,3 +47,4 @@ cd .samael
 rename 
 delete
 find .confi
+find wall

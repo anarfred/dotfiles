@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="oh-my-zsh config/termite aliasrc bashrc vim zshrc Xresources config/qutebrowser config/base16-shell config/buku_run config/cmus config/git gitconfig config/nvim config/ranger config/rofi-surfraw config/surfraw config/zathura config/i3 config/polybar config/rtv config/compton.conf mutt mpdconf tmux.conf fonts fehbg xinitrc antidote fzf newsbeuter weechat fzf.bash fzf.zsh shell_prompt.sh"    # list of files/folders to symlink in homedir
+files="oh-my-zsh config/termite aliasrc bashrc vim zshrc Xresources config/qutebrowser config/base16-shell config/buku_run config/cmus config/git gitconfig config/nvim config/ranger config/rofi-surfraw config/surfraw config/zathura config/i3 config/polybar config/rtv config/compton.conf mutt mpdconf tmux.conf fonts fehbg xinitrc antidote newsbeuter weechat shell_prompt.sh"    # list of files/folders to symlink in homedir
 
 ##########
 

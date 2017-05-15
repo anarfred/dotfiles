@@ -46,6 +46,7 @@ export PLAYER=$(find_alt mplayer mpv cvlc $OPENER )
 export READER=$(find_alt okular evince $OPENER )
 # export ROOTER=$(find_alt gksudo kdesudo )
 export IMAGEVIEWER=$(find_alt feh display eog $OPENER )
+export RANGER_LOAD_DEFAULT_RC=FALSE.
 
 #}}}
 #-------- Bash Color Code {{{
