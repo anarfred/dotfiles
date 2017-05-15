@@ -6,7 +6,6 @@ rename backupsdmarjo
 find kennel
 open_with less
 find .con
-find .confi
 find i3ljk
 find green
 q
@@ -48,3 +47,4 @@ cd  .samael
 cd .samael
 rename 
 delete
+find .confi

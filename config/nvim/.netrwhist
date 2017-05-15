@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/nrfrd/mpdconf'
 let g:netrw_dirhist_2='/home/nrfrd'
 let g:netrw_dirhist_3='/home/nrfrd/.config/autostart'
 let g:netrw_dirhist_4='/etc/X11/xinit/xinitrc.d'
 let g:netrw_dirhist_5='/etc/X11/xinit'
 let g:netrw_dirhist_6='/home/nrfrd/dotfiles/nrfrd/.config/qutebrowser'
+let g:netrw_dirhist_7='/home/nrfrd/dotfiles/config/qutebrowser/bookmarks'
