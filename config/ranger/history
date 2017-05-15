@@ -1,4 +1,3 @@
-filter petplay
 find sp
 find .sal
 rename backupsdmarjo
@@ -45,6 +44,7 @@ cd .Samael
 cd  .samael
 cd .samael
 rename 
-delete
 find .confi
 find wall
+find Dow
+delete
