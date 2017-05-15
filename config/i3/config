@@ -82,10 +82,10 @@ bindsym $mod+Shift+q kill
 # }}}
 
 # Position des fenêtres
-    bindsym $mod+Left exec xrandr --output VGA-1 --auto --left-of LVDS-1
-    bindsym $mod+Down exec xrandr --output VGA-1 --off
-    bindsym $mod+Up exec xrandr --output VGA-1 --auto --above LVDS-1
-    bindsym $mod+Right exec xrandr --output VGA-1 --auto --right-of LVDS-1
+    bindsym $mod+Left exec xrandr --output VGA1 --auto --left-of LVDS1
+    bindsym $mod+Down exec xrandr --output VGA1 --off
+    bindsym $mod+Up exec xrandr --output VGA1 --auto --above LVDS1
+    bindsym $mod+Right exec xrandr --output VGA1 --auto --right-of LVDS1
 
 # move focused window {{{
   bindsym $mod+Shift+h move left
