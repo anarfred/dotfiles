@@ -1,5 +1,3 @@
-find sp
-find .sal
 rename backupsdmarjo
 find kennel
 open_with less
@@ -47,4 +45,6 @@ rename
 find .confi
 find wall
 find Dow
+find f
+filter fzf
 delete
