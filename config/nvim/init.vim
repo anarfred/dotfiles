@@ -65,6 +65,10 @@ set ignorecase
 set smartcase
 set showmatch
 
+" Transparence
+au ColorScheme * hi Normal ctermbg=none guibg=none
+au ColorScheme myspecialcolors hi Normal ctermbg=red guibg=red
+
 " Markdown
 "augroup markdown
 "    au!
@@ -146,6 +150,7 @@ call plug#begin('~/.local/share/nvim/plugged') " Pour neovim
 "Plug 'vim-scripts/ShowMarks'
 "Plug 'vimwiki/vimwiki'
 Plug '907th/vim-auto-save'
+Plug 'tpope/vim-commentary'
 Plug 'mhinz/vim-startify'
 Plug 'freitass/todo.txt-vim'
 Plug 'Lokaltog/vim-easymotion'

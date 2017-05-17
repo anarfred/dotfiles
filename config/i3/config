@@ -53,7 +53,7 @@ bindsym $mod+Shift+q kill
     bindsym $mod+m exec /home/nrfrd/bin/rofi-scripts/rofi-surfraw/rofi-surfraw #-run-command qutebrowser
     bindsym $mod+Shift+m exec /home/nrfrd/bin/buku_run/buku_run #-run-command qutebrowser
     bindsym $mod+Tab exec --no-startup-id rofi -show window
-
+bindsym $mod+Shift+b exec --no-startup-id /home/nrfrd/Archives/bin/rofi-bibbrowser/rofi-bibbrowser
 # }}}
 
 # change focus {{{

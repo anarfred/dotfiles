@@ -3,7 +3,7 @@ source ~/.mutt/muttcol
 source ~/.mutt/aliases
 
 set sort = 'reverse-date'
-set editor = vim
+set editor = nvim
 set timeout = "5"
 set mail_check = "10"
 set mailcap_path = ~/.mutt/mailcap

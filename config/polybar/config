@@ -21,7 +21,7 @@ alert = #bd2c40
 [bar/example]
 monitor = ${env:MONITOR:LVDS-1}
 width = 100%
-height = 18
+height = 20
 ;offset-x = 1%
 ;offset-y = 1%
 radius = 0.0
@@ -42,7 +42,8 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = Meslo LGS Nerd Font:pixelsize=8;1
+font-0 = Roboto Regular:pixelsize=10;1
+; font-0 = Meslo LGS Nerd Font:pixelsize=8;1 */
 ;font-0 = Terminess Powerline:pixelsize=12;1
 ;font-0 = Nimbus Sans:pixelsize=9;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
@@ -109,21 +110,21 @@ label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = ${colors.foreground-alt}
 
 
-[module/pomodoro]
-type = custom/script
-; Use pomodoro glyphs in Nerd fonts
-exec = pymodoro -bp " " -pp " " -p  -e  -bp  --length 5
-; Use default symbols
-;exec = pymodoro --length 5e
-label = %output%
-tail = true
-interval = 0
-; Start or reset the timer
-click-left = if [ -e ~/.pomodoro_session ]; then rm ~/.pomodoro_session; else echo "25 5" > ~/.pomodoro_session; fi
-; Increase pomodoro time
-click-right = echo "$((`cut .pomodoro_session -d ' ' -f 1`+5)) 5" > .pomodoro_session
-; Reduce pomodoro time
-click-middle = echo "$((`cut .pomodoro_session -d ' ' -f 1`-5)) 5" > .pomodoro_session
+/* [module/pomodoro] */
+/* type = custom/script */
+/* ; Use pomodoro glyphs in Nerd fonts */
+/* exec = pymodoro -bp " " -pp " " -p  -e  -bp  --length 5 */
+/* ; Use default symbols */
+/* ;exec = pymodoro --length 5e */
+/* label = %output% */
+/* tail = true */
+/* interval = 0 */
+/* ; Start or reset the timer */
+/* click-left = if [ -e ~/.pomodoro_session ]; then rm ~/.pomodoro_session; else echo "25 5" > ~/.pomodoro_session; fi */
+/* ; Increase pomodoro time */
+/* click-right = echo "$((`cut .pomodoro_session -d ' ' -f 1`+5)) 5" > .pomodoro_session */
+/* ; Reduce pomodoro time */
+/* click-middle = echo "$((`cut .pomodoro_session -d ' ' -f 1`-5)) 5" > .pomodoro_session */
 
 
 [module/bspwm]
