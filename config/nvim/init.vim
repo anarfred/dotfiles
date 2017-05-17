@@ -66,8 +66,8 @@ set smartcase
 set showmatch
 
 " Transparence
-au ColorScheme * hi Normal ctermbg=none guibg=none
-au ColorScheme myspecialcolors hi Normal ctermbg=red guibg=red
+" au ColorScheme * hi Normal ctermbg=none guibg=none
+" au ColorScheme myspecialcolors hi Normal ctermbg=red guibg=red
 
 " Markdown
 "augroup markdown

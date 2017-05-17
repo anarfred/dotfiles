@@ -338,6 +338,7 @@ down4me() { curl -s "http://www.downforeveryoneorjustme.com/$1" | sed '/just you
 killall-zombies() { kill -HUP $(ps -A -ostat,ppid | grep -e '[zZ]'| awk '{ print $2 }') ;}
 mkdircd() { mkdir -p -v $1; cd $1 ;}	          # create folder then cd into it
 nohup-command() { nohup "$@" >/dev/null 2>&1& }   # background a process w/o error msg
+alias newmusic='find ~/Musique/ -name "*.mp3" -mtime -15 | sort'
 #open() { xdg-open "$@" > /dev/null 2>&1 ;}        # open with default GUI program
 open() { mimeopen "$@" > /dev/null 2>&1 ;}        # open with default GUI program
 
