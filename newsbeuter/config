@@ -1,0 +1,74 @@
+articlelist-format "%4i %f %D  %?T?|%-17T| ?%t"
+
+highlight feedlist    "^  *[0-9]+  *N  "                    color156 default
+highlight articlelist "^  *[0-9]+  *N  "                    color156 default
+
+highlight article     "(^Feed:.*|^Title:.*|^Author:.*)"     color75  default
+highlight article     "(^Link:.*|^Date:.*)"                 color75  default
+highlight article     "^Podcast Download URL:.*"            color71  default
+highlight article     "^Links:"                             white    color240 underline
+highlight article     "\\[[0-9][0-9]*\\]"                   color72  default  bold
+highlight article     "\\[image [0-9][0-9]*\\]"             color72  default  bold
+highlight article     "\\[embedded flash: [0-9][0-9]*\\]"   color72  default  bold
+highlight article     ":.*\\(link\\)$"                      color74  default
+highlight article     ":.*\\(image\\)$"                     color74  default
+highlight article     ":.*\\(embedded flash\\)$"            color74  default
+
+color listnormal                                            white    default
+color listfocus                                             default  color240
+color info default color240
+
+
+#notify-xterm yes
+auto-reload yes
+reload-time 30
+#reload-only-visible-feeds yes
+#suppress-first-reload yes
+#refresh-on-startup no
+# reload-only-visible-feeds yes
+user-agent "Liferea/1.4.14 (Linux; en_US.UTF8; http://liferea.sf.net/)"
+article-sort-order  date-desc
+confirm-exit yes
+browser $BROWSER
+#download-full-page yes		# for feeds with link only then dl full page
+download-retries 4
+download-timeout 60
+save-path ~/Documents/textes
+#feedlist-format " %n %4i %11u %t -- %T"
+#articlelist-format  "%4i %f %D   %?T?|%-17T|  ?%t"
+#notify-format       "%d new articles (%n unread articles, %f unread feeds)"
+show-read-feeds no
+show-read-articles no
+#notify-program      "/usr/bin/notify-send"
+#goto-next-feed no
+#max-items 500
+#refresh-on-startup no
+#text-width 72
+#prepopulate-query-feeds yes
+
+# vim like navigation
+bind-key j down
+bind-key k up
+bind-key m toggle-show-read-feeds
+bind-key ^D pagedown
+bind-key ^U pageup
+bind-key / open-search tagselection
+
+bind-key i sort
+bind-key I rev-sort
+
+bind-key g home all
+bind-key G end all
+
+unbind-key l
+bind-key l open
+bind-key h quit
+bind-key ESC hard-quit
+
+# use macro prefix key ( default: , )
+macro i set browser "$IMAGEVIEWER %u"; open-in-browser ; set browser "$BROWSER %u"
+macro o set browser "$BROWSERCLI %u"; open-in-browser ; set browser "$BROWSER %u"
+macro m set browser "$PLAYER %u"; open-in-browser ; set browser "$BROWSER %u"
+macro r set browser "rtv -l %u"; open-in-browser ; set browser "$BROWSER %u"
+
+# macro y set browser "$PLAYER $(youtube-dl -g %u)"; open-in-browser ; set browser "$BROWSER %u"
