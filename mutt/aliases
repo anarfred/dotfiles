@@ -11,3 +11,5 @@ alias project_members billy@gmail.com, sally@gmail.com, amanda@gmail.com, chad@g
 #With the above alias, if you put "project_members" as the recipient, mutt will fill in all the emails above as the recipients.
 #
 #This is extremely useful, so take advantage of it!
+alias Caroline.Desbiens Caroline Desbiens <Caroline.Desbiens@ggr.ulaval.ca>
+alias Marie-Helene.Vandersmissen Marie-Hélène Vandersmissen <Marie-Helene.Vandersmissen@ggr.ulaval.ca>

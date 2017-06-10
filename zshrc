@@ -40,6 +40,9 @@ export ZSH=/home/nrfrd/.oh-my-zsh
 # Tmuxinator autocompletion
 #source ~/bin/tmuxinator.zsh
 
+# Gruvbox
+source ~/.local/share/nvim/plugged/gruvbox/gruvbox_256palette.sh
+
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes

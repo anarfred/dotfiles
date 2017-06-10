@@ -14,3 +14,5 @@
 	fontdiff = -family Cantarell -size 12 -weight normal -slant roman -underline 0 -overstrike 0
 [push]
 	default = simple
+[gpg]
+	program = gpg

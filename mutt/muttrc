@@ -1,9 +1,10 @@
+#source ~/.mutt/alakorc
 source ~/.mutt/gmailrc
 source ~/.mutt/muttcol
-source ~/.mutt/aliases
+#source ~/.mutt/aliases
 
 set sort = 'reverse-date'
-set editor = nvim
+set editor = "nvim +':set textwidth=0' +':set wrapmargin=0' +':set wrap' +':set linebreak'"
 set timeout = "5"
 set mail_check = "10"
 set mailcap_path = ~/.mutt/mailcap
@@ -36,6 +37,20 @@ bind index D delete-message
 bind index U undelete-message
 bind index F search 
 bind index R group-reply
+macro index,pager S "<save-message>=[Gmail]/Tous\ les\ messages<enter><enter>" "Archive"
 
-macro index X '<sync-mailbox><enter-command>source ~/.mutt/gmailrc<enter><change-folder>!<enter>'
-macro index K '<sync-mailbox><enter-command>source ~/.mutt/cocklirc<enter><change-folder>!<enter>'
+macro index,pager <F4> '<sync-mailbox><enter-command>source ~/.mutt/gmailrc<enter><change-folder>!<enter>'
+macro index,pager <F5> '<sync-mailbox><enter-command>source ~/.mutt/alakorc<enter><change-folder>!<enter>'
+
+# Remplace "marquer comme non-lu" par "précédent"
+bind index N search-opposite
+bind pager N search-opposite
+
+# Permet d'enlever le filtre
+macro index a "<limit>all\n" "show all messages (undo limit)"
+
+## GooBook
+set query_command="goobook query '%s'"
+macro index,pager A "<pipe-message>goobook add<return>" "add sender to google contacts"
+bind editor <Tab> complete-query
+

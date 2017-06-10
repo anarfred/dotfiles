@@ -20,13 +20,14 @@ fi
 #nitrogen --restore &
 #transmission-daemon &
 setxkbmap ca fr
-export XDG_CURRENT_DESKTOP="KDE" 
-export KDE_SESSION_VERSION="5"
+#export XDG_CURRENT_DESKTOP="KDE" 
+#export KDE_SESSION_VERSION="5"
 #guake &
 xrdb ~/.Xresources
 #exec gnome-session
 #exec herbstluftwm --locked
 exec i3
+#exec bspwm
 #exec i3 -c .config/themer/current/i3.conf
 #exec startkde
 #exec startxfce4

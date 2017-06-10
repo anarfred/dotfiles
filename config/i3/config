@@ -32,8 +32,9 @@ set $alt Mod1
 #font pango:Source Code Pro for Powerline Regular 8
 #font pango: Dejavu Sans Mono for Powerline Regular 9
 #font pango:PragmataPro for Powerline Regular 8
-font pango:MesloLGS NerdFont 8
-#font pango:Terminess Powerline 9
+#font pango:Roboto Regular 8
+font pango:Knack Nerd Font 8
+#font pango:FuraCode NF 8
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -129,16 +130,16 @@ bindsym $mod+Shift+b exec --no-startup-id /home/nrfrd/Archives/bin/rofi-bibbrows
     bindsym $mod+c focus child
 
 ## setting variables {{{
-  set $ws1 1 · 
-    set $ws2 2 · 
-    set $ws3 3 · 
-    set $ws4 4 · 
-    set $ws5 5 · 
-    set $ws6 6 · 
-    set $ws7 7 · 
-    set $ws8 8 · 
-    set $ws9 9 · 
-    set $ws0 10 · 
+    set $ws1 1I
+    set $ws2 2II
+    set $ws3 3III
+    set $ws4 4IV
+    set $ws5 5V
+    set $ws6 6VI
+    set $ws7 7VII
+    set $ws8 8VIII
+    set $ws9 9IX
+    set $ws0 10X
 # }}}
 
 # switch to workspace {{{
@@ -246,9 +247,9 @@ bindsym $mod+r mode "resize"
 # Theme
 # borders
 # state                     border   bg       text    indicator
-    client.focused              $yellow $yellow  $black  $yellow
+    client.focused              $blue $blue  $black  $yellow
     client.unfocused            $black $black  $darkwhite  $green
-    client.focused_inactive     $yellow  $black  $white  $black
+    client.focused_inactive     $darkwhite  $darkwhite  $black  $black
     client.urgent               $red $darkcyan $darkred $darkblack
 
 # scratchpad
@@ -358,11 +359,26 @@ bindsym $mod+Shift+comma	gaps inner current set 10; gaps outer current set 10
 #class                  border      backgr.     text        split
     client.background       $back
 
-#bar {
-#i3bar_command ~/.config/i3/lemonbar/i3_lemonbar.sh
-#status_command i3status
-#tray_output primary
-#}
+bar {
+  #font pango:Roboto Regular 8
+  font pango:Knack Nerd Font 8
+  #font pango:Pragmata Pro for Powerline 8
+  colors {
+    background $black
+    statusline $white
+    separator $darkblack
+    focused_workspace  $cyan $cyan $black
+    active_workspace   $white $white $black
+    inactive_workspace $black $black $darkwhite
+    urgent_workspace   $red $red $white
+    binding_mode       #2f343a #900000 #ffffff
+  }
+  position top
+  strip_workspace_numbers yes
+  status_command bumblebee-status -m cmus caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
+#disk:root 
+  tray_output primary
+}
 # }}}
 
 # Assignations
@@ -371,7 +387,7 @@ bindsym $mod+Shift+comma	gaps inner current set 10; gaps outer current set 10
 # Autostart# {{{
   exec_always feh --bg-scale /home/nrfrd/.wallpaper
     exec_always /home/nrfrd/.config/i3/i3start.sh
-    exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+    # exec_always --no-startup-id $HOME/.config/polybar/launch.sh
     exec --no-startup-id xautolock -time 5 -locker 'i3lock-extra -s -p -P 4' &
     exec --no-startup-id display-visor -f
 

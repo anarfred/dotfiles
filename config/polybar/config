@@ -8,15 +8,13 @@
 ;=====================================================
 
 [colors]
-;background = ${xrdb:color0:#222}
-background = #222
-background-alt = #444
-;foreground = ${xrdb:color7:#222}
-foreground = #dfdfdf
-foreground-alt = #555
-primary = #ffb52a
-secondary = #e60053
-alert = #bd2c40
+background = ${xrdb:color0}
+background-alt = ${xrdb:color19}
+foreground = ${xrdb:color7}
+foreground-alt = ${xrdb:color2}
+primary = ${xrdb:color12}
+secondary = ${xrdb:color4}
+alert = ${xrdb:color1}
 
 [bar/example]
 monitor = ${env:MONITOR:LVDS-1}
@@ -30,7 +28,7 @@ fixed-center = false
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 2
+line-size = 0
 line-color = #f00
 
 border-size = 0
@@ -49,9 +47,9 @@ font-0 = Roboto Regular:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
-modules-left = i3
+modules-left = i3 bspwm
 modules-center = 
-modules-right = pomodoro filesystem backlight-acpi xkeyboard memory cpu battery temperature date powermenu
+modules-right = pomodoro pkg filesystem backlight-acpi xkeyboard memory cpu battery temperature date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -105,7 +103,7 @@ interval = 25
 mount-0 = /
 mount-1 = /home/nrfrd/Archives
 
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
+label-mounted = %{F#8ec07c}%mountpoint%%{F-}: %percentage_used%%
 label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = ${colors.foreground-alt}
 
@@ -268,6 +266,18 @@ format-disconnected =
 ;format-disconnected-underline = ${self.format-connected-underline}
 ;label-disconnected = %ifname% disconnected
 ;label-disconnected-foreground = ${colors.foreground-alt}
+
+[module/pkg]
+type = custom/script
+interval = 1200
+format =  <label>
+format-underline = #dc322f
+label = "%output:0:30%"
+exec = .config/polybar/pkg.sh
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+format-prefix = " "
+format-prefix-foreground = ${colors.foreground-alt}
+format-prefix-underline = ${colors.secondary}
 
 [module/date]
 type = internal/date

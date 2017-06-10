@@ -3,7 +3,7 @@ set selection-clipboard clipboard
 # zathurarc-dark
 
 #set font "Terminess Powerline 9"
-set font "Meslo LGS Nerd Font 9"
+set font "Roboto Sans 8"
 #set default-fg "#181818" #00
 #set default-bg "#F7F7F6" #01
 

@@ -898,12 +898,12 @@
 		</attributs>
 		<definition>◊ Définition de « BDSM ».</definition>
 	</entree>
-	<entree langue="FR" forme="Saphomag" categ="NP">
+	<entree langue="FR" forme="SaphoMag" categ="NP">
 		<flexions>
-			<ms>Saphomag</ms>
-			<mp>Saphomag</mp>
-			<fs>Saphomag</fs>
-			<fp>Saphomag</fp>
+			<ms>SaphoMag</ms>
+			<mp>SaphoMag</mp>
+			<fs>SaphoMag</fs>
+			<fp>SaphoMag</fp>
 		</flexions>
 		<attributs>
 			<compagnie/>
@@ -4251,5 +4251,17 @@
 			<autre/>
 		</attributs>
 		<definition>◊ Définition de « Diaper Lover ».</definition>
+	</entree>
+	<entree langue="FR" forme="Lez Spread the Word" categ="NP">
+		<flexions>
+			<ms>Lez Spread the Word</ms>
+			<mp>Lez Spread the Word</mp>
+			<fs>Lez Spread the Word</fs>
+			<fp>Lez Spread the Word</fp>
+		</flexions>
+		<attributs>
+			<compagnie/>
+		</attributs>
+		<definition>◊ Définition de « Lez Spread the Word ».</definition>
 	</entree>
 </dictionnaire_personnel>

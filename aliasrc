@@ -33,7 +33,7 @@ find_alt() { for i;do which "$i" >/dev/null && { echo "$i"; return 0;};done;retu
 # set the default program
 # the first program in the array that is detected on your system will be chosen as the default
 export OPENER=$(find_alt xdg-open exo-open gnome-open )
-export BROWSER=$(find_alt qutebrowser --target tab --backend webengine firefox google-chrome $OPENER )
+export BROWSER=$(find_alt qutebrowser firefox google-chrome $OPENER )
 export BROWSERCLI=$(find_alt w3m links2 links lynx elinks $OPENER )
 # export COMICER=$(find_alt mcomix comix zathura $OPENER )
 export EBOOKER=$(find_alt ebook-viewer $OPENER )
@@ -151,6 +151,8 @@ fi
 if [ -d "$HOME/.scripts" ] ; then
     export PATH="$HOME/.scripts:$PATH"
 fi
+
+PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
 
 # }}}
 #-------- External Files {{{
@@ -6400,7 +6402,7 @@ lltag-rename() { lltag --yes --rename '%n - %t' "$1" ;}
 
 setwallpaper() {
 ConnectedMonitor="$(xrandr | awk '/ connected/ {print $1}' | head -n 1)"
-PATH_WALLPAPER=~/Pictures/Wallpapers
+PATH_WALLPAPER=~/Images/wallpapers
 
 	# find current running windows manager
 	CURRENT_WM="$(wmctrl -m | grep "Name:" | awk '{print $2}')"
@@ -6417,7 +6419,7 @@ PATH_WALLPAPER=~/Pictures/Wallpapers
 	fi
 
 	# i3
-	if [ $DESKTOP_SESSION = i3 ]; then
+	if [ $CURRENT_WM = i3 ]; then
 	# feh --randomize --bg-fill "$PATH_WALLPAPER"/*
 	feh --randomize --bg-fill "$(find $PATH_WALLPAPER -type f -iregex '.*\.\(bmp\|gif\|jpg\|png\)$' | shuf -n1)"
 	fi

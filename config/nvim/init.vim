@@ -76,7 +76,8 @@ set showmatch
 "augroup END
 
 
-let g:pandoc#after#modules#enabled = ["supertab", "ultisnips"]
+let g:pandoc#after#modules#enabled = [ "ultisnips"]
+""supertab",
 
 " make YCM compatible with UltiSnips (using supertab)
 let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
@@ -151,9 +152,11 @@ call plug#begin('~/.local/share/nvim/plugged') " Pour neovim
 "Plug 'vimwiki/vimwiki'
 Plug '907th/vim-auto-save'
 Plug 'tpope/vim-commentary'
+Plug 'morhetz/gruvbox'
 Plug 'mhinz/vim-startify'
 Plug 'freitass/todo.txt-vim'
 Plug 'Lokaltog/vim-easymotion'
+Plug 'jreybert/vimagit'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'Valloric/YouCompleteMe' "À chaque maj, recompiler avec ~/.local/share/nvim/plugged/YouCompleteMe/install.py
 Plug 'beloglazov/vim-online-thesaurus'
@@ -193,9 +196,15 @@ Plug 'wikitopian/hardmode'
 Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
 Plug 'xuhdev/vim-latex-live-preview'
+Plug 'tpope/vim-unimpaired'
 
 call plug#end() " Add plugins to &runtimepath
 "}}}
+" Gruvbox {{{
+let g:gruvbox_italic=1
+let g:gruvbox_bold=1
+let g:gruvbox_contrast_soft=1
+" }}}
 " Ack {{{
 nnoremap <leader>a :Ack
 if executable('ag')
@@ -250,6 +259,7 @@ nmap <leader>F <Plug>(easymotion-F2)
 nmap <leader>bb :Buffer<cr>
 nmap <leader>bm :Marks<cr>
 nmap <leader>bf :Files<cr>
+nmap <leader>bg :GFiles<cr>
 nmap <leader>bF :Files ~<cr>
 nmap <leader>bh :History<cr>
 nmap <leader>bl :Lines<cr>
@@ -324,8 +334,8 @@ nnoremap <leader>G :GundoToggle<CR>
 " }}}
 " Goyo + Limelight {{{
 nnoremap <leader>g :Goyo<CR>
-"autocmd! User GoyoEnter Limelight
-"autocmd! User GoyoLeave Limelight!
+autocmd! User GoyoEnter Limelight
+autocmd! User GoyoLeave Limelight!
 
 function! s:goyo_enter()
   silent !tmux set status off
@@ -361,15 +371,18 @@ autocmd! User GoyoLeave nested call <SID>goyo_leave()
 "set statusline+=%{SyntasticStatuslineFlag()}
 "set statusline+=%*
 
-nnoremap <leader>s :SyntasticToggleMode<CR>
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
-let g:syntastic_tex_chktex_args = "-n10 -n9 -n17"
-" Ignore annoying latex errror about @ in macro names that I get because
-" of the right-justification of numbers in matrices
-let g:syntastic_quiet_messages = { "regex": "Do not use @ in LaTeX macro names"}
+" nnoremap <leader>s :SyntasticToggleMode<CR>
+" let g:syntastic_always_populate_loc_list = 1
+" let g:syntastic_auto_loc_list = 1
+" let g:syntastic_check_on_open = 1
+" let g:syntastic_check_on_wq = 0
+" let g:syntastic_tex_chktex_args = "-n10 -n9 -n17"
+" " Ignore annoying latex errror about @ in macro names that I get because
+" " of the right-justification of numbers in matrices
+" let g:syntastic_quiet_messages = { "regex": "Do not use @ in LaTeX macro names"}
+" }}}
+" {{{ Vim-latex-live-preview
+let g:livepreview_previewer = 'zathura'
 " }}}
 " {{{ Neomake
 let g:neomake_open_list = 2
@@ -385,6 +398,9 @@ let g:numbers_exclude = ['goyo', 'tagbarr search"c', 'gundo', 'minibufexpl', 'ne
 let g:instant_markdown_autostart = 0    " disable autostart
 map <leader>md :InstantMarkdownPreview<CR>
 "}}}
+" Magin {{{
+map <leader>mg :Magit<CR>
+" }}}
 " Vim-markdown {{{
 let g:vim_markdown_toc_autofit = 1
 " }}}
@@ -430,7 +446,7 @@ let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown'
 " helppage -> :h vimwiki-syntax
 " }}}
 let g:loaded_youcompleteme = 1 " Désactive YCM
-let g:grammalecte_cli_py='~/bin/grammalecte/pythonpath/cli.py'
+let g:grammalecte_cli_py='~/Archives/bin/grammalecte/pythonpath/cli.py'
 let g:gammalecte_disable_rules = ""
 
 let g:promptline_powerline_symbols = 1
@@ -453,7 +469,8 @@ let g:promptline_preset={
 
 " }}}
 " Thème (doit rester à la fin pour le colorscheme){{{
-colorscheme base16-eighties
+"colorscheme base16-gruvbox-dark-medium
+colorscheme gruvbox
 let base16colorspace=256
 
 "if $TERM !~# "konsole.*"
@@ -467,8 +484,8 @@ let base16colorspace=256
 
 set background=dark
 let g:airline#extensions#tabline#enabled = 1 " Allow usage of plugins using theme
-let g:airline#extensions#tabline#left_sep = "\uE0BC"
-let g:airline#extensions#tabline#left_alt_sep = "\uE0BD"
+"let g:airline#extensions#tabline#left_sep = "\uE0BC"
+"let g:airline#extensions#tabline#left_alt_sep = "\uE0BD"
 let g:airline_powerline_fonts = 1            " Allow usage of powerline fonts
 let g:airline_theme='base16'                 " Select airline theme
 "let g:airline_left_sep = ''
@@ -479,10 +496,10 @@ let g:airline_theme='base16'                 " Select airline theme
 "set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Plus\ Nerd\ File\ Types\ Mono\ 12
 
 " testing rounded separators (extra-powerline-symbols):
-let g:airline_left_sep = "\uE0BC"
-let g:airline_left_alt_sep = "\uE0BD"
-let g:airline_right_sep = "\uE0BE"
-let g:airline_right_alt_sep = "\uE0BF"
+" let g:airline_left_sep = "\uE0BC"
+" let g:airline_left_alt_sep = "\uE0BD"
+" let g:airline_right_sep = "\uE0BE"
+" let g:airline_right_alt_sep = "\uE0BF"
 
 " set the CN (column number) symbol:
 let g:airline_section_z = airline#section#create(["\uE0A1" . '%{line(".")}' . "\uE0A3" . '%{col(".")}'])
