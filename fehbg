@@ -1,2 +1,2 @@
 #!/bin/sh
-feh  --bg-scale '/home/nrfrd/Archives/Pictures/wallpapers/Natural_Landscape_Alberta_Canada_4k.jpg' 
+feh  --bg-scale '/home/nrfrd/.wallpaper' 
