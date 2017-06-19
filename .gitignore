@@ -1,6 +1,11 @@
 antidote/9.0/CacheCorrecteur
 config/cmus/autosave
+config/cmus/resume
+config/cmus/lib.pl
+config/cmus/search-history
 config/ranger/__pycache__
+config/ranger/history
 config/ranger/plugins/__pycache__
 config/nvim/autoload/plug.vim.old
-newsbeuter/cache.db
+newsbeuter/cache.*
+newsbeuter/history*
