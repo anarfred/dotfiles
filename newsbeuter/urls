@@ -6,7 +6,7 @@ http://www.docear.org/feed/ "Geeky stuff"
 http://feeds.danielmiessler.com/danielmiessler "Geeky stuff"
 http://sonal.hypotheses.org/feed "Geeky stuff"
 http://literaturegeek.com/atom.xml "Geeky stuff"
-http://feeds.feedburner.com/sachac "Geeky stuff"
+#http://feeds.feedburner.com/sachac "Geeky stuff"
 http://wcm1.web.rice.edu/feed.xml "Geeky stuff"
 http://spatialrecology.org/feed.xml "Geeky stuff" "~spatialRecology"
 http://mph.puddingbowl.org/feed/ "Geeky stuff"
@@ -14,7 +14,6 @@ http://mydesiringmachines.wordpress.com/feed/ "Géographie"
 http://visualmethodculture.wordpress.com/feed/ "Géographie"
 http://progressivegeographies.com/feed/ "Géographie"
 http://fucklemonde.blogspot.com/feeds/posts/default "Autres joyaux"
-http://reflexionsqueers.tumblr.com/rss "Queer"
 http://sexgeek.wordpress.com/feed/ "Queer"
 https://replikradicale.wordpress.com/feed/ "Queer"
 http://www.minorites.org/index.php/7-flux-rss-breves.html "Queer"
@@ -67,8 +66,8 @@ https://furrywritersguild.com/rss.xml "Furry"
 https://ricochet.media/fr/fil "Actu"
 http://feeds.feedburner.com/d0od "Linux"
 http://feeds2.feedburner.com/webupd8 "Linux"
-https://planet.kde.org/rss20.xml Linux KDE
-https://dot.kde.org/rss.xml Linux KDE
+#https://planet.kde.org/rss20.xml Linux
+#https://dot.kde.org/rss.xml Linux
 https://www.archlinux.org/feeds/news/ Linux "Arch Linux"
 https://www.neomutt.org/feed.xml Linux
 https://zedshaw.com/feed/ Programmation
@@ -79,10 +78,48 @@ https://voir.ca/jean-felix-chenier/feed/ Actu
 https://voir.ca/pierre-luc-senecal/feed/ Musique
 https://voir.ca/cherchernoise/feed/ Musique
 https://voir.ca/pierre-yves-mcsween/feed/ Actu
-https://voir.ca/cyberboom/feed/ Actu
+#https://voir.ca/cyberboom/feed/ Actu
 http://iris-recherche.qc.ca/blogue/feed "Économie Politique"
 http://www.journaldemontreal.com/blogues/iris/rss.xml Actu
 http://www.journaldemontreal.com/blogues/leo-paul-lauzon/rss.xml Actu
 http://www.journaldemontreal.com/blogues/catherine-dorion/rss.xml Actu
 http://www.journaldemontreal.com/blogues/josee-legault/rss.xml Actu
 http://geekographie.maieul.net/spip.php?page=backend Latex
+http://lunduke.com/feed/ Linux
+http://feeds.feedburner.com/FreedomPenguin Linux
+https://www.youtube.com/feeds/videos.xml?user=gotbletu CLI Youtube
+https://www.youtube.com/feeds/videos.xml?user=AwakenWithJP Humour Youtube
+https://www.youtube.com/feeds/videos.xml?user=ChrisWereDigital Linux Youtube
+https://www.youtube.com/feeds/videos.xml?user=BrianLunduke Linux Youtube
+https://www.youtube.com/feeds/videos.xml?user=JamesNintendoNerd Gaming Youtube
+https://www.youtube.com/feeds/videos.xml?user=ICARUSLIV3S Gaming Youtube
+https://www.youtube.com/feeds/videos.xml?user=phreakindee Gaming Youtube
+https://www.youtube.com/feeds/videos.xml?user=SGtMarkIV Gaming Youtube
+https://www.youtube.com/feeds/videos.xml?user=BadEditPro Linux Youtube
+https://www.youtube.com/feeds/videos.xml?user=JtheLinuxguy Linux Youtube
+https://www.youtube.com/feeds/videos.xml?user=connermcd CLI Youtube
+https://www.youtube.com/feeds/videos.xml?user=kaihendrai CLI Youtube
+https://www.youtube.com/feeds/videos.xml?user=criticalears2012 Musique Youtube
+https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?user=DNewsChannel Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?user=scishow Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?user=scishowspace Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?user=sexplanations Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?user=BlackoutMusicNL Musique Youtube
+https://www.youtube.com/feeds/videos.xml?user=theneedledrop Musique Youtube
+https://www.youtube.com/feeds/videos.xml?user=PailinsKitchen Cuisine Youtube
+https://www.youtube.com/feeds/videos.xml?user=voxdotcom Actu Youtube
+https://www.youtube.com/feeds/videos.xml?user=FitOnRaw Véganisme Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbJrj3osfxL-U1ZtQ58EH5Q "~Development Methodologies" CLI Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3VWbWk8qDBiF0741izgpQg "~Med School Indiders" Lifestyle Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith" CLI Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXPHFM88IlFn68OmLwtPmZA "~Greg Hurrell" CLI Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcQsDUZiK1GWDcP7BpVO_kw "~Code Cast" CLI Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCSHWqosFfYJY5v2WqbTLhg "~Paf LeGeek" Privacy Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g "~PBS Space Time" Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUdettijNYvLAm4AixZv4RA "~SciShow Psych" Vulgarisation Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCn8V3KNSgDr1Dai77_y8JrQ "~PsychedSubstance" Drogue Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyFUj2oLZ1xkjK4sSUab-jA "~Raisons Sociales" Sociologie Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCi4uPLyx-LRhniBOLo-36bQ "~Wogue" Linux Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvA_wgsX6eFAOXI8Rbg_WiQ "~tutoriaLinux" Code Linux Youtube
+https://viedelicorne.blog/feed/ Humour

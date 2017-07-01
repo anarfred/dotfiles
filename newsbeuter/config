@@ -21,7 +21,7 @@ color info default color240
 
 #notify-xterm yes
 auto-reload yes
-reload-time 30
+reload-time 360 #minutes
 #reload-only-visible-feeds yes
 #suppress-first-reload yes
 #refresh-on-startup no
