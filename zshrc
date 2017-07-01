@@ -128,6 +128,10 @@ source $ZSH/oh-my-zsh.sh
 # Configuration empruntée à Globetu
 #
 # }}}
+# Fasd {{{
+eval "$(fasd --init auto)"
+
+# }}}
 #-------- History {{{
 #------------------------------------------------------
 # get more info: $man zshoptions
