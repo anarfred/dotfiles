@@ -33,11 +33,14 @@ set $alt Mod1
 #font pango: Dejavu Sans Mono for Powerline Regular 9
 #font pango:PragmataPro for Powerline Regular 8
 #font pango:Roboto Regular 8
-font pango:Knack Nerd Font 8
-#font pango:FuraCode NF 8
+#font pango:Knack Nerd Font 8
+font pango:FuraCode NF 9
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
+
+# Sticky
+bindsym $mod+Shift+s sticky toggle
 
 # start a terminal
 # bindsym $mod+Return exec i3-sensible-terminal
@@ -361,8 +364,9 @@ bindsym $mod+Shift+comma	gaps inner current set 10; gaps outer current set 10
 
 bar {
   #font pango:Roboto Regular 8
-  font pango:Knack Nerd Font 8
+  #font pango:Knack Nerd Font 8
   #font pango:Pragmata Pro for Powerline 8
+  font pango:FuraCode NF 9
   colors {
     background $black
     statusline $white
@@ -375,7 +379,7 @@ bar {
   }
   position top
   strip_workspace_numbers yes
-  status_command bumblebee-status -m cmus caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
+  status_command bumblebee-status -m caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
 #disk:root 
   tray_output primary
 }

@@ -31,6 +31,7 @@
 /home/nrfrd/Musique/Jarboe pack/Jarboe - Thirteen Masks/Jarboe_-_Thirteen_masks-07_-_Wooden_idols.mp3
 /home/nrfrd/Musique/Jarboe pack/Jarboe - Thirteen Masks/Jarboe_-_Thirteen_masks-12_-_A_man_of_hate.mp3
 /home/nrfrd/Musique/Melvins/1987 - Oven (7'' single) @160/01 - oven.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Long Sunny (Fairmont Rmx).mp3
 /home/nrfrd/Musique/PrettyLights-BT/Pretty Lights Bonaroo iPod.mp4
 /home/nrfrd/Musique/Psychic TV/Psychic TV - Live/1984 - Paramartha/01 - Southern Comfort-God Star.mp3
 /home/nrfrd/Musique/Psychic TV/Psychic TV - Live/1984 - Paramartha/02 - Unclean-Ov Power.mp3
@@ -229,6 +230,13 @@
 /home/nrfrd/Musique/Thievery Corporation/Thievery Corporation - Lebanese Blonde (Limited Edition)/ 2 вЂў Coming from the Top.mp3
 /home/nrfrd/Musique/Thievery Corporation/Thievery Corporation - Modular Systems/05 Mr. Hrundi's Holiday.mp3
 /home/nrfrd/Musique/Thievery Corporation/Thievery Corporation - Modular Systems/10 Comeback Dub.mp3
+/home/nrfrd/Musique/youtube/Deep & Techno Progressive Special Mix 2016-fhUQJ0EClEI.ogg
+/home/nrfrd/Musique/youtube/Hans Zimmer - Interstellar (Orkidea's Pure Progressive Mix)-jtAmfS9r4JM.ogg
+/home/nrfrd/Musique/youtube/Hernan Cattaneo & Nick Warren - b2b at Never Get Out of The Boat, WMC, Miami 2016-Ghl1krObt4E.m4a
+/home/nrfrd/Musique/youtube/Hernan Cattaneo - Resident 260 (May 2016)-2KZcw9_glfA.ogg
+/home/nrfrd/Musique/youtube/Nine Inch Nails - VEVO Presents - Nine Inch Nails Tension 2013-LBC3NXnN8y4.mp4
+/home/nrfrd/Musique/youtube/Pig & Dan – Essential Mix 2016-Z3pw1v1lRpo.ogg
+/home/nrfrd/Musique/youtube/Robert Babicz - Spring Mix 2016-0f5FNR_KstA.ogg
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/!Others/GamePack - Black Mirror 3 1.20 installer.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Steamgames/R.G. Steamgames - Pro Evolution Soccer 2015 installer.ogg
 /home/nrfrd/Musique/Deadmau5/Project 56/Nice Try Kiddo.mp3
@@ -273,6 +281,7 @@
 /home/nrfrd/Musique/Leviathan/2005 - Blackdeath & Leviathan - Portrait in Scars (Split)/Leviathan - Portrait in Scars (Blackdeath Split) - 08 - derision.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - Warhammer 40000 Kill Team installer.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/Speiler/Spieler - Bionic Commando installer.mp3
+/home/nrfrd/Musique/Nathan Fake - The Sky Was Pink (IKKI Remix).mp3
 /home/nrfrd/Musique/Psychic TV/Psychic TV - Acid (studio 1988-1995)/1988 - Tune In + M.E.S.H. (EPs)/07 - M.E.S.H. (Jackmaster Tab mix).mp3
 /home/nrfrd/Musique/Psychic TV/Psychic TV - Acid (studio 1988-1995)/1988 - Tune In + M.E.S.H. (EPs)/08 - M.E.S.H. (LSD-NRG mix).mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/TALiO/TALiO - Arturia CS-80V v1.1 installer.mp3
@@ -362,12 +371,29 @@
 /home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/07. テレパシー.mp3
 /home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/08. 新しい日の誕生.mp3
 /home/nrfrd/Musique/1000mods/2006-Blank_Reality/01-Dope.mp3
+/home/nrfrd/Musique/1000mods/Blank Reality/01 Dope.mp3
 /home/nrfrd/Musique/1000mods/2006-Blank_Reality/02-4th_Dimension_Time.._.mp3
+/home/nrfrd/Musique/1000mods/Blank Reality/02 4th Dimension Time....mp3
 /home/nrfrd/Musique/1000mods/2006-Blank_Reality/03-Blank_Reality.mp3
+/home/nrfrd/Musique/1000mods/Blank Reality/03 Blank Reality.mp3
 /home/nrfrd/Musique/1000mods/2006-Blank_Reality/04-Boor.mp3
+/home/nrfrd/Musique/1000mods/Blank Reality/04 Boor.mp3
 /home/nrfrd/Musique/1000mods/2006-Blank_Reality/05-Desert_Side_of_Your_Mind.mp3
+/home/nrfrd/Musique/1000mods/Blank Reality/05 Desert Side of Your Mind.mp3
+/home/nrfrd/Musique/1000mods/Liquid Sleep/01 Burnt Sleep.mp3
+/home/nrfrd/Musique/1000mods/Liquid Sleep/02 Liquid Sleep.mp3
 /home/nrfrd/Musique/1000mods/2009-12-01-Liquid_Sleep/01-Burnt_Sleep.mp3
 /home/nrfrd/Musique/1000mods/2009-12-01-Liquid_Sleep/02-Liquid_Sleep.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/01 Road to Burn.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/02 7 Flies.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/03 El Rollito.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/04 Set You Free.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/05 Vidage.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/06 Navy in Alice.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/07 Track Me.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/08 Johny's.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/09 Abell 1835.mp3
+/home/nrfrd/Musique/1000mods/Super Van Vacation/10 Super Van Vacation.mp3
 /home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/01-Road_to_Burn.mp3
 /home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/02-7_Flies.mp3
 /home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/03-El_Rollito.mp3
@@ -378,6 +404,10 @@
 /home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/08-Johny's.mp3
 /home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/09-Abell_1835.mp3
 /home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/10-Super_Van_Vacation.mp3
+/home/nrfrd/Musique/1000mods/Valley of Sand/01 Valley of Sand.mp3
+/home/nrfrd/Musique/1000mods/Valley of Sand/02 7 Flies.mp3
+/home/nrfrd/Musique/1000mods/Valley of Sand/03 Navy in Alice.mp3
+/home/nrfrd/Musique/1000mods/Valley of Sand/04 Track Me.mp3
 /home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/01-Valley_of_Sand.mp3
 /home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/02-7_Flies.mp3
 /home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/03-Navy_in_Alice.mp3
@@ -442,30 +472,51 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/HC4SyriaVol1/19 Together We're Stronger.mp3
 /home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 1 - Burning Season.wma
 /home/nrfrd/Musique/5ive/5ive [2001]/1._5ive_-_5ive_-_Burning_Season.mp3
+/home/nrfrd/Musique/5ive/5ive [2001]/2 - Burning Season.mp3
 /home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 2 - Orange.wma
 /home/nrfrd/Musique/5ive/5ive [2001]/2._5ive_-_5ive_-_Orange.mp3
+/home/nrfrd/Musique/5ive/5ive [2001]/5 - Orange.mp3
 /home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 3 - The Baron.wma
 /home/nrfrd/Musique/5ive/5ive [2001]/3._5ive_-_5ive_-_The_Baron.mp3
+/home/nrfrd/Musique/5ive/5ive [2001]/6 - The Baron.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/4._5ive_-_5ive_-_Jules_Verne_s_Dream.mp3
+/home/nrfrd/Musique/5ive/5ive [2001]/4 - Jules Verne s Dream.mp3
 /home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 4 - Jules Vernes' Dream.wma
 /home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 5 - Bicycle Rider.wma
+/home/nrfrd/Musique/5ive/5ive [2001]/1 - Bicycle Rider.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/5._5ive_-_5ive_-_Bicycle_Rider.mp3
 /home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 6  -Cerrado.wma
+/home/nrfrd/Musique/5ive/5ive [2001]/3 - Cerrado.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/6._5ive_-_5ive_-_Cerrado.mp3
+/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/01 - Stockholm Blues.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/01 Stockholm Blues.mp3
+/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/02 - Nitinol.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/02 Nitinol.mp3
+/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/03 - Shark Dreams.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/03 Shark Dreams.mp3
+/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/04 - Synapse X 3- Sleep for the Larsen B Shelf-Telluric in Transudate-I.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/04 Synapse X 3- Sleep for the Larsen B Shelf-Telluric in Transudate-I.mp3
+/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/05 - Synapse X 3- Telluric in Transudate.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/05 Synapse X 3- Telluric in Transudate.mp3
+/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/06 - Synapse X 3- Comae.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/06 Synapse X 3- Comae.mp3
+/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/1 - Stockholm Blues.mp3
 /home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 1 - Stockholm Blues.mp3
+/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/2 - Nitinol.mp3
 /home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 2 - Nitinol.mp3
+/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/3 - Shark Dreams.mp3
 /home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 3 - Shark Dreams.mp3
+/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/4 - Synapse X 3 - A. Sleep For The Larsen B Shelf.mp3
 /home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 4 - Synapse X 3 - A. Sleep For The Larsen B Shelf.mp3
 /home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 5 - Synapse X 3 - B. Telluric In Transudate.mp3
+/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5 - Synapse X 3 - B. Telluric In Transudate.mp3
 /home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 6 - Synapse X 3 - C. Comae.mp3
+/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/6 - Synapse X 3 - C. Comae.mp3
+/home/nrfrd/Musique/5ive/Versus (EP) [2004]/01 Soma.mp3
 /home/nrfrd/Musique/5ive/Versus (EP) [2004]/01-Soma.mp3
+/home/nrfrd/Musique/5ive/Versus (EP) [2004]/02 Reso-I.mp3
 /home/nrfrd/Musique/5ive/Versus (EP) [2004]/02-Reso-I.mp3
+/home/nrfrd/Musique/5ive/Versus (EP) [2004]/03 Man Or Maker....mp3
 /home/nrfrd/Musique/5ive/Versus (EP) [2004]/03-Man Or Maker....mp3
 /home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/04 - 5ive - Soma.mp3
 /home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/05 - 5ive - Reso I.mp3
@@ -473,20 +524,36 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/5ive/(2006) Versus/5IVE - versus - 2 - Soma.wma
 /home/nrfrd/Musique/5ive/(2006) Versus/5IVE - versus - 3 - Soma [Remix by JK Broadrick].wma
 /home/nrfrd/Musique/5ive/Hesperus [2008]/1._5ive_-_Hesperus_-_Gulls.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/1 - Gulls.mp3
 /home/nrfrd/Musique/5ive/Hesperus [2008]/2._5ive_-_Hesperus_-_Big_Sea.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/2 - Big Sea.mp3
 /home/nrfrd/Musique/5ive/Hesperus [2008]/3._5ive_-_Hesperus_-_Kettle_Cove.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/3 - Kettle Cove.mp3
 /home/nrfrd/Musique/5ive/Hesperus [2008]/5._5ive_-_Hesperus_-_Polar_78.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/5 - Polar 78.mp3
 /home/nrfrd/Musique/5ive/Hesperus [2008]/6._5ive_-_Hesperus_-_News_I.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/6 - News I.mp3
 /home/nrfrd/Musique/5ive/Hesperus [2008]/7._5ive_-_Hesperus_-_News_II.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/7 - News II.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/1 - Gulls.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 1 - Gulls.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/2 - Big Sea.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 2 - Big Sea.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/3 - Kettle Cove.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 3 - Kettle Cove.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/4 - Heel.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 4 - Heel.mp3
 /home/nrfrd/Musique/5ive/Hesperus [2008]/4._5ive_-_Hesperus_-_Heel.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/4 - Heel.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 5 - Polar 78.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/5 - Polar 78.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 6 - News Ⅰ.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/6 - News Ⅰ.mp3
 /home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 7 - News Ⅱ.mp3
+/home/nrfrd/Musique/5ive/(2008) Hesperus/7 - News Ⅱ.mp3
+/home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/01 The Hemophiliac Dream - Part I.mp3
 /home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/01-The Hemophiliac Dream - Part I.mp3
+/home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/02 The Hemophiliac Dream - Part II.mp3
 /home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/02-The Hemophiliac Dream - Part II.mp3
 /home/nrfrd/Musique/2005 - One Time For All Time/01 - Drove Through Ghosts To Get Here.flac
 /home/nrfrd/Musique/2005 - One Time For All Time/02 - Await Rescue.flac
@@ -510,21 +577,38 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/The Destruction Of Small Ideas/11 White Peak,Dark Peak.mp3
 /home/nrfrd/Musique/The Destruction Of Small Ideas/12 The Conspiracy of Seeds.mp3
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/01 - 65daysofstatic - Mountainhead.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/01 - Mountainhead.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/02 - 65daysofstatic - Crash tactics.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/02 - Crash tactics.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/03 - 65daysofstatic - Dance dance dance.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/03 - Dance dance dance.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/04 - 65daysofstatic - Piano Fights.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/04 - Piano Fights.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/05 - 65daysofstatic - Weak4.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/05 - Weak4.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/06 - 65daysofstatic - Come to me.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/06 - Come to me.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/07 - 65daysofstatic - Go Complex.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/07 - Go Complex.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/08 - 65daysofstatic - Debutante.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/08 - Debutante.flac
 /home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/09 - 65daysofstatic - Tiger Girl.flac
+/home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/09 - Tiger Girl.flac
+/home/nrfrd/Musique/65daysofstatic/Wild Light/01 - 65Daysofstatic - Heat Deathn Infinity Splitter.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/01 - 65Daysofstatic - Heat Deathn Infinity Splitter.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/02 - 65Daysofstatic - Prisms.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/02 - 65Daysofstatic - Prisms.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/03 - 65Daysofstatic - The Undertow.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/03 - 65Daysofstatic - The Undertow.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/04 - 65Daysofstatic - Blackspots.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/04 - 65Daysofstatic - Blackspots.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/05 - 65Daysofstatic - Sleepwalk City.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/05 - 65Daysofstatic - Sleepwalk City.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/06 - 65Daysofstatic - Taipei.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/06 - 65Daysofstatic - Taipei.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/07 - 65Daysofstatic - Unmake The Wild Light.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/07 - 65Daysofstatic - Unmake The Wild Light.mp3
+/home/nrfrd/Musique/65daysofstatic/Wild Light/08 - 65Daysofstatic - Safe Passage.mp3
 /home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/08 - 65Daysofstatic - Safe Passage.mp3
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2013 - [MCEP022] - 7 Minutes Dead - 7 Minutes Dead EP/01. 7 Minutes Dead - Sidewinder.flac
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2013 - [MCEP022] - 7 Minutes Dead - 7 Minutes Dead EP/02. 7 Minutes Dead - The Follower.flac
@@ -1551,43 +1635,81 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/ALICE IN CHAINS - DISCOGRAPHY [CHANNEL NEO]/[2013] The Devil Put Dinosaurs Here/11 - Hung On A Hook.mp3
 /home/nrfrd/Musique/ALICE IN CHAINS - DISCOGRAPHY [CHANNEL NEO]/[2013] The Devil Put Dinosaurs Here/12 - Choke.mp3
 /home/nrfrd/Musique/NOISIA (NET)/Other/Alix Perez Feat. Noisia - Loose Ends.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/01 Catamaran.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/01 Catamaran.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/02 Don't You Forget It.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/02 Don't You Forget It.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/03 Busman's Holiday.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/03 Busman's Holiday.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/04 Sacred Sands.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/04 Sacred Sands.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/05 No Voodoo.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/05 No Voodoo.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/06 Sandy.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/06 Sandy.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/07 Ela Navega.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/07 Ela Navega.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/08 Tell Me (What's On Your Mind).mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/08 Tell Me (What's On Your Mind).mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/09 Catalina.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/09 Catalina.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/10 Vis-A-Vis.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/10 Vis-A-Vis.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/11 Seven Point Five.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/11 Seven Point Five.mp3
+/home/nrfrd/Musique/Allah-Las/Allah-Las/12 Long Journey.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/12 Long Journey.mp3
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/01 - De Vida Voz.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/01 - De Vida Voz.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/02 - Had It All.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/02 - Had It All.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/03 - Artifact.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/03 - Artifact.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/04 - Ferus Gallery.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/04 - Ferus Gallery.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/05 - Recurring.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/05 - Recurring.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/06 - Nothing To Hide.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/06 - Nothing To Hide.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/07 - Buffalo Nickel.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/07 - Buffalo Nickel.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/08 - Follow You Down.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/08 - Follow You Down.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/09 - 501-415.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/09 - 501-415.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/10 - Yemeni Jade.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/10 - Yemeni Jade.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/11 - Worship The Sun.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/11 - Worship The Sun.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/12 - Better Than Mine.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/12 - Better Than Mine.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/13 - No Werewolf.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/13 - No Werewolf.flac
+/home/nrfrd/Musique/Allah-Las/Worship The Sun/14 - Every Girl.flac
 /home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/14 - Every Girl.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/01 - Strange Heat.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/01 - Strange Heat.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/02 - Satisfied.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/02 - Satisfied.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/03 - Could Be You.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/03 - Could Be You.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/04 - High & Dry.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/04 - High & Dry.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/05 - Mausoleum.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/05 - Mausoleum.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/06 - Roadside Memorial.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/06 - Roadside Memorial.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/07 - Autumn Dawn.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/07 - Autumn Dawn.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/08 - Famous Phone Figure.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/08 - Famous Phone Figure.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/09 - 200 South La Brea.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/09 - 200 South La Brea.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/10 - Warmed Kippers.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/10 - Warmed Kippers.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/11 - Terra Ignota.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/11 - Terra Ignota.flac
+/home/nrfrd/Musique/Allah-Las/Calico Review/12 - Place In The Sun.flac
 /home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/12 - Place In The Sun.flac
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - Grand Theft Auto V installer.mp3
 /home/nrfrd/Musique/Nesir/All the Cold/2009 - One Year of Cold/All the Cold - Last Winter.mp3
@@ -5564,6 +5686,7 @@ cue:///home/nrfrd/Musique/Carpathian Forest/08-Fuck You All !!!! 2006/Carpathian
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/01 - The Incorrigible Flame.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/02 - Warbots A.M..mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/02 - Warbots A.M..mp3
+/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/03 - Abraxas Of Filth.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/03 - Abraxas of Filth.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/03 - Abraxas Of Filth.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/04 - Pure Horses.mp3
@@ -5574,18 +5697,22 @@ cue:///home/nrfrd/Musique/Carpathian Forest/08-Fuck You All !!!! 2006/Carpathian
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/06 - Raped By An Orb.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/07 - P.G.A.D..mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/07 - P.G.A.D..mp3
+/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/08 - Dimensional Modulation Transmo.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/08 - Dimensional Modulation Transmo.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/08 - Dimensional Modulation Transmogra.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/09 - Ohrwurm.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/09 - Ohrwurm.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/10 - When I Arrive.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/10 - When I Arrive.mp3
+/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/11 - A King And A Thief.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/11 - A King And A Thief.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/11 - Power And Force.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/12 - A King And A Thief .mp3
+/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/12 - Power And Force.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/12 - Power And Force.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/13 - Repangaea.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/13 - Repangaea.mp3
+/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/14 - Aeyeucgh!.mp3
 /home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/14 - Aeyeucgh!.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. REVOLUTiON/R.G. REVOLUTiON - Survivors Viy installer.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/Speiler/Spieler - Singularity(TM) installer.mp3
@@ -6376,6 +6503,35 @@ cue:///home/nrfrd/Musique/Carpathian Forest/08-Fuck You All !!!! 2006/Carpathian
 /home/nrfrd/Musique/El-P/Company Flow (2 Albums)/Little Johnny from the Hospitul/Company Flow - World of Garbage.mp3
 /home/nrfrd/Musique/El-P/Company Flow (2 Albums)/Little Johnny from the Hospitul/Company Flow - Blackout.mp3
 /home/nrfrd/Musique/El-P/Company Flow (2 Albums)/Little Johnny from the Hospitul/Company Flow - Happy Happy Joy Kill.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/01 Megumi the Milkway Above.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/02 It's Choade My Dear.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/03 Faking Jazz Together.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/04 Quadropuss Island.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/05 Forever Dolphin Love.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/06 Muss.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/07 Egon Hosford.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/08 Unicorn in Uniform.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/09 Granpa Moff.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/10 Please Turn Me into the Snat.mp3
+/home/nrfrd/Musique/Forever Dolphin Love/11 Megumi the Milkyway Above (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/12 It's Choade My Dear (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/13 Faking Jazz Together (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/14 Egon Hosford (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/15 Unicorn in Uniform (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/16 Forever Dolphin Love (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/17 Sneaky Sneaky Dogfriend (Live).mp3
+/home/nrfrd/Musique/Forever Dolphin Love/01 Forever Dolphin Love (Erol Alkan Rework).mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/01 - Nothing Lasts Forever.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/02 - Caramel.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/03 - I'm The Man, That Will Find You.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/04 - Do I Make You Feel Shy.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/05 - Why Are You Crying.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/06 - It's Your Body 1.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/07 - It's Your Body 2.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/08 - It's Your Body 3.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/09 - It's Your Body 4.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/10 - It's Your Body 5.mp3
+/home/nrfrd/Musique/Connan Mockasin - Caramel (2013)/11 - I Wanna Roll With You.mp3
 /home/nrfrd/Musique/Converge/Converge - 1994 - Halo In A Haystack/01 - Shallow Breathing.mp3
 /home/nrfrd/Musique/Converge/Converge - 1994 - Halo In A Haystack/02 - I Abstain.mp3
 /home/nrfrd/Musique/Converge/Converge - 1994 - Halo In A Haystack/03 - Two Day Romance.mp3
@@ -10862,18 +11018,48 @@ cue:///home/nrfrd/Musique/EPHEL DUATH/2009. Through My Dog's Eyes/Ephel Duath - 
 /home/nrfrd/Musique/The Future Sound of London/Albums/(1995) ISDN/13 Amoeba.flac
 /home/nrfrd/Musique/The Future Sound of London/Albums/(1995) ISDN/14 A Study of Six Guitars.flac
 /home/nrfrd/Musique/The Future Sound of London/Albums/(1995) ISDN/15 Snake Hips.flac
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2010 - Olympians/01 - Olympians (Radio Edit).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2010 - Olympians/02 - Olympians.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2010 - Olympians/03 - Olympians (Spaceman vs. The Olympians Remix).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2010 - Olympians/04 - Rough Steez (White Hot Heat Remix).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2006 - Let's See If There Are Any Ghosts In Here, Yeah!/01 - Let's See If There Are Any Ghosts In Here, Yeah.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2007 - Bright Tomorrow/01 - Bright Tomorrow.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2007 - Bright Tomorrow/02 - Bloody Little Shoulder.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2007 - Sweet Love For Planet Earth EP/01 - Sweet Love For Planet Earth.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2007 - Sweet Love For Planet Earth EP/02 - Colours Move.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2008 - Colours Move/01 - Colours Move (Radio Edit).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2008 - Colours Move/02 - Colours Move.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2008 - Colours Move/03 - Sweet Love for Planet Earth (Andrew Weatherall Remix).mp3
 cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/Fuck Buttons . 2008 . Street Horrrsing.cue/1
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2008 - Street Horrrsing/01 - Sweet Love for Planet Earth.mp3
 cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/Fuck Buttons . 2008 . Street Horrrsing.cue/2
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2008 - Street Horrrsing/02 - Ribs Out.mp3
 cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/Fuck Buttons . 2008 . Street Horrrsing.cue/3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2008 - Street Horrrsing/03 - Okay, Let's Talk About Magic.mp3
 cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/Fuck Buttons . 2008 . Street Horrrsing.cue/4
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2008 - Street Horrrsing/04 - Race You to my Bedroom - Spirit Rise.mp3
 cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/Fuck Buttons . 2008 . Street Horrrsing.cue/5
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2008 - Street Horrrsing/05 - Bright Tomorrow.mp3
 cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/Fuck Buttons . 2008 . Street Horrrsing.cue/6
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2008 - Street Horrrsing/06 - Colours Move.mp3
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/01 - Sweet Love for Planet Earth.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/02 - Ribs Out.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/03 - Okay, Let's Talk About Magic.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/04 - Race You to my Bedroom _ Spirit Rise.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/05 - Bright Tomorrow.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2008]  Street Horrrsing/06 - Colours Move.flac
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2009 - Surf Solar/01 - Surf Solar (7' Edit).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2009 - Surf Solar/02 - New Crossbow.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/01 - Surf Solar.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/02 - Rough Steez.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/03 - The Lisbon Maru.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/04 - Olympians.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/05 - Phantom Limb.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/06 - Space Mountain.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 1/07 - Flight of the Feathered Serpent.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 2/01 - Surf Solar (7 inch Edit).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 2/02 - New Crossbow.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2009 - Tarot Sport (Rough Trade Bonus Disc Edition)/CD 2/03 - Sweet Love For Planet Earth (Andrew Weatherall Remix).mp3
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2009]  Tarot Sport/01 Fuck Buttons - Surf Solar.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2009]  Tarot Sport/02 Fuck Buttons - Rough Steez.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2009]  Tarot Sport/03 Fuck Buttons - The Lisbon Maru.flac
@@ -10881,6 +11067,17 @@ cue:///home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [Code
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2009]  Tarot Sport/05 Fuck Buttons - Phantom Limb.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2009]  Tarot Sport/06 Fuck Buttons - Space Mountain.flac
 /home/nrfrd/Musique/Fuck Buttons/Fuck Buttons [Studio Albums] [FLAC] [CodeTempest]/[DISCS]/[2009]  Tarot Sport/07 Fuck Buttons - Flight Of The Feathered Serpent.flac
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2013 - Brainfreeze/01 - Brainfreeze.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2013 - Brainfreeze/02 - Royal Flush.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/01 - Brainfreeze.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/02 - Year of the Dog.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/03 - The Red Wing.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/04 - Sentients.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/05 - Prince's Prize.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/06 - Stalker.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Albums/Fuck Buttons - 2013 - Slow Focus/07 - Hidden XS.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2013 - The Red Wing/01 - The Red Wing.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Fuck Buttons - 2013 - The Red Wing/02 - The Whip.mp3
 /home/nrfrd/Musique/2002 - Escunta/01 - Ottawa.mp3
 /home/nrfrd/Musique/2002 - Escunta/02 - My Revenge.mp3
 /home/nrfrd/Musique/2002 - Escunta/03 - Shoes = Power.mp3
@@ -11780,13 +11977,21 @@ cue:///home/nrfrd/Musique/Godspeed You! Black Emperor/Godspeed You! Black Empero
 /home/nrfrd/Musique/Hala Strana/Heave the Gambrel Roof/B4. Molars of Smoke.mp3
 /home/nrfrd/Musique/Hala Strana/Heave the Gambrel Roof/B5. The Loss of What We Keep.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/01 - ultra cocker.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/01 - ultra cocker.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/02 - power cock.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/02 - power cock.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/03 Domination in Spunked Cock.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/03 Domination in Spunked Cock.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/04 Megaton Cock.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/04 Megaton Cock.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/05 Cock Combat.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/05 Cock Combat.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/06 Cock Victory.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/06 Cock Victory.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/07 Cock Rising & Hunging Cock.mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/07 Cock Rising & Hunging Cock.mp3
 /home/nrfrd/Musique/1985-Hanatarashi/08 Cock E.S.P..mp3
+/home/nrfrd/Musique/Hanatarashi/Hanatarashi/08 Cock E.S.P..mp3
 /home/nrfrd/Musique/1989-3-William Bennet Has No Dick/01 god-noise-god.mp3
 /home/nrfrd/Musique/1989-3-William Bennet Has No Dick/02 sound bound.mp3
 /home/nrfrd/Musique/1989-3-William Bennet Has No Dick/03  no yard.mp3
@@ -15544,6 +15749,8 @@ cue:///home/nrfrd/Musique/Mkaio/Mkaio [A Far Off Horizon] [FLAC] [CodeTempest]/M
 /home/nrfrd/Musique/Moby - Star Mark Greatest Hits 2CD (2008) [FLAC] vtwin88cube/Disc 2/19.Move (You Make Me Feel So Good).flac
 /home/nrfrd/Musique/Moby - Star Mark Greatest Hits 2CD (2008) [FLAC] vtwin88cube/Disc 2/20.Stay.flac
 /home/nrfrd/Musique/Melvins/2007 - A.P.O.D. Tour Singles @160/03 Drunken Paddy.mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Mogwai & Fuck Buttons - 2008 - Tour EP/01 - Mogwai - Colours Move (Shibuya Drunk Mix).mp3
+/home/nrfrd/Musique/Fuck Buttons/Fuck Buttons/Singles & EPs/Mogwai & Fuck Buttons - 2008 - Tour EP/02 - Fuck Buttons - Mogwai Fear Satan.mp3
 /home/nrfrd/Musique/Montren/Montren [Prologue, ep] [FLAC] [CodeTempest]/01  Prologue.flac
 /home/nrfrd/Musique/Montren/Montren [Prologue, ep] [FLAC] [CodeTempest]/02  Your Dream.flac
 /home/nrfrd/Musique/Montren/Montren [Prologue, ep] [FLAC] [CodeTempest]/03  Untill.flac
@@ -16105,6 +16312,17 @@ cue:///home/nrfrd/Musique/My Life with the Thrill Kill Kult/MLWTTKK [studio albu
 /home/nrfrd/Musique/Napalm Death/Napalm Death - Apex Predator - Easy Meat/12-napalm_death-hierarchies.mp3
 /home/nrfrd/Musique/Napalm Death/Napalm Death - Apex Predator - Easy Meat/13-napalm_death-one-eyed.mp3
 /home/nrfrd/Musique/Napalm Death/Napalm Death - Apex Predator - Easy Meat/14-napalm_death-adversarialcopulating_snakes.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Stops.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Grandfathered.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Charlies' House.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Bumblechord.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Superpositions.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Bawsey.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - The Sky Was Pink.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - You Are Here.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Falmer.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Long Sunny.mp3
+/home/nrfrd/Musique/Nathan Fake - Drowning In a Sea of Love/Nathan Fake - Fell.mp3
 /home/nrfrd/Musique/Burial/Unreleased/Stairwell 1.mp3
 /home/nrfrd/Musique/Neat Beats - Cosmic Surgery [2011] [Album]/01 Graffiti on a Tuesday Night.mp3
 /home/nrfrd/Musique/Neat Beats - Cosmic Surgery [2011] [Album]/02 Why Would We Need Brakes_.mp3
@@ -17198,6 +17416,28 @@ cue:///home/nrfrd/Musique/My Life with the Thrill Kill Kult/MLWTTKK [studio albu
 /home/nrfrd/Musique/Nosaj Thing/Nosaj Thing - Drift/11-Voices.mp3
 /home/nrfrd/Musique/Nosaj Thing/Nosaj Thing - Drift/12-Lords.mp3
 /home/nrfrd/Musique/Thievery Corporation/Thievery Corporation - Versions - La Corporacion/Nouvelle Vague - This Is Not A Love Song.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/01 Angus Mountian.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/02 Office Sluts.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/03 Highnote.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/04 Transmission from the moon.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/05 Alexa Wait.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/06 Tension.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/07 Are We Friends.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/08 Boingo.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/09 Breathing Hard.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/10 Mr Smith.mp3
+/home/nrfrd/Musique/Odonis Odonis/2010 - Soft Boiled Hard Boiled/11 Order in the Court.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/01. Hollandaze.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/02. Busted Lip.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/03. White Flag Riot.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/04. Blood Feast.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/05. Seedgazer.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/06. New World.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/07. Handle Bars.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/08. Basic Training.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/09. We Are The Left Overs.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/10. Ledged Up.mp3
+/home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/11. Tick Tock.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - Lara Croft and the Temple of Osiris installer.mp3
 /home/nrfrd/Musique/HC4SyriaVol1/01 Borrow and Bomb.mp3
 /home/nrfrd/Musique/Immortal/Old funeral - The older ones (1999)/01 Abduction of limbs.mp3
@@ -22302,6 +22542,14 @@ cue:///home/nrfrd/Musique/Sleigh Bells/Sleigh Bells [Studio Albums] [FLAC] [Code
 /home/nrfrd/Musique/NOISIA (NET)/2011_Mau5trap_Recordings-Sofi_and_Noisia-MAU5044/01-sofi-bring_out_the_devil_(original_mix).mp3
 /home/nrfrd/Musique/NOISIA (NET)/2011_Mau5trap_Recordings-Sofi_and_Noisia-MAU5044/02-sofi-bring_out_the_devil_(acapella).mp3
 /home/nrfrd/Musique/NOISIA (NET)/2011_Mau5trap_Recordings-Sofi_and_Noisia-MAU5044/03-sofi_and_noisia-again_sometime_(extended_mix).mp3
+/home/nrfrd/Musique/Soft hair/05. Lying Has To Stop.mp3
+/home/nrfrd/Musique/Soft hair/01 Relaxed Lizard.mp3
+/home/nrfrd/Musique/Soft hair/02 Jealous Lies.mp3
+/home/nrfrd/Musique/Soft hair/03 i.v..mp3
+/home/nrfrd/Musique/Soft hair/04 A Goood Sign.mp3
+/home/nrfrd/Musique/Soft hair/06 In Love.mp3
+/home/nrfrd/Musique/Soft hair/07 Alive Without Medicine.mp3
+/home/nrfrd/Musique/Soft hair/08 l.i.v..mp3
 cue:///home/nrfrd/Musique/Sokpb Avabodha/Sokpb Avabodha [Спонтанная...] [FLAC] [CodeTempest]/image.cue/1
 cue:///home/nrfrd/Musique/Sokpb Avabodha/Sokpb Avabodha [Спонтанная...] [FLAC] [CodeTempest]/image.cue/2
 cue:///home/nrfrd/Musique/Sokpb Avabodha/Sokpb Avabodha [Спонтанная...] [FLAC] [CodeTempest]/image.cue/3

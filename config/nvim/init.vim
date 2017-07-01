@@ -332,6 +332,31 @@ inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 " Gundo {{{
 nnoremap <leader>G :GundoToggle<CR>
 " }}}
+" Limelight {{{
+" Color name (:help cterm-colors) or ANSI code
+let g:limelight_conceal_ctermfg = 'gray'
+let g:limelight_conceal_ctermfg = 240
+
+" Color name (:help gui-colors) or RGB color
+let g:limelight_conceal_guifg = 'DarkGray'
+let g:limelight_conceal_guifg = '#777777'
+
+" Default: 0.5
+let g:limelight_default_coefficient = 0.7
+
+" Number of preceding/following paragraphs to include (default: 0)
+let g:limelight_paragraph_span = 1
+
+" Beginning/end of paragraph
+"   When there's no empty line between the paragraphs
+"   and each paragraph starts with indentation
+let g:limelight_bop = '^\s'
+let g:limelight_eop = '\ze\n^\s'
+
+" Highlighting priority (default: 10)
+"   Set it to -1 not to overrule hlsearch
+let g:limelight_priority = -1
+" }}}
 " Goyo + Limelight {{{
 nnoremap <leader>g :Goyo<CR>
 autocmd! User GoyoEnter Limelight
@@ -451,21 +476,21 @@ let g:gammalecte_disable_rules = ""
 
 let g:promptline_powerline_symbols = 1
 let g:promptline_theme='airline'
-let g:promptline_symbols = {
-    \ 'left'       : '\uE0BC',
-    \ 'left_alt'   : '\uE0BD',
-    \ 'dir_sep'    : ' / ',
-    \ 'truncation' : '...',
-    \ 'vcs_branch' : '',
-    \ 'space'      : ' '}
-let g:promptline_preset={
-	\'a': [ promptline#slices#user(), promptline#slices#host({'only_if_ssh': 1}) ],
-	\'b': [ promptline#slices#cwd() ],
-	\'c': [ promptline#slices#vcs_branch(), promptline#slices#git_status() ],
-	\'warn': [ promptline#slices#last_exit_code() ],
-	\'options': {
-		\'left_sections': [ 'a', 'c' ],
-		\'left_only_sections': [ 'a', 'c' ]}}
+" let g:promptline_symbols = {
+"     \ 'left'       : '\uE0BC',
+"     \ 'left_alt'   : '\uE0BD',
+"     \ 'dir_sep'    : ' / ',
+"     \ 'truncation' : '...',
+"     \ 'vcs_branch' : '',
+"     \ 'space'      : ' '}
+" let g:promptline_preset={
+" 	\'a': [ promptline#slices#user(), promptline#slices#host({'only_if_ssh': 1}) ],
+" 	\'b': [ promptline#slices#cwd() ],
+" 	\'c': [ promptline#slices#vcs_branch(), promptline#slices#git_status() ],
+" 	\'warn': [ promptline#slices#last_exit_code() ],
+" 	\'options': {
+" 		\'left_sections': [ 'a', 'c' ],
+" 		\'left_only_sections': [ 'a', 'c' ]}}
 
 " }}}
 " Thème (doit rester à la fin pour le colorscheme){{{

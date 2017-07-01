@@ -1,3 +1,5 @@
+add ~/Musique
+add Musique/
 set status_display_program=/home/nrfrd/.config/cmus/status_display_program.sh
 save
 set status_display_program=/home/nrfrd/.cmus/status_display_program.sh
@@ -5,7 +7,6 @@ set status_display_program=cmus_status.py
 colorscheme gruvbox
 help
 h
-add Musique/
 add ~/~~/Musique
 colorscheme tomorrow
 set rewind_offset=-1
