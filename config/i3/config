@@ -34,7 +34,8 @@ set $alt Mod1
 #font pango:PragmataPro for Powerline Regular 8
 #font pango:Roboto Regular 8
 #font pango:Knack Nerd Font 8
-font pango:FuraCode NF 9
+#font pango:FuraCode NF 9
+font pango:Fira Mono 9
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -366,7 +367,8 @@ bar {
   #font pango:Roboto Regular 8
   #font pango:Knack Nerd Font 8
   #font pango:Pragmata Pro for Powerline 8
-  font pango:FuraCode NF 9
+  #font pango:FuraCode NF 9
+  font pango:Fira Mono 9
   colors {
     background $black
     statusline $white
@@ -378,6 +380,7 @@ bar {
     binding_mode       #2f343a #900000 #ffffff
   }
   position top
+  hidden_state hide
   strip_workspace_numbers yes
   status_command bumblebee-status -m caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
 #disk:root 

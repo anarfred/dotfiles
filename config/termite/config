@@ -51,8 +51,10 @@ color21 = #ebdbb2
 #font = ProFontWindows Nerd Font 10
 #font = MesloLGS Nerd Font 8
 #font = Knack Nerd Font 8
-#font = Fira Mono 8
-font = FuraCode NF 9
+font = Fira Mono 9
+#font = DejaVu Sans Mono 9
+#font = FuraCode NF 9
+#font   FuraMonoForPowerline NF 9
 #font = UbuntuMono Nerd Font 9
 #font = Profont for Powerline 9
 

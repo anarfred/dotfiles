@@ -19,7 +19,7 @@ fi
 #export DE=xfce
 #nitrogen --restore &
 #transmission-daemon &
-setxkbmap ca fr
+setxkbmap ca fr -option compose:caps
 #export XDG_CURRENT_DESKTOP="KDE" 
 #export KDE_SESSION_VERSION="5"
 #guake &

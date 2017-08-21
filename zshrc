@@ -128,6 +128,9 @@ source $ZSH/oh-my-zsh.sh
 # Configuration empruntée à Globetu
 #
 # }}}
+# ---------- Newspaper {{{
+export MERCURY_API_KEY="OUAEW8wdGLzakecJtTZiGDDNdwiRrvYgFa66WdZv"
+# }}}
 # Fasd {{{
 eval "$(fasd --init auto)"
 

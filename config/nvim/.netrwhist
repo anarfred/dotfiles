@@ -1,7 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/nrfrd/dotfiles/config/qutebrowser/qsettings'
 let g:netrw_dirhist_2='/home/nrfrd/dotfiles/config/qutebrowser'
 let g:netrw_dirhist_3='/home/nrfrd/dotfiles/config/qutebrowser/bookmarks'
 let g:netrw_dirhist_4='/home/nrfrd/dotfiles/config/qutebrowser'
 let g:netrw_dirhist_5='/home/nrfrd/dotfiles/newsbeuter'
+let g:netrw_dirhist_6='/home/nrfrd/Archives/bin/rofi-bibbrowser'

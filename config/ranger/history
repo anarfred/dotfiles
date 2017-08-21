@@ -1,3 +1,16 @@
+open_with exec
+cd .Samael
+cd  .samael
+cd .samael
+find .confi
+find wall
+find Dow
+find f
+filter fzf
+open_with 
+find inde
+rename glitch1.jpg
+search news
 find gpg
 filter m
 find .sa
@@ -16,35 +29,22 @@ open_with okular &
 open_with mupdf
 open_with zathura
 rename bourses.pdf
-chmod -x
-fasd master
-find arch
-rename Blais_preparer_une_demande_de_bourses.pdf
-rename Obear_comportements_communs_des_blanches.pdf
-rename Chacon_progit.pdf
-rename Easton_the_new_bottoming_book.pdf
-rename Easton_the_new_topping_book.pdf
-rename VanHoutven_crypto101.pdf
-rename Hecmontreal_respecter_le_discours_scientifique.doc
-rename Thurnherr_latex_document_class_options.pdf
-rename Markey_tame_the_beast.pdf
-rename VanOostrum_page_layout_in_latex.pdf
-rename BaillyBechet_usage_avance_de_latex_et_beamer.pdf
-rename Masson_biblatex_explique_a_mademoiselle_michu.pdf
-rename Shotts_the_linux_command_line.pdf
-rename unknown_quest_ce_que_le_lojban.pdf
-open_with nvim
-rename Tim_wget_a_noobs_guide.pdf
-chmod -x Jacobin*
-find Fel
-shell 
-find F
-rename a_classer
-cd Dropbox/bibliographie/
-open_with 
-rename Shepard2009.pdf
-filter Sh
-filter
-filter 
 delete
-rename 8values.png
+chmod -x
+chmod -x Jacobin*
+rename Forsyth2001.pdf
+find F
+rename Stavrides2016.pdf
+find S
+cd ~/.samael
+flat 1
+flat 2
+flat 4
+rename Wimark2017.pdf
+shell -p
+search 
+filter Wo
+
+shell find . -type f -iname "*.webm" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -ab 128k -ar 44100 -y "${FILE%.webm}.mp3";' _ '{}' \;
+q
+find Odoni
