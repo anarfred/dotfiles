@@ -27,15 +27,7 @@ set $alt Mod1
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-#font pango: Nimbus Sans regular 8
-# font pango:cantarell 8
-#font pango:Source Code Pro for Powerline Regular 8
-#font pango: Dejavu Sans Mono for Powerline Regular 9
-#font pango:PragmataPro for Powerline Regular 8
-#font pango:Roboto Regular 8
-#font pango:Knack Nerd Font 8
-#font pango:FuraCode NF 9
-font pango:Fira Mono 9
+font pango:Knack NF Regular 8
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -250,11 +242,11 @@ bindsym $mod+r mode "resize"
 
 # Theme
 # borders
-# state                     border   bg       text    indicator
-    client.focused              $blue $blue  $black  $yellow
-    client.unfocused            $black $black  $darkwhite  $green
-    client.focused_inactive     $darkwhite  $darkwhite  $black  $black
-    client.urgent               $red $darkcyan $darkred $darkblack
+# state                       border      bg          text        indicator
+    client.focused            $darkgreen  $darkgreen  $white $black
+    client.unfocused          $yellow     $yellow     $darkwhite  $black
+    client.focused_inactive   $white      $white      $red $black
+    client.urgent             $red        $darkcyan   $darkred    $black
 
 # scratchpad
     bindsym $mod+Shift+minus move scratchpad
@@ -281,13 +273,13 @@ bindsym $mod+r mode "resize"
     bindsym XF86AudioMute exec amixer -D pulse set Master 1+ togglemute
 
 # MPD controls
-#    bindsym XF86AudioPlay exec mpc toggle
-#    bindsym XF86AudioNext exec mpc next
-#    bindsym XF86AudioPrev exec mpc prev
+   bindsym XF86AudioPlay exec mpc toggle
+   bindsym XF86AudioNext exec mpc next
+   bindsym XF86AudioPrev exec mpc prev
 # CMUS controls
-    bindsym XF86AudioPlay exec cmus-remote -u
-    bindsym XF86AudioNext exec cmus-remote -n
-    bindsym XF86AudioPrev exec cmus-remote -p
+    # bindsym XF86AudioPlay exec cmus-remote -u
+    # bindsym XF86AudioNext exec cmus-remote -n
+    # bindsym XF86AudioPrev exec cmus-remote -p
 # MOCP controls
     bindsym shift+XF86AudioPlay exec mocp -G
     bindsym shift+XF86AudioNext exec mocp -f
@@ -343,58 +335,63 @@ exec xautolock -time 5 -locker 'i3lock-extra -s -p -P 4' &
 
 bindsym $mod+comma	gaps inner current set 0; gaps outer current set 0
 bindsym $mod+Shift+comma	gaps inner current set 10; gaps outer current set 10
-# Start i3bar to display a workspace bar (plus the system information i3status# {{{
-# finds out, if available)
-#
-  new_window pixel 2
-    new_float pixel 2
+# # Start i3bar to display a workspace bar (plus the system information i3status# {{{
+# # finds out, if available)
+# #
+#   new_window pixel 2
+#     new_float pixel 2
 
-## Hybrid colors
-#    set $back               #1d1F21
-#    set $black              #282A2E
-#    set $grey               #373B41
-#    set $lightgrey          #707880
-#    set $white              #C5C8C6
-#    set $yellow             #F0C674
-#    set $red                #CC6666
-#    set $darkred            #A54242
-#    set $green              #B5BD56
+# ## Hybrid colors
+# #    set $back               #1d1F21
+# #    set $black              #282A2E
+# #    set $grey               #373B41
+# #    set $lightgrey          #707880
+# #    set $white              #C5C8C6
+# #    set $yellow             #F0C674
+# #    set $red                #CC6666
+# #    set $darkred            #A54242
+# #    set $green              #B5BD56
 
-#class                  border      backgr.     text        split
-    client.background       $back
+# #class                  border      backgr.     text        split
+#     client.background       $back
 
-bar {
-  #font pango:Roboto Regular 8
-  #font pango:Knack Nerd Font 8
-  #font pango:Pragmata Pro for Powerline 8
-  #font pango:FuraCode NF 9
-  font pango:Fira Mono 9
-  colors {
-    background $black
-    statusline $white
-    separator $darkblack
-    focused_workspace  $cyan $cyan $black
-    active_workspace   $white $white $black
-    inactive_workspace $black $black $darkwhite
-    urgent_workspace   $red $red $white
-    binding_mode       #2f343a #900000 #ffffff
-  }
-  position top
-  hidden_state hide
-  strip_workspace_numbers yes
-  status_command bumblebee-status -m caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
-#disk:root 
-  tray_output primary
-}
-# }}}
+# bar {
+#   #font pango:Roboto Regular 8
+#   #font pango:Knack Nerd Font 8
+#   #font pango:Pragmata Pro for Powerline 8
+#   #font pango:FuraCode NF 9
+#   font pango:Fira Mono 9
+#   colors {
+#     background $black
+#     statusline $white
+#     separator $darkblack
+#     focused_workspace  $cyan $cyan $black
+#     active_workspace   $white $white $black
+#     inactive_workspace $black $black $darkwhite
+#     urgent_workspace   $red $red $white
+#     binding_mode       #2f343a #900000 #ffffff
+#   }
+#   position top
+#   hidden_state hide
+#   strip_workspace_numbers yes
+#   status_command bumblebee-status -m caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
+# #disk:root 
+#   tray_output primary
+# }
+# # }}}
 
 # Assignations
     for_window [class="Keepassx2"] move scratchpad
 
 # Autostart# {{{
-  exec_always feh --bg-scale /home/nrfrd/.wallpaper
-    exec_always /home/nrfrd/.config/i3/i3start.sh
-    # exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+  #exec_always feh --bg-scale /home/nrfrd/.wallpaper
+    exec --no-startup-id compton --config ~/.config/compton.conf -b
+    exec --no-startup-id dropbox start
+    exec --no-startup-id nm-applet &
+    exec --no-startup-id redshift-gtk &
+    exec sleep 5
+    exec --no-startup-id keepassx2 &
+    exec_always --no-startup-id $HOME/.config/polybar/launch.sh
     exec --no-startup-id xautolock -time 5 -locker 'i3lock-extra -s -p -P 4' &
     exec --no-startup-id display-visor -f
 

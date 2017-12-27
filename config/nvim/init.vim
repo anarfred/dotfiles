@@ -157,6 +157,7 @@ Plug 'mhinz/vim-startify'
 Plug 'freitass/todo.txt-vim'
 Plug 'Lokaltog/vim-easymotion'
 Plug 'jreybert/vimagit'
+Plug 'dylanaraps/wal.vim'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'Valloric/YouCompleteMe' "À chaque maj, recompiler avec ~/.local/share/nvim/plugged/YouCompleteMe/install.py
 Plug 'beloglazov/vim-online-thesaurus'
@@ -283,7 +284,7 @@ let g:fzf_colors =
 \ { 'fg':      ['fg', 'Normal'],
   \ 'bg':      ['bg', 'Normal'],
   \ 'hl':      ['fg', 'Comment'],
-  \ 'fg+':     ['fg', 'CursorLine', 'CursorColumn', 'Normal'],
+  \ 'fg+':     ['fg', 'Normal'],
   \ 'bg+':     ['bg', 'CursorLine', 'CursorColumn'],
   \ 'hl+':     ['fg', 'Statement'],
   \ 'info':    ['fg', 'PreProc'],
@@ -292,6 +293,8 @@ let g:fzf_colors =
   \ 'marker':  ['fg', 'Keyword'],
   \ 'spinner': ['fg', 'Label'],
   \ 'header':  ['fg', 'Comment'] }
+  "\ 'fg+':     ['fg', 'CursorLine', 'CursorColumn', 'Normal'], Config par
+  "défaut pour fg+
 
 " Enable per-command history.
 " CTRL-N and CTRL-P will be automatically bound to next-history and
@@ -494,8 +497,10 @@ let g:promptline_theme='airline'
 
 " }}}
 " Thème (doit rester à la fin pour le colorscheme){{{
-"colorscheme base16-gruvbox-dark-medium
-colorscheme gruvbox
+"colorscheme base16-tomorrow
+"colorscheme gruvbox
+colorscheme wal
+"set background=dark
 let base16colorspace=256
 
 "if $TERM !~# "konsole.*"
@@ -507,12 +512,12 @@ let base16colorspace=256
 "    let base16colorspace=256
 "endif
 
-set background=dark
+"set background=dark
 let g:airline#extensions#tabline#enabled = 1 " Allow usage of plugins using theme
 "let g:airline#extensions#tabline#left_sep = "\uE0BC"
 "let g:airline#extensions#tabline#left_alt_sep = "\uE0BD"
 let g:airline_powerline_fonts = 1            " Allow usage of powerline fonts
-let g:airline_theme='base16'                 " Select airline theme
+let g:airline_theme='base16_shell'                 " Select airline theme
 "let g:airline_left_sep = ''
 "let g:airline_right_sep = ''
 " testing extra-powerline-symbols

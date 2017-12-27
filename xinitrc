@@ -24,6 +24,7 @@ setxkbmap ca fr -option compose:caps
 #export KDE_SESSION_VERSION="5"
 #guake &
 xrdb ~/.Xresources
+wal -t -R
 #exec gnome-session
 #exec herbstluftwm --locked
 exec i3

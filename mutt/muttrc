@@ -1,5 +1,6 @@
 #source ~/.mutt/alakorc
-source ~/.mutt/gmailrc
+source ~/.mutt/posteorc
+#source ~/.mutt/gmailrc
 source ~/.mutt/muttcol
 #source ~/.mutt/aliases
 

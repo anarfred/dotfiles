@@ -1,2 +1,2 @@
 #!/bin/sh
-feh  --bg-scale '/home/nrfrd/.wallpaper' 
+'feh' '--bg-fill' '/home/nrfrd/Archives/Pictures/wallpapers/wallpaper-1431464.jpg' 

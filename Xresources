@@ -38,7 +38,8 @@
 !rofi.color-urgent: #282a2e, #a54242, #282a2e, #a54242, #282a2e
 !rofi.separator-style: solid
 !rofi.font: Terminess Powerline 8, FontAwesome 8
-rofi.font: MesloLGS Nerd Font 9
+/* rofi.font: ProfontIIx Nerd Font 8 */
+rofi.font: Knack Nerd Font 9
 
 ! Use extended color scheme
 rofi.color-enabled:                  true

@@ -362,28 +362,13 @@
 /home/nrfrd/Musique/Philosophize This!/Simone_Second.mp3
 /home/nrfrd/Musique/The_Algorithm/early works/INTEGER.mp3
 /home/nrfrd/Musique/The_Algorithm/early works/Ooh Yeah!.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/01. 恢复.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/02. 遠くの愛好家.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/03. 新宿ゴールデン街.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/04. ふわっと.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/05. 悲哀.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/06. 真実の恋.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/07. テレパシー.mp3
-/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/08. 新しい日の誕生.mp3
-/home/nrfrd/Musique/1000mods/2006-Blank_Reality/01-Dope.mp3
 /home/nrfrd/Musique/1000mods/Blank Reality/01 Dope.mp3
-/home/nrfrd/Musique/1000mods/2006-Blank_Reality/02-4th_Dimension_Time.._.mp3
 /home/nrfrd/Musique/1000mods/Blank Reality/02 4th Dimension Time....mp3
-/home/nrfrd/Musique/1000mods/2006-Blank_Reality/03-Blank_Reality.mp3
 /home/nrfrd/Musique/1000mods/Blank Reality/03 Blank Reality.mp3
-/home/nrfrd/Musique/1000mods/2006-Blank_Reality/04-Boor.mp3
 /home/nrfrd/Musique/1000mods/Blank Reality/04 Boor.mp3
-/home/nrfrd/Musique/1000mods/2006-Blank_Reality/05-Desert_Side_of_Your_Mind.mp3
 /home/nrfrd/Musique/1000mods/Blank Reality/05 Desert Side of Your Mind.mp3
 /home/nrfrd/Musique/1000mods/Liquid Sleep/01 Burnt Sleep.mp3
 /home/nrfrd/Musique/1000mods/Liquid Sleep/02 Liquid Sleep.mp3
-/home/nrfrd/Musique/1000mods/2009-12-01-Liquid_Sleep/01-Burnt_Sleep.mp3
-/home/nrfrd/Musique/1000mods/2009-12-01-Liquid_Sleep/02-Liquid_Sleep.mp3
 /home/nrfrd/Musique/1000mods/Super Van Vacation/01 Road to Burn.mp3
 /home/nrfrd/Musique/1000mods/Super Van Vacation/02 7 Flies.mp3
 /home/nrfrd/Musique/1000mods/Super Van Vacation/03 El Rollito.mp3
@@ -394,24 +379,10 @@
 /home/nrfrd/Musique/1000mods/Super Van Vacation/08 Johny's.mp3
 /home/nrfrd/Musique/1000mods/Super Van Vacation/09 Abell 1835.mp3
 /home/nrfrd/Musique/1000mods/Super Van Vacation/10 Super Van Vacation.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/01-Road_to_Burn.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/02-7_Flies.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/03-El_Rollito.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/04-Set_You_Free.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/05-Vidage.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/06-Navy_in_Alice.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/07-Track_Me.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/08-Johny's.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/09-Abell_1835.mp3
-/home/nrfrd/Musique/1000mods/2011-09-29-Super_Van_Vacation/10-Super_Van_Vacation.mp3
 /home/nrfrd/Musique/1000mods/Valley of Sand/01 Valley of Sand.mp3
 /home/nrfrd/Musique/1000mods/Valley of Sand/02 7 Flies.mp3
 /home/nrfrd/Musique/1000mods/Valley of Sand/03 Navy in Alice.mp3
 /home/nrfrd/Musique/1000mods/Valley of Sand/04 Track Me.mp3
-/home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/01-Valley_of_Sand.mp3
-/home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/02-7_Flies.mp3
-/home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/03-Navy_in_Alice.mp3
-/home/nrfrd/Musique/1000mods/2012-12-21-Valley_of_Sand/04-Track_Me.mp3
 /home/nrfrd/Musique/1000mods/2014-Vultures/01-Claws.mp3
 /home/nrfrd/Musique/1000mods/2014-Vultures/02-Big_Beautiful.mp3
 /home/nrfrd/Musique/1000mods/2014-05-30-Vultures/03-She.mp3
@@ -433,6 +404,14 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2012 - [MCEP006] - 1Up - Thundergun EP/02. 1uP - Thundergun (Apashe Remix).flac
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2012 - [MCEP006] - 1Up - Thundergun EP/03. 1uP - Thundergun (Bassex Remix).flac
 /home/nrfrd/Musique/Boris/Various Artists - Take Care Of Scabbard Fish/09 - 20.000 Dope Disk-Junkie - Eventualy.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/01. 恢复.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/02. 遠くの愛好家.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/03. 新宿ゴールデン街.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/04. ふわっと.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/05. 悲哀.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/06. 真実の恋.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/07. テレパシー.mp3
+/home/nrfrd/Musique/(SNKK) ２８１４/２８１４ - Atarashī Ni~Tsu no Tanjou/08. 新しい日の誕生.mp3
 /home/nrfrd/Musique/2814 - Rain Temple (2016)/01 - Before the Rain.mp3
 /home/nrfrd/Musique/2814 - Rain Temple (2016)/02 - Eyes of the Temple.mp3
 /home/nrfrd/Musique/2814 - Rain Temple (2016)/03 - Lost in a Dream.mp3
@@ -457,6 +436,8 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/B2500000_[CSM028] 33 Funk [THE SINIST/12 Verbs CHINCH 33 (P. by Damian Calculon).mp3
 /home/nrfrd/Musique/B2500000_[CSM028] 33 Funk [THE SINIST/13 The mixture (P. by Damian Calculon).mp3
 /home/nrfrd/Musique/B2500000_[CSM028] 33 Funk [THE SINIST/14 Outro (P. by Damian Calculon).mp3
+/home/nrfrd/Musique/37500 Yens/Self Titled/01. 37501.mp3
+/home/nrfrd/Musique/37500 Yens/Self Titled/02. Astero.mp3
 /home/nrfrd/Musique/37500 Yens - Astero (2007)/37500 Yens - 37501.mp3
 /home/nrfrd/Musique/37500 Yens - Astero (2007)/37500 Yens - Astero.mp3
 /home/nrfrd/Musique/37500 Yens - Astero (2007)/37500 Yens - Microphonie.mp3
@@ -465,96 +446,33 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/37500 Yens - Astero (2007)/37500 Yens - Interieur (1).mp3
 /home/nrfrd/Musique/37500 Yens - Astero (2007)/37500 Yens - Interieur (2).mp3
 /home/nrfrd/Musique/37500 Yens - Astero (2007)/37500 Yens - The Sullivan's Quartet.mp3
-/home/nrfrd/Musique/37500 Yens/Self Titled/01. 37501.mp3
-/home/nrfrd/Musique/37500 Yens/Self Titled/02. Astero.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - Dying Light installer.mp3
 /home/nrfrd/Musique/Boris/Various Artists - Take Care Of Scabbard Fish/05 - 50's Junk - Golden Finger.mp3
 /home/nrfrd/Musique/HC4SyriaVol1/19 Together We're Stronger.mp3
-/home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 1 - Burning Season.wma
-/home/nrfrd/Musique/5ive/5ive [2001]/1._5ive_-_5ive_-_Burning_Season.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/2 - Burning Season.mp3
-/home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 2 - Orange.wma
-/home/nrfrd/Musique/5ive/5ive [2001]/2._5ive_-_5ive_-_Orange.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/5 - Orange.mp3
-/home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 3 - The Baron.wma
-/home/nrfrd/Musique/5ive/5ive [2001]/3._5ive_-_5ive_-_The_Baron.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/6 - The Baron.mp3
-/home/nrfrd/Musique/5ive/5ive [2001]/4._5ive_-_5ive_-_Jules_Verne_s_Dream.mp3
 /home/nrfrd/Musique/5ive/5ive [2001]/4 - Jules Verne s Dream.mp3
-/home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 4 - Jules Vernes' Dream.wma
-/home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 5 - Bicycle Rider.wma
 /home/nrfrd/Musique/5ive/5ive [2001]/1 - Bicycle Rider.mp3
-/home/nrfrd/Musique/5ive/5ive [2001]/5._5ive_-_5ive_-_Bicycle_Rider.mp3
-/home/nrfrd/Musique/5ive/(2001) 5ive/5IVE - st - 6  -Cerrado.wma
 /home/nrfrd/Musique/5ive/5ive [2001]/3 - Cerrado.mp3
-/home/nrfrd/Musique/5ive/5ive [2001]/6._5ive_-_5ive_-_Cerrado.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/01 - Stockholm Blues.mp3
-/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/01 Stockholm Blues.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/02 - Nitinol.mp3
-/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/02 Nitinol.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/03 - Shark Dreams.mp3
-/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/03 Shark Dreams.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/04 - Synapse X 3- Sleep for the Larsen B Shelf-Telluric in Transudate-I.mp3
-/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/04 Synapse X 3- Sleep for the Larsen B Shelf-Telluric in Transudate-I.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/05 - Synapse X 3- Telluric in Transudate.mp3
-/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/05 Synapse X 3- Telluric in Transudate.mp3
 /home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/06 - Synapse X 3- Comae.mp3
-/home/nrfrd/Musique/5ive/Telestic Disfracture [2001]/06 Synapse X 3- Comae.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/1 - Stockholm Blues.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 1 - Stockholm Blues.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/2 - Nitinol.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 2 - Nitinol.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/3 - Shark Dreams.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 3 - Shark Dreams.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/4 - Synapse X 3 - A. Sleep For The Larsen B Shelf.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 4 - Synapse X 3 - A. Sleep For The Larsen B Shelf.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 5 - Synapse X 3 - B. Telluric In Transudate.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5 - Synapse X 3 - B. Telluric In Transudate.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/5IVE - ttd - 6 - Synapse X 3 - C. Comae.mp3
-/home/nrfrd/Musique/5ive/(2001) The Telestic Disfracture/6 - Synapse X 3 - C. Comae.mp3
-/home/nrfrd/Musique/5ive/Versus (EP) [2004]/01 Soma.mp3
-/home/nrfrd/Musique/5ive/Versus (EP) [2004]/01-Soma.mp3
-/home/nrfrd/Musique/5ive/Versus (EP) [2004]/02 Reso-I.mp3
-/home/nrfrd/Musique/5ive/Versus (EP) [2004]/02-Reso-I.mp3
-/home/nrfrd/Musique/5ive/Versus (EP) [2004]/03 Man Or Maker....mp3
-/home/nrfrd/Musique/5ive/Versus (EP) [2004]/03-Man Or Maker....mp3
-/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/04 - 5ive - Soma.mp3
-/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/05 - 5ive - Reso I.mp3
-/home/nrfrd/Musique/5ive/(2006) Versus/5IVE - versus - 1 - Reso-1.wma
-/home/nrfrd/Musique/5ive/(2006) Versus/5IVE - versus - 2 - Soma.wma
-/home/nrfrd/Musique/5ive/(2006) Versus/5IVE - versus - 3 - Soma [Remix by JK Broadrick].wma
-/home/nrfrd/Musique/5ive/Hesperus [2008]/1._5ive_-_Hesperus_-_Gulls.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/1 - Gulls.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/2._5ive_-_Hesperus_-_Big_Sea.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/2 - Big Sea.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/3._5ive_-_Hesperus_-_Kettle_Cove.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/3 - Kettle Cove.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/5._5ive_-_Hesperus_-_Polar_78.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/5 - Polar 78.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/6._5ive_-_Hesperus_-_News_I.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/6 - News I.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/7._5ive_-_Hesperus_-_News_II.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/7 - News II.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/1 - Gulls.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 1 - Gulls.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/2 - Big Sea.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 2 - Big Sea.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/3 - Kettle Cove.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 3 - Kettle Cove.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/4 - Heel.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 4 - Heel.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/4._5ive_-_Hesperus_-_Heel.mp3
-/home/nrfrd/Musique/5ive/Hesperus [2008]/4 - Heel.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 5 - Polar 78.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5 - Polar 78.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 6 - News Ⅰ.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/6 - News Ⅰ.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/5IVE - hesperus - 7 - News Ⅱ.mp3
-/home/nrfrd/Musique/5ive/(2008) Hesperus/7 - News Ⅱ.mp3
 /home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/01 The Hemophiliac Dream - Part I.mp3
-/home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/01-The Hemophiliac Dream - Part I.mp3
 /home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/02 The Hemophiliac Dream - Part II.mp3
-/home/nrfrd/Musique/5ive/The Hemophiliac Dream (EP) [2002]/02-The Hemophiliac Dream - Part II.mp3
+/home/nrfrd/Musique/5ive/Versus (EP) [2004]/01 Soma.mp3
+/home/nrfrd/Musique/5ive/Versus (EP) [2004]/02 Reso-I.mp3
+/home/nrfrd/Musique/5ive/Versus (EP) [2004]/03 Man Or Maker....mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/1 - Gulls.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/2 - Big Sea.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/3 - Kettle Cove.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/4 - Heel.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/5 - Polar 78.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/6 - News I.mp3
+/home/nrfrd/Musique/5ive/Hesperus [2008]/7 - News II.mp3
 /home/nrfrd/Musique/2005 - One Time For All Time/01 - Drove Through Ghosts To Get Here.flac
 /home/nrfrd/Musique/2005 - One Time For All Time/02 - Await Rescue.flac
 /home/nrfrd/Musique/2005 - One Time For All Time/03 - 23Kid.flac
@@ -576,40 +494,23 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/The Destruction Of Small Ideas/10 Primer.mp3
 /home/nrfrd/Musique/The Destruction Of Small Ideas/11 White Peak,Dark Peak.mp3
 /home/nrfrd/Musique/The Destruction Of Small Ideas/12 The Conspiracy of Seeds.mp3
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/01 - 65daysofstatic - Mountainhead.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/01 - Mountainhead.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/02 - 65daysofstatic - Crash tactics.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/02 - Crash tactics.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/03 - 65daysofstatic - Dance dance dance.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/03 - Dance dance dance.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/04 - 65daysofstatic - Piano Fights.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/04 - Piano Fights.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/05 - 65daysofstatic - Weak4.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/05 - Weak4.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/06 - 65daysofstatic - Come to me.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/06 - Come to me.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/07 - 65daysofstatic - Go Complex.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/07 - Go Complex.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/08 - 65daysofstatic - Debutante.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/08 - Debutante.flac
-/home/nrfrd/Musique/65daysofstatic - We Were Exploding Anyway/09 - 65daysofstatic - Tiger Girl.flac
 /home/nrfrd/Musique/65daysofstatic/We Were Exploding Anyway/09 - Tiger Girl.flac
 /home/nrfrd/Musique/65daysofstatic/Wild Light/01 - 65Daysofstatic - Heat Deathn Infinity Splitter.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/01 - 65Daysofstatic - Heat Deathn Infinity Splitter.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/02 - 65Daysofstatic - Prisms.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/02 - 65Daysofstatic - Prisms.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/03 - 65Daysofstatic - The Undertow.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/03 - 65Daysofstatic - The Undertow.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/04 - 65Daysofstatic - Blackspots.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/04 - 65Daysofstatic - Blackspots.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/05 - 65Daysofstatic - Sleepwalk City.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/05 - 65Daysofstatic - Sleepwalk City.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/06 - 65Daysofstatic - Taipei.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/06 - 65Daysofstatic - Taipei.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/07 - 65Daysofstatic - Unmake The Wild Light.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/07 - 65Daysofstatic - Unmake The Wild Light.mp3
 /home/nrfrd/Musique/65daysofstatic/Wild Light/08 - 65Daysofstatic - Safe Passage.mp3
-/home/nrfrd/Musique/65Daysofstatic - Wild Light (2013)/08 - 65Daysofstatic - Safe Passage.mp3
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2013 - [MCEP022] - 7 Minutes Dead - 7 Minutes Dead EP/01. 7 Minutes Dead - Sidewinder.flac
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2013 - [MCEP022] - 7 Minutes Dead - 7 Minutes Dead EP/02. 7 Minutes Dead - The Follower.flac
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2013 - [MCEP022] - 7 Minutes Dead - 7 Minutes Dead EP/03. 7 Minutes Dead - The Passing.flac
@@ -1636,81 +1537,43 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/ALICE IN CHAINS - DISCOGRAPHY [CHANNEL NEO]/[2013] The Devil Put Dinosaurs Here/12 - Choke.mp3
 /home/nrfrd/Musique/NOISIA (NET)/Other/Alix Perez Feat. Noisia - Loose Ends.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/01 Catamaran.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/01 Catamaran.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/02 Don't You Forget It.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/02 Don't You Forget It.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/03 Busman's Holiday.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/03 Busman's Holiday.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/04 Sacred Sands.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/04 Sacred Sands.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/05 No Voodoo.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/05 No Voodoo.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/06 Sandy.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/06 Sandy.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/07 Ela Navega.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/07 Ela Navega.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/08 Tell Me (What's On Your Mind).mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/08 Tell Me (What's On Your Mind).mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/09 Catalina.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/09 Catalina.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/10 Vis-A-Vis.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/10 Vis-A-Vis.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/11 Seven Point Five.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/11 Seven Point Five.mp3
 /home/nrfrd/Musique/Allah-Las/Allah-Las/12 Long Journey.mp3
-/home/nrfrd/Musique/Allah-Las/Allah-Las [320 kbps] (2012)-[maximersk]/12 Long Journey.mp3
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/01 - De Vida Voz.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/01 - De Vida Voz.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/02 - Had It All.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/02 - Had It All.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/03 - Artifact.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/03 - Artifact.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/04 - Ferus Gallery.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/04 - Ferus Gallery.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/05 - Recurring.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/05 - Recurring.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/06 - Nothing To Hide.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/06 - Nothing To Hide.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/07 - Buffalo Nickel.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/07 - Buffalo Nickel.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/08 - Follow You Down.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/08 - Follow You Down.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/09 - 501-415.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/09 - 501-415.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/10 - Yemeni Jade.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/10 - Yemeni Jade.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/11 - Worship The Sun.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/11 - Worship The Sun.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/12 - Better Than Mine.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/12 - Better Than Mine.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/13 - No Werewolf.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/13 - No Werewolf.flac
 /home/nrfrd/Musique/Allah-Las/Worship The Sun/14 - Every Girl.flac
-/home/nrfrd/Musique/Allah-Las - Worship The Sun (2014) [FLAC]/14 - Every Girl.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/01 - Strange Heat.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/01 - Strange Heat.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/02 - Satisfied.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/02 - Satisfied.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/03 - Could Be You.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/03 - Could Be You.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/04 - High & Dry.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/04 - High & Dry.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/05 - Mausoleum.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/05 - Mausoleum.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/06 - Roadside Memorial.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/06 - Roadside Memorial.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/07 - Autumn Dawn.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/07 - Autumn Dawn.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/08 - Famous Phone Figure.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/08 - Famous Phone Figure.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/09 - 200 South La Brea.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/09 - 200 South La Brea.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/10 - Warmed Kippers.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/10 - Warmed Kippers.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/11 - Terra Ignota.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/11 - Terra Ignota.flac
 /home/nrfrd/Musique/Allah-Las/Calico Review/12 - Place In The Sun.flac
-/home/nrfrd/Musique/Allah-Las - Calico Review (2016)(WEB)( FLAC)/12 - Place In The Sun.flac
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - Grand Theft Auto V installer.mp3
 /home/nrfrd/Musique/Nesir/All the Cold/2009 - One Year of Cold/All the Cold - Last Winter.mp3
 /home/nrfrd/Musique/Nesir/All the Cold/2009 - One Year of Cold/All the Cold - Through the Dead World.mp3
@@ -2695,215 +2558,6 @@ cue:///home/nrfrd/Musique/1000schoen/1000schoen [Amish Glamour] [FLAC] [CodeTemp
 /home/nrfrd/Musique/Arsonists Get All The Girl/The Game of Life/10 - 13 Year Old Ruby.mp3
 /home/nrfrd/Musique/Arsonists Get All The Girl/The Game of Life/11 - Robando De Los Muertos.mp3
 /home/nrfrd/Musique/Arsonists Get All The Girl/The Game of Life/12 - So You Think You Know About The Game Of Life ( Party In The Rear).mp3
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Le Mariage Du Ciel Et De L'enfer/Art Zoyd - Le Mariage Du Ciel Et De L'enfer.cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Berlin/Art Zoyd - Berlin.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD1/Art Zoyd - Les espaces inquiets (1983)- Phase IV (1982).cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/14
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/15
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/16
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/17
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/18
-cue:///home/nrfrd/Musique/Art Zoyd/1987 - Archives II/CD2/Art Zoyd - Phase IV (1982)- Archives II (1984-1987).cue/19
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/14
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/15
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/16
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/17
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/18
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/19
-cue:///home/nrfrd/Musique/Art Zoyd/1989 - Nosferatu/Art Zoyd - Nosferatu.cue/20
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre I.cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/1993 - Marathonnerre I-II/Art Zoyd - Marathonnerre II.cue/14
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD1/Art Zoyd - Symphonie Musique Generation Archives (Disc 1).cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1985 - Archives I/CD2/Art Zoyd - Symphonie Musique Generation Archives I. (Disc 2).cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/14
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/15
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/16
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/17
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/18
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/19
-cue:///home/nrfrd/Musique/Art Zoyd/1995 - Faust/Art Zoyd - Faust.cue/20
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/14
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/15
-cue:///home/nrfrd/Musique/Art Zoyd/2001 - u.B.I.Q.U.e/Art Zoyd - u.B.I.Q.U.e.cue/16
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 1).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 1).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 1).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 1).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 1).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 2).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 2).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 2).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 2).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 3).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 3).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 3).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Experiences de vol 1,2,3/Art Zoyd - Experiences de vol (CD 3).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/14
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/15
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/16
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/17
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/18
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/19
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/20
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/21
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD1).cue/22
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/6
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/7
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/8
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/9
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/10
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/11
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/12
-cue:///home/nrfrd/Musique/Art Zoyd/2002 - Metropolis/Art Zoyd - Metropolis (CD2).cue/13
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD1).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD1).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD1).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD1).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD2).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD2).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD2).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD2).cue/4
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD2).cue/5
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD3).cue/1
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD3).cue/2
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD3).cue/3
-cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Experiences de vol 4 - 5 - 6 (CD3).cue/4
 /home/nrfrd/Musique/Nesir/Assur/2006 - Kõtestbe zárva/Assur - A halal kutja.mp3
 /home/nrfrd/Musique/Nesir/Assur/2006 - Kõtestbe zárva/Assur - Harcos elet.mp3
 /home/nrfrd/Musique/Nesir/Assur/2006 - Kõtestbe zárva/Assur - Langvihar.mp3
@@ -3156,17 +2810,6 @@ cue:///home/nrfrd/Musique/Art Zoyd/2005 - Experiences de vol 4,5,6/Art Zoyd - Ex
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2015 - [MCEP084] - Au5 & Fractal - Ison Pavonine/01. Au5 & Fractal - Ison.flac
 /home/nrfrd/Musique/Monstercat FLAC/EP's/2015 - [MCEP084] - Au5 & Fractal - Ison Pavonine/02. Au5 & Fractal - Pavonine.flac
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - The Banner Saga installer.mp3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/5
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/6
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/7
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/8
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/9
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/10
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/11
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Amber/Autechre - Amber.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Amber/Autechre - Amber.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Amber/Autechre - Amber.cue/3
@@ -3178,32 +2821,10 @@ cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempe
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Amber/Autechre - Amber.cue/9
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Amber/Autechre - Amber.cue/10
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Amber/Autechre - Amber.cue/11
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Anti, ep/Anti EP.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Anti, ep/Anti EP.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Anti, ep/Anti EP.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/5
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Anvil Vapre, ep/Autechre - Anvil Vapre EP.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Anvil Vapre, ep/Autechre - Anvil Vapre EP.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Anvil Vapre, ep/Autechre - Anvil Vapre EP.cue/3
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Anvil Vapre, ep/Autechre - Anvil Vapre EP.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/5
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/6
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/7
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/8
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/9
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/10
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Chiastic Slide/Autechre - Chiastic Slide.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Chiastic Slide/Autechre - Chiastic Slide.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Chiastic Slide/Autechre - Chiastic Slide.cue/3
@@ -3213,26 +2834,19 @@ cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempe
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Chiastic Slide/Autechre - Chiastic Slide.cue/7
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Chiastic Slide/Autechre - Chiastic Slide.cue/8
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Chiastic Slide/Autechre - Chiastic Slide.cue/9
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/6
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/7
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/8
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/9
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Envane, ep/Autechre - Envane EP.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Envane, ep/Autechre - Envane EP.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Envane, ep/Autechre - Envane EP.cue/3
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Envane, ep/Autechre - Envane EP.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/5
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/6
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/7
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/8
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/9
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/10
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/11
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   EP7/Autechre - EP7.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   EP7/Autechre - EP7.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   EP7/Autechre - EP7.cue/3
@@ -3244,43 +2858,42 @@ cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempe
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   EP7/Autechre - EP7.cue/9
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   EP7/Autechre - EP7.cue/10
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   EP7/Autechre - EP7.cue/11
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   Peel Session, ep/Autechre - Peel Session EP.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   Peel Session, ep/Autechre - Peel Session EP.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   Peel Session, ep/Autechre - Peel Session EP.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/5
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/6
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/7
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/8
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Confield/Autechre - Confield.cue/9
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2002]   Gantz Graf,  ep/Autechre - Gantz Graf EP.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2002]   Gantz Graf,  ep/Autechre - Gantz Graf EP.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2002]   Gantz Graf,  ep/Autechre - Gantz Graf EP.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Garbage, ep/Autechre - Garbage EP.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/6
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/7
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/8
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/9
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/10
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1993]   Incunabula/Autechre - Incunabula.cue/11
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/6
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/7
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/8
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/9
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/10
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1998]   LP5/Autechre - LP5.cue/11
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Peel Session, 2nd ep/Autechre - Peel Session 2 EP.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Peel Session, 2nd ep/Autechre - Peel Session 2 EP.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Peel Session, 2nd ep/Autechre - Peel Session 2 EP.cue/3
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2001]   Peel Session, 2nd ep/Autechre - Peel Session 2 EP.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2002]   Gantz Graf,  ep/Autechre - Gantz Graf EP.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2002]   Gantz Graf,  ep/Autechre - Gantz Graf EP.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2002]   Gantz Graf,  ep/Autechre - Gantz Graf EP.cue/3
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/01 - Xylin Room.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/02 - IV VV IV VV VIII.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/03 - 6IE.CR.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/04 - Tapr.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/05 - Surripere.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/06 - Theme of Sudden Roundabout.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/07 - VL AL 5.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/08 - P.ntil.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/09 - V-proc.flac
-/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/10 - Reniform Puls.flac
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/1
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/2
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/3
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/4
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/5
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/6
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/7
-cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/8
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   Peel Session, ep/Autechre - Peel Session EP.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   Peel Session, ep/Autechre - Peel Session EP.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1999]   Peel Session, ep/Autechre - Peel Session EP.cue/3
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.01]/Autechre - Quaristice.cue/1
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.01]/Autechre - Quaristice.cue/2
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.01]/Autechre - Quaristice.cue/3
@@ -3301,6 +2914,47 @@ cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempe
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.01]/Autechre - Quaristice.cue/18
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.01]/Autechre - Quaristice.cue/19
 cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.01]/Autechre - Quaristice.cue/20
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/6
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/7
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/8
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/9
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1995]   Tri Repetae/Autechre - Tri Repetae.cue/10
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/6
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/7
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2005]   Untitled/Autechre - Untilted.cue/8
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Anti, ep/Anti EP.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Anti, ep/Anti EP.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Anti, ep/Anti EP.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1994]   Basscad, ep/Basscad EP.cue/5
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/1
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/2
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/3
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/4
+cue:///home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[1997]   Cichlisuite, ep/Cichlisuite.cue/5
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/01 - Xylin Room.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/02 - IV VV IV VV VIII.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/03 - 6IE.CR.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/04 - Tapr.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/05 - Surripere.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/06 - Theme of Sudden Roundabout.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/07 - VL AL 5.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/08 - P.ntil.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/09 - V-proc.flac
+/home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2003]   Draft 7.30/10 - Reniform Puls.flac
 /home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.02]/Autechre - Quaristice (Versions) - 01 - ThePlclCpC.flac
 /home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.02]/Autechre - Quaristice (Versions) - 02 - IO (mons).flac
 /home/nrfrd/Musique/Autechre/Autechre [Studio Albums; +] [FLAC] [CodeTempest]/[DISCS]/Autechre/[2008]   Quaristice [2 CD LE]/[DISC.02]/Autechre - Quaristice (Versions) - 03 - Phylopn.flac
@@ -5683,37 +5337,19 @@ cue:///home/nrfrd/Musique/Carpathian Forest/08-Fuck You All !!!! 2006/Carpathian
 /home/nrfrd/Musique/Cephalic Carnage/2007 - Xenosapien/11 - Ov Vicissitude.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2007 - Xenosapien/12 - [Untitled].mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/01 - The Incorrigible Flame.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/01 - The Incorrigible Flame.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/02 - Warbots A.M..mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/02 - Warbots A.M..mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/03 - Abraxas Of Filth.mp3
-/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/03 - Abraxas of Filth.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/03 - Abraxas Of Filth.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/04 - Pure Horses.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/04 - Pure Horses.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/05 - Cordyceps Humanis.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/05 - Cordyceps Humanis.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/06 - Raped By An Orb.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/06 - Raped By An Orb.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/07 - P.G.A.D..mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/07 - P.G.A.D..mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/08 - Dimensional Modulation Transmo.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/08 - Dimensional Modulation Transmo.mp3
-/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/08 - Dimensional Modulation Transmogra.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/09 - Ohrwurm.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/09 - Ohrwurm.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/10 - When I Arrive.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/10 - When I Arrive.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/11 - A King And A Thief.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/11 - A King And A Thief.mp3
-/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/11 - Power And Force.mp3
-/home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/12 - A King And A Thief .mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/12 - Power And Force.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/12 - Power And Force.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/13 - Repangaea.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/13 - Repangaea.mp3
 /home/nrfrd/Musique/Cephalic Carnage/2010 - Misled By Certainty/14 - Aeyeucgh!.mp3
-/home/nrfrd/Musique/Cephalic Carnage - Misled by Certainty (2010)/14 - Aeyeucgh!.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. REVOLUTiON/R.G. REVOLUTiON - Survivors Viy installer.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/Speiler/Spieler - Singularity(TM) installer.mp3
 /home/nrfrd/Musique/Chihei Hatakeyama/Chihei Hatakeyama [Norma] [FLAC] [CodeTempest]/01 - Benetnasch.flac
@@ -7353,14 +6989,6 @@ cue:///home/nrfrd/Musique/Darkthrone/A Blaze In The Northern Sky/Darkthrone - A 
 /home/nrfrd/Musique/Darkthrone Discography/[1994] Darkthrone - Transilvanian Hunger/06 I en Hall Med Flesk Og Mjød.mp3
 /home/nrfrd/Musique/Darkthrone Discography/[1994] Darkthrone - Transilvanian Hunger/07 As Flittermice as Satans Spys.mp3
 /home/nrfrd/Musique/Darkthrone Discography/[1994] Darkthrone - Transilvanian Hunger/08 En as I Dype Skogen.mp3
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/1
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/2
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/3
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/4
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/5
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/6
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/7
-cue:///home/nrfrd/Musique/Darkthrone/Transilvanian Hunger/Darkthrone - Transilvanian Hunger.cue/8
 /home/nrfrd/Musique/Darkthrone Discography/[1996] Darkthrone - Goatlord/Darkthrone - 1996 - Goatloard - 01 - Rex.mp3
 /home/nrfrd/Musique/Darkthrone Discography/[1996] Darkthrone - Goatlord/Darkthrone - 1996 - Goatloard - 02 - Pure Demoniac Blessing.mp3
 /home/nrfrd/Musique/Darkthrone Discography/[1996] Darkthrone - Goatlord/Darkthrone - 1996 - Goatloard - 03 - The Grimness Of Which Shepherds Mourn.mp3
@@ -11976,21 +11604,13 @@ cue:///home/nrfrd/Musique/Godspeed You! Black Emperor/Godspeed You! Black Empero
 /home/nrfrd/Musique/Hala Strana/Heave the Gambrel Roof/B3. Heave the Gambrel Roof.mp3
 /home/nrfrd/Musique/Hala Strana/Heave the Gambrel Roof/B4. Molars of Smoke.mp3
 /home/nrfrd/Musique/Hala Strana/Heave the Gambrel Roof/B5. The Loss of What We Keep.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/01 - ultra cocker.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/01 - ultra cocker.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/02 - power cock.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/02 - power cock.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/03 Domination in Spunked Cock.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/03 Domination in Spunked Cock.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/04 Megaton Cock.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/04 Megaton Cock.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/05 Cock Combat.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/05 Cock Combat.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/06 Cock Victory.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/06 Cock Victory.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/07 Cock Rising & Hunging Cock.mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/07 Cock Rising & Hunging Cock.mp3
-/home/nrfrd/Musique/1985-Hanatarashi/08 Cock E.S.P..mp3
 /home/nrfrd/Musique/Hanatarashi/Hanatarashi/08 Cock E.S.P..mp3
 /home/nrfrd/Musique/1989-3-William Bennet Has No Dick/01 god-noise-god.mp3
 /home/nrfrd/Musique/1989-3-William Bennet Has No Dick/02 sound bound.mp3
@@ -13249,9 +12869,6 @@ cue:///home/nrfrd/Musique/Godspeed You! Black Emperor/Godspeed You! Black Empero
 /home/nrfrd/Musique/Tout tourne autour du Soleil/16-Fille du vent.mp3
 /home/nrfrd/Musique/Tout tourne autour du Soleil/17-Tout tourne autour du Soleil.mp3
 /home/nrfrd/Musique/Tout tourne autour du Soleil/18-Outro - Retour à la Terre.mp3
-/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/01 - Kid606 - Audition.mp3
-/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/02 - Kid606 - Titanium.mp3
-/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/03 - Kid606 - Whatwentwrong.mp3
 /home/nrfrd/Musique/Kid606/Kid606 [Lost In The Game] [FLAC] [CodeTempest]/01  Godspeed You African American Emperor.flac
 /home/nrfrd/Musique/Kid606/Kid606 [Lost In The Game] [FLAC] [CodeTempest]/02  Gimme Summer.flac
 /home/nrfrd/Musique/Kid606/Kid606 [Lost In The Game] [FLAC] [CodeTempest]/03  New Boss Same As Old Boss.flac
@@ -13265,6 +12882,11 @@ cue:///home/nrfrd/Musique/Godspeed You! Black Emperor/Godspeed You! Black Empero
 /home/nrfrd/Musique/Kid606/Kid606 [Lost In The Game] [FLAC] [CodeTempest]/11  Baroque And Out Of Money.flac
 /home/nrfrd/Musique/Kid606/Kid606 [Lost In The Game] [FLAC] [CodeTempest]/12  I Need To Start A Cult.flac
 /home/nrfrd/Musique/Kid606/Kid606 [Lost In The Game] [FLAC] [CodeTempest]/13  I'm Sick But I Ain't Dead.flac
+/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/01 - Kid606 - Audition.mp3
+/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/02 - Kid606 - Titanium.mp3
+/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/03 - Kid606 - Whatwentwrong.mp3
+/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/04 - 5ive - Soma.mp3
+/home/nrfrd/Musique/5ive/split 5ive & kid606 [2005]/05 - 5ive - Reso I.mp3
 /home/nrfrd/Musique/R.A.P. Music/01 Big Beast (feat. Bun B, T.I. & Tr.mp3
 /home/nrfrd/Musique/R.A.P. Music/02 Untitled (feat. Scar).mp3
 /home/nrfrd/Musique/R.A.P. Music/03 Go!.mp3
@@ -14440,18 +14062,6 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/Max Richter/Max Richter [vivaldi 4 szns] [FLAC] [CodeTempest]/11 - Winter 1.flac
 /home/nrfrd/Musique/Max Richter/Max Richter [vivaldi 4 szns] [FLAC] [CodeTempest]/12 - Winter 2.flac
 /home/nrfrd/Musique/Max Richter/Max Richter [vivaldi 4 szns] [FLAC] [CodeTempest]/13 - Winter 3.flac
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 01 - Silvester Anfang.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 02 - Deathcrush.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 03 - Fall of Seraphs.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 04 - Carnage.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 05 - Necrolust.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 06 - Ancient Skin.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 07 - Freezing Moon.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 08 - Symbols of Bloodswords.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 09 - From the Dark Past.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 10 - Chainsaw Gutsfuck.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 11 - I am Thy Labyrinth.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 12 - Pure Fucking Armaggedon.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/05 Illuminate_Eleminate.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/06 Psychic_Horns.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/07 Key_To_The_Storms.mp3
@@ -14470,14 +14080,6 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1987] Mayhem - Deathcrush/04 - Witching Hour.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1987] Mayhem - Deathcrush/05 - Necrolust.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1987] Mayhem - Deathcrush/06 - (Weird) Manheim - Pure Fucking Armageddon.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/01. Funeral Fog.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/02. Freezing Moon.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/03. Cursed In Eternity.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/04. Pagan Fears.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/05. Life Eternal.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/06. From The Dark Past.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/07. Buried By Time And Dust.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/08. De Mysteriis Dom Sathanas.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1995] Mayhem - Dawn Of The Black Hearts/01. Deathcrush.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1995] Mayhem - Dawn Of The Black Hearts/02. Necrolust.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1995] Mayhem - Dawn Of The Black Hearts/03. Funeral Fog.mp3
@@ -14498,6 +14100,18 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1993] Mayhem-Live in Leipzig/07 Pagan Fears.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1993] Mayhem-Live in Leipzig/08 Chainsaw Gutsfuck.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1993] Mayhem-Live in Leipzig/09 Pure Fucking Armageddon.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 01 - Silvester Anfang.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 02 - Deathcrush.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 03 - Fall of Seraphs.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 04 - Carnage.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 05 - Necrolust.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 06 - Ancient Skin.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 07 - Freezing Moon.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 08 - Symbols of Bloodswords.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 09 - From the Dark Past.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 10 - Chainsaw Gutsfuck.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 11 - I am Thy Labyrinth.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1999] Mayhem - Mediolanum capta est/Mayhem - 12 - Pure Fucking Armaggedon.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2000] Mayhem - Grand Declaration of War/06 - A Bloodsword And A Colder Sun (Part 1 Of 2).mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2000] Mayhem - Grand Declaration of War/07 - A Bloodsword And A Colder Sun (Part 2 Of 2).mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2000] Mayhem - Grand Declaration of War/01 - A Grand Declaration Of War.mp3
@@ -14523,6 +14137,11 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2001] Mayhem - European Legions/10 In The Lies Where Upon You Lay (Pre-Production).mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2001] Mayhem - European Legions/11 Crystalized Pain In Deconstruction (Pre-Production).mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2001] Mayhem - European Legions/12 Completion In Science Of Agony (Pre-Production).mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/01 The Vortex Void Of Inhumanity.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/02 I Am Thy Labyrinth.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/03 Fall Of Seraphs.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/04 Ancient Skin.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/05 Symbols Of Bloodswords.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2004] MAYHEM - Chimera/01 Whore.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2004] MAYHEM - Chimera/02 Dark Night of the Soul.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2004] MAYHEM - Chimera/03 Rape Humanity With Pride.mp3
@@ -14531,15 +14150,18 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2004] MAYHEM - Chimera/06 Slaughter of Dreams.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2004] MAYHEM - Chimera/07 Impious Devious Leper Lord.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2004] MAYHEM - Chimera/08 Chimera.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/01. Funeral Fog.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/02. Freezing Moon.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/03. Cursed In Eternity.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/04. Pagan Fears.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/05. Life Eternal.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/06. From The Dark Past.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/07. Buried By Time And Dust.mp3
+/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1994] Mayhem - De Mysteriis Dom Sathanas/08. De Mysteriis Dom Sathanas.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/01 A_Wise_Birthgiver.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/02 Wall_Of_Water.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/03 Great_Work_Of_Ages.mp3
 /home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[2007] Mayhem - Ordo Ad Chao/04 Deconsecrate.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/01 The Vortex Void Of Inhumanity.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/02 I Am Thy Labyrinth.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/03 Fall Of Seraphs.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/04 Ancient Skin.mp3
-/home/nrfrd/Musique/[1987 - 2007] Mayhem - discography/[1997] Mayhem - Wolf's Lair Abyss/05 Symbols Of Bloodswords.mp3
 /home/nrfrd/Musique/Melt Banana/Scratch or Stitch/01_Plot in a Pot.mp3
 /home/nrfrd/Musique/Melt Banana/Scratch or Stitch/02_Scratch or Stitch.mp3
 /home/nrfrd/Musique/Melt Banana/Scratch or Stitch/03_Sick Zip Everywhere.mp3
@@ -15384,15 +15006,6 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/Metallica/(1984) Ride The Lightning/06 - Escape.mp3
 /home/nrfrd/Musique/Metallica/(1984) Ride The Lightning/07 - Creeping Death.mp3
 /home/nrfrd/Musique/Metallica/(1984) Ride The Lightning/08 - The Call Of Ktulu.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/01 Blackened.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/02 ...And Justice For All.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/03 Eye Of The Beholder.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/04 One.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/05 The Shortest Straw.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/06 Harvester Of Sorrow.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/07 The Frayed Ends Of Sanity.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/08 To Live Is To Die.mp3
-/home/nrfrd/Musique/2007 - ...And Justice For Jason/09 Dyers Eve.mp3
 /home/nrfrd/Musique/Metallica/(1986) Master of Puppets/01 - Battery.mp3
 /home/nrfrd/Musique/Metallica/(1986) Master of Puppets/02 - Master Of Puppets.mp3
 /home/nrfrd/Musique/Metallica/(1986) Master of Puppets/03 - The Thing That Should.mp3
@@ -15461,6 +15074,15 @@ cue:///home/nrfrd/Musique/Maculatum/Maculatum [The Nameless City] [FLAC] [CodeTe
 /home/nrfrd/Musique/Metallica/(2003) St. Anger/09 - The Unnamed Feeling.mp3
 /home/nrfrd/Musique/Metallica/(2003) St. Anger/10 - Purify.mp3
 /home/nrfrd/Musique/Metallica/(2003) St. Anger/11 - All Within My Hands.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/01 Blackened.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/02 ...And Justice For All.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/03 Eye Of The Beholder.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/04 One.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/05 The Shortest Straw.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/06 Harvester Of Sorrow.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/07 The Frayed Ends Of Sanity.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/08 To Live Is To Die.mp3
+/home/nrfrd/Musique/2007 - ...And Justice For Jason/09 Dyers Eve.mp3
 /home/nrfrd/Musique/Metallica/(2008) Death Magnetic Remastered/01 - That Was Just Your Life.mp3
 /home/nrfrd/Musique/Metallica/(2008) Death Magnetic Remastered/02 - The End Of The Line.mp3
 /home/nrfrd/Musique/Metallica/(2008) Death Magnetic Remastered/03 - Broken, Beat & Scarred.mp3
@@ -17438,6 +17060,16 @@ cue:///home/nrfrd/Musique/My Life with the Thrill Kill Kult/MLWTTKK [studio albu
 /home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/09. We Are The Left Overs.mp3
 /home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/10. Ledged Up.mp3
 /home/nrfrd/Musique/Odonis Odonis/2011 - Hollandaze/11. Tick Tock.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/01 - Fearless.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/02 - Needs.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/03 - That's How It Goes.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/04 - Nervous.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/05 - BLTZ.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/06 - Pencils.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/07 - Game.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/08 - Vanta Black.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/09 - Betrayal.mp3
+/home/nrfrd/Musique/Odonis Odonis/Post Plague/Odonis Odonis - Post Plague (2016)/10 - Lust.mp3
 /home/nrfrd/Musique/pub.keygenmusic.org/big files/R.G. Freedom/R.G. Freedom - Lara Croft and the Temple of Osiris installer.mp3
 /home/nrfrd/Musique/HC4SyriaVol1/01 Borrow and Bomb.mp3
 /home/nrfrd/Musique/Immortal/Old funeral - The older ones (1999)/01 Abduction of limbs.mp3
@@ -18667,27 +18299,6 @@ cue:///home/nrfrd/Musique/My Life with the Thrill Kill Kult/MLWTTKK [studio albu
 /home/nrfrd/Musique/Polvo/In Prism/06 Dream Residue_Work.flac
 /home/nrfrd/Musique/Polvo/In Prism/07 The Pedlar.flac
 /home/nrfrd/Musique/Polvo/In Prism/08 A Link In The Chain.flac
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/1
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/2
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/3
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/4
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/5
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/6
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/7
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/8
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/9
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/Stars Die - Disc A - 1991-93.cue/10
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/1
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/2
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/3
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/4
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/5
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/6
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/7
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/8
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/9
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/10
-cue:///home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 2/Stars Die - Disc B - 1994-97.cue/11
 /home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/01. Radioactive Toy.ape
 /home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/02. Nine Cats.ape
 /home/nrfrd/Musique/Porcupine Tree/Porcupine Tree - 1991 - 1997 - Stars Die - The Deleriun Years [APE]/CD 1/03. And the Swallows Dance Above the Sun.ape
@@ -21475,87 +21086,14 @@ cue:///home/nrfrd/Musique/Shonen Knife/Shonen Knife [Pop Tune; +] [FLAC] [CodeTe
 /home/nrfrd/Musique/Shrinebuilder -2009- Shrinebuilder/03 - Blind For All To See.mp3
 /home/nrfrd/Musique/Shrinebuilder -2009- Shrinebuilder/04 - The Architect.mp3
 /home/nrfrd/Musique/Shrinebuilder -2009- Shrinebuilder/05 - Science Of Anger.mp3
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Heim/01_20Sigur_20Ros_20-_20Samskeyti.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Heim/02_20Sigur_20Ros_20-_20Star_C3_A1lfur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Heim/03_20Sigur_20Ros_20-_20Vaka.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Heim/04_20Sigur_20Ros_20-_20_C3_81g_C3_A6tis_20Byrjun.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Heim/05_20Sigur_20Ros_20-_20Heys_C3_A1tan.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Heim/06_20Sigur_20Ros_20-_20Von.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/01_20Sigur_20R_C3_B3s_20-_20Untitled_20_231_20_28Vaka_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/01. Untitled I.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/02_20Sigur_20R_C3_B3s_20-_20Untitled_20_232_20_28Fyrsta_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/02. Untitled II.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/03_20Sigur_20R_C3_B3s_20-_20Untitled_20_233_20_28Samskeyti_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/03. Untitled III.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/04_20Sigur_20R_C3_B3s_20-_20Untitled_20_234_20_28Nj_C3_B3snav_C3_A9lin_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/04. Untitled IV.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/05_20Sigur_20R_C3_B3s_20-_20Untitled_20_235_20_28_C3_81lafoss_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/05. Untitled V.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/06_20Sigur_20R_C3_B3s_20-_20Untitled_20_236_20_28E-Bow_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/06. Untitled VI.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/07_20Sigur_20R_C3_B3s_20-_20Untitled_20_237_20_28Dau_C3_B0alagi_C3_B0_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/07. Untitled VII.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_28_20_29/08_20Sigur_20R_C3_B3s_20-_20Untitled_20_238_20_28Popplagi_C3_B0_29.flac
 /home/nrfrd/Musique/Sigur Ros/( )/08. Untitled VIII.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/01_20Intro.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/02_20Svefn-g-englar.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/03_20Staralfur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/04_20Flugufrelsarinn.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/05_20Ny_20Batteri.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/06_20Hjartao_20Hamast_20_28bamm_20bamm_20bamm_29.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/07_20Viorar_20Vel_20Til_20Loftarasa.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/08_20Olsen_20Olsen.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/09_20Agaetis_20Byrjun.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/_C3_81g_C3_A6tis_20Byrjun/10_20Avalon.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/01_20-_20Sigur_20Ros.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/02_20-_20Dogun.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/03_20-_20Hun_20Joro.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/04_20-_20Leit_20ao_20lifi.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/05_20-_20Myrkur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/06_20-_2018_20Sekundur_20Fyrir_20Solaruppras.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/07_20-_20Hafssol.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/08_20-_20Verold_20ny_20og_20oo.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/09_20-_20Von.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/10_20-_20Mistur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/11_20-_20Syndir_20Guos_20_28Opinberun_20Frelsarans_29.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Von/12_20-_20Rukrym.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/01_20Sigur_20R_C3_B3s_20-_20Gobbledigook.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/02_20Sigur_20R_C3_B3s_20-_20Inn_C3_AD_20M_C3_A9r_20Syngur_20Vitleysingur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/03_20Sigur_20R_C3_B3s_20-_20G_C3_B3_C3_B0an_20Daginn.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/04_20Sigur_20R_C3_B3s_20-_20Vi_C3_B0_20Spilum_20Endalaust.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/05_20Sigur_20R_C3_B3s_20-_20Festival.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/06_20Sigur_20R_C3_B3s_20-_20Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrumm.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/07_20Sigur_20R_C3_B3s_20-_20_C3_81ra_20B_C3_A1tur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/08_20Sigur_20R_C3_B3s_20-_20Illgresi.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/09_20Sigur_20R_C3_B3s_20-_20Flj_C3_B3tav_C3_ADk.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/10_20Sigur_20R_C3_B3s_20-_20Straumnes.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Me_C3_B0_20Su_C3_B0_20_C3_8D_20Eyrum_20Vi_C3_B0_20Spilum_20Endalaust/11_20Sigur_20R_C3_B3s_20-_20All_20Alright.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Hvarf/01_20Sigur_20R_C3_B3s_20-_20Salka.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Hvarf/02_20Sigur_20R_C3_B3s_20-_20Hlj_C3_B3malind.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Hvarf/03_20Sigur_20R_C3_B3s_20-_20_C3_8D_20G_C3_A6r.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Hvarf/04_20Sigur_20R_C3_B3s_20-_20Von.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Hvarf_Heim/Hvarf/05_20Sigur_20R_C3_B3s_20-_20Hafsol.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/01_20Sigur_20R_C3_B3s_20-_20Takk.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/02_20Sigur_20R_C3_B3s_20-_20Gl_C3_B3s_C3_B3li.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/03_20Sigur_20R_C3_B3s_20-_20Hopp_C3_ADpolla.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/04_20Sigur_20R_C3_B3s_20-_20Meo_20Bl_C3_B3dnasir.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/05_20Sigur_20R_C3_B3s_20-_20S_C3_A9_20Lest.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/06_20Sigur_20R_C3_B3s_20-_20Saeglopur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/08_20Sigur_20R_C3_B3s_20-_20Gong.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/09_20Sigur_20R_C3_B3s_20-_20Andvari.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/10_20Sigur_20R_C3_B3s_20-_20Svo_20Hlj_C3_B3tt.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/11_20Sigur_20R_C3_B3s_20-_20Heys_C3_A1tan.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Takk/07_20Sigur_20R_C3_B3s_20-_20Milan_C3_B3.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/01_20Sigur_20R_C3_B3s_20-_20_C3_89g_20Anda.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/02_20Sigur_20R_C3_B3s_20-_20Ekki_20M_C3_BAkk.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/03_20Sigur_20R_C3_B3s_20-_20Var_C3_BA_C3_B0.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/04_20Sigur_20R_C3_B3s_20-_20Rembihn_C3_BAtur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/05_20Sigur_20R_C3_B3s_20-_20Dau_C3_B0alogn.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/06_20Sigur_20R_C3_B3s_20-_20Var_C3_B0eldur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/07_20Sigur_20R_C3_B3s_20-_20Valtari.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/08_20Sigur_20R_C3_B3s_20-_20Fj_C3_B6gur_20P_C3_ADan_C3_B3.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/Valtari_20B-sides/01_20Kvistur.flac
-/home/nrfrd/Musique/Sigur_20R_C3_B3s_20Flac/Valtari/Valtari_20B-sides/02_20Logn.flac
 /home/nrfrd/Musique/Nesir/Silencer/2002 - Death, Pierce me/Silencer - Death - Pierce Me.mp3
 /home/nrfrd/Musique/Nesir/Silencer/2002 - Death, Pierce me/Silencer - Sterile Nails And Thunderbowels.mp3
 /home/nrfrd/Musique/Nesir/Silencer/2002 - Death, Pierce me/Silencer - Taklamakan.mp3

@@ -203,9 +203,9 @@ cfg-nanorc() { $EDITOR ~/.nanorc;}
 cfg-nap() { $EDITOR ~/.nap/napconf ;}
 cfg-ncmpcpp() { $EDITOR ~/.ncmpcpp/config ;}
 cfg-ncmpcpp-bindings() { $EDITOR ~/.ncmpcpp/bindings ;}
-cfg-newsbeuter() { $EDITOR ~/.newsbeuter/config ;}
-cfg-newsbeuter-queue() { $EDITOR ~/.newsbeuter/queue ;}
-cfg-newsbeuter-urls() { $EDITOR ~/.newsbeuter/urls ;}
+cfg-newsboat() { $EDITOR ~/.newsboat/config ;}
+cfg-newsboat-queue() { $EDITOR ~/.newsboat/queue ;}
+cfg-newsboat-urls() { $EDITOR ~/.newsboat/urls ;}
 cfg-pastebinit() { $EDITOR ~/.pastebinit.xml ;}
 cfg-periscope() { $EDITOR ~/.config/periscope/config ;}
 cfg-pianobar() { $EDITOR ~/.config/pianobar/config ;}
@@ -286,7 +286,7 @@ alias mount='mount | column -t'				# align in column
 alias mv='mv -iv'					# mv prompt confirmation
 alias nano='nano -c -$'					# word wrapping
 alias nvlc='nvlc --no-color'				# vlc black/white color
-alias news 'newsbeuter'
+alias news='newsboat'
 alias pdfgrep='pdfgrep -in'				# ignorecase, page number
 alias qcp='qcp -f do'                                   # renameutils bulk copy (destination column only)
 alias qmv='qmv -f do'                                   # renameutils bulk rename (destination column only)
@@ -327,7 +327,7 @@ alias garbage-empty='gvfs-trash --empty'		# empty trash globally (all partitions
 export TODOTXT_DEFAULT_ACTION=ls
 alias t="/home/nrfrd/Dropbox/todo.txt-cli/todo.sh"                                       # todotxt.sh program
 alias trash='trash-put -v'
-alias vless="/usr/share/vim/vim74/macros/less.sh"       # vim as a pager
+alias vless="/usr/share/nvim/runtime/macros/less.sh"       # vim as a pager
 alias vradio="vim ~/.pyradio.csv && killall mpg123"    # vim as radio player using pyradio.csv
 alias wttr='curl wttr.in'                               # wego weather forcast using only curl
 alias wttr-help='curl wttr.in/:help'
@@ -4058,11 +4058,11 @@ sshot() { ~/.scripts/screenshot.sh area ;}
 # Vim as a pager ( similar to the less command )
 # tutorial video: https://www.youtube.com/watch?v=RefWl8I3nBg
 	# issue: gg hotkey does not jump to exact line
-	vlessold() { /usr/share/vim/vim73/macros/less.sh "$1" ;}
+vlessold() { /usr/share/vim/vim73/macros/less.sh "$1" ;}
 
-	# http://technotales.wordpress.com/2009/05/24/using-vim-as-a-pager/
-	# vim readonly; to force write use :w!
-	vless() { vim -R "$@" ;}
+	# # http://technotales.wordpress.com/2009/05/24/using-vim-as-a-pager/
+	# # vim readonly; to force write use :w!
+# vless() { nvim -R "$@" ;}
 
 # https://bitbucket.org/antocuni/tty2gif
 # convert ttyrec to gif files
@@ -7929,11 +7929,11 @@ sshot() { ~/.scripts/screenshot.sh area ;}
 # Vim as a pager ( similar to the less command )
 # tutorial video: https://www.youtube.com/watch?v=RefWl8I3nBg
 	# issue: gg hotkey does not jump to exact line
-	vlessold() { /usr/share/vim/vim73/macros/less.sh "$1" ;}
+	vlessold() { /usr/share/nvim/runtime/macros/less.sh "$1" ;}
 
-	# http://technotales.wordpress.com/2009/05/24/using-vim-as-a-pager/
-	# vim readonly; to force write use :w!
-	vless() { vim -R "$@" ;}
+	# # http://technotales.wordpress.com/2009/05/24/using-vim-as-a-pager/
+	# # vim readonly; to force write use :w!
+	# vless() { vim -R "$@" ;}
 
 # https://bitbucket.org/antocuni/tty2gif
 # convert ttyrec to gif files

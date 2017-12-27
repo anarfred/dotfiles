@@ -331,6 +331,12 @@ recent()
       #-------- Thème base16
       BASE16_SHELL=$HOME/.config/base16-shell/
       [ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
+
+      #-------- Thème wal
+      # &   # Run the process in the background.
+      # ( ) # Hide shell job control messages.
+      (wal -t -r &)
+
       #-------- ZSH Syntax Highlightning (DOIT RESTER EN BAS) {{{
       [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
       #source /home/nrfrd/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

@@ -1,60 +1,105 @@
-[colors]
-# Base16 Gruvbox dark, medium
-# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# [colors]
+# # Base16 Gruvbox dark, medium
+# # Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 
-foreground      = #d5c4a1
-foreground_bold = #ebdbb2
-cursor          = #ebdbb2
-background      = #282828
+# foreground      = #d5c4a1
+# foreground_bold = #ebdbb2
+# cursor          = #ebdbb2
+# background      = #282828
+
+# # 16 color space
+
+# # Black, Gray, Silver, White
+# color0  = #282828
+# color8  = #665c54
+# color7  = #d5c4a1
+# color15 = #fbf1c7
+
+# # Red
+# color1  = #fb4934
+# color9  = #fb4934
+
+# # Green
+# color2  = #b8bb26
+# color10 = #b8bb26
+
+# # Yellow
+# color3  = #fabd2f
+# color11 = #fabd2f
+
+# # Blue
+# color4  = #83a598
+# color12 = #83a598
+
+# # Purple
+# color5  = #d3869b
+# color13 = #d3869b
+
+# # Teal
+# color6  = #8ec07c
+# color14 = #8ec07c
+
+# # Extra colors
+# color16 = #fe8019
+# color17 = #d65d0e
+# color18 = #3c3836
+# color19 = #504945
+# color20 = #bdae93
+# color21 = #ebdbb2
+
+
+[colors]
+# Base16 Materia
+# Author: Defman21
+
+foreground      = #CDD3DE
+foreground_bold = #D5DBE5
+cursor          = #D5DBE5
+background      = #263238
 
 # 16 color space
 
 # Black, Gray, Silver, White
-color0  = #282828
-color8  = #665c54
-color7  = #d5c4a1
-color15 = #fbf1c7
+color0  = #263238
+color8  = #707880
+color7  = #CDD3DE
+color15 = #FFFFFF
 
 # Red
-color1  = #fb4934
-color9  = #fb4934
+color1  = #EC5F67
+color9  = #EC5F67
 
 # Green
-color2  = #b8bb26
-color10 = #b8bb26
+color2  = #8BD649
+color10 = #8BD649
 
 # Yellow
-color3  = #fabd2f
-color11 = #fabd2f
+color3  = #FFCC00
+color11 = #FFCC00
 
 # Blue
-color4  = #83a598
-color12 = #83a598
+color4  = #89DDFF
+color12 = #89DDFF
 
 # Purple
-color5  = #d3869b
-color13 = #d3869b
+color5  = #82AAFF
+color13 = #82AAFF
 
 # Teal
-color6  = #8ec07c
-color14 = #8ec07c
+color6  = #80CBC4
+color14 = #80CBC4
 
 # Extra colors
-color16 = #fe8019
-color17 = #d65d0e
-color18 = #3c3836
-color19 = #504945
-color20 = #bdae93
-color21 = #ebdbb2
+color16 = #EA9560
+color17 = #EC5F67
+color18 = #2C393F
+color19 = #37474F
+color20 = #C9CCD3
+color21 = #D5DBE5
+
+
 [options]
-#font = Terminess Powerline 9
-#font = ProFontWindows Nerd Font 10
-#font = MesloLGS Nerd Font 8
-#font = Knack Nerd Font 8
-font = Fira Mono 9
-#font = DejaVu Sans Mono 9
-#font = FuraCode NF 9
-#font   FuraMonoForPowerline NF 9
-#font = UbuntuMono Nerd Font 9
-#font = Profont for Powerline 9
+#font = Iosevka Nerd Font Regular 9
+#font = ProFontIIx Nerd Font Regular 8 
+font = Knack Nerd Font Regular 9 
 
