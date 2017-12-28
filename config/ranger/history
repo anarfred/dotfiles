@@ -1,3 +1,7 @@
+find inde
+rename glitch1.jpg
+search news
+find gpg
 filter m
 find .sa
 rename Frédéric_Vachon_cv.odt
@@ -39,12 +43,8 @@ set colorscheme default
 set colorscheme snow
 set colorscheme jungle
 shell ./launch.sh
-shell 
 cd .mutt
 open_with zathura
 cd .samael
-cd .local/share/TelegramDesktop/
-cd .samael/
-cd /home/nrfrd/Téléchargements
-cd 
-cd cub_shota_-female
+cd .local/share
+shell 
