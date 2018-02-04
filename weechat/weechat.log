@@ -1,46 +1,38 @@
-[2016-11-17 10:04:45] WeeChat 1.5 (compilé le Jun  5 2016 16:20:35)
-[2016-11-17 10:04:45] Lecture du fichier de configuration sec.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration weechat.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration plugins.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration charset.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration logger.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration exec.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration trigger.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration aspell.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration alias.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration xfer.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration irc.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration relay.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration colorize_nicks.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration wg.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration iset.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration buffers.conf
-[2016-11-17 10:04:45] Lecture du fichier de configuration script.conf
-[2016-11-17 10:04:45] irc : connexion au serveur ix.undernet.org/6667...
-[2016-11-17 10:04:45] irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
-[2016-11-17 10:04:45] irc : connexion au serveur chat.freenode.net/6697 (SSL)...
-[2016-11-17 10:04:46] irc : connexion au serveur irc.rizon.net/6667...
-[2016-11-17 10:05:03] irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
-[2016-11-17 10:05:05] irc : connexion au serveur ix.undernet.org/6667...
-[2016-11-17 10:05:24] irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
-[2016-11-17 10:05:55] irc : connexion au serveur chat.freenode.net/6697 (SSL)...
-[2016-11-17 10:06:04] irc : connexion au serveur irc.indymedia.org/6697 (SSL)...
-[2016-11-17 10:06:20] irc : connexion au serveur chat.freenode.net/6697 (SSL)...
-[2016-11-17 10:06:33] Écriture du fichier de configuration plugins.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration relay.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration alias.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration buffers.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration iset.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration script.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration exec.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration irc.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration colorize_nicks.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration wg.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration wg.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration trigger.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration aspell.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration charset.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration xfer.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration logger.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration weechat.conf
-[2016-11-17 10:06:33] Écriture du fichier de configuration sec.conf
+[2018-01-27 23:31:52] WeeChat 2.0.1 (compiled on Jan  3 2018 08:05:45)
+[2018-01-27 23:31:52] Reading configuration file sec.conf
+[2018-01-27 23:31:52] Reading configuration file weechat.conf
+[2018-01-27 23:31:52] Reading configuration file plugins.conf
+[2018-01-27 23:31:52] Reading configuration file charset.conf
+[2018-01-27 23:31:52] Reading configuration file logger.conf
+[2018-01-27 23:31:52] Reading configuration file exec.conf
+[2018-01-27 23:31:52] Reading configuration file trigger.conf
+[2018-01-27 23:31:52] Reading configuration file alias.conf
+[2018-01-27 23:31:52] Writing configuration file buflist.conf (default options)
+[2018-01-27 23:31:52] Reading configuration file buflist.conf
+[2018-01-27 23:31:52] Writing configuration file fifo.conf (default options)
+[2018-01-27 23:31:52] Reading configuration file fifo.conf
+[2018-01-27 23:31:52] Reading configuration file xfer.conf
+[2018-01-27 23:31:52] Reading configuration file irc.conf
+[2018-01-27 23:31:52] Reading configuration file relay.conf
+[2018-01-27 23:31:52] Reading configuration file script.conf
+[2018-01-27 23:31:52] Writing configuration file fset.conf (default options)
+[2018-01-27 23:31:52] Reading configuration file fset.conf
+[2018-01-27 23:31:52] irc: connecting to server irc.indymedia.org/6697 (SSL)...
+[2018-01-27 23:31:52] irc: connecting to server chat.freenode.net/6697 (SSL)...
+[2018-01-27 23:31:52] irc: connecting to server irc.rizon.net/6667...
+[2018-01-27 23:32:10] Terminal lost, exiting WeeChat...
+[2018-01-27 23:32:10] Writing configuration file plugins.conf
+[2018-01-27 23:32:10] Writing configuration file irc.conf
+[2018-01-27 23:32:10] Writing configuration file fset.conf
+[2018-01-27 23:32:10] Writing configuration file exec.conf
+[2018-01-27 23:32:10] Writing configuration file alias.conf
+[2018-01-27 23:32:10] Writing configuration file script.conf
+[2018-01-27 23:32:10] Writing configuration file charset.conf
+[2018-01-27 23:32:10] Writing configuration file buflist.conf
+[2018-01-27 23:32:10] Writing configuration file trigger.conf
+[2018-01-27 23:32:10] Writing configuration file xfer.conf
+[2018-01-27 23:32:10] Writing configuration file fifo.conf
+[2018-01-27 23:32:10] Writing configuration file relay.conf
+[2018-01-27 23:32:10] Writing configuration file logger.conf
+[2018-01-27 23:32:10] Writing configuration file weechat.conf
+[2018-01-27 23:32:10] Writing configuration file sec.conf

@@ -1,8 +1,3 @@
-find inde
-rename glitch1.jpg
-search news
-find gpg
-filter m
 find .sa
 rename Frédéric_Vachon_cv.odt
 rename Frédéric_Vachon_lettre.docx
@@ -33,7 +28,6 @@ rename Wimark2017.pdf
 shell -p
 search 
 filter Wo
-
 shell find . -type f -iname "*.webm" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -ab 128k -ar 44100 -y "${FILE%.webm}.mp3";' _ '{}' \;
 q
 find Odoni
@@ -48,3 +42,9 @@ open_with zathura
 cd .samael
 cd .local/share
 shell 
+shell mkdir KP
+find baro
+find Dow
+
+shell mkdir justice
+shell mkdir grimes

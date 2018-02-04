@@ -1,7 +1,7 @@
 [user]
 	name = Frédéric Vachon
 	email = frederic.vachon.1@ulaval.ca
-	signingkey = C5B3FF87
+	signingkey = DD8942D7C8B03597
 [credential]
 	helper = cache --timeout=3600
 [color]

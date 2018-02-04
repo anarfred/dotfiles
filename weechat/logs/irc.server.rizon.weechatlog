@@ -662,3 +662,65 @@
 2016-11-17 10:04:54	--	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
 2016-11-17 10:04:54	--	NickServ (service@rizon.net): please choose a different nick.
 2016-11-17 10:06:33	--	irc : déconnecté du serveur
+2018-01-27 23:31:52	--	irc: connecting to server irc.rizon.net/6667...
+2018-01-27 23:31:52	--	irc: connected to irc.rizon.net/6667 (35.202.219.169)
+2018-01-27 23:31:52	--	irc.falconspy.org: *** Looking up your hostname...
+2018-01-27 23:31:52	--	irc.falconspy.org: *** Found your hostname
+2018-01-27 23:31:52	--	irc: client capability, server supports: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+2018-01-27 23:31:52	--	irc: client capability, requesting: sasl
+2018-01-27 23:31:52	--	irc: client capability, enabled: sasl
+2018-01-27 23:31:52	--	PLAIN,EXTERNAL :are available SASL mechanisms
+2018-01-27 23:31:52	--	SASL authentication failed
+2018-01-27 23:31:53	--	SASL authentication aborted
+2018-01-27 23:31:53	--	irc.falconspy.org: *** Your host is masked (Rizon-B6A8F136.mc.videotron.ca)
+2018-01-27 23:31:53	--	Welcome to the Rizon Internet Relay Chat Network bgdnvst
+2018-01-27 23:31:53	--	Your host is irc.falconspy.org, running version plexus-4(hybrid-8.1.20)
+2018-01-27 23:31:53	--	This server was created Sep 15 2017 at 22:19:46
+2018-01-27 23:31:53	--	irc.falconspy.org plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2018-01-27 23:31:53	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2018-01-27 23:31:53	--	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 NAMESX UHNAMES AWAYLEN=180 KNOCK ELIST=CMNTU SAFELIST :are supported by this server
+2018-01-27 23:31:53	--	There are 34 users and 15196 invisible on 17 servers
+2018-01-27 23:31:53	--	56 :IRC Operators online
+2018-01-27 23:31:53	--	1 :unknown connection(s)
+2018-01-27 23:31:53	--	14905 :channels formed
+2018-01-27 23:31:53	--	I have 15230 clients and 17 servers
+2018-01-27 23:31:53	--	Current local users: 15230  Max: 18202
+2018-01-27 23:31:53	--	Current global users: 15230  Max: 18202
+2018-01-27 23:31:53	--	- irc.falconspy.org Message of the Day -
+2018-01-27 23:31:53	--	-          oo                            
+2018-01-27 23:31:53	--	-
+2018-01-27 23:31:53	--	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2018-01-27 23:31:53	--	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2018-01-27 23:31:53	--	- 88       88  .Y8P    88.  .88 88    88 
+2018-01-27 23:31:53	--	- dP       dP d888888P `88888P' dP    dP
+2018-01-27 23:31:53	--	-
+2018-01-27 23:31:53	--	- Rizon Chat Network -- http://rizon.net
+2018-01-27 23:31:53	--	-
+2018-01-27 23:31:53	--	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2018-01-27 23:31:53	--	-
+2018-01-27 23:31:53	--	- Rules:
+2018-01-27 23:31:53	--	- o No spamming or flooding
+2018-01-27 23:31:53	--	- o No clones or malicious bots
+2018-01-27 23:31:53	--	- o No takeovers
+2018-01-27 23:31:53	--	- o No distribution of child pornography
+2018-01-27 23:31:53	--	- o Clients must respond to VERSION requests
+2018-01-27 23:31:53	--	- o Rizon staff may disconnect clients for any or no reason
+2018-01-27 23:31:53	--	-
+2018-01-27 23:31:53	--	- First steps:
+2018-01-27 23:31:53	--	- o To register your nick: /msg NickServ HELP
+2018-01-27 23:31:53	--	- o To register your channel: /msg ChanServ HELP
+2018-01-27 23:31:53	--	- o To get a vHost: /msg HostServ HELP REQUEST
+2018-01-27 23:31:53	--	- o For other help with Rizon: /join #help
+2018-01-27 23:31:53	--	-
+2018-01-27 23:31:53	--	- Usage of this network is a privilege, not a right. Rizon is a
+2018-01-27 23:31:53	--	- transit provider, therefore no person or entity involved with
+2018-01-27 23:31:53	--	- *.rizon.net or irc.falconspy.org takes any responsibility for
+2018-01-27 23:31:53	--	- users' actions. Absolutely no warranty is expressed or implied.
+2018-01-27 23:31:53	--	End of /MOTD command.
+2018-01-27 23:31:53	--	User mode [+ix] by bgdnvst
+2018-01-27 23:31:53	--	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2018-01-27 23:31:53	--	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2018-01-27 23:31:53	--	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2018-01-27 23:31:53	--	CTCP requested by py-ctcp: VERSION
+2018-01-27 23:31:53	--	CTCP reply to py-ctcp: VERSION WeeChat 2.0.1 (Jan  3 2018)
+2018-01-27 23:32:10	--	irc: disconnected from server

@@ -22,7 +22,7 @@ set modelines=0                              " Security
 set nocompatible                             " Don't try to be vi compatible
 set number                                   " Show line numbers
 set ruler                                    " Show file stats
-set spell spelllang=fr
+set spelllang=fr
 set ttyfast                                  " Rendering
 set visualbell                               " Blink cursor on error instead of beeping (grr)
 "set wildmode=full wildmenu

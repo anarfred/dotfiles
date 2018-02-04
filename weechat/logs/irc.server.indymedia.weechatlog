@@ -1459,3 +1459,124 @@
 2016-11-17 10:06:05	=!=	irc : erreur : Erreur dans le certificat.
 2016-11-17 10:06:05	--	irc : reconnexion au serveur dans 1 minute, 20 secondes
 2016-11-17 10:06:33	--	irc : déconnecté du serveur
+2018-01-27 23:31:52	--	irc: connecting to server irc.indymedia.org/6697 (SSL)...
+2018-01-27 23:31:53	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2018-01-27 23:31:53	--	gnutls: receiving 2 certificates
+2018-01-27 23:31:53	--	 - certificate[1] info:
+2018-01-27 23:31:53	--	   - subject `CN=irc.indymedia.org', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x04ef3174c96a00765e91afc0b3e10ce7b7d4, RSA key 2048 bits, signed using RSA-SHA256, activated `2017-12-03 16:20:44 UTC', expires `2018-03-03 16:20:44 UTC', pin-sha256="A3Wvpzr96aD7+291XjQxHmfSRVRyVKkM9RAyvpPKO3A="
+2018-01-27 23:31:53	--	 - certificate[2] info:
+2018-01-27 23:31:53	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2018-01-27 23:31:53	--	gnutls: peer's certificate is trusted
+2018-01-27 23:31:53	--	irc: connected to irc.indymedia.org/6697 (162.247.75.152)
+2018-01-27 23:31:53	--	che.indymedia.org: *** Looking up your hostname...
+2018-01-27 23:31:53	--	che.indymedia.org: *** Found your hostname
+2018-01-27 23:31:53	--	irc: client capability, server supports: account-notify away-notify cap-notify chghost extended-join multi-prefix sasl tls userhost-in-names
+2018-01-27 23:31:53	--	irc: client capability, requesting: sasl
+2018-01-27 23:31:53	--	irc: client capability, enabled: sasl
+2018-01-27 23:31:53	--	PLAIN :are available SASL mechanisms
+2018-01-27 23:31:53	--	SASL authentication failed
+2018-01-27 23:31:54	--	SASL authentication aborted
+2018-01-27 23:31:54	--	Welcome to the Indymedia Internet Relay Chat Network bgdnvst
+2018-01-27 23:31:54	--	Your host is che.indymedia.org[che.indymedia.org/6697], running version charybdis-3.5.5
+2018-01-27 23:31:54	--	This server was created Thu Aug  3 17:30:25 UTC 2017
+2018-01-27 23:31:54	--	che.indymedia.org charybdis-3.5.5 DQRSZaghiloswz CFILOPQRSbcefgijklmnopqrstvz bkloveqjfI
+2018-01-27 23:31:54	--	CPRIVMSG CNOTICE WHOX KNOCK MONITOR=100 SAFELIST ELIST=CTU FNC ETRACE CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+2018-01-27 23:31:54	--	CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:45 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Indymedia STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+2018-01-27 23:31:54	--	TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz CLIENTVER=3.0 :are supported by this server
+2018-01-27 23:31:54	--	There are 1 users and 367 invisible on 4 servers
+2018-01-27 23:31:54	--	3 :IRC Operators online
+2018-01-27 23:31:54	--	187 :channels formed
+2018-01-27 23:31:54	--	I have 98 clients and 1 servers
+2018-01-27 23:31:54	--	98 101 :Current local users 98, max 101
+2018-01-27 23:31:54	--	368 404 :Current global users 368, max 404
+2018-01-27 23:31:54	--	Highest connection count: 102 (101 clients) (1719 connections received)
+2018-01-27 23:31:54	--	- che.indymedia.org Message of the Day -
+2018-01-27 23:31:54	--	-                 #                            #
+2018-01-27 23:31:54	--	-              ###                             ####
+2018-01-27 23:31:54	--	-            ####                                ###
+2018-01-27 23:31:54	--	-          ####                           #       ###
+2018-01-27 23:31:54	--	-         ####     ###                    ###     ####
+2018-01-27 23:31:54	--	-        ####    ####                      ###     ####
+2018-01-27 23:31:54	--	-       ####    ###     ##           ##     ###    ####
+2018-01-27 23:31:54	--	-      ####    ###    ###             ##     ###    ####
+2018-01-27 23:31:54	--	-     #####   ###    ###               ##    ###    ####
+2018-01-27 23:31:54	--	-     ####   ####   ###      ####      ###   ###    ####
+2018-01-27 23:31:54	--	-     ####   ###    ##     #######      ##   ###    ####
+2018-01-27 23:31:54	--	-    ####    ###   ###     ########    ###   ###   #####
+2018-01-27 23:31:54	--	-    ####    ###   ##      #######     ##    ###   ####
+2018-01-27 23:31:54	--	-    ####    ###   ##       #####     ###   ###    ####
+2018-01-27 23:31:54	--	-    ####    ###   ###   #########    ##   ####   ####
+2018-01-27 23:31:54	--	-     ###    ###    ##   ########   ###    ###   #####
+2018-01-27 23:31:54	--	-     ####    ###    ##   #######  ##     ###    ####
+2018-01-27 23:31:54	--	-      ###     ###        #######       ###     ####
+2018-01-27 23:31:54	--	-      ####      ##      ########      ##      ###
+2018-01-27 23:31:54	--	-       ####             ########            ####
+2018-01-27 23:31:54	--	-         ###            #######            ###
+2018-01-27 23:31:54	--	-           ##           #######          ###
+2018-01-27 23:31:54	--	-                        #######
+2018-01-27 23:31:54	--	-                     ############
+2018-01-27 23:31:54	--	-                     ############
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	-            che.indymedia.org IMC Chat Server
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	-  "It is not just a simple game, it is a weapon of the revolution."
+2018-01-27 23:31:54	--	-                                        - Ernesto 'Che' Guevara
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- *** NETWORK POLICY **************************************************
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- This IRC network is only for indymedia related usage. Please find
+2018-01-27 23:31:54	--	- another network for your botnets, spam, viruses etc., as well as
+2018-01-27 23:31:54	--	- topically unrelated usage. We welcome you to discuss whether or not
+2018-01-27 23:31:54	--	- your intended use is appropriate in the #ircd channel or on the
+2018-01-27 23:31:54	--	- <ircd@lists.indymedia.org> mailing list.
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- Returning visitors are encouraged to register with nickserv. When
+2018-01-27 23:31:54	--	- registering with nickserv, please set your email address too, so you
+2018-01-27 23:31:54	--	- can recover your password later. You should also put your wiki URL
+2018-01-27 23:31:54	--	- or local imc into your nickserv profile.
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- If you speak languages other than english, please join the
+2018-01-27 23:31:54	--	- appropriate channel for those languages. For Espanol, join #es, for
+2018-01-27 23:31:54	--	- German, join #de, and so forth.
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- *** USAGE ***********************************************************
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- Services for protecting your nickname and channel registrations are
+2018-01-27 23:31:54	--	- available. For information, do:
+2018-01-27 23:31:54	--	- /msg nickserv help
+2018-01-27 23:31:54	--	- /msg chanserv help
+2018-01-27 23:31:54	--	- /msg memoserv help
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- For IRCd-specific discussion and questions, join #ircd. To reach the
+2018-01-27 23:31:54	--	- working group mantaining this IRC network mail
+2018-01-27 23:31:54	--	- <ircd@lists.indymedia.org>.
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- To access IRC via a web browser (java or html), please visit
+2018-01-27 23:31:54	--	- https://chat.indymedia.org
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- *** SECURE CONNECTIONS **********************************************
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- You can connect to this irc.indymedia.org via SSL, which will encrypt
+2018-01-27 23:31:54	--	- communications between you and the server. The IRCd working group
+2018-01-27 23:31:54	--	- explicitly recommends SSL encrypted connections over non-encrypted
+2018-01-27 23:31:54	--	- ones. Please note that you may not be able to join some channels if
+2018-01-27 23:31:54	--	- the channel mantainers have chosen to disallow non SSL users.
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- To use IRC via SSL (encrypted connection), you need to connect your
+2018-01-27 23:31:54	--	- SSL-supportive IRC client to port 6697. You can usually do this with
+2018-01-27 23:31:54	--	- /server -ssl, or /sslserver depending on your client software.
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- For complete information and instructions, see the HOWTO at:
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- https://docs.indymedia.org/view/Sysadmin/SecureIRC
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- The SSL Certificate fingerprint of this server is:
+2018-01-27 23:31:54	--	-
+2018-01-27 23:31:54	--	- SHA1 Fingerprint=0E:50:7B:4E:BE:18:EA:96:7D:C4:67:F1:98:9B:4F:71:BD:F8:38:F9
+2018-01-27 23:31:54	--	End of /MOTD command.
+2018-01-27 23:31:54	--	User mode [+Zhi] by bgdnvst
+2018-01-27 23:31:54	--	vnnfaqokpy172.773-37-60.mc.videotron.ca :is now your hidden host
+2018-01-27 23:32:10	--	irc: disconnected from server
