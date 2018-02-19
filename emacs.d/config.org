@@ -1,0 +1,290 @@
+My emacs config. Since I'm new to all this, much of it is stolen from
+uncle_dave's config.
+
+* Looks
+** Remove lame startup screen
+We use an actual replacement for it, keep reading or head directly to =dashboard=.
+#+BEGIN_SRC emacs-lisp
+(setq inhibit-startup-message t)
+#+END_SRC
+** Disable menus and scrollbars
+If you like using any of those, change =-1= to =1=.
+#+BEGIN_SRC emacs-lisp
+(tool-bar-mode -1)
+(menu-bar-mode -1)
+(scroll-bar-mode -1)
+#+END_SRC
+** Disable bell
+This is annoying, remove this line if you like being visually reminded of events.
+#+BEGIN_SRC emacs-lisp
+(setq ring-bell-function 'ignore)
+#+END_SRC
+** Set UTF-8 encoding
+#+BEGIN_SRC emacs-lisp 
+  (setq locale-coding-system 'utf-8)
+  (set-terminal-coding-system 'utf-8)
+  (set-keyboard-coding-system 'utf-8)
+  (set-selection-coding-system 'utf-8)
+  (prefer-coding-system 'utf-8)
+#+END_SRC
+** Highligh current line
+=hl-line= is awesome! It's not very awesome in the terminal version of emacs though, so we don't use that.
+#+BEGIN_SRC emacs-lisp
+(when window-system (global-hl-line-mode t))
+#+END_SRC
+** Pretty symbols
+Changes =lambda= to an actual symbol and a few others as well, only in the GUI version though.
+#+BEGIN_SRC emacs-lisp
+(when window-system (global-prettify-symbols-mode t))
+#+END_SRC
+
+* Terminal
+** Setting default shell to zsh
+#+BEGIN_SRC emacs-lisp
+  (defvar my-term-shell "/bin/zsh")
+  (defadvice ansi-term (before force-bash)
+    (interactive (list my-term-shell)))
+  (ad-activate 'ansi-term)
+#+END_SRC
+
+* Org
+** Org Bullets
+#+BEGIN_SRC emacs-lisp
+  (use-package org-bullets
+    :ensure t
+    :config
+    (add-hook 'org-mode-hook (lambda () (org-bullets-mode))))
+#+END_SRC
+   
+* Helm
+I'm mostly using sacha chua's config: http://pages.sachachua.com/.emacs.d/Sacha.html#org04e47b9
+
+#+BEGIN_SRC emacs-lisp
+  (use-package helm
+    :ensure t
+    :diminish helm-mode
+    :init
+    (progn
+      (require 'helm-config)
+      (setq helm-candidate-number-limit 100)
+      ;; From https://gist.github.com/antifuchs/9238468
+      (setq helm-idle-delay 0.0 ; update fast sources immediately (doesn't).
+            helm-input-idle-delay 0.01  ; this actually updates things
+                                          ; reeeelatively quickly.
+            helm-yas-display-key-on-candidate t
+            helm-quick-update t
+            helm-M-x-requires-pattern nil
+            helm-ff-skip-boring-files t)
+      (helm-mode))
+    :bind (("C-c h" . helm-mini)
+           ("C-h a" . helm-apropos)
+           ("C-x C-b" . helm-buffers-list)
+           ("C-x b" . helm-buffers-list)
+           ("M-y" . helm-show-kill-ring)
+           ("M-x" . helm-M-x)
+           ("C-x c o" . helm-occur)
+           ("C-x c s" . helm-swoop)
+           ("C-x c y" . helm-yas-complete)
+           ("C-x c Y" . helm-yas-create-snippet-on-region)
+           ("C-x c b" . helm-do-grep-book-notes)
+           ("C-x c SPC" . helm-all-mark-rings)))
+  (ido-mode -1) ;; Turn off ido mode in case I enabled it accidentally
+#+END_SRC
+#+BEGIN_SRC emacs-lisp
+  (use-package helm-descbinds
+    :ensure t
+    :defer t
+    :bind (("C-h b" . helm-descbinds)
+           ("C-h w" . helm-descbinds)))
+#+END_SRC
+
+** Helm-swoop
+#+BEGIN_SRC emacs-lisp
+  (use-package helm-swoop
+    :ensure t
+    :bind
+   (("C-S-s" . helm-swoop)
+    ("M-i" . helm-swoop)
+    ("M-s s" . helm-swoop)
+    ("M-s M-s" . helm-swoop)
+    ("M-I" . helm-swoop-back-to-last-point)
+    ("C-c M-i" . helm-multi-swoop)
+    ("C-x M-i" . helm-multi-swoop-all)
+    )
+   :config
+   (progn
+     (define-key isearch-mode-map (kbd "M-i") 'helm-swoop-from-isearch)
+     (define-key helm-swoop-map (kbd "M-i") 'helm-multi-swoop-all-from-helm-swoop))
+   (setq
+    helm-mode-fuzzy-match t
+    helm-completion-in-region-fuzzy-match t)
+  )
+#+END_SRC
+* Moving around emacs
+One of the most important things about a text editor is how efficient you manage
+to be when using it, how much time do basic tasks take you and so on and so forth.
+One of those tasks is moving around files and buffers, whatever you may use emacs for
+you /will/ be jumping around buffers like it's serious business, the following
+set of enhancements aims to make it easier.
+
+As a great emacs user once said:
+
+#+BEGIN_QUOTE
+Do me the favor, do me the biggest favor, matter of fact do yourself the biggest favor and integrate those into your workflow.
+#+END_QUOTE
+
+** scrolling and why does the screen move
+I don't know to be honest, but this little bit of code makes scrolling with emacs a lot nicer.
+#+BEGIN_SRC emacs-lisp
+  (setq scroll-conservatively 100)
+#+END_SRC
+
+** which-key and why I love emacs
+In order to use emacs, you don't need to know how to use emacs.
+It's self documenting, and coupled with this insanely useful package, it's even easier.
+In short, after you start the input of a command and stop, pondering what key must follow,
+it will automatically open a non-intrusive buffer at the bottom of the screen offering
+you suggestions for completing the command, that's it, nothing else.
+
+It's beautiful
+#+BEGIN_SRC emacs-lisp
+  (use-package which-key
+    :ensure t
+    :config
+      (which-key-mode))
+#+END_SRC
+
+** Beacon
+While changing buffers or workspaces, the first thing you do is look for your cursor.
+Unless you know its position, you can not move it efficiently. Every time you change
+buffers, the current position of your cursor will be briefly highlighted now.
+#+BEGIN_SRC emacs-lisp
+  (use-package beacon
+    :ensure t
+    :config
+      (beacon-mode 1))
+#+END_SRC
+
+** Functionality
+*** Disable backups and auto-saves
+I don't use either, you might want to turn those from =nil= to =t= if you do.
+#+BEGIN_SRC emacs-lisp
+(setq make-backup-files nil)
+(setq auto-save-default nil)
+#+END_SRC
+*** Change yes-or-no questions into y-or-n questions
+#+BEGIN_SRC emacs-lisp
+(defalias 'yes-or-no-p 'y-or-n-p)
+#+END_SRC
+* MPD
+** Emms
+#+BEGIN_SRC emacs-lisp
+  (use-package emms
+    :ensure t
+    :config
+      (require 'emms-setup)
+      (require 'emms-player-mpd)
+      (emms-all)
+      (setq emms-seek-seconds 5)
+      (setq emms-player-list '(emms-player-mpd))
+      (setq emms-info-functions '(emms-info-mpd))
+      (setq emms-player-mpd-server-name "localhost")
+      (setq emms-player-mpd-server-port "6600")
+    :bind
+      ("s-m p" . emms)
+      ("s-m b" . emms-smart-browse)
+      ("s-m r" . emms-player-mpd-update-all-reset-cache)
+      ("<XF86AudioPrev>" . emms-previous)
+      ("<XF86AudioNext>" . emms-next)
+      ("<XF86AudioPlay>" . emms-pause)
+      ("<XF86AudioStop>" . emms-stop))
+
+  (setq mpc-host "localhost:6601")
+#+END_SRC
+** Mingus
+#+BEGIN_SRC emacs-lisp
+  (use-package mingus
+    :ensure t)
+#+END_SRC
+** Starting MPD
+
+#+BEGIN_SRC emacs-lisp
+  (defun mpd/start-music-daemon ()
+    "Start MPD, connects to it and syncs the metadata cache."
+    (interactive)
+    (shell-command "mpd")
+    (mpd/update-database)
+    (emms-player-mpd-connect)
+    (emms-cache-set-from-mpd-all)
+    (message "MPD Started!"))
+  (global-set-key (kbd "s-m c") 'mpd/start-music-daemon)
+#+END_SRC
+** Killing MPD
+#+BEGIN_SRC emacs-lisp
+  (defun mpd/kill-music-daemon ()
+    "Stops playback and kill the music daemon."
+    (interactive)
+    (emms-stop)
+    (call-process "killall" nil nil nil "mpd")
+    (message "MPD Killed!"))
+  (global-set-key (kbd "s-m k") 'mpd/kill-music-daemon)
+
+  (defun mpd/update-database ()
+    "Updates the MPD database synchronously."
+    (interactive)
+    (call-process "mpc" nil nil nil "update")
+    (message "MPD Database Updated!"))
+  (global-set-key (kbd "s-m u") 'mpd/update-database)
+#+END_SRC
+
+* Modeline
+The modeline is the heart of emacs, it offers information at all times, it's persistent
+and verbose enough to gain a full understanding of modes and states you are in.
+
+
+Due to the fact that we attempt to use emacs as a desktop environment replacement,
+and external bar showing the time, the battery percentage and more system info would be great to have.
+I have however abandoned polybar in favor of a heavily modified modeline, this offers me more space
+on the screen and better integration.
+
+
+One modeline-related setting that is missing and is instead placed at the bottom is =diminish=.
+** Spaceline!
+I may not use spacemacs, since I do not like evil-mode and find spacemacs incredibly bloated and slow,
+however it would be stupid not to acknowledge the best parts about it, the theme and their modified powerline setup.
+
+This enables spaceline, it looks better and works very well with my theme of choice.
+#+BEGIN_SRC emacs-lisp
+  (use-package spaceline
+    :ensure t
+    :config
+    (require 'spaceline-config)
+      (setq spaceline-buffer-encoding-abbrev-p nil)
+      (setq spaceline-line-column-p nil)
+      (setq spaceline-line-p nil)
+      (setq powerline-default-separator (quote arrow))
+      (spaceline-spacemacs-theme))
+#+END_SRC
+
+** Cursor position
+Show the current line and column for your cursor.
+We are not going to have =relative-linum-mode= in every major mode, so this is useful.
+#+BEGIN_SRC emacs-lisp
+  (line-number-mode 1)
+  (column-number-mode 1)
+#+END_SRC
+
+** Clock
+If you prefer the 12hr-format, change the variable to =nil= instead of =t=.
+
+*** Time format
+#+BEGIN_SRC emacs-lisp
+  (setq display-time-24hr-format t)
+  (setq display-time-format "%H:%M - %d %B %Y")
+#+END_SRC
+
+*** Enabling the mode
+This turns on the clock globally.
+#+BEGIN_SRC emacs-lisp
+  (display-time-mode 1)
+#+END_SRC
