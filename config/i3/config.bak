@@ -2,6 +2,24 @@
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 #
+set_from_resource $darkred     color1  #000000
+set_from_resource $red         color9  #000000
+set_from_resource $darkgreen   color2  #000000
+set_from_resource $green       color10 #000000
+set_from_resource $darkyellow  color3  #000000
+set_from_resource $yellow      color11 #000000
+set_from_resource $darkblue    color4  #000000
+set_from_resource $blue        color12 #000000
+set_from_resource $darkmagenta color5  #000000
+set_from_resource $magenta     color13 #000000
+set_from_resource $darkcyan    color6  #000000
+set_from_resource $cyan        color14 #000000
+set_from_resource $darkwhite   color7  #000000
+set_from_resource $white       color15 #000000
+# Use custom colors for black
+set $black       #282828
+set $darkblack   #1d2021
+set $transparent #00000000
 
 set $mod Mod4
 #set $mod Control
@@ -9,7 +27,7 @@ set $alt Mod1
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Dejavu Sans Mono 9
+font pango:Knack NF Regular 8
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -33,7 +51,7 @@ bindsym $mod+Shift+q kill
     bindsym $mod+m exec /home/nrfrd/bin/rofi-scripts/rofi-surfraw/rofi-surfraw #-run-command qutebrowser
     bindsym $mod+Shift+m exec /home/nrfrd/bin/buku_run/buku_run #-run-command qutebrowser
     bindsym $mod+Tab exec --no-startup-id rofi -show window
-    bindsym $mod+Shift+b exec --no-startup-id /home/nrfrd/Archives/bin/rofi-bibbrowser/rofi-bibbrowser
+bindsym $mod+Shift+b exec --no-startup-id /home/nrfrd/Archives/bin/rofi-bibbrowser/rofi-bibbrowser
 # }}}
 
 # change focus {{{
@@ -109,16 +127,16 @@ bindsym $mod+Shift+q kill
     bindsym $mod+c focus child
 
 ## setting variables {{{
-    set $ws1 1
-    set $ws2 2
-    set $ws3 3
-    set $ws4 4
-    set $ws5 5
-    set $ws6 6
-    set $ws7 7
-    set $ws8 8
-    set $ws9 9
-    set $ws0 10
+    set $ws1 1I
+    set $ws2 2II
+    set $ws3 3III
+    set $ws4 4IV
+    set $ws5 5V
+    set $ws6 6VI
+    set $ws7 7VII
+    set $ws8 8VIII
+    set $ws9 9IX
+    set $ws0 10X
 # }}}
 
 # switch to workspace {{{
@@ -196,8 +214,29 @@ bindsym $mod+Shift+q kill
 
 bindsym $mod+r mode "resize"
 
+### Handy Menu Mode ### {{{
+  set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
+    mode "mode_system" {
+      bindsym l exec --no-startup-id $Locker, mode "default"
+        bindsym e exec --no-startup-id pkill lemonbar && i3-msg exit, mode "default"
+        bindsym s exec --no-startup-id $Locker && systemctl suspend, mode "default"
+        bindsym h exec --no-startup-id $Locker && systemctl hibernate, mode "default"
+        bindsym r exec --no-startup-id systemctl reboot, mode "default"
+        bindsym Shift+s exec --no-startup-id systemctl poweroff -i, mode "default"
+
+## back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+    }
+
+  bindsym $mod+Shift+p mode "mode_system"
+    bindsym $mod+End mode "mode_system"
+    bindsym XF86Tools mode "$mode_system"
+### End Handy Menu Mode ### }}}
+
 # Capture d'écan
         bindsym Print exec --no-startup-id scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/Images/screenshots/'
+
 
 # Personnalisation supplémentaire
     #bindsym $mod+t exec /home/nrfrd/bin/j4-themer -i
@@ -205,14 +244,10 @@ bindsym $mod+r mode "resize"
 # Theme
 # borders
 # state                       border      bg          text        indicator
-    # client.focused            $darkgreen  $darkgreen  $white $black
-    # client.unfocused          $yellow     $yellow     $darkwhite  $black
-    # client.focused_inactive   $white      $white      $red $black
-    # client.urgent             $red        $darkcyan   $darkred    $black
-client.focused $blue $blue #ffffff $blue $blue
-client.unfocused $gray $gray #ffffff $gray $gray
-client.focused_inactive $gray $gray #ffffff $gray $gray
-hide_edge_borders smart
+    client.focused            $darkgreen  $darkgreen  $white $black
+    client.unfocused          $yellow     $yellow     $darkwhite  $black
+    client.focused_inactive   $white      $white      $red $black
+    client.urgent             $red        $darkcyan   $darkred    $black
 
 # scratchpad
     bindsym $mod+Shift+minus move scratchpad
@@ -234,13 +269,9 @@ hide_edge_borders smart
     bindsym XF86MonBrightnessUp exec xbacklight -inc 10
 
 # Raccourcis pour la gestion du volume
-    # bindsym XF86AudioRaiseVolume exec amixer -D pulse set Master 5%+ unmute
-    # bindsym XF86AudioLowerVolume exec amixer -D pulse set Master 5%- unmute
-    # bindsym XF86AudioMute exec amixer -D pulse set Master 1+ togglemute
-# Pour Debian
-    bindsym XF86AudioRaiseVolume exec amixer set 'Master' 10%+ unmute
-    bindsym XF86AudioLowerVolume exec amixer set 'Master' 10%- unmute
-    bindsym XF86AudioMute exec amixer -q set Master 1+ togglemute
+    bindsym XF86AudioRaiseVolume exec amixer -D pulse set Master 5%+ unmute
+    bindsym XF86AudioLowerVolume exec amixer -D pulse set Master 5%- unmute
+    bindsym XF86AudioMute exec amixer -D pulse set Master 1+ togglemute
 
 # MPD controls
    bindsym XF86AudioPlay exec mpc toggle
@@ -257,11 +288,54 @@ hide_edge_borders smart
 
 # Verrouille avec i3lock
 #bindsym XF86ScreenSaver exec i3lock
-#    bindsym XF86ScreenSaver exec i3lock-extra -s -p -P 4
+    bindsym XF86ScreenSaver exec i3lock-extra -s -p -P 4
 #bindsym XF86ScreenSaver exec i3lock-extra -s -p -P 4  -o /home/nrfrd/.lock.png 
-#exec xautolock -time 5 -locker 'i3lock-extra -s -p -P 4' &
-bindsym $mod+shift+x exec betterlockscreen --lock
+exec xautolock -time 5 -locker 'i3lock-extra -s -p -P 4' &  
 
+# Gestion des espaces# {{{
+  for_window [class="^.*"] border pixel 2 # Enlève les titres
+    for_window [class="^.*"] border pixel 2 # Enlève les titres
+    gaps inner 10 # Espaces par défaut
+
+    set $mode_gaps Gaps: (o) outer, (i) inner
+    set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
+    set $mode_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)
+    bindsym $mod+Shift+g mode "$mode_gaps"
+
+    mode "$mode_gaps" {
+      bindsym o      mode "$mode_gaps_outer"
+        bindsym i      mode "$mode_gaps_inner"
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+    }
+
+  mode "$mode_gaps_inner" {
+    bindsym plus  gaps inner current plus 5
+      bindsym minus gaps inner current minus 5
+      bindsym 0     gaps inner current set 0
+
+      bindsym Shift+plus  gaps inner all plus 5
+      bindsym Shift+minus gaps inner all minus 5
+      bindsym Shift+0     gaps inner all set 0
+
+      bindsym Return mode "default"
+      bindsym Escape mode "default"
+  }
+  mode "$mode_gaps_outer" {
+    bindsym plus  gaps outer current plus 5
+      bindsym minus gaps outer current minus 5
+      bindsym 0     gaps outer current set 0
+
+      bindsym Shift+plus  gaps outer all plus 5
+      bindsym Shift+minus gaps outer all minus 5
+      bindsym Shift+0     gaps outer all set 0
+
+      bindsym Return mode "default"
+      bindsym Escape mode "default"
+  }# }}}
+
+bindsym $mod+comma	gaps inner current set 0; gaps outer current set 0
+bindsym $mod+Shift+comma	gaps inner current set 10; gaps outer current set 10
 # # Start i3bar to display a workspace bar (plus the system information i3status# {{{
 # # finds out, if available)
 # #
@@ -303,33 +377,15 @@ bindsym $mod+shift+x exec betterlockscreen --lock
 #   strip_workspace_numbers yes
 #   status_command bumblebee-status -m caffeine cpu sensors memory battery pasink pasource weather date time -p root.path=/ time.format="%H:%M CW %V" date.format="%a, %b %d %Y" -t gruvbox-powerline
 # #disk:root 
-#   tray_output primarypp
+#   tray_output primary
 # }
 # # }}}
-
-set $blue #285577
-set $gray #333333
-
-bar {
-#        status_command i3status
-#	status_command $HOME/bin/conky-i3bar
-	status_command py3status -c ~/.config/i3/i3status.conf
-	position top
-	font pango: DejaVu Sans Mono 9
-	mode dock
-        colors {
-            background $gray
-            inactive_workspace $gray $gray #888888
-            active_workspace $gray $gray #ffffff
-            focused_workspace $blue $blue #ffffff
-        }
-}
 
 # Assignations
     for_window [class="Keepassx2"] move scratchpad
 
 # Autostart# {{{
-    exec_always feh --bg-fill /home/nrfrd/.wallpaper
+  #exec_always feh --bg-scale /home/nrfrd/.wallpaper
     exec --no-startup-id compton --config ~/.config/compton.conf -b
     exec --no-startup-id dropbox start
     exec --no-startup-id nm-applet &
@@ -343,7 +399,3 @@ bar {
 # }}}
 
 # vim:filetype=i3
-## Base16 Default Dark
-# Author: Chris Kempson (http://chriskempson.com)
-#
-# You can use these variables anywhere in the i3 configuration file.

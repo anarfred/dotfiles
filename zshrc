@@ -24,7 +24,7 @@ export LESS_TERMCAP_ue=$'\e[0m'        # reset underline
 export GROFF_NO_SGR=1                  # for konsole and gnome-terminal
 #
 # LS
-eval "$(dircolors /home/nrfrd/.dir_colors)"
+#eval "$(dircolors /home/nrfrd/.dir_colors)"
 
 #-------- Ohmyzsh {{{
 #------------------------------------------------------
@@ -32,7 +32,7 @@ eval "$(dircolors /home/nrfrd/.dir_colors)"
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Ajout Personnel
-export PATH="/usr/sbin:/sbin:/bin:/usr/games:/usr/local/texlive/2016/bin/x86_64-linux:$PATH"
+#export PATH="/usr/sbin:/sbin:/bin:/usr/games:/usr/local/texlive/2016/bin/x86_64-linux:$PATH"
 
 # Path to your oh-my-zsh installation.
 export ZSH=/home/nrfrd/.oh-my-zsh
@@ -41,14 +41,16 @@ export ZSH=/home/nrfrd/.oh-my-zsh
 #source ~/bin/tmuxinator.zsh
 
 # Gruvbox
-source ~/.local/share/nvim/plugged/gruvbox/gruvbox_256palette.sh
+#source ~/.local/share/nvim/plugged/gruvbox/gruvbox_256palette.sh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 # ZSH_THEME="robbyrussell"
 # ZSH_THEME="norm"
-source ~/.shell_prompt.sh
+#source ~/.shell_prompt.sh
+autoload -U promptinit; promptinit
+prompt pure
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -92,9 +94,9 @@ DISABLE_AUTO_TITLE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git dnf archlinux)
+# plugins=(git dnf archlinux)
 
-source $ZSH/oh-my-zsh.sh
+#source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
@@ -128,13 +130,7 @@ source $ZSH/oh-my-zsh.sh
 # Configuration empruntée à Globetu
 #
 # }}}
-# ---------- Newspaper {{{
-export MERCURY_API_KEY="OUAEW8wdGLzakecJtTZiGDDNdwiRrvYgFa66WdZv"
-# }}}
-# Fasd {{{
-eval "$(fasd --init auto)"
-
-# }}}
+#
 #-------- History {{{
 #------------------------------------------------------
 # get more info: $man zshoptions
@@ -179,16 +175,6 @@ bindkey -M vicmd v edit-command-line
 # 10ms for key sequences
 KEYTIMEOUT=1
 
-# show vim status
-# http://zshwiki.org/home/examples/zlewidgets
-# function zle-line-init zle-keymap-select {
-#     RPS1="${${KEYMAP/vicmd/-- NORMAL --}/(main|viins)/-- INSERT --}"
-#     RPS2=$RPS1
-#     zle reset-prompt
-# }
-# zle -N zle-line-init
-# zle -N zle-keymap-select
-
 # add missing vim hotkeys
 # fixes backspace deletion issues
 # http://zshwiki.org/home/zle/vi-mode
@@ -214,7 +200,13 @@ bindkey -M vicmd '^r' history-incremental-search-backward
 # http://www.refining-linux.org/archives/40/ZSH-Gem-5-Menu-selection/
 # https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/completion.zsh
 
-autoload -U compinit && compinit        # enable autocompletion
+#autoload -U compinit && compinit        # enable autocompletion
+autoload -Uz compinit 
+if [[ -n ${ZDOTDIR}/.zcompdump(#qN.mh+24) ]]; then
+	compinit;
+else
+	compinit -C;
+fi;
 fpath+=(~/.zsh/completion)              # set path to custom autocompletion
 zstyle ':completion:*' menu select      # to activate the menu, press tab twice
 unsetopt menu_complete                  # do not autoselect the first completion entry
@@ -332,10 +324,10 @@ recent()
       BASE16_SHELL=$HOME/.config/base16-shell/
       [ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
 
-      #-------- Thème wal
-      # &   # Run the process in the background.
-      # ( ) # Hide shell job control messages.
-      (wal -t -r &)
+      # #-------- Thème wal
+      # # &   # Run the process in the background.
+      # # ( ) # Hide shell job control messages.
+      # (wal -t -r &)
 
       #-------- ZSH Syntax Highlightning (DOIT RESTER EN BAS) {{{
       [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
