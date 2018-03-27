@@ -12,3 +12,4 @@ config/ranger/plugins/__pycache__
 config/nvim/autoload/plug.vim.old
 newsbeuter/cache.*
 newsbeuter/history*
+*.log

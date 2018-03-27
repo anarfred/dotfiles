@@ -1368,3 +1368,26 @@
 2018-01-27 23:31:52		script: 328 scripts for WeeChat 2.0.1
 2018-01-27 23:31:52		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, script, trigger, xfer
 2018-01-27 23:32:10		fifo: pipe closed
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 148 : option inconnue pour la section "server_default" : usermode = ""
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "oftc.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 177 : valeur invalide pour l'option : oftc.usermode
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "undernet.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 217 : valeur invalide pour l'option : undernet.usermode
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "abk.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 257 : valeur invalide pour l'option : abk.usermode
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "indymedia.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 297 : valeur invalide pour l'option : indymedia.usermode
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "freenode.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 337 : valeur invalide pour l'option : freenode.usermode
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "rizon.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 377 : valeur invalide pour l'option : rizon.usermode
+2018-03-06 23:04:59	=!=	irc : erreur de création de l'option serveur "bitlbee.usermode"
+2018-03-06 23:04:59	=!=	Attention : /home/nrfrd/.weechat/irc.conf, ligne 417 : valeur invalide pour l'option : bitlbee.usermode
+2018-03-06 23:04:59		script : téléchargement de la liste des scripts...
+2018-03-06 23:04:59		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-06 23:05:01		script : 348 scripts pour WeeChat 1.6
+2018-03-06 23:17:51	=!=	irc : le serveur "oftc" existe déjà, impossible de l'ajouter !
+2018-03-07 20:14:00		fifo : tube fermé
+2018-03-07 20:25:14		script : 348 scripts pour WeeChat 1.6
+2018-03-07 20:25:14		Extensions chargées : alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-13 09:12:38		fifo : tube fermé

@@ -54,3 +54,858 @@
 2015-02-06 12:51:50	--	End of /MOTD command.
 2015-02-06 12:51:50	--	User mode [+i] by nrfrd
 2015-02-06 22:14:57	--	irc: disconnected from server
+2018-03-06 23:18:06	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-06 23:18:06	--	irc : connecté à irc.oftc.net/6667 (140.211.166.64)
+2018-03-06 23:18:06	--	larich.oftc.net: *** Looking up your hostname...
+2018-03-06 23:18:06	--	larich.oftc.net: *** Checking Ident
+2018-03-06 23:18:06	--	larich.oftc.net: *** Found your hostname
+2018-03-06 23:18:17	--	larich.oftc.net: *** No Ident response
+2018-03-06 23:18:17	--	Welcome to the OFTC Internet Relay Chat Network bgdnvst
+2018-03-06 23:18:17	--	Your host is larich.oftc.net[140.211.166.64/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-06 23:18:17	--	This server was created Nov  5 2017 at 16:49:46
+2018-03-06 23:18:17	--	larich.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-06 23:18:17	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-06 23:18:17	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2018-03-06 23:18:17	--	9O6AABHVS :your unique ID
+2018-03-06 23:18:17	--	There are 31 users and 12970 invisible on 20 servers
+2018-03-06 23:18:17	--	19 :IRC Operators online
+2018-03-06 23:18:17	--	34 :unknown connection(s)
+2018-03-06 23:18:17	--	2498 :channels formed
+2018-03-06 23:18:17	--	I have 983 clients and 1 servers
+2018-03-06 23:18:17	--	Current local users: 983  Max: 1864
+2018-03-06 23:18:17	--	Current global users: 13001  Max: 13691
+2018-03-06 23:18:17	--	Highest connection count: 1865 (1864 clients) (56503 connections received)
+2018-03-06 23:18:17	--	- larich.oftc.net Message of the Day -
+2018-03-06 23:18:17	--	-   O
+2018-03-06 23:18:17	--	-    \   The Open and Free
+2018-03-06 23:18:17	--	-     O
+2018-03-06 23:18:17	--	-    /|  Technology Community
+2018-03-06 23:18:17	--	- O-O O
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	- Welcome to OFTC's IRC network.
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	- The Open and Free Technology Community was founded at the
+2018-03-06 23:18:17	--	- end of 2001 by a group of experienced members of the Open
+2018-03-06 23:18:17	--	- Source and Free Software communities; it is aimed at
+2018-03-06 23:18:17	--	- providing these communities with better communication,
+2018-03-06 23:18:17	--	- development, and support infrastructure. Our goal is to
+2018-03-06 23:18:17	--	- provide stable services to members of the community in any
+2018-03-06 23:18:17	--	- part of the world, while listening closely to their needs
+2018-03-06 23:18:17	--	- and desires.
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	- We are not a general purpose chat platform, but a topical
+2018-03-06 23:18:17	--	- network intent on providing the open source and free
+2018-03-06 23:18:17	--	- software communities a means to cooperate and communicate.
+2018-03-06 23:18:17	--	- As such, illegal and off-topic activity, such as warez
+2018-03-06 23:18:17	--	- trading, may result in being barred from access.
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-06 23:18:17	--	- support@oftc.net with details.
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	- Thanks and enjoy your stay,
+2018-03-06 23:18:17	--	-
+2018-03-06 23:18:17	--	-         The OFTC team
+2018-03-06 23:18:17	--	End of /MOTD command.
+2018-03-06 23:18:17	--	Mode utilisateur [+i] par bgdnvst
+2018-03-06 23:20:14	--	Vous êtes maintenant connu sous le nom frdrcv
+2018-03-06 23:21:39	--	MSG(NickServ): REGISTER ***********************************************
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): Too many parameters.  Expected no more than 2.  Got 6.
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): *** REGISTER Help *** 
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): Usage: REGISTER password e-mail
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net):  
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): Registers a nickname in our database for your use.  Registering your nickname
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): ensures it is reserved for your use and cannot be used by others if you do
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): not wish them to use it.  It also allows you to associate various pieces of
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): information with your nickname and also to have access to registered
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): channels.
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net):  
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): Choose a password that you can remember but is not easily guessed.
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net):  
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): The e-mail address you enter will be used in case you forget your password,
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): so make sure it is valid and correct.
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net):  
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): Once your nickname is registered, see HELP SET for information on settings
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): that can be set on it.
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net):  
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): To complete the registration, the nickname must be VERIFIED.  To verify
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): your nick, go to https://services.oftc.net/, log in with your NickServ
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): password, and follow the instructions there.
+2018-03-06 23:21:40	--	NickServ (services@services.oftc.net): *** End of REGISTER Help ***
+2018-03-06 23:22:06	--	MSG(NickServ): REGISTER *******************************************
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): Nickname frdrcv has been registered successfully and is now yours to use.
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): See HELP SET for information on settings that you can set on your new
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): nickname.  If you change nickname or reconnect to the IRC network you will be
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): required to identify using the password you chose when you registered.  See
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): HELP IDENTIFY for more information on identifying your nickname.
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net):  
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): To complete the registration, the nickname must be VERIFIED.  To verify
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): your nick, go to https://services.oftc.net/, log in with your NickServ
+2018-03-06 23:22:07	--	NickServ (services@services.oftc.net): password, and follow the instructions there.
+2018-03-07 19:47:26	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-07 19:47:26	--	irc : déconnexion du serveur...
+2018-03-07 19:47:26	--	irc : déconnecté du serveur
+2018-03-07 19:47:26	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-07 19:47:36	--	irc : reconnexion au serveur...
+2018-03-07 19:47:36	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-07 19:47:37	--	irc : connecté à irc.oftc.net/6667 (140.211.166.64)
+2018-03-07 19:47:37	--	larich.oftc.net: *** Looking up your hostname...
+2018-03-07 19:47:37	--	larich.oftc.net: *** Checking Ident
+2018-03-07 19:47:37	--	larich.oftc.net: *** Found your hostname
+2018-03-07 19:47:48	--	larich.oftc.net: *** No Ident response
+2018-03-07 19:47:48	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-07 19:47:48	--	Your host is larich.oftc.net[140.211.166.64/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-07 19:47:48	--	This server was created Nov  5 2017 at 16:49:46
+2018-03-07 19:47:48	--	larich.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-07 19:47:48	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-07 19:47:48	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2018-03-07 19:47:48	--	9O6AABIAN :your unique ID
+2018-03-07 19:47:48	--	There are 31 users and 13012 invisible on 20 servers
+2018-03-07 19:47:48	--	19 :IRC Operators online
+2018-03-07 19:47:48	--	46 :unknown connection(s)
+2018-03-07 19:47:48	--	2497 :channels formed
+2018-03-07 19:47:48	--	I have 1034 clients and 1 servers
+2018-03-07 19:47:48	--	Current local users: 1034  Max: 1864
+2018-03-07 19:47:48	--	Current global users: 13043  Max: 13691
+2018-03-07 19:47:48	--	Highest connection count: 1865 (1864 clients) (57038 connections received)
+2018-03-07 19:47:48	--	- larich.oftc.net Message of the Day -
+2018-03-07 19:47:48	--	-   O
+2018-03-07 19:47:48	--	-    \   The Open and Free
+2018-03-07 19:47:48	--	-     O
+2018-03-07 19:47:48	--	-    /|  Technology Community
+2018-03-07 19:47:48	--	- O-O O
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	- Welcome to OFTC's IRC network.
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	- The Open and Free Technology Community was founded at the
+2018-03-07 19:47:48	--	- end of 2001 by a group of experienced members of the Open
+2018-03-07 19:47:48	--	- Source and Free Software communities; it is aimed at
+2018-03-07 19:47:48	--	- providing these communities with better communication,
+2018-03-07 19:47:48	--	- development, and support infrastructure. Our goal is to
+2018-03-07 19:47:48	--	- provide stable services to members of the community in any
+2018-03-07 19:47:48	--	- part of the world, while listening closely to their needs
+2018-03-07 19:47:48	--	- and desires.
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	- We are not a general purpose chat platform, but a topical
+2018-03-07 19:47:48	--	- network intent on providing the open source and free
+2018-03-07 19:47:48	--	- software communities a means to cooperate and communicate.
+2018-03-07 19:47:48	--	- As such, illegal and off-topic activity, such as warez
+2018-03-07 19:47:48	--	- trading, may result in being barred from access.
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-07 19:47:48	--	- support@oftc.net with details.
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	- Thanks and enjoy your stay,
+2018-03-07 19:47:48	--	-
+2018-03-07 19:47:48	--	-         The OFTC team
+2018-03-07 19:47:48	--	End of /MOTD command.
+2018-03-07 19:47:48	--	Mode utilisateur [+i] par frdrcv
+2018-03-07 19:47:48	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-07 19:47:48	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-07 19:47:48	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-07 19:47:48	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-07 20:14:00	--	irc : déconnecté du serveur
+2018-03-07 20:26:08	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-07 20:26:08	--	irc : connecté à irc.oftc.net/6667 (140.211.166.64)
+2018-03-07 20:26:08	--	larich.oftc.net: *** Looking up your hostname...
+2018-03-07 20:26:08	--	larich.oftc.net: *** Checking Ident
+2018-03-07 20:26:08	--	larich.oftc.net: *** Found your hostname
+2018-03-07 20:26:19	--	larich.oftc.net: *** No Ident response
+2018-03-07 20:26:19	--	Welcome to the OFTC Internet Relay Chat Network bgdnvst
+2018-03-07 20:26:19	--	Your host is larich.oftc.net[140.211.166.64/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-07 20:26:19	--	This server was created Nov  5 2017 at 16:49:46
+2018-03-07 20:26:19	--	larich.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-07 20:26:19	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-07 20:26:19	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 ELIST=CMNTU SAFELIST KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2018-03-07 20:26:19	--	9O6AABIDW :your unique ID
+2018-03-07 20:26:19	--	There are 37 users and 12966 invisible on 20 servers
+2018-03-07 20:26:19	--	19 :IRC Operators online
+2018-03-07 20:26:19	--	43 :unknown connection(s)
+2018-03-07 20:26:19	--	2483 :channels formed
+2018-03-07 20:26:19	--	I have 1128 clients and 1 servers
+2018-03-07 20:26:19	--	Current local users: 1128  Max: 1864
+2018-03-07 20:26:19	--	Current global users: 13003  Max: 13691
+2018-03-07 20:26:19	--	Highest connection count: 1865 (1864 clients) (57155 connections received)
+2018-03-07 20:26:19	--	- larich.oftc.net Message of the Day -
+2018-03-07 20:26:19	--	-   O
+2018-03-07 20:26:19	--	-    \   The Open and Free
+2018-03-07 20:26:19	--	-     O
+2018-03-07 20:26:19	--	-    /|  Technology Community
+2018-03-07 20:26:19	--	- O-O O
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	- Welcome to OFTC's IRC network.
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	- The Open and Free Technology Community was founded at the
+2018-03-07 20:26:19	--	- end of 2001 by a group of experienced members of the Open
+2018-03-07 20:26:19	--	- Source and Free Software communities; it is aimed at
+2018-03-07 20:26:19	--	- providing these communities with better communication,
+2018-03-07 20:26:19	--	- development, and support infrastructure. Our goal is to
+2018-03-07 20:26:19	--	- provide stable services to members of the community in any
+2018-03-07 20:26:19	--	- part of the world, while listening closely to their needs
+2018-03-07 20:26:19	--	- and desires.
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	- We are not a general purpose chat platform, but a topical
+2018-03-07 20:26:19	--	- network intent on providing the open source and free
+2018-03-07 20:26:19	--	- software communities a means to cooperate and communicate.
+2018-03-07 20:26:19	--	- As such, illegal and off-topic activity, such as warez
+2018-03-07 20:26:19	--	- trading, may result in being barred from access.
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-07 20:26:19	--	- support@oftc.net with details.
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	- Thanks and enjoy your stay,
+2018-03-07 20:26:19	--	-
+2018-03-07 20:26:19	--	-         The OFTC team
+2018-03-07 20:26:19	--	End of /MOTD command.
+2018-03-07 20:26:19	--	Mode utilisateur [+i] par bgdnvst
+2018-03-07 21:58:26	--	Vous êtes maintenant connu sous le nom frdrcv
+2018-03-07 21:58:26	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-07 21:58:26	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-07 21:58:26	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-07 21:58:26	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-08 09:05:20	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-08 09:05:20	--	irc : déconnexion du serveur...
+2018-03-08 09:05:20	--	irc : déconnecté du serveur
+2018-03-08 09:05:20	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-08 09:05:30	--	irc : reconnexion au serveur...
+2018-03-08 09:05:30	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-08 09:05:36	--	irc : connecté à irc.oftc.net/6667 (207.192.72.99)
+2018-03-08 09:05:37	--	weber.oftc.net: *** Looking up your hostname...
+2018-03-08 09:05:37	--	weber.oftc.net: *** Checking Ident
+2018-03-08 09:05:37	--	weber.oftc.net: *** Found your hostname
+2018-03-08 09:05:47	--	weber.oftc.net: *** No Ident response
+2018-03-08 09:05:47	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-08 09:05:47	--	Your host is weber.oftc.net[207.192.72.99/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-08 09:05:47	--	This server was created Mar  7 2018 at 21:34:02
+2018-03-08 09:05:47	--	weber.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-08 09:05:47	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-08 09:05:47	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2018-03-08 09:05:47	--	9J5AAABQG :your unique ID
+2018-03-08 09:05:47	--	There are 28 users and 13349 invisible on 20 servers
+2018-03-08 09:05:47	--	18 :IRC Operators online
+2018-03-08 09:05:47	--	59 :unknown connection(s)
+2018-03-08 09:05:47	--	2493 :channels formed
+2018-03-08 09:05:47	--	I have 1393 clients and 1 servers
+2018-03-08 09:05:47	--	Current local users: 1393  Max: 1393
+2018-03-08 09:05:47	--	Current global users: 13377  Max: 13377
+2018-03-08 09:05:47	--	Highest connection count: 1393 (1392 clients) (1879 connections received)
+2018-03-08 09:05:47	--	- weber.oftc.net Message of the Day -
+2018-03-08 09:05:47	--	-   O
+2018-03-08 09:05:47	--	-    \   The Open and Free
+2018-03-08 09:05:47	--	-     O
+2018-03-08 09:05:47	--	-    /|  Technology Community
+2018-03-08 09:05:47	--	- O-O O
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	- Welcome to OFTC's IRC network.
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	- The Open and Free Technology Community was founded at the
+2018-03-08 09:05:47	--	- end of 2001 by a group of experienced members of the Open
+2018-03-08 09:05:47	--	- Source and Free Software communities; it is aimed at
+2018-03-08 09:05:47	--	- providing these communities with better communication,
+2018-03-08 09:05:47	--	- development, and support infrastructure. Our goal is to
+2018-03-08 09:05:47	--	- provide stable services to members of the community in any
+2018-03-08 09:05:47	--	- part of the world, while listening closely to their needs
+2018-03-08 09:05:47	--	- and desires.
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	- We are not a general purpose chat platform, but a topical
+2018-03-08 09:05:47	--	- network intent on providing the open source and free
+2018-03-08 09:05:47	--	- software communities a means to cooperate and communicate.
+2018-03-08 09:05:47	--	- As such, illegal and off-topic activity, such as warez
+2018-03-08 09:05:47	--	- trading, may result in being barred from access.
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-08 09:05:47	--	- support@oftc.net with details.
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	- Thanks and enjoy your stay,
+2018-03-08 09:05:47	--	-
+2018-03-08 09:05:47	--	-         The OFTC team
+2018-03-08 09:05:47	--	End of /MOTD command.
+2018-03-08 09:05:47	--	Mode utilisateur [+i] par frdrcv
+2018-03-08 09:05:47	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-08 09:05:47	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-08 09:05:47	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-08 09:05:47	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-08 20:15:10	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-08 20:15:10	--	irc : déconnexion du serveur...
+2018-03-08 20:15:10	--	irc : déconnecté du serveur
+2018-03-08 20:15:10	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-08 20:15:20	--	irc : reconnexion au serveur...
+2018-03-08 20:15:20	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-08 20:15:21	--	irc : connecté à irc.oftc.net/6667 (206.12.19.242)
+2018-03-08 20:15:21	--	graviton.oftc.net: *** Looking up your hostname...
+2018-03-08 20:15:21	--	graviton.oftc.net: *** Checking Ident
+2018-03-08 20:15:21	--	graviton.oftc.net: *** Found your hostname
+2018-03-08 20:15:31	--	graviton.oftc.net: *** No Ident response
+2018-03-08 20:15:31	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-08 20:15:31	--	Your host is graviton.oftc.net[206.12.19.242/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-08 20:15:31	--	This server was created Mar  7 2018 at 21:34:11
+2018-03-08 20:15:31	--	graviton.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-08 20:15:31	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-08 20:15:31	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS KNOCK ELIST=CMNTU SAFELIST AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2018-03-08 20:15:31	--	7MPAAAA8B :your unique ID
+2018-03-08 20:15:31	--	There are 35 users and 12962 invisible on 20 servers
+2018-03-08 20:15:31	--	18 :IRC Operators online
+2018-03-08 20:15:31	--	48 :unknown connection(s)
+2018-03-08 20:15:31	--	2497 :channels formed
+2018-03-08 20:15:31	--	I have 702 clients and 1 servers
+2018-03-08 20:15:31	--	Current local users: 702  Max: 840
+2018-03-08 20:15:31	--	Current global users: 12997  Max: 13431
+2018-03-08 20:15:31	--	Highest connection count: 841 (840 clients) (1226 connections received)
+2018-03-08 20:15:31	--	- graviton.oftc.net Message of the Day -
+2018-03-08 20:15:31	--	-   O
+2018-03-08 20:15:31	--	-    \   The Open and Free
+2018-03-08 20:15:31	--	-     O
+2018-03-08 20:15:31	--	-    /|  Technology Community
+2018-03-08 20:15:31	--	- O-O O
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	- Welcome to OFTC's IRC network.
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	- The Open and Free Technology Community was founded at the
+2018-03-08 20:15:31	--	- end of 2001 by a group of experienced members of the Open
+2018-03-08 20:15:31	--	- Source and Free Software communities; it is aimed at
+2018-03-08 20:15:31	--	- providing these communities with better communication,
+2018-03-08 20:15:31	--	- development, and support infrastructure. Our goal is to
+2018-03-08 20:15:31	--	- provide stable services to members of the community in any
+2018-03-08 20:15:31	--	- part of the world, while listening closely to their needs
+2018-03-08 20:15:31	--	- and desires.
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	- We are not a general purpose chat platform, but a topical
+2018-03-08 20:15:31	--	- network intent on providing the open source and free
+2018-03-08 20:15:31	--	- software communities a means to cooperate and communicate.
+2018-03-08 20:15:31	--	- As such, illegal and off-topic activity, such as warez
+2018-03-08 20:15:31	--	- trading, may result in being barred from access.
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-08 20:15:31	--	- support@oftc.net with details.
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	- Thanks and enjoy your stay,
+2018-03-08 20:15:31	--	-
+2018-03-08 20:15:31	--	-         The OFTC team
+2018-03-08 20:15:31	--	End of /MOTD command.
+2018-03-08 20:15:31	--	Mode utilisateur [+i] par frdrcv
+2018-03-08 20:15:31	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-08 20:15:31	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-08 20:15:31	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-08 20:15:31	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-09 20:18:22	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-09 20:18:22	--	irc : déconnexion du serveur...
+2018-03-09 20:18:22	--	irc : déconnecté du serveur
+2018-03-09 20:18:22	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-09 20:18:32	--	irc : reconnexion au serveur...
+2018-03-09 20:18:32	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-09 20:18:38	--	irc : connecté à irc.oftc.net/6667 (206.12.19.242)
+2018-03-09 20:18:38	--	graviton.oftc.net: *** Looking up your hostname...
+2018-03-09 20:18:38	--	graviton.oftc.net: *** Checking Ident
+2018-03-09 20:18:38	--	graviton.oftc.net: *** Found your hostname
+2018-03-09 20:18:49	--	graviton.oftc.net: *** No Ident response
+2018-03-09 20:18:49	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-09 20:18:49	--	Your host is graviton.oftc.net[206.12.19.242/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-09 20:18:49	--	This server was created Mar  7 2018 at 21:34:11
+2018-03-09 20:18:49	--	graviton.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-09 20:18:49	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-09 20:18:49	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS KNOCK ELIST=CMNTU SAFELIST AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2018-03-09 20:18:49	--	7MPAAAB31 :your unique ID
+2018-03-09 20:18:49	--	There are 28 users and 12880 invisible on 20 servers
+2018-03-09 20:18:49	--	16 :IRC Operators online
+2018-03-09 20:18:49	--	38 :unknown connection(s)
+2018-03-09 20:18:49	--	2551 :channels formed
+2018-03-09 20:18:49	--	I have 946 clients and 1 servers
+2018-03-09 20:18:49	--	Current local users: 946  Max: 981
+2018-03-09 20:18:49	--	Current global users: 12908  Max: 13431
+2018-03-09 20:18:49	--	Highest connection count: 982 (981 clients) (2368 connections received)
+2018-03-09 20:18:49	--	- graviton.oftc.net Message of the Day -
+2018-03-09 20:18:49	--	-   O
+2018-03-09 20:18:49	--	-    \   The Open and Free
+2018-03-09 20:18:49	--	-     O
+2018-03-09 20:18:49	--	-    /|  Technology Community
+2018-03-09 20:18:49	--	- O-O O
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	- Welcome to OFTC's IRC network.
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	- The Open and Free Technology Community was founded at the
+2018-03-09 20:18:49	--	- end of 2001 by a group of experienced members of the Open
+2018-03-09 20:18:49	--	- Source and Free Software communities; it is aimed at
+2018-03-09 20:18:49	--	- providing these communities with better communication,
+2018-03-09 20:18:49	--	- development, and support infrastructure. Our goal is to
+2018-03-09 20:18:49	--	- provide stable services to members of the community in any
+2018-03-09 20:18:49	--	- part of the world, while listening closely to their needs
+2018-03-09 20:18:49	--	- and desires.
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	- We are not a general purpose chat platform, but a topical
+2018-03-09 20:18:49	--	- network intent on providing the open source and free
+2018-03-09 20:18:49	--	- software communities a means to cooperate and communicate.
+2018-03-09 20:18:49	--	- As such, illegal and off-topic activity, such as warez
+2018-03-09 20:18:49	--	- trading, may result in being barred from access.
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-09 20:18:49	--	- support@oftc.net with details.
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	- Thanks and enjoy your stay,
+2018-03-09 20:18:49	--	-
+2018-03-09 20:18:49	--	-         The OFTC team
+2018-03-09 20:18:49	--	End of /MOTD command.
+2018-03-09 20:18:49	--	Mode utilisateur [+i] par frdrcv
+2018-03-09 20:18:49	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-09 20:18:49	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-09 20:18:49	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-09 20:18:49	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-10 00:19:52	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-10 00:19:52	--	irc : déconnexion du serveur...
+2018-03-10 00:19:52	--	irc : déconnecté du serveur
+2018-03-10 00:19:52	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-10 00:20:02	--	irc : reconnexion au serveur...
+2018-03-10 00:20:02	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-10 00:20:03	--	irc : connecté à irc.oftc.net/6667 (64.62.190.36)
+2018-03-10 00:20:03	--	charm.oftc.net: *** Looking up your hostname...
+2018-03-10 00:20:03	--	charm.oftc.net: *** Checking Ident
+2018-03-10 00:20:04	--	charm.oftc.net: *** Found your hostname
+2018-03-10 00:20:14	--	charm.oftc.net: *** No Ident response
+2018-03-10 00:20:14	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-10 00:20:14	--	Your host is charm.oftc.net[64.62.190.36/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-10 00:20:14	--	This server was created Mar  7 2018 at 21:33:54
+2018-03-10 00:20:14	--	charm.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-10 00:20:14	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-10 00:20:14	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2018-03-10 00:20:14	--	4JHAAAB4L :your unique ID
+2018-03-10 00:20:14	--	There are 32 users and 12775 invisible on 20 servers
+2018-03-10 00:20:14	--	16 :IRC Operators online
+2018-03-10 00:20:14	--	43 :unknown connection(s)
+2018-03-10 00:20:14	--	2535 :channels formed
+2018-03-10 00:20:14	--	I have 823 clients and 1 servers
+2018-03-10 00:20:14	--	Current local users: 823  Max: 881
+2018-03-10 00:20:14	--	Current global users: 12807  Max: 13431
+2018-03-10 00:20:14	--	Highest connection count: 882 (881 clients) (2388 connections received)
+2018-03-10 00:20:14	--	- charm.oftc.net Message of the Day -
+2018-03-10 00:20:14	--	-   O
+2018-03-10 00:20:14	--	-    \   The Open and Free
+2018-03-10 00:20:14	--	-     O
+2018-03-10 00:20:14	--	-    /|  Technology Community
+2018-03-10 00:20:14	--	- O-O O
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	- Welcome to OFTC's IRC network.
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	- The Open and Free Technology Community was founded at the
+2018-03-10 00:20:14	--	- end of 2001 by a group of experienced members of the Open
+2018-03-10 00:20:14	--	- Source and Free Software communities; it is aimed at
+2018-03-10 00:20:14	--	- providing these communities with better communication,
+2018-03-10 00:20:14	--	- development, and support infrastructure. Our goal is to
+2018-03-10 00:20:14	--	- provide stable services to members of the community in any
+2018-03-10 00:20:14	--	- part of the world, while listening closely to their needs
+2018-03-10 00:20:14	--	- and desires.
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	- We are not a general purpose chat platform, but a topical
+2018-03-10 00:20:14	--	- network intent on providing the open source and free
+2018-03-10 00:20:14	--	- software communities a means to cooperate and communicate.
+2018-03-10 00:20:14	--	- As such, illegal and off-topic activity, such as warez
+2018-03-10 00:20:14	--	- trading, may result in being barred from access.
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-10 00:20:14	--	- support@oftc.net with details.
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	- Thanks and enjoy your stay,
+2018-03-10 00:20:14	--	-
+2018-03-10 00:20:14	--	-         The OFTC team
+2018-03-10 00:20:14	--	End of /MOTD command.
+2018-03-10 00:20:14	--	Mode utilisateur [+i] par frdrcv
+2018-03-10 00:20:15	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-10 00:20:15	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-10 00:20:15	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-10 00:20:15	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-10 08:59:19	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-10 08:59:19	--	irc : déconnexion du serveur...
+2018-03-10 08:59:19	--	irc : déconnecté du serveur
+2018-03-10 08:59:19	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-10 08:59:29	--	irc : reconnexion au serveur...
+2018-03-10 08:59:29	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-10 08:59:34	--	irc : connecté à irc.oftc.net/6667 (64.86.243.183)
+2018-03-10 08:59:34	--	reflection.oftc.net: *** Looking up your hostname...
+2018-03-10 08:59:34	--	reflection.oftc.net: *** Checking Ident
+2018-03-10 08:59:34	--	reflection.oftc.net: *** Found your hostname
+2018-03-10 08:59:45	--	reflection.oftc.net: *** No Ident response
+2018-03-10 08:59:45	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-10 08:59:45	--	Your host is reflection.oftc.net[64.86.243.183/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-10 08:59:45	--	This server was created Mar  7 2018 at 21:32:56
+2018-03-10 08:59:45	--	reflection.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-10 08:59:45	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-10 08:59:45	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2018-03-10 08:59:45	--	8L3AAAB5C :your unique ID
+2018-03-10 08:59:45	--	There are 30 users and 12994 invisible on 20 servers
+2018-03-10 08:59:45	--	16 :IRC Operators online
+2018-03-10 08:59:45	--	39 :unknown connection(s)
+2018-03-10 08:59:45	--	2538 :channels formed
+2018-03-10 08:59:45	--	I have 749 clients and 1 servers
+2018-03-10 08:59:45	--	Current local users: 749  Max: 802
+2018-03-10 08:59:45	--	Current global users: 13024  Max: 13431
+2018-03-10 08:59:45	--	Highest connection count: 803 (802 clients) (2415 connections received)
+2018-03-10 08:59:45	--	- reflection.oftc.net Message of the Day -
+2018-03-10 08:59:45	--	-   O
+2018-03-10 08:59:45	--	-    \   The Open and Free
+2018-03-10 08:59:45	--	-     O
+2018-03-10 08:59:45	--	-    /|  Technology Community
+2018-03-10 08:59:45	--	- O-O O
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	- Welcome to OFTC's IRC network.
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	- The Open and Free Technology Community was founded at the
+2018-03-10 08:59:45	--	- end of 2001 by a group of experienced members of the Open
+2018-03-10 08:59:45	--	- Source and Free Software communities; it is aimed at
+2018-03-10 08:59:45	--	- providing these communities with better communication,
+2018-03-10 08:59:45	--	- development, and support infrastructure. Our goal is to
+2018-03-10 08:59:45	--	- provide stable services to members of the community in any
+2018-03-10 08:59:45	--	- part of the world, while listening closely to their needs
+2018-03-10 08:59:45	--	- and desires.
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	- We are not a general purpose chat platform, but a topical
+2018-03-10 08:59:45	--	- network intent on providing the open source and free
+2018-03-10 08:59:45	--	- software communities a means to cooperate and communicate.
+2018-03-10 08:59:45	--	- As such, illegal and off-topic activity, such as warez
+2018-03-10 08:59:45	--	- trading, may result in being barred from access.
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-10 08:59:45	--	- support@oftc.net with details.
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	- Thanks and enjoy your stay,
+2018-03-10 08:59:45	--	-
+2018-03-10 08:59:45	--	-         The OFTC team
+2018-03-10 08:59:45	--	End of /MOTD command.
+2018-03-10 08:59:45	--	Mode utilisateur [+i] par frdrcv
+2018-03-10 08:59:45	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-10 08:59:45	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-10 08:59:45	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-10 08:59:45	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-10 14:29:55	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-10 14:29:55	--	irc : déconnexion du serveur...
+2018-03-10 14:29:55	--	irc : déconnecté du serveur
+2018-03-10 14:29:55	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-10 14:30:05	--	irc : reconnexion au serveur...
+2018-03-10 14:30:05	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-10 14:30:11	--	irc : connecté à irc.oftc.net/6667 (206.12.19.242)
+2018-03-10 14:30:11	--	graviton.oftc.net: *** Looking up your hostname...
+2018-03-10 14:30:11	--	graviton.oftc.net: *** Checking Ident
+2018-03-10 14:30:11	--	graviton.oftc.net: *** Found your hostname
+2018-03-10 14:30:21	--	graviton.oftc.net: *** No Ident response
+2018-03-10 14:30:21	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-10 14:30:21	--	Your host is graviton.oftc.net[206.12.19.242/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-10 14:30:21	--	This server was created Mar  7 2018 at 21:34:11
+2018-03-10 14:30:21	--	graviton.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-10 14:30:21	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-10 14:30:21	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS KNOCK ELIST=CMNTU SAFELIST AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2018-03-10 14:30:21	--	7MPAAACIO :your unique ID
+2018-03-10 14:30:21	--	There are 31 users and 13080 invisible on 20 servers
+2018-03-10 14:30:21	--	16 :IRC Operators online
+2018-03-10 14:30:21	--	35 :unknown connection(s)
+2018-03-10 14:30:21	--	2554 :channels formed
+2018-03-10 14:30:21	--	I have 971 clients and 1 servers
+2018-03-10 14:30:21	--	Current local users: 971  Max: 981
+2018-03-10 14:30:21	--	Current global users: 13111  Max: 13431
+2018-03-10 14:30:21	--	Highest connection count: 982 (981 clients) (2895 connections received)
+2018-03-10 14:30:21	--	- graviton.oftc.net Message of the Day -
+2018-03-10 14:30:21	--	-   O
+2018-03-10 14:30:21	--	-    \   The Open and Free
+2018-03-10 14:30:21	--	-     O
+2018-03-10 14:30:21	--	-    /|  Technology Community
+2018-03-10 14:30:21	--	- O-O O
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	- Welcome to OFTC's IRC network.
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	- The Open and Free Technology Community was founded at the
+2018-03-10 14:30:21	--	- end of 2001 by a group of experienced members of the Open
+2018-03-10 14:30:21	--	- Source and Free Software communities; it is aimed at
+2018-03-10 14:30:21	--	- providing these communities with better communication,
+2018-03-10 14:30:21	--	- development, and support infrastructure. Our goal is to
+2018-03-10 14:30:21	--	- provide stable services to members of the community in any
+2018-03-10 14:30:21	--	- part of the world, while listening closely to their needs
+2018-03-10 14:30:21	--	- and desires.
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	- We are not a general purpose chat platform, but a topical
+2018-03-10 14:30:21	--	- network intent on providing the open source and free
+2018-03-10 14:30:21	--	- software communities a means to cooperate and communicate.
+2018-03-10 14:30:21	--	- As such, illegal and off-topic activity, such as warez
+2018-03-10 14:30:21	--	- trading, may result in being barred from access.
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-10 14:30:21	--	- support@oftc.net with details.
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	- Thanks and enjoy your stay,
+2018-03-10 14:30:21	--	-
+2018-03-10 14:30:21	--	-         The OFTC team
+2018-03-10 14:30:21	--	End of /MOTD command.
+2018-03-10 14:30:21	--	Mode utilisateur [+i] par frdrcv
+2018-03-10 14:30:21	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-10 14:30:21	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-10 14:30:21	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-10 14:30:21	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-12 12:46:28	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-12 12:46:28	--	irc : déconnexion du serveur...
+2018-03-12 12:46:28	--	irc : déconnecté du serveur
+2018-03-12 12:46:28	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-12 12:46:38	--	irc : reconnexion au serveur...
+2018-03-12 12:46:38	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-12 12:46:38	--	irc : connecté à irc.oftc.net/6667 (64.62.190.36)
+2018-03-12 12:46:38	--	charm.oftc.net: *** Looking up your hostname...
+2018-03-12 12:46:38	--	charm.oftc.net: *** Checking Ident
+2018-03-12 12:46:39	--	charm.oftc.net: *** Found your hostname
+2018-03-12 12:46:49	--	charm.oftc.net: *** No Ident response
+2018-03-12 12:46:49	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-12 12:46:49	--	Your host is charm.oftc.net[64.62.190.36/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-12 12:46:49	--	This server was created Mar  7 2018 at 21:33:54
+2018-03-12 12:46:49	--	charm.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-12 12:46:49	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-12 12:46:49	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2018-03-12 12:46:49	--	4JHAAADJB :your unique ID
+2018-03-12 12:46:49	--	There are 32 users and 13490 invisible on 20 servers
+2018-03-12 12:46:49	--	16 :IRC Operators online
+2018-03-12 12:46:49	--	29 :unknown connection(s)
+2018-03-12 12:46:49	--	2548 :channels formed
+2018-03-12 12:46:49	--	I have 926 clients and 1 servers
+2018-03-12 12:46:49	--	Current local users: 926  Max: 941
+2018-03-12 12:46:49	--	Current global users: 13522  Max: 13597
+2018-03-12 12:46:49	--	Highest connection count: 942 (941 clients) (4214 connections received)
+2018-03-12 12:46:49	--	- charm.oftc.net Message of the Day -
+2018-03-12 12:46:49	--	-   O
+2018-03-12 12:46:49	--	-    \   The Open and Free
+2018-03-12 12:46:49	--	-     O
+2018-03-12 12:46:49	--	-    /|  Technology Community
+2018-03-12 12:46:49	--	- O-O O
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	- Welcome to OFTC's IRC network.
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	- The Open and Free Technology Community was founded at the
+2018-03-12 12:46:49	--	- end of 2001 by a group of experienced members of the Open
+2018-03-12 12:46:49	--	- Source and Free Software communities; it is aimed at
+2018-03-12 12:46:49	--	- providing these communities with better communication,
+2018-03-12 12:46:49	--	- development, and support infrastructure. Our goal is to
+2018-03-12 12:46:49	--	- provide stable services to members of the community in any
+2018-03-12 12:46:49	--	- part of the world, while listening closely to their needs
+2018-03-12 12:46:49	--	- and desires.
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	- We are not a general purpose chat platform, but a topical
+2018-03-12 12:46:49	--	- network intent on providing the open source and free
+2018-03-12 12:46:49	--	- software communities a means to cooperate and communicate.
+2018-03-12 12:46:49	--	- As such, illegal and off-topic activity, such as warez
+2018-03-12 12:46:49	--	- trading, may result in being barred from access.
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-12 12:46:49	--	- support@oftc.net with details.
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	- Thanks and enjoy your stay,
+2018-03-12 12:46:49	--	-
+2018-03-12 12:46:49	--	-         The OFTC team
+2018-03-12 12:46:49	--	End of /MOTD command.
+2018-03-12 12:46:49	--	Mode utilisateur [+i] par frdrcv
+2018-03-12 12:46:49	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-12 12:46:49	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-12 12:46:49	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-12 12:46:49	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-12 16:58:08	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-12 16:58:08	--	irc : déconnexion du serveur...
+2018-03-12 16:58:08	--	irc : déconnecté du serveur
+2018-03-12 16:58:08	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-12 16:58:18	--	irc : reconnexion au serveur...
+2018-03-12 16:58:18	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-12 16:58:19	--	irc : connecté à irc.oftc.net/6667 (207.192.72.99)
+2018-03-12 16:58:19	--	weber.oftc.net: *** Looking up your hostname...
+2018-03-12 16:58:19	--	weber.oftc.net: *** Checking Ident
+2018-03-12 16:58:19	--	weber.oftc.net: *** Found your hostname
+2018-03-12 16:58:29	--	weber.oftc.net: *** No Ident response
+2018-03-12 16:58:29	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-12 16:58:29	--	Your host is weber.oftc.net[207.192.72.99/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-12 16:58:29	--	This server was created Mar  7 2018 at 21:34:02
+2018-03-12 16:58:29	--	weber.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-12 16:58:29	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-12 16:58:29	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2018-03-12 16:58:29	--	9J5AAAB9B :your unique ID
+2018-03-12 16:58:29	--	There are 32 users and 13401 invisible on 20 servers
+2018-03-12 16:58:29	--	17 :IRC Operators online
+2018-03-12 16:58:29	--	35 :unknown connection(s)
+2018-03-12 16:58:29	--	2548 :channels formed
+2018-03-12 16:58:29	--	I have 1010 clients and 1 servers
+2018-03-12 16:58:29	--	Current local users: 1010  Max: 1414
+2018-03-12 16:58:29	--	Current global users: 13433  Max: 13597
+2018-03-12 16:58:29	--	Highest connection count: 1415 (1414 clients) (2558 connections received)
+2018-03-12 16:58:29	--	- weber.oftc.net Message of the Day -
+2018-03-12 16:58:29	--	-   O
+2018-03-12 16:58:29	--	-    \   The Open and Free
+2018-03-12 16:58:29	--	-     O
+2018-03-12 16:58:29	--	-    /|  Technology Community
+2018-03-12 16:58:29	--	- O-O O
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	- Welcome to OFTC's IRC network.
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	- The Open and Free Technology Community was founded at the
+2018-03-12 16:58:29	--	- end of 2001 by a group of experienced members of the Open
+2018-03-12 16:58:29	--	- Source and Free Software communities; it is aimed at
+2018-03-12 16:58:29	--	- providing these communities with better communication,
+2018-03-12 16:58:29	--	- development, and support infrastructure. Our goal is to
+2018-03-12 16:58:29	--	- provide stable services to members of the community in any
+2018-03-12 16:58:29	--	- part of the world, while listening closely to their needs
+2018-03-12 16:58:29	--	- and desires.
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	- We are not a general purpose chat platform, but a topical
+2018-03-12 16:58:29	--	- network intent on providing the open source and free
+2018-03-12 16:58:29	--	- software communities a means to cooperate and communicate.
+2018-03-12 16:58:29	--	- As such, illegal and off-topic activity, such as warez
+2018-03-12 16:58:29	--	- trading, may result in being barred from access.
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-12 16:58:29	--	- support@oftc.net with details.
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	- Thanks and enjoy your stay,
+2018-03-12 16:58:29	--	-
+2018-03-12 16:58:29	--	-         The OFTC team
+2018-03-12 16:58:29	--	End of /MOTD command.
+2018-03-12 16:58:29	--	Mode utilisateur [+i] par frdrcv
+2018-03-12 16:58:29	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-12 16:58:29	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-12 16:58:29	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-12 16:58:29	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-12 19:58:50	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-12 19:58:50	--	irc : déconnexion du serveur...
+2018-03-12 19:58:50	--	irc : déconnecté du serveur
+2018-03-12 19:58:50	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-12 19:59:00	--	irc : reconnexion au serveur...
+2018-03-12 19:59:00	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-12 19:59:05	--	irc : connecté à irc.oftc.net/6667 (64.86.243.183)
+2018-03-12 19:59:05	--	reflection.oftc.net: *** Looking up your hostname...
+2018-03-12 19:59:05	--	reflection.oftc.net: *** Checking Ident
+2018-03-12 19:59:06	--	reflection.oftc.net: *** Found your hostname
+2018-03-12 19:59:16	--	reflection.oftc.net: *** No Ident response
+2018-03-12 19:59:16	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-12 19:59:16	--	Your host is reflection.oftc.net[64.86.243.183/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-12 19:59:16	--	This server was created Mar  7 2018 at 21:32:56
+2018-03-12 19:59:16	--	reflection.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-12 19:59:16	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-12 19:59:16	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2018-03-12 19:59:16	--	8L3AAADKX :your unique ID
+2018-03-12 19:59:16	--	There are 30 users and 13120 invisible on 20 servers
+2018-03-12 19:59:16	--	17 :IRC Operators online
+2018-03-12 19:59:16	--	30 :unknown connection(s)
+2018-03-12 19:59:16	--	2542 :channels formed
+2018-03-12 19:59:16	--	I have 809 clients and 1 servers
+2018-03-12 19:59:16	--	Current local users: 809  Max: 883
+2018-03-12 19:59:16	--	Current global users: 13150  Max: 13597
+2018-03-12 19:59:16	--	Highest connection count: 884 (883 clients) (4272 connections received)
+2018-03-12 19:59:16	--	- reflection.oftc.net Message of the Day -
+2018-03-12 19:59:16	--	-   O
+2018-03-12 19:59:16	--	-    \   The Open and Free
+2018-03-12 19:59:16	--	-     O
+2018-03-12 19:59:16	--	-    /|  Technology Community
+2018-03-12 19:59:16	--	- O-O O
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	- Welcome to OFTC's IRC network.
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	- The Open and Free Technology Community was founded at the
+2018-03-12 19:59:16	--	- end of 2001 by a group of experienced members of the Open
+2018-03-12 19:59:16	--	- Source and Free Software communities; it is aimed at
+2018-03-12 19:59:16	--	- providing these communities with better communication,
+2018-03-12 19:59:16	--	- development, and support infrastructure. Our goal is to
+2018-03-12 19:59:16	--	- provide stable services to members of the community in any
+2018-03-12 19:59:16	--	- part of the world, while listening closely to their needs
+2018-03-12 19:59:16	--	- and desires.
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	- We are not a general purpose chat platform, but a topical
+2018-03-12 19:59:16	--	- network intent on providing the open source and free
+2018-03-12 19:59:16	--	- software communities a means to cooperate and communicate.
+2018-03-12 19:59:16	--	- As such, illegal and off-topic activity, such as warez
+2018-03-12 19:59:16	--	- trading, may result in being barred from access.
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-12 19:59:16	--	- support@oftc.net with details.
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	- Thanks and enjoy your stay,
+2018-03-12 19:59:16	--	-
+2018-03-12 19:59:16	--	-         The OFTC team
+2018-03-12 19:59:16	--	End of /MOTD command.
+2018-03-12 19:59:16	--	Mode utilisateur [+i] par frdrcv
+2018-03-12 19:59:16	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-12 19:59:16	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-12 19:59:16	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-12 19:59:16	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-13 08:44:55	=!=	irc : lecture de données sur le socket : erreur 104 Connexion ré-initialisée par le correspondant
+2018-03-13 08:44:55	--	irc : déconnexion du serveur...
+2018-03-13 08:44:55	--	irc : déconnecté du serveur
+2018-03-13 08:44:55	--	irc : reconnexion au serveur dans 10 secondes
+2018-03-13 08:45:05	--	irc : reconnexion au serveur...
+2018-03-13 08:45:05	--	irc : connexion au serveur irc.oftc.net/6667...
+2018-03-13 08:45:06	--	irc : connecté à irc.oftc.net/6667 (64.62.190.36)
+2018-03-13 08:45:06	--	charm.oftc.net: *** Looking up your hostname...
+2018-03-13 08:45:06	--	charm.oftc.net: *** Checking Ident
+2018-03-13 08:45:06	--	charm.oftc.net: *** Found your hostname
+2018-03-13 08:45:16	--	charm.oftc.net: *** No Ident response
+2018-03-13 08:45:16	--	Welcome to the OFTC Internet Relay Chat Network frdrcv
+2018-03-13 08:45:16	--	Your host is charm.oftc.net[64.62.190.36/6667], running version hybrid-7.2.2+oftc1.7.3
+2018-03-13 08:45:16	--	This server was created Mar  7 2018 at 21:33:54
+2018-03-13 08:45:16	--	charm.oftc.net hybrid-7.2.2+oftc1.7.3 CDGPRSabcdfgijklnorsuwxyz bciklmnopstvzeIMRS bkloveI
+2018-03-13 08:45:16	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=391 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2018-03-13 08:45:16	--	CHANLIMIT=#:90 CHANNELLEN=50 CHANMODES=eIqb,k,l,cimnpstzMRS ELIST=CMNTU SAFELIST AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+2018-03-13 08:45:16	--	4JHAAAD05 :your unique ID
+2018-03-13 08:45:16	--	There are 28 users and 13441 invisible on 20 servers
+2018-03-13 08:45:16	--	16 :IRC Operators online
+2018-03-13 08:45:16	--	29 :unknown connection(s)
+2018-03-13 08:45:16	--	2548 :channels formed
+2018-03-13 08:45:16	--	I have 877 clients and 1 servers
+2018-03-13 08:45:16	--	Current local users: 877  Max: 944
+2018-03-13 08:45:16	--	Current global users: 13469  Max: 13597
+2018-03-13 08:45:16	--	Highest connection count: 945 (944 clients) (4856 connections received)
+2018-03-13 08:45:16	--	- charm.oftc.net Message of the Day -
+2018-03-13 08:45:16	--	-   O
+2018-03-13 08:45:16	--	-    \   The Open and Free
+2018-03-13 08:45:16	--	-     O
+2018-03-13 08:45:16	--	-    /|  Technology Community
+2018-03-13 08:45:16	--	- O-O O
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	- Welcome to OFTC's IRC network.
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	- The Open and Free Technology Community was founded at the
+2018-03-13 08:45:16	--	- end of 2001 by a group of experienced members of the Open
+2018-03-13 08:45:16	--	- Source and Free Software communities; it is aimed at
+2018-03-13 08:45:16	--	- providing these communities with better communication,
+2018-03-13 08:45:16	--	- development, and support infrastructure. Our goal is to
+2018-03-13 08:45:16	--	- provide stable services to members of the community in any
+2018-03-13 08:45:16	--	- part of the world, while listening closely to their needs
+2018-03-13 08:45:16	--	- and desires.
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	- We are not a general purpose chat platform, but a topical
+2018-03-13 08:45:16	--	- network intent on providing the open source and free
+2018-03-13 08:45:16	--	- software communities a means to cooperate and communicate.
+2018-03-13 08:45:16	--	- As such, illegal and off-topic activity, such as warez
+2018-03-13 08:45:16	--	- trading, may result in being barred from access.
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	- For more information on OFTC, please visit https://www.oftc.net/.
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	- If you require assistance stop by in channel #oftc, or email
+2018-03-13 08:45:16	--	- support@oftc.net with details.
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	- Thanks and enjoy your stay,
+2018-03-13 08:45:16	--	-
+2018-03-13 08:45:16	--	-         The OFTC team
+2018-03-13 08:45:16	--	End of /MOTD command.
+2018-03-13 08:45:16	--	Mode utilisateur [+i] par frdrcv
+2018-03-13 08:45:16	--	NickServ (services@services.oftc.net): This nickname is registered and protected.  If it is your nickname, you may
+2018-03-13 08:45:16	--	NickServ (services@services.oftc.net): authenticate yourself to services with the IDENTIFY command.  You are
+2018-03-13 08:45:16	--	NickServ (services@services.oftc.net): getting this message because you are not on the access list for the
+2018-03-13 08:45:16	--	NickServ (services@services.oftc.net): frdrcv nickname.
+2018-03-13 09:12:37	--	irc : déconnecté du serveur

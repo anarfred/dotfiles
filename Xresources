@@ -38,8 +38,7 @@
 !rofi.color-urgent: #282a2e, #a54242, #282a2e, #a54242, #282a2e
 !rofi.separator-style: solid
 !rofi.font: Terminess Powerline 8, FontAwesome 8
-/* rofi.font: ProfontIIx Nerd Font 8 */
-rofi.font: Knack Nerd Font 9
+rofi.font: DejaVu Sans Mono 9
 
 ! Use extended color scheme
 rofi.color-enabled:                  true
@@ -65,117 +64,52 @@ rofi.monitor: 0
 ! }}}
 !
 ! {{{ Urxvt
-URxvt.font: xft:Terminess Powerline:size=9
-!URxvt.letterSpace: -1
+URxvt.font: xft:DejaVu Sans Mono:size=9
+URxvt.letterSpace: -1
 URxvt.scrollBar: false
-/* ! Base16 Tomorrow Night {{{ */
-/* ! Scheme: Chris Kempson (http://chriskempson.com) */
+URxvt.backend: xrender
+! Base16 Google Dark
+! Scheme: Seth Wright (http://sethawright.com)
 
-/* #define base00 #1d1f21 */
-/* #define base01 #282a2e */
-/* #define base02 #373b41 */
-/* #define base03 #969896 */
-/* #define base04 #b4b7b4 */
-/* #define base05 #c5c8c6 */
-/* #define base06 #e0e0e0 */
-/* #define base07 #ffffff */
-/* #define base08 #cc6666 */
-/* #define base09 #de935f */
-/* #define base0A #f0c674 */
-/* #define base0B #b5bd68 */
-/* #define base0C #8abeb7 */
-/* #define base0D #81a2be */
-/* #define base0E #b294bb */
-/* #define base0F #a3685a */
+#define base00 #1d1f21
+#define base01 #282a2e
+#define base02 #373b41
+#define base03 #969896
+#define base04 #b4b7b4
+#define base05 #c5c8c6
+#define base06 #e0e0e0
+#define base07 #ffffff
+#define base08 #cc342b
+#define base09 #f96a38
+#define base0A #fba922
+#define base0B #198844
+#define base0C #3971ed
+#define base0D #3971ed
+#define base0E #a36ac7
+#define base0F #3971ed
 
-/* *.foreground:   base05 */
-/* #ifdef background_opacity */
-/* *.background:   [background_opacity]base00 */
-/* #else */
-/* *.background:   base00 */
-/* #endif */
-/* *.cursorColor:  base05 */
-
-/* *.color0:       base00 */
-/* *.color1:       base08 */
-/* *.color2:       base0B */
-/* *.color3:       base0A */
-/* *.color4:       base0D */
-/* *.color5:       base0E */
-/* *.color6:       base0C */
-/* *.color7:       base05 */
-
-/* *.color8:       base03 */
-/* *.color9:       base08 */
-/* *.color10:      base0B */
-/* *.color11:      base0A */
-/* *.color12:      base0D */
-/* *.color13:      base0E */
-/* *.color14:      base0C */
-/* *.color15:      base07 */
-
-/* ! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt), */
-/* ! use 'shell' template to set these if necessary */
-/* *.color16:      base09 */
-/* *.color17:      base0F */
-/* *.color18:      base01 */
-/* *.color19:      base02 */
-/* *.color20:      base04 */
-/* *.color21:      base06 */
-/* ! }}} */
-
-! Base16 Gruvbox dark, medium {{{
-! Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-
-#define base00 #282828
-#define base01 #3c3836
-#define base02 #504945
-#define base03 #665c54
-#define base04 #bdae93
-#define base05 #d5c4a1
-#define base06 #ebdbb2
-#define base07 #fbf1c7
-#define base08 #fb4934
-#define base09 #fe8019
-#define base0A #fabd2f
-#define base0B #b8bb26
-#define base0C #8ec07c
-#define base0D #83a598
-#define base0E #d3869b
-#define base0F #d65d0e
-
-*.foreground:   base05
+*foreground:   base05
 #ifdef background_opacity
-*.background:   [background_opacity]base00
+*background:   [background_opacity]base00
 #else
-*.background:   base00
+*background:   base00
 #endif
-*.cursorColor:  base05
+*cursorColor:  base05
 
-*.color0:       base00
-*.color1:       base08
-*.color2:       base0B
-*.color3:       base0A
-*.color4:       base0D
-*.color5:       base0E
-*.color6:       base0C
-*.color7:       base05
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
 
-*.color8:       base03
-*.color9:       base08
-*.color10:      base0B
-*.color11:      base0A
-*.color12:      base0D
-*.color13:      base0E
-*.color14:      base0C
-*.color15:      base07
-
-! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
-! use 'shell' template to set these if necessary
-*.color16:      base09
-*.color17:      base0F
-*.color18:      base01
-*.color19:      base02
-*.color20:      base04
-*.color21:      base06
-! }}}
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07

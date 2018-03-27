@@ -1,14 +1,8 @@
-find .sa
-rename Frédéric_Vachon_cv.odt
-rename Frédéric_Vachon_lettre.docx
-rename Frédéric_Vachon_CV.pdf
-rename Fédéric_Vachon_CV.pdf
 rename Moody2017.pdf
 find M
 rename Hartal2017.pdf
 rename 
 rename Cockayne2017.pdf
-filter pdf
 open_with okular
 open_with okular &
 open_with mupdf
@@ -48,3 +42,9 @@ find Dow
 
 shell mkdir justice
 shell mkdir grimes
+find debia
+find us
+find sh
+find doc
+find ad
+filter pdf

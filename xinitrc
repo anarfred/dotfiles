@@ -24,7 +24,7 @@ setxkbmap ca fr -option compose:caps
 #export KDE_SESSION_VERSION="5"
 #guake &
 xrdb ~/.Xresources
-wal -t -R
+#wal -t -R
 #exec gnome-session
 #exec herbstluftwm --locked
 exec i3
@@ -35,6 +35,7 @@ exec i3
 #exec startlxqt
 # ...or the Window Manager of your choice
 
+#exec betterlockscreen -w
 #gsettings-data-convert &
 #xdg-user-dirs-gtk-update &
 #/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
